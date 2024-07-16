@@ -1,0 +1,1551 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <meta name="keywords" content="Genius,Ocean,Sea,Etc,Genius,Ocean,SeaGenius,Ocean,Sea,Etc,Genius,Ocean,SeaGenius,Ocean,Sea,Etc,Genius,Ocean,Sea">
+        <meta name="author" content="GeniusOcean">
+        <title>Genius Bank - All in One Banking System</title>
+
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/animate.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/all.min.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/lightbox.min.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/odometer.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/owl.min.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/main.css">
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/toastr.min.css">
+
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/styles.php?color=0ba026">
+
+            <link href="https://fonts.googleapis.com/css?family=Manrope&amp;display=swap" rel="stylesheet">
+    
+            <link rel="stylesheet" id="colorr" href="https://banking.altavistatechnologies.com/assets/front/css/font.php?font_familly=Manrope">
+    
+    <link rel="stylesheet" href="https://banking.altavistatechnologies.com/assets/front/css/custom.css">
+    <link rel="shortcut icon" href="https://banking.altavistatechnologies.com/assets/images/16393007481563335660service-icon-1.png">
+    
+<style type="text/css" id="notify-bootstrap">.notifyjs-bootstrap-base {
+	font-weight: bold;
+	padding: 8px 15px 8px 14px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	background-color: #fcf8e3;
+	border: 1px solid #fbeed5;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	white-space: nowrap;
+	padding-left: 25px;
+	background-repeat: no-repeat;
+	background-position: 3px 7px;
+}
+.notifyjs-bootstrap-error {
+	color: #B94A48;
+	background-color: #F2DEDE;
+	border-color: #EED3D7;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAtRJREFUeNqkVc1u00AQHq+dOD+0poIQfkIjalW0SEGqRMuRnHos3DjwAH0ArlyQeANOOSMeAA5VjyBxKBQhgSpVUKKQNGloFdw4cWw2jtfMOna6JOUArDTazXi/b3dm55socPqQhFka++aHBsI8GsopRJERNFlY88FCEk9Yiwf8RhgRyaHFQpPHCDmZG5oX2ui2yilkcTT1AcDsbYC1NMAyOi7zTX2Agx7A9luAl88BauiiQ/cJaZQfIpAlngDcvZZMrl8vFPK5+XktrWlx3/ehZ5r9+t6e+WVnp1pxnNIjgBe4/6dAysQc8dsmHwPcW9C0h3fW1hans1ltwJhy0GxK7XZbUlMp5Ww2eyan6+ft/f2FAqXGK4CvQk5HueFz7D6GOZtIrK+srupdx1GRBBqNBtzc2AiMr7nPplRdKhb1q6q6zjFhrklEFOUutoQ50xcX86ZlqaZpQrfbBdu2R6/G19zX6XSgh6RX5ubyHCM8nqSID6ICrGiZjGYYxojEsiw4PDwMSL5VKsC8Yf4VRYFzMzMaxwjlJSlCyAQ9l0CW44PBADzXhe7xMdi9HtTrdYjFYkDQL0cn4Xdq2/EAE+InCnvADTf2eah4Sx9vExQjkqXT6aAERICMewd/UAp/IeYANM2joxt+q5VI+ieq2i0Wg3l6DNzHwTERPgo1ko7XBXj3vdlsT2F+UuhIhYkp7u7CarkcrFOCtR3H5JiwbAIeImjT/YQKKBtGjRFCU5IUgFRe7fF4cCNVIPMYo3VKqxwjyNAXNepuopyqnld602qVsfRpEkkz+GFL1wPj6ySXBpJtWVa5xlhpcyhBNwpZHmtX8AGgfIExo0ZpzkWVTBGiXCSEaHh62/PoR0p/vHaczxXGnj4bSo+G78lELU80h1uogBwWLf5YlsPmgDEd4M236xjm+8nm4IuE/9u+/PH2JXZfbwz4zw1WbO+SQPpXfwG/BBgAhCNZiSb/pOQAAAAASUVORK5CYII=);
+}
+.notifyjs-bootstrap-success {
+	color: #468847;
+	background-color: #DFF0D8;
+	border-color: #D6E9C6;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAutJREFUeNq0lctPE0Ecx38zu/RFS1EryqtgJFA08YCiMZIAQQ4eRG8eDGdPJiYeTIwHTfwPiAcvXIwXLwoXPaDxkWgQ6islKlJLSQWLUraPLTv7Gme32zoF9KSTfLO7v53vZ3d/M7/fIth+IO6INt2jjoA7bjHCJoAlzCRw59YwHYjBnfMPqAKWQYKjGkfCJqAF0xwZjipQtA3MxeSG87VhOOYegVrUCy7UZM9S6TLIdAamySTclZdYhFhRHloGYg7mgZv1Zzztvgud7V1tbQ2twYA34LJmF4p5dXF1KTufnE+SxeJtuCZNsLDCQU0+RyKTF27Unw101l8e6hns3u0PBalORVVVkcaEKBJDgV3+cGM4tKKmI+ohlIGnygKX00rSBfszz/n2uXv81wd6+rt1orsZCHRdr1Imk2F2Kob3hutSxW8thsd8AXNaln9D7CTfA6O+0UgkMuwVvEFFUbbAcrkcTA8+AtOk8E6KiQiDmMFSDqZItAzEVQviRkdDdaFgPp8HSZKAEAL5Qh7Sq2lIJBJwv2scUqkUnKoZgNhcDKhKg5aH+1IkcouCAdFGAQsuWZYhOjwFHQ96oagWgRoUov1T9kRBEODAwxM2QtEUl+Wp+Ln9VRo6BcMw4ErHRYjH4/B26AlQoQQTRdHWwcd9AH57+UAXddvDD37DmrBBV34WfqiXPl61g+vr6xA9zsGeM9gOdsNXkgpEtTwVvwOklXLKm6+/p5ezwk4B+j6droBs2CsGa/gNs6RIxazl4Tc25mpTgw/apPR1LYlNRFAzgsOxkyXYLIM1V8NMwyAkJSctD1eGVKiq5wWjSPdjmeTkiKvVW4f2YPHWl3GAVq6ymcyCTgovM3FzyRiDe2TaKcEKsLpJvNHjZgPNqEtyi6mZIm4SRFyLMUsONSSdkPeFtY1n0mczoY3BHTLhwPRy9/lzcziCw9ACI+yql0VLzcGAZbYSM5CCSZg1/9oc/nn7+i8N9p/8An4JMADxhH+xHfuiKwAAAABJRU5ErkJggg==);
+}
+.notifyjs-bootstrap-info {
+	color: #3A87AD;
+	background-color: #D9EDF7;
+	border-color: #BCE8F1;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QYFAhkSsdes/QAAA8dJREFUOMvVlGtMW2UYx//POaWHXg6lLaW0ypAtw1UCgbniNOLcVOLmAjHZolOYlxmTGXVZdAnRfXQm+7SoU4mXaOaiZsEpC9FkiQs6Z6bdCnNYruM6KNBw6YWewzl9z+sHImEWv+vz7XmT95f/+3/+7wP814v+efDOV3/SoX3lHAA+6ODeUFfMfjOWMADgdk+eEKz0pF7aQdMAcOKLLjrcVMVX3xdWN29/GhYP7SvnP0cWfS8caSkfHZsPE9Fgnt02JNutQ0QYHB2dDz9/pKX8QjjuO9xUxd/66HdxTeCHZ3rojQObGQBcuNjfplkD3b19Y/6MrimSaKgSMmpGU5WevmE/swa6Oy73tQHA0Rdr2Mmv/6A1n9w9suQ7097Z9lM4FlTgTDrzZTu4StXVfpiI48rVcUDM5cmEksrFnHxfpTtU/3BFQzCQF/2bYVoNbH7zmItbSoMj40JSzmMyX5qDvriA7QdrIIpA+3cdsMpu0nXI8cV0MtKXCPZev+gCEM1S2NHPvWfP/hL+7FSr3+0p5RBEyhEN5JCKYr8XnASMT0xBNyzQGQeI8fjsGD39RMPk7se2bd5ZtTyoFYXftF6y37gx7NeUtJJOTFlAHDZLDuILU3j3+H5oOrD3yWbIztugaAzgnBKJuBLpGfQrS8wO4FZgV+c1IxaLgWVU0tMLEETCos4xMzEIv9cJXQcyagIwigDGwJgOAtHAwAhisQUjy0ORGERiELgG4iakkzo4MYAxcM5hAMi1WWG1yYCJIcMUaBkVRLdGeSU2995TLWzcUAzONJ7J6FBVBYIggMzmFbvdBV44Corg8vjhzC+EJEl8U1kJtgYrhCzgc/vvTwXKSib1paRFVRVORDAJAsw5FuTaJEhWM2SHB3mOAlhkNxwuLzeJsGwqWzf5TFNdKgtY5qHp6ZFf67Y/sAVadCaVY5YACDDb3Oi4NIjLnWMw2QthCBIsVhsUTU9tvXsjeq9+X1d75/KEs4LNOfcdf/+HthMnvwxOD0wmHaXr7ZItn2wuH2SnBzbZAbPJwpPx+VQuzcm7dgRCB57a1uBzUDRL4bfnI0RE0eaXd9W89mpjqHZnUI5Hh2l2dkZZUhOqpi2qSmpOmZ64Tuu9qlz/SEXo6MEHa3wOip46F1n7633eekV8ds8Wxjn37Wl63VVa+ej5oeEZ/82ZBETJjpJ1Rbij2D3Z/1trXUvLsblCK0XfOx0SX2kMsn9dX+d+7Kf6h8o4AIykuffjT8L20LU+w4AZd5VvEPY+XpWqLV327HR7DzXuDnD8r+ovkBehJ8i+y8YAAAAASUVORK5CYII=);
+}
+.notifyjs-bootstrap-warn {
+	color: #C09853;
+	background-color: #FCF8E3;
+	border-color: #FBEED5;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABJlBMVEXr6eb/2oD/wi7/xjr/0mP/ykf/tQD/vBj/3o7/uQ//vyL/twebhgD/4pzX1K3z8e349vK6tHCilCWbiQymn0jGworr6dXQza3HxcKkn1vWvV/5uRfk4dXZ1bD18+/52YebiAmyr5S9mhCzrWq5t6ufjRH54aLs0oS+qD751XqPhAybhwXsujG3sm+Zk0PTwG6Shg+PhhObhwOPgQL4zV2nlyrf27uLfgCPhRHu7OmLgAafkyiWkD3l49ibiAfTs0C+lgCniwD4sgDJxqOilzDWowWFfAH08uebig6qpFHBvH/aw26FfQTQzsvy8OyEfz20r3jAvaKbhgG9q0nc2LbZxXanoUu/u5WSggCtp1anpJKdmFz/zlX/1nGJiYmuq5Dx7+sAAADoPUZSAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfdBgUBGhh4aah5AAAAlklEQVQY02NgoBIIE8EUcwn1FkIXM1Tj5dDUQhPU502Mi7XXQxGz5uVIjGOJUUUW81HnYEyMi2HVcUOICQZzMMYmxrEyMylJwgUt5BljWRLjmJm4pI1hYp5SQLGYxDgmLnZOVxuooClIDKgXKMbN5ggV1ACLJcaBxNgcoiGCBiZwdWxOETBDrTyEFey0jYJ4eHjMGWgEAIpRFRCUt08qAAAAAElFTkSuQmCC);
+}
+</style><style type="text/css" id="core-notify">.notifyjs-corner {
+	position: fixed;
+	margin: 5px;
+	z-index: 1050;
+}
+
+.notifyjs-corner .notifyjs-wrapper,
+.notifyjs-corner .notifyjs-container {
+	position: relative;
+	display: block;
+	height: inherit;
+	width: inherit;
+	margin: 3px;
+}
+
+.notifyjs-wrapper {
+	z-index: 1;
+	position: absolute;
+	display: inline-block;
+	height: 0;
+	width: 0;
+}
+
+.notifyjs-container {
+	display: none;
+	z-index: 1;
+	position: absolute;
+}
+
+.notifyjs-hidable {
+	cursor: pointer;
+}
+
+[data-notify-text],[data-notify-html] {
+	position: relative;
+}
+
+.notifyjs-arrow {
+	position: absolute;
+	z-index: 2;
+	width: 0;
+	height: 0;
+}</style></head><body>
+    <!-- Overlayer -->
+    <span class="toTopBtn">
+        <i class="fas fa-angle-up"></i>
+    </span>
+    <div class="overlayer"></div>
+    <div class="loader" style="display: none;">
+        <h2>
+            <span class="let1">l</span>
+            <span class="let2">o</span>
+            <span class="let3">a</span>
+            <span class="let4">d</span>
+            <span class="let5">i</span>
+            <span class="let6">n</span>
+            <span class="let7">g</span>
+        </h2>
+    </div>
+    <!-- Overlayer -->
+
+    <!-- Header -->
+    <header class="position-relative">
+        <div class="navbar-top bg--title">
+            <div class="container">
+                <div class="d-flex flex-wrap justify-content-evenly justify-content-md-between">
+    <div class="d-flex flex-wrap align-items-center">
+        <ul class="social-icons py-1 py-md-0">
+                            <li>
+                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                </li>
+            
+                            <li>
+                    <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                </li>
+            
+                            <li>
+                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                </li>
+                    </ul>
+        <div class="change-language me-md-auto">
+            <select name="currency" class="currency selectors nice language-bar">
+                                    <option value="https://banking.altavistatechnologies.com/currency/1">
+                        USD
+                    </option>
+                                    <option value="https://banking.altavistatechnologies.com/currency/4">
+                        BDT
+                    </option>
+                                    <option value="https://banking.altavistatechnologies.com/currency/6">
+                        EUR
+                    </option>
+                                    <option value="https://banking.altavistatechnologies.com/currency/8">
+                        NGN
+                    </option>
+                                    <option value="https://banking.altavistatechnologies.com/currency/9" selected="">
+                        INR
+                    </option>
+                            </select>
+        </div>
+    </div>
+    <ul class="contact-bar py-1 py-md-0">
+        <li>
+            <a href="Tel:+12 3456 7890 1234">+12 3456 7890 1234</a>
+        </li>
+        <li>
+            <a href="Mailto:admin@geniusocean.com">admin@geniusocean.com</a>
+        </li>
+        <li>
+            <div class="change-language d-none d-sm-block">
+                <select name="language" class="language selectors nice language-bar">
+                                            <option value="https://banking.altavistatechnologies.com/language/1" selected="">
+                            EN
+                        </option>
+                                    </select>
+            </div>
+        </li>
+    </ul>
+</div>            </div>
+        </div>
+        <div class="navbar-bottom">
+            <div class="container">
+                <div class="navbar-wrapper">
+    <div class="logo">
+        <a href="https://banking.altavistatechnologies.com">
+            <img src="https://banking.altavistatechnologies.com/assets/images/Stww4kQy1645001015.png" alt="logo">
+        </a>
+    </div>
+    <div class="change-language d-sm-none ms-auto me-3 text--title">
+        <select name="language" class="language selectors nice language-bar">
+                            <option value="https://banking.altavistatechnologies.com/language/1" selected="">
+                    EN
+                </option>
+                    </select>
+    </div>
+    <div class="nav-toggle d-lg-none">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="nav-menu-area">
+        <div class="menu-close text--danger d-lg-none">
+            <i class="fas fa-times"></i>
+        </div>
+        <ul class="nav-menu">
+                            <li><a href="https://banking.altavistatechnologies.com" target="_self">Home</a></li>
+                            <li><a href="https://banking.altavistatechnologies.com/services" target="_self">Services</a></li>
+                            <li><a href="https://banking.altavistatechnologies.com/blogs" target="_self">Blog</a></li>
+                            <li><a href="https://banking.altavistatechnologies.com/about" target="_self">About</a></li>
+            
+                            <li>
+                    <a href="https://banking.altavistatechnologies.com/contact">Contact</a>
+                </li>
+                        
+            <li>
+                <div class="btn__grp ms-lg-3">
+                                            <a href="https://banking.altavistatechnologies.com/user/login" class="cmn--btn">Login Now</a>
+                                    </div>
+            </li>
+        </ul>
+    </div>
+</div>            </div>
+        </div>
+    </header>
+    <!-- Header -->
+
+    
+            <!-- Banner -->
+        <section class="banner-section bg--overlay bg_img" data-img="https://banking.altavistatechnologies.com/assets/images/qN2bqitJ1645077354.jpg" style="background-image: url(&quot;https://banking.altavistatechnologies.com/assets/images/qN2bqitJ1645077354.jpg&quot;);">
+            <div class="container">
+                <div class="banner-wrapper">
+                    <div class="banner-content">
+                        <h1 class="banner-title">Simple And Safe Digital Banking Mobile App</h1>
+                        <p>
+                            Genius Bank works around your schedule, offering innovative products that is better, faster and affordable
+                        </p>
+                        <div class="btn__grp">
+                            <a href="http://localhost/geniusbank/" class="cmn--btn">
+                                Get Started                            </a>
+                            <a href="https://www.youtube.com/watch?v=lG-J1QC8cKY&amp;ab_channel=EsoGolpoKoriPrime" class="video--btn" data-lightbox="">
+                                <i class="fas fa-play"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Banner -->
+    
+            <!-- Feature -->
+        <section class="feature-section pt-100 pb-50 pt-0">
+            <div class="container">
+                <div class="mt--120">
+                    <div class="row justify-content-center g-3 g-md-4 g-lg-3 g-xl-4">
+                                                    <div class="col-lg-3 col-sm-6">
+                                <div class="feature-item">
+                                    <div class="feature-item__icon">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/1647235824mobile-app.png" alt="download bitcoin">
+                                    </div>
+                                    <div class="feature-item__cont">
+                                        <h5 class="feature-item__cont-title">Personal Banking</h5>
+                                        <p>
+                                            Customer can enjoy the convenience of banking service.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-lg-3 col-sm-6">
+                                <div class="feature-item">
+                                    <div class="feature-item__icon">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/1639476579download-bitcoin.png" alt="download bitcoin">
+                                    </div>
+                                    <div class="feature-item__cont">
+                                        <h5 class="feature-item__cont-title">Corporate Banking</h5>
+                                        <p>
+                                            Get it on PC or Mobile to create, send and receive bitcoins.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-lg-3 col-sm-6">
+                                <div class="feature-item">
+                                    <div class="feature-item__icon">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/1639476522buy-sell-bitcoins.png" alt="download bitcoin">
+                                    </div>
+                                    <div class="feature-item__cont">
+                                        <h5 class="feature-item__cont-title">SME Banking</h5>
+                                        <p>
+                                            For availing SME loan it is required to mortgage collateral/security.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-lg-3 col-sm-6">
+                                <div class="feature-item">
+                                    <div class="feature-item__icon">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/1639476553add-bitcoins.png" alt="download bitcoin">
+                                    </div>
+                                    <div class="feature-item__cont">
+                                        <h5 class="feature-item__cont-title">Personal  Loans</h5>
+                                        <p>
+                                            Genius Bank offers a wide range of loans  to suit your needs.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+        <!-- Feature -->
+    
+            <!-- About -->
+        <section class="about-section pt-50 pb-50">
+            <div class="container">
+                <div class="row gy-5">
+                    <div class="col-lg-6">
+                        <div class="about-thumb h-100">
+                            <div class="thumb">
+                                <img src="https://banking.altavistatechnologies.com/assets/images/N7TNLIK31645005637.jpg" alt="about">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content">
+                            <div class="section-title">
+                                <h6 class="subtitle text--base">Who We are</h6>
+                                <h2 class="title">WE ARE Genius Bank</h2>
+                                <p>
+                                    A place for everyone who wants to simply banking system. Deposit funds using payment gateway or bank transfer. A Bank at fair price is guaranteed. Nothing extra. Join over 700,000 users from all over the world satisfied with our services. A place for everyone who wants to simply loans and Dps. Even with a history of hefty technological investments and an even larger donations, consumer and investor confidence has never waned.                                </p>
+                            </div>
+                            <ul class="about-list">
+                                                                                                            <li>
+                                            <span>
+                                                Get up to $15,000 Cash Fast
+                                            </span>
+                                        </li>
+                                                                            <li>
+                                            <span>
+                                                15 Minute Online Application
+                                            </span>
+                                        </li>
+                                                                            <li>
+                                            <span>
+                                                Coverage around the world
+                                            </span>
+                                        </li>
+                                                                            <li>
+                                            <span>
+                                                Business without borders
+                                            </span>
+                                        </li>
+                                                                            <li>
+                                            <span>
+                                                Affiliates and partnerships
+                                            </span>
+                                        </li>
+                                                                            <li>
+                                            <span>
+                                                Bad Credit Considered2
+                                            </span>
+                                        </li>
+                                                                    
+                            </ul>
+                            <div class="btn__grp mt-4 pt-3">
+                                <a href="https://www.google.com/" class="cmn--btn btn-outline">Get Started</a>
+                                <a href="https://banking.altavistatechnologies.com/about" class="cmn--btn">More About Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About -->
+    
+            <!-- Service -->
+        <section class="service-section pt-50 pb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h6 class="subtitle text--base">Smart Banking                    </h6>
+                    <h2 class="title">The Better Way to Save &amp; Invest</h2>
+                    <p>
+                        The client perspective depends on Business first growth.                    </p>
+                </div>
+                <div class="row g-4 g-xxl-4 g-xl-3 justify-content-center">
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476998strong-security.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        STRONG SECURITY
+                                    </h5>
+                                    <p>
+                                        Protection against DDoS attacks,<br>
+full data encryption                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476969world-coverage.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        WORLD COVERAGE
+                                    </h5>
+                                    <p>
+                                        Providing services in 99% countries<br>
+around all the globe                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476937payment-options.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        PAYMENT OPTIONS
+                                    </h5>
+                                    <p>
+                                        Popular methods: Visa, MasterCard,<br>
+bank transfer, cryptocurrency                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476911mobile-app.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        MOBILE APP
+                                    </h5>
+                                    <p>
+                                        Trading via our Mobile App, Available<br>
+in Play Store &amp; App Store                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476885cost-efficiency.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        COST EFFICIENCY
+                                    </h5>
+                                    <p>
+                                        Reasonable trading fees for takers<br>
+and all market makers                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-md-6 col-xl-4">
+                            <div class="service-item">
+                                <div class="service-item__icon">
+                                    <img src="https://banking.altavistatechnologies.com/assets/images/1639476836high-liquidity.png" alt="strong">
+                                </div>
+                                <div class="service-item__cont">
+                                    <h5 class="service-item__cont-title">
+                                        HIGH LIQUIDITY
+                                    </h5>
+                                    <p>
+                                        Fast access to high liquidity orderbook<br>
+for top currency pairs                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        <!-- Service -->
+    
+            <!-- How It Works -->
+        <section class="how-it-works overflow-hidden bg--section pt-100 pb-50">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h6 class="subtitle text--base">Strategy</h6>
+                    <h2 class="title">How it Works</h2>
+                    The strategy where user can use the banking system. The strategy is simple easier to use. This is the fewer step to follow to create a bank account.                </div>
+                <div class="row flex-wrap-reverse">
+                    <div class="col-lg-6">
+                        <div class="how-it-wrapper">
+                            <div class="how-it-header bg--title">
+                                <h3 class="title text--white m-0">Create Account</h3>
+                                <p>Veniam laudantium cumque quasi, fuga magni esse.</p>
+                            </div>
+                            <div class="how-it-body">
+                                <ul class="how-it-area">
+                                                                            <li class="open active">
+                                            <h6 class="subtitle">1. Register in Minutes</h6>
+                                            <div class="text">
+                                                You can register this system within a few minutes. Go to Register page for registration.
+                                            </div>
+                                        </li>
+                                                                            <li class="">
+                                            <h6 class="subtitle">2. Tell Us About Your Business</h6>
+                                            <div class="text">
+                                                It is a secure way to authenticate whether the customer who is making an online purchase is the rightful owner of the debit card being used.
+                                            </div>
+                                        </li>
+                                                                            <li class="">
+                                            <h6 class="subtitle">3. Set Up A Transfer</h6>
+                                            <div class="text">
+                                                It is a secure way to authenticate whether the customer who is making an online purchase is the rightful owner of the debit card being used.
+                                            </div>
+                                        </li>
+                                                                            <li class="">
+                                            <h6 class="subtitle">4. Pay For Your Transfer</h6>
+                                            <div class="text">
+                                                It is a secure way to authenticate whether the customer who is making an online purchase is the rightful owner of the debit card being used.
+                                            </div>
+                                        </li>
+                                                                            <li class="">
+                                            <h6 class="subtitle">5. All Done</h6>
+                                            <div class="text">
+                                                It is a secure way to authenticate whether the customer who is making an online purchase is the rightful owner of the debit card being used.
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="how-it-img text-lg-end">
+                            <img src="https://banking.altavistatechnologies.com/assets/images/cjER6eH01645442056.png" alt="about">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- How It Works -->
+    
+            <!-- Plan -->
+        <section class="plan-section bg--section pt-50 pb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h6 class="subtitle text--base">Pricing Plan</h6>
+                    <h2 class="title">Simple Transparent Pricing</h2>
+                    <p>
+                        The best price we only can ask for you.                    </p>
+                    <div class="pricing-checkbox">
+                        <ul class="nav nav-tabs nav--tabs">
+                            <li>
+                                <a href="#deposit" class="active" data-bs-toggle="tab" data-bs-="#deposit">Deposit</a>
+                            </li>
+                            <li>
+                                <a href="#pension" data-bs-toggle="tab" data-bs-="#pension">Pension</a>
+                            </li>
+                            <li>
+                                <a href="#loan" data-bs-toggle="tab" data-bs-="#loan">Loan</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="deposit">
+                        <div class="row g-4 justify-content-center pricing--wrapper">
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Basic</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">20 %</h5>
+                                                <span>Interest Rate</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Per Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        5920₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Deposit                                                    </div>
+
+                                                    <div class="info">
+                                                        118400₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        After Matured                                                    </div>
+
+                                                    <div class="info">
+                                                        142080₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Installment Interval                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        20
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <a href="https://banking.altavistatechnologies.com/user/dps-plan/4" class="cmn--btn bg--base w-100 text--white">Apply</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Standard</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">9 %</h5>
+                                                <span>Interest Rate</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Per Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        666000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Deposit                                                    </div>
+
+                                                    <div class="info">
+                                                        13320000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        After Matured                                                    </div>
+
+                                                    <div class="info">
+                                                        14518800₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Installment Interval                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        20
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <a href="https://banking.altavistatechnologies.com/user/dps-plan/3" class="cmn--btn bg--base w-100 text--white">Apply</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                    <div class="tab-pane fade show" id="pension">
+                        <div class="row g-4 justify-content-center pricing--wrapper">
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Standard</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">4 %</h5>
+                                                <span>Interest Rate</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Minimum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                    3700₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Maximum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                        7400₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Interval Type                                                    </div>
+
+                                                    <div class="info">
+                                                        partial
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Locked In Period                                                    </div>
+
+                                                    <div class="info">
+                                                        365 Days
+                                                    </div>
+                                                </li>
+
+                                                                                                <li>
+                                                    <div class="name">
+                                                        Get Profit every                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+                                                                                            </ul>
+                                            <button class="cmn--btn w-100 apply-pension" type="button" data-bs-toggle="modal" data-bs-target="#modal-pension" data-id="3" data-title="Standard">
+                                                Apply Now                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Basic</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">3 %</h5>
+                                                <span>Interest Rate</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Minimum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                    1480₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Maximum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                        14800₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Interval Type                                                    </div>
+
+                                                    <div class="info">
+                                                        fixed
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Locked In Period                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                                                            </ul>
+                                            <button class="cmn--btn w-100 apply-pension" type="button" data-bs-toggle="modal" data-bs-target="#modal-pension" data-id="2" data-title="Basic">
+                                                Apply Now                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                    <div class="tab-pane fade show" id="loan">
+                        <div class="row g-4 justify-content-center pricing--wrapper">
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">House Loan</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">10 %</h5>
+                                                <span>Per Installment</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Minimum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                    222000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Maximum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                        7400000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Installment Interval                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        15
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <button class="cmn--btn w-100 apply-loan" type="button" data-bs-toggle="modal" data-bs-target="#modal-apply" data-id="6" data-title="House Loan">
+                                                Apply Now                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Education Loan</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">2 %</h5>
+                                                <span>Per Installment</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Minimum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                    370000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Maximum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                        3700000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Installment Interval                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        55
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <button class="cmn--btn w-100 apply-loan" type="button" data-bs-toggle="modal" data-bs-target="#modal-apply" data-id="5" data-title="Education Loan">
+                                                Apply Now                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="col-lg-4 col-sm-10 col-md-6">
+                                    <div class="plan__item">
+                                        <div class="plan__item-header">
+                                            <div class="left">
+                                                <h5 class="title">Agriculture Loan</h5>
+                                            </div>
+                                            <div class="right">
+                                                <h5 class="title">2 %</h5>
+                                                <span>Per Installment</span>
+                                            </div>
+                                        </div>
+                                        <div class="plan__item-body">
+                                            <ul>
+                                                <li>
+                                                    <div class="name">
+                                                        Minimum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                    370000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Maximum Amount                                                    </div>
+
+                                                    <div class="info">
+                                                        3700000₹
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Installment Interval                                                    </div>
+
+                                                    <div class="info">
+                                                        30 Days
+                                                    </div>
+                                                </li>
+
+                                                <li>
+                                                    <div class="name">
+                                                        Total Installment                                                    </div>
+
+                                                    <div class="info">
+                                                        60
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <button class="cmn--btn w-100 apply-loan" type="button" data-bs-toggle="modal" data-bs-target="#modal-apply" data-id="4" data-title="Agriculture Loan">
+                                                Apply Now                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Plan -->
+    
+            <!-- Apps -->
+        <section class="apps-section pt-100 pb-50">
+            <div class="container">
+                <div class="row align-items-center justify-content-between flex-wrap-reverse gy-5">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="app-img">
+                            <img src="https://banking.altavistatechnologies.com/assets/images/gFNRbRDL1645425298.png" alt="app">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="section-title">
+                            <h6 class="subtitle text--base">Apps</h6>
+                            <h2 class="title">Your banking experience anytime, anywhere</h2>
+
+                            Deserunt hic consequatur ex placeat! atque repellendus inventore quisquam, perferendis, eum reiciendis quia nesciunt fuga. Natus illum doloremque sed perferendis blanditiis maiores, voluptas ad quas beatae facilis totam officiis ratione, ab cumque libero. Ducimus molestias iusto facilis!
+
+Natus illum doloremque sed perferendis blanditiis maiores, voluptas ad quas beatae facilis totam officiis ratione, ab cumque libero. Ducimus molestias iusto facilis!
+                        </div>
+                        <div class="app__btns">
+                            <a href="https://www.google.com/">
+                                <img src="https://banking.altavistatechnologies.com/assets/images/9HX3cjLu1645425298.png" alt="about">
+                            </a>
+                            <a href="">
+                                <img src="https://banking.altavistatechnologies.com/assets/images/zbT8VZef1645425298.png" alt="about">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Apps -->
+    
+            <!-- Clients -->
+        <section class="clients-section pt-50 pb-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="section-title">
+                            <h6 class="subtitle text--base">Testimonials</h6>
+                            <h2 class="title">What customers say about us</h2>
+                            <p>
+                                The client perspective depends on Business first growth. How big business can be. We provide best service all area.                            </p>
+                            <div class="owl-trigger">
+                                <div class="owl-prev"><i class="fas fa-angle-left"></i></div>
+                                <div class="owl-next active"><i class="fas fa-angle-right"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="clients-slider bg--title client-slider-bg owl-theme owl-carousel owl-loaded owl-drag">
+                                                            
+                                                            
+                                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1712px, 0px, 0px); transition: all 0s ease 0s; width: 5136px;"><div class="owl-item cloned" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jazmin Sultana</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/AjOD94Yk1645070744.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jhon Smith</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/PME52yRz1645070778.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item active" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jazmin Sultana</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/AjOD94Yk1645070744.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jhon Smith</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/PME52yRz1645070778.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jazmin Sultana</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/AjOD94Yk1645070744.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 856px;"><div class="clients-item h-100">
+                                    <div class="clients-content">
+                                        <blockquote>
+                                            The is just awesome,  best quality service ever I had. You can trust them and deposit your funds. Their Loan plans are really helpful. Easy to use their online banking system.                                        </blockquote>
+                                        <h4 class="name text--base">Jhon Smith</h4>
+                                    </div>
+                                    <div class="clients-thumb">
+                                        <div class="thumb">
+                                            <img src="https://banking.altavistatechnologies.com/assets/images/PME52yRz1645070778.png" alt="clients">
+                                        </div>
+                                    </div>
+                                </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fas fa-angle-left"></i></div><div class="owl-next"><i class="fas fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div><div class="owl-thumbs"></div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Clients -->
+    
+            <!-- Counter -->
+        <section class="counter-section pb-100 pt-50">
+            <div class="container">
+                <div class="row g-4">
+                                            <div class="col-sm-6 col-lg-3">
+                            <div class="counter-item">
+                                <div class="counter-icon">
+                                    <i class="fas fa-users"></i>
+                                </div>
+                                <div class="counter-content">
+                                    <h3 class="counter-title">
+                                                                                <span class="count odometer odometer-auto-theme" data-odometer-final="890"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></span>
+                                        <span class="count">M</span>
+                                    </h3>
+                                    <h6 class="counter-subtitle">Happy Clients</h6>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-sm-6 col-lg-3">
+                            <div class="counter-item">
+                                <div class="counter-icon">
+                                    <i class="fas fa-exchange-alt"></i>
+                                </div>
+                                <div class="counter-content">
+                                    <h3 class="counter-title">
+                                                                                <span class="count odometer odometer-auto-theme" data-odometer-final="96"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></span>
+                                        <span class="count">M</span>
+                                    </h3>
+                                    <h6 class="counter-subtitle">Total Transactions</h6>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-sm-6 col-lg-3">
+                            <div class="counter-item">
+                                <div class="counter-icon">
+                                    <i class="fas fa-money-check-alt"></i>
+                                </div>
+                                <div class="counter-content">
+                                    <h3 class="counter-title">
+                                                                                    <span class="count">$</span>
+                                                                                <span class="count odometer odometer-auto-theme" data-odometer-final="456"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></span>
+                                        <span class="count">M</span>
+                                    </h3>
+                                    <h6 class="counter-subtitle">Total Withdraw</h6>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-sm-6 col-lg-3">
+                            <div class="counter-item">
+                                <div class="counter-icon">
+                                    <i class="fas fa-dollar-sign"></i>
+                                </div>
+                                <div class="counter-content">
+                                    <h3 class="counter-title">
+                                                                                    <span class="count">$</span>
+                                                                                <span class="count odometer odometer-auto-theme" data-odometer-final="890"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></span>
+                                        <span class="count">M</span>
+                                    </h3>
+                                    <h6 class="counter-subtitle">Total Deposit</h6>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        <!-- Counter -->
+    
+            <!-- CTAs -->
+        <section class="ctas-section bg--overlay bg_img bg_fixed" data-img="https://banking.altavistatechnologies.com/assets/images/uhzm3tT31645088780.jpg" style="background-image: url(&quot;https://banking.altavistatechnologies.com/assets/images/uhzm3tT31645088780.jpg&quot;);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="cta-img">
+                    <img src="https://banking.altavistatechnologies.com/assets/images/4TsFX1TA1645088780.png" alt="about">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="ctas-content">
+                    <div class="section-title text-white">
+                        <h6 class="subtitle text--base">Quick Start</h6>
+                        <h3 class="title">Need a Personalized Solution?</h3>
+                        <p>
+                            Explicabo repellat minus eaque velit unde nulla nobis veritatis labore dolore, necessitatibus harum laborum at, aut reprehenderit!
+                        </p>
+                    </div>
+                    <div>
+                        <a href="http://localhost/geniusbank/" class="cmn--btn">Get Started Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>        <!-- CTAs -->
+    
+            <!-- Blogs -->
+        <section class="blogs-section pt-100 pb-50">1
+            <div class="container">
+                <div class="section-title text-center">
+                    <h6 class="subtitle text--base">News &amp; Tips</h6>
+                    <h2 class="title">Latest News &amp; Tips</h2>
+                    <p>
+                        Banking commodi explicabo aperiam unde maxime debitis.                    </p>
+                </div>
+                <div class="row justify-content-center gy-4">
+                                            <div class="col-lg-4 col-md-6 col-sm-10">
+                            <div class="blog__item">
+                                <div class="blog__item-img">
+                                    <a href="https://banking.altavistatechnologies.com/blog/what-are-cloud-skills-for-banks-anyway">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/uqb6sKZm1647249780.jpg" alt="blog">
+                                    </a>
+                                </div>
+                                <div class="blog__item-content">
+                                    <div class="d-flex flex-wrap justify-content-between meta-post">
+                                        <span><i class="far fa-user"></i> Admin</span>
+                                    </div>
+                                    <h5 class="blog__item-content-title">
+                                        <a href="https://banking.altavistatechnologies.com/blog/what-are-cloud-skills-for-banks-anyway">
+                                            What are “cloud skills” for banks, anyway?
+                                        </a>
+                                    </h5>
+                                    <a href="https://banking.altavistatechnologies.com/blog/what-are-cloud-skills-for-banks-anyway" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-lg-4 col-md-6 col-sm-10">
+                            <div class="blog__item">
+                                <div class="blog__item-img">
+                                    <a href="https://banking.altavistatechnologies.com/blog/finance-now-opportunities-for-embedded-lending-and-leasing">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/cgYNpliD1647249636.jpg" alt="blog">
+                                    </a>
+                                </div>
+                                <div class="blog__item-content">
+                                    <div class="d-flex flex-wrap justify-content-between meta-post">
+                                        <span><i class="far fa-user"></i> Admin</span>
+                                    </div>
+                                    <h5 class="blog__item-content-title">
+                                        <a href="https://banking.altavistatechnologies.com/blog/finance-now-opportunities-for-embedded-lending-and-leasing">
+                                            Finance now! Opportunities for embedded lending an...
+                                        </a>
+                                    </h5>
+                                    <a href="https://banking.altavistatechnologies.com/blog/finance-now-opportunities-for-embedded-lending-and-leasing" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="col-lg-4 col-md-6 col-sm-10">
+                            <div class="blog__item">
+                                <div class="blog__item-img">
+                                    <a href="https://banking.altavistatechnologies.com/blog/four-steps-for-a-cloud-ready-talent-system-in-banking">
+                                        <img src="https://banking.altavistatechnologies.com/assets/images/yEVwvno41647249536.jpg" alt="blog">
+                                    </a>
+                                </div>
+                                <div class="blog__item-content">
+                                    <div class="d-flex flex-wrap justify-content-between meta-post">
+                                        <span><i class="far fa-user"></i> Admin</span>
+                                    </div>
+                                    <h5 class="blog__item-content-title">
+                                        <a href="https://banking.altavistatechnologies.com/blog/four-steps-for-a-cloud-ready-talent-system-in-banking">
+                                            Four steps for a cloud-ready talent system in bank...
+                                        </a>
+                                    </h5>
+                                    <a href="https://banking.altavistatechnologies.com/blog/four-steps-for-a-cloud-ready-talent-system-in-banking" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+        <!-- Blogs -->
+    
+    
+
+
+    <!-- Footer -->
+    <footer class="bg--section">
+    <div class="footer-top position-relative">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="footer-logo">
+                    <a href="index.html">
+                        <img src="https://banking.altavistatechnologies.com/assets/images/Qk6wE0dR1645001520.png" alt="logo">
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <h5 class="title">About</h5>
+                    <ul>
+                                                    <li>
+                                <a href="https://banking.altavistatechnologies.com/privacy">Privacy &amp; Policy</a>
+                            </li>
+                                                    <li>
+                                <a href="https://banking.altavistatechnologies.com/about">About Us</a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="footer-links mobile-second-item">
+                    <h5 class="title">Contact</h5>
+                    <ul>
+                        <li>
+                            <a href="#0">3584 Hickory Heights Drive ,Hanover MD 21076, USA</a>
+                        </li>
+                        <li>
+                            <a href="admin@geniusocean.com">admin@geniusocean.com</a>
+                        </li>
+                        <li>
+                            <a href="+12 3456 7890 1234">+12 3456 7890 1234</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="footer-comunity">
+                    <h5 class="title">Community</h5>
+                    <ul class="social-icons justify-content-start mt-0 mb-4">
+                                                    <li>
+                                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                        
+                                                    <li>
+                                <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                            </li>
+                        
+                                                    <li>
+                                <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                            </li>
+                                            </ul>
+                    <p>
+                        Stay Excited, Subscribe to our Newsletter                    </p>
+      
+                        
+                    <form class="input-group mt-3 footer-input-group" action="https://banking.altavistatechnologies.com/subscriber" method="POST">
+                        <input type="hidden" name="_token" value="F69ySkge7Smi9YMrd4sweo2AkhZoF5VA7ai2k5GC">                        <input type="email" name="email" class="form-control" placeholder="Your email address...">
+                        <button class="input-group-text bg--white border-0 text--base">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom position-relative pb-5">
+        <div class="container text-center">
+            <p>
+                COPYRIGHT © 2019. All Rights Reserved By <a href="http://geniusocean.com/">GeniusOcean.com</a>            </p>
+        </div>
+    </div>
+</footer>    <!-- Footer -->
+
+    <div class="cookie-bar-wrap show js-cookie-consent cookie-consent">
+    <div class="container d-flex justify-content-center">
+        <div class="col-xl-10 col-lg-12">
+            <div class="row justify-content-center">
+                <div class="cookie-bar">
+                    <div class="cookie-bar-text cookie-consent__message">
+                        <p>Your experience on this site will be improved by allowing cookies.<br></p>                    </div>
+                    <div class="cookie-bar-action js-cookie-consent-agree cookie-consent__agree">
+                        <button class="btn btn-primary btn-accept my-2">
+                            Allow Cookie
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="https://embed.tawk.to/5df4a5ef43be710e1d220e97/1gg9lujjl" charset="UTF-8" crossorigin="*"></script><script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = 'banking.altavistatechnologies.com';
+
+            function consentWithCookies() {
+                setCookie('laravel_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + '';
+            }
+
+            if (cookieExists('laravel_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal-apply">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg--section">
+                    <h5 class="modal-title loan-title m-0">Basic</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form action="https://banking.altavistatechnologies.com/user/loan-amount" method="post">
+                    <input type="hidden" name="_token" value="F69ySkge7Smi9YMrd4sweo2AkhZoF5VA7ai2k5GC">                    <div class="modal-body">
+                        <div class="pt-3 pb-4">
+                            <label for="amount" class="form-label">Amount</label>
+                            <div class="input-group input--group">
+                                <input type="number" name="amount" class="form-group-input form-control form--control" placeholder="0.00" id="amount">
+                                <button type="button" class="input-group-text">INR</button>
+                            </div>
+                            <input type="hidden" name="planId" id="planId" value="">
+                        </div>
+                    </div>
+                    <div class="modal-footer bg--section">
+                        <button type="button" class="btn shadow-none btn--danger" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn shadow-none btn--success">Proceed</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal-pension">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg--section">
+                    <h5 class="modal-title loan-title m-0">Basic</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form action="https://banking.altavistatechnologies.com/user/fdr-amount" method="post">
+                    <input type="hidden" name="_token" value="F69ySkge7Smi9YMrd4sweo2AkhZoF5VA7ai2k5GC">                    <div class="modal-body">
+                        <div class="pt-3 pb-4">
+                            <label for="amount" class="form-label">Amount</label>
+                            <div class="input-group input--group">
+                                <input type="number" name="amount" class="form-group-input form-control form--control" placeholder="0.00" id="amount">
+                                <button type="button" class="input-group-text">INR</button>
+                            </div>
+                            <input type="hidden" name="planId" id="fdrplan" value="">
+                        </div>
+                    </div>
+                    <div class="modal-footer bg--section">
+                        <button type="button" class="btn shadow-none btn--danger" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn shadow-none btn--success">Proceed</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+
+
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/jquery-3.6.0.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/bootstrap.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/viewport.jquery.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/odometer.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/lightbox.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/owl.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/toastr.min.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/notify.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/main.js"></script>
+    <script src="https://banking.altavistatechnologies.com/assets/front/js/custom.js"></script>
+
+    <script>
+        'use strict';
+		let mainurl = 'https://banking.altavistatechnologies.com';
+        let tawkto = '1';
+	</script>
+
+    <script type="text/javascript">
+        if(tawkto == 1){
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            (function(){
+                var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+                s1.async=true;
+                s1.src='https://embed.tawk.to/5df4a5ef43be710e1d220e97/1gg9lujjl';
+                s1.charset='UTF-8';
+                s1.setAttribute('crossorigin','*');
+                s0.parentNode.insertBefore(s1,s0);
+            })();
+        }
+    </script>
+
+    <script>
+        'use strict';
+
+        
+        
+        
+            </script>
+
+    <script>
+        'use strict';
+
+        $('.apply-loan').on('click',function(){
+            let id = $(this).data('id');
+            let title = $(this).data('title');
+
+            $('#planId').val(id);
+            $('.loan-title').text(title);
+        });
+
+        $('.apply-pension').on('click',function(){
+            let id = $(this).data('id');
+            let title = $(this).data('title');
+
+            $('#fdrplan').val(id);
+            $('.loan-title').text(title);
+        });
+    </script>
+    
+
+
+
+<script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/66790c3897f/languages/en.js"></script></body>

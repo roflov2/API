@@ -1,0 +1,126 @@
+<head><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<meta charset="UTF-8"><base><script src="https://loveawow.com/js/pushjs/1.0.0/utils.js" async=""></script><script src="https://www.gstatic.com/firebasejs/5.0.2/firebase-messaging.js" async=""></script><script src="https://www.gstatic.com/firebasejs/5.0.2/firebase-app.js" async=""></script><script type="text/javascript" async="" src="https://rkkmj.findiover.com/js/pushjs/1.0.0/subscriber.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PPJGZHL"></script><script>var _push = {serverUrl:"https://rkkmj.findiover.com",urlParams:{sub:"",s1:"",s2:"",cid:"211", tid:"vnhuy61b10e7f000dd240"}};
+document.addEventListener("DOMContentLoaded", function () {
+  (function (p, u, s, h) {
+    p._pcq = p._pcq || [];
+    p._pcq.push(['_currentTime', Date.now()]);
+    s = u.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = _push.serverUrl + '/js/pushjs/1.0.0/subscriber.js';
+    h = u.getElementsByTagName('script')[0];
+    h.parentNode.insertBefore(s, h);
+  }
+)(window, document)});</script><script>function sclk() {
+    var that = this;
+    var url = "https://bon.pexleq.com/click";
+    if (url.indexOf("?") !== -1) {
+      url = url + "&ortbclick=1";
+    } else {
+      url = url + "?ortbclick=1";
+    }
+
+    if (typeof navigator.sendBeacon === "function") {
+        navigator.sendBeacon(url);
+    } else {
+        var xhr = new XMLHttpRequest();
+        if ("withCredentials" in xhr) {
+            xhr.open("https://cdn-bimi.akamaized.net/GET", url);
+            xhr.send();
+        } else if (typeof XDomainRequest != "undefined") {
+            xhr = new XDomainRequest();
+            xhr.open("https://cdn-bimi.akamaized.net/GET", url);
+            xhr.send();
+        }
+    }
+}
+
+function repplace(url) {
+  url = url.replace('[s1]', '');
+  url = url.replace('[s2]', '');
+  url = url.replace('[tid]', 'vnhuy61b10e7f000dd240');
+
+  return url
+}
+
+function imosbn(target, ortbWrpId) {
+  var timg = /<img[^>]+>/.exec(target);
+  var turl = /href\="?([^"\s]+)"?/i.exec(target);
+  if (timg.length) {
+    $(ortbWrpId).html(repplace(timg[0].replace(/\\/, '')));
+    $(ortbWrpId).addClass('visible');
+  }
+  if (turl.length > 1) {
+      $(ortbWrpId).on('click', function(){
+        var mo = window.open(repplace(turl[1]), "_blank");
+        if (mo != null && mo != undefined && mo != false) {
+            mo.focus();
+            sclk();
+        }
+      });
+  }
+}
+
+function rtbCall() {
+    var ortbWrpId = '#wrp-id';
+    if ($(ortbWrpId).length) {
+      $.ajax({
+        url: window.location.protocol + '//' + window.location.host + '/ortb',
+        dataType: "json",
+        type: "POST",
+        data: {
+            "vid": "vnhuy61b10e7f000dd240",
+            "s1s2": "_",
+            "s1": "",
+            "s2": "",
+            "ip": "117.215.69.190",
+            "ua": "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)",
+            "dt": "DESKTOP",
+            "mk": "Desktop",
+            "ml": "Desktop",
+            "os": "unknown",
+            "osv": "",
+            "cn": "Wired",
+            "tt": "1",
+            "ctr": "ind"
+        },
+        success: function (result) {
+            if (result.target !== "" && result.target !== undefined) {
+                imosbn(result.target, ortbWrpId);
+            }
+        },
+        error: function () {
+
+        }
+    });
+  }
+}
+
+document.addEventListener("DOMContentLoaded", rtbCall);
+</script><script>var _rup = {
+    's': 'https',
+    'h': 'rkkmj.findiover.com',
+    'p': '/site/redirectpage',
+    'q': 'ca=link&sid=188578&hid=554804&hv=vnhuy61b10e7f000dd240&r=H4sIAAAAAAAA%2F9JP1k8ySTNLTTZNMkpKNbAwSzMEBAAA%2F%2F84BpehEwAAAA%3D%3D'
+};</script><title></title><meta name="viewport" content="user-scalable=false, initial-scale=1.0, maximum-scale=1.0">
+
+        <link href="https://cdn-bimi.akamaized.net/images/favicon.ico" rel="icon" type="image/x-icon">
+        <meta content="" name="keywords"><meta content="" name="description"><link rel="stylesheet" type="text/css" href="https://cdn-bimi.akamaized.net/landings/188578/1595417073/css/main.css?1595417073"><script type="text/javascript" src="https://cdn-bimi.akamaized.net/landings/188578/1595417073/js/script.min.js?1595417073"></script><script type="text/javascript" src="https://cdn-bimi.akamaized.net/landings/188578/1595417073/js/function.js?1595417073"></script><script type="text/javascript" src="https://cdn-bimi.akamaized.net/landings/188578/1595417073/js/translate.js?1595417073"></script></head><body style=""><!-- Google Tag Manager --><script>
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+                w[l].push({
+      'gtm.start':new Date().getTime(),event:'gtm.js'}
+    );
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src="https://www.googletagmanager.com/gtm.js?id="+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+  )(window,document,'script','dataLayer','GTM-PPJGZHL');
+</script><!-- End Google Tag Manager --><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPJGZHL"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div class="main"><div class="main__top"><div class="top__content"><h1><span class="text-title-1">DIESE FRAUEN SUCHEN NUR NACH</span><br><span class="accent text-title-2">LANGFRISTIGE BEZIEHUNGEN</span></h1></div></div><div class="main__bottom"><div class="bottom__content"><ul class="crumbs"><li class="accent"></li><li class="crumb omgitsactive"></li><li class="crumb"></li><li class="crumb"></li></ul><div class="item"><div class="question"><p class="text-q-1">SIND SIE ÜBER 20 JAHRE?</p></div><div class="answer-buttons"><a href="javascript:void(0)" class="action-btn no"></a><a href="javascript:void(0)" class="action-btn yes"></a></div></div><div class="item hidden"><div class="question"><p class="text-q-2">DENKEN SIE, DASS ES EINE GUTE ERFAHRUNG SEIN KÖNNTE EINEN DATING-PARTNER ZU FINDEN?</p></div><div class="answer-buttons"><a href="javascript:void(0)" class="action-btn no"></a><a href="javascript:void(0)" class="action-btn yes"></a></div></div><div class="item hidden"><div class="question"><p class="text-q-3">MÖCHTEN SIE EIN MÄDCHEN TREFFEN, DAS ES ERNST MEINT UND ZUSAMMEN EINE GUTE ZEIT AUF UNSERER WEBSITE VERBRINGEN?</p></div><div class="answer-buttons"><a href="javascript:void(0)" class="action-btn no"></a><a href="javascript:void(0)" class="action-btn yes"></a></div></div><div class="item hidden"><div class="question"><p class="accent text-thank">Vielen Dank!</p><p class="text-thank-after">Sie können jetzt auf unsere Liste und Fotos von Frauen zugreifen, die in Ihrer Nähe sind. Bitte halten Sie ihre Identität geheim.</p></div><div class="answer-buttons"><a href="https://eygrr.osrwef.com/click" class="redirect-btn btn-fin text-btn btn-fin">Lassen Sie mich rein!</a></div></div></div></div></div><div class="slider"><div class="item active" style="display: block;"></div><div class="item"></div><div class="item"></div><div class="item"></div><div class="curtain"></div></div>
+
+<script type="text/javascript" id="" charset="">var th_bridge_jump_step=0;
+$(function(){$(".btn-fin").click(function(){var e=["main.exoclick.com","main.realsrv.com","main.exdynsrv.com","s.opoxv.com","s.orbsrv.com"],m="cfd92845e5676a0a7b981f5387968e1b",n="33daec0dbf4ef64ec090615b090388ac",p=$(this).attr("href"),c=document.createElement("script"),f="497";c.src="https://main.trafficircles.com/adx-dir-d/match-bridgejump?fp\x3d"+f;c.onload=function(){function g(d){for(var b=0;b<e.length;b++){var q="https://"+e[b]+"/tag.php?goal\x3d"+d;a(q)}}var h=0,k=0,l=function(){h++;h>=k&&
+(location.href=p)},a=function(d){var b=new Image(1,1);b.onerror=l;b.onload=l;b.src=d;k++};1==th_bridge_jump_step?(a("https://main.trafficircles.com/adv_ret/?adv_pixel_id\x3d498"),a("https://ads.traffichunt.com/adv_ret/?adv_pixel_id\x3d498"),g(n),a("https://tsyndicate.com/api/v1/retargeting/set/967417ac-ce7e-4e0c-8bf8-f71b6bde7d06"),a("https://my.rtmark.net/img.gif?f\x3dsync\x26lr\x3d1\x26partner\x3d67ed0820d5548f0a2a7cfd7ba300c78ae9843d1106edbc69f6310d8a5a69f929"),a("https://ctrack.trafficjunky.net/ctrack?action\x3dlist\x26type\x3dadd\x26id\x3d1\x26context\x3dlwpsite\x26cookiename\x3dimi2\x26age\x3d545600\x26maxcookiecount\x3d10")):
+(a("https://main.trafficircles.com/adv_ret/?adv_pixel_id\x3d"+f),a("https://ads.traffichunt.com/adv_ret/?adv_pixel_id\x3d497"),g(m),a("https://tsyndicate.com/api/v1/retargeting/set/e9ce598f-ae7b-41ab-9e3b-26c96f334869"),a("https://my.rtmark.net/img.gif?f\x3dsync\x26lr\x3d1\x26partner\x3d966e36b1a21256b51573e7fb57dd07c5196bb220c16775643a6d1b0416e83d53"),a("https://ctrack.trafficjunky.net/ctrack?action\x3dlist\x26type\x3dadd\x26id\x3d1\x26context\x3dlwpsite\x26cookiename\x3dimi1\x26age\x3d545600\x26maxcookiecount\x3d10"))};
+document.body.appendChild(c);return!1})});</script><img src="https://tsyndicate.com/api/v1/retargeting/set/a29e4033-f1e9-4244-ad9b-e100f20a3cc4" height="1" width="1"><img src="https://ctrack.trafficjunky.net/ctrack?action=list&amp;type=add&amp;id=1&amp;context=im&amp;cookiename=start&amp;age=545600&amp;maxcookiecount=10"></body>

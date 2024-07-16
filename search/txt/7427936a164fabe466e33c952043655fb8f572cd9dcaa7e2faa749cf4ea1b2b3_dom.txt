@@ -1,0 +1,2147 @@
+<head>
+  <meta charset="utf-8">
+  <title>Česká Republika PrAna CZ | Nové styly</title>
+  <meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+  <meta name="keywords" content="prana kalhoty, prana oblečení, prana cz">
+  <meta name="description" content="PrAna oblečení mají veškerý výkon, který potřebujete pro dlouhé dny venku, s extra malým luxusem.">
+  <meta name="author" content="Pranacz">
+  <meta name="generator" content="Pranacz">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+<link rel="icon" href="includes/templates/pranacz/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="includes/templates/pranacz/images/favicon.ico" type="image/x-icon">
+
+
+  <base href="https://www.pranacz.com/">
+  <link rel="canonical" href="https://www.pranacz.com/">
+  <link rel="alternate" hreflang="cs-CZ" href="https://www.pranacz.com/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href="includes/templates/pranacz/css/style_plugins.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/pranacz/css/style_zo.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/pranacz/css/style_zp.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/pranacz/css/stylesheet.css">
+
+
+
+</head><body id="indexHomeBody">
+
+<!-- Page Loader -->
+
+        <!-- End Page Loader -->
+
+<div id="magjaSDCzxd" class="CPqhZYULab">
+
+
+<div class="top-bar ai-none">
+    <div class="container">
+        <div class="scrollBar col-12">
+            <div class="notices GZXKuQK slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 0px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 0px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div class="notice d-flex justify-content-center align-items-center" style="width: 100%; display: inline-block;">
+
+                </div></div></div></div></div></div>
+        </div>
+    </div>
+</div>
+
+<!--Header-->
+<header id="header" class="header FZxEkCuROV">
+    <div class="container-none p-0">
+        <div class="header-into min-60 mih-60 d-flex">
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-start d-flex">
+                <!--Mobile Toggle-->
+                <button type="button" class="btn--link site-header__menu js-mobile-nav-toggle mobile-nav--open d-lg-none d-flex align-items-center ps-0">
+                    <i class="icon an an-times-l"></i><i class="icon an an-bars-l"></i>
+                </button>
+
+            </div>
+
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-center d-flex">
+                <!--Logo / Menu Toggle-->
+                <div class="logo">
+                    <a href="https://www.pranacz.com/"><img src="includes/templates/pranacz/images/logo.png" alt="Pranacz" title="Pranacz" width="160" height="34" class="logo-img"><span class="logo-txt d-none">Pranacz</span></a>                </div>
+
+            </div>
+
+
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-end d-flex">
+
+                <!--Search-->
+                <div class="search_input s-none">
+                    <form name="quick_find_header" action="https://www.pranacz.com/index.php?main_page=advanced_search_result" method="get" id="header-search" class="form minisearch"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1">                    <div class="control">
+                        <div class="searchBox iconset searchField">
+                            <input class="input s-input s-none" name="keyword" value="" type="text" onblur="inputOnBlur()" onfocus="inputOnfocus()" placeholder="Hledat">
+                            <button class="input-but action search" type="submit" title="Hledat"><i class="icon an an-search-l"></i></button>
+                        </div>
+                    </div>
+                    </form>
+                </div>
+
+                <!--Search-->
+                <div class="site-search iconset si-none"><i class="icon an an-search-l"></i> <span class="tooltip-label">Hledat</span></div>
+
+                <!--UserLink-->
+                <div class="user-link iconset s-none">
+                    <i class="icon an an-user-2"></i>
+                    <span class="tooltip-label">Váš úèet</span>
+                    <div id="userLinks">
+                        <ul class="user-links">
+                                                                <li><a href="https://www.pranacz.com/index.php?main_page=login">Pøihlásit</a></li>
+                                                        </ul>
+                    </div>
+                </div>
+
+                <!--Wishlist-->
+                <div class="wishlist-link iconset s-none">
+                    <a href="https://www.pranacz.com/index.php?main_page=wishlist">
+                        <i class="icon an an-heart-l"></i>
+                        <span class="tooltip-label">Seznam přání</span>
+                                            </a>
+                </div>
+
+                <!--Minicart Drawer-->
+                <div class="header-cart iconset pe-0">
+                    <a href="#" class="site-header__cart btn-minicart" data-bs-toggle="modal" data-bs-target="#XqUYakseZ">
+                        <i class="icon an an-cart-l"></i>
+                        <span class="tooltip-label">Nákupní košík</span>
+                        <span class="site-cart-count counter ai-none">0</span>
+                    </a>
+                </div>
+
+
+                <!--Setting Dropdown-->
+                <div class="setting-link iconset ai-none"><i class="icon an an-right-bar-s"></i><span class="tooltip-label">Nastavení</span></div>
+                <div id="iXJjbzkWETS">
+                    <div class="currency-picker">
+                        <span class="ttl">Vyberte možnost Měna</span>
+                        <ul id="currencies" class="cnrLangList">
+                            &nbsp;&nbsp;<li><a href="https://www.pranacz.com/index.html?currency=USD">USD</a></li><li><a href="https://www.pranacz.com/index.html?currency=EUR">EUR</a></li><li><a href="https://www.pranacz.com/index.html?currency=GBP">GBP</a></li><li><a href="https://www.pranacz.com/index.html?currency=CAD">CAD</a></li><li><a href="https://www.pranacz.com/index.html?currency=AUD">AUD</a></li><li><a href="https://www.pranacz.com/index.html?currency=NZD">NZD</a></li><li><a href="https://www.pranacz.com/index.html?currency=ZAR">ZAR</a></li><li><a href="https://www.pranacz.com/index.html?currency=DKK">DKK</a></li><li><a href="https://www.pranacz.com/index.html?currency=NOK">NOK</a></li><li><a href="https://www.pranacz.com/index.html?currency=SEK">SEK</a></li><li><a href="https://www.pranacz.com/index.html?currency=CHF">CHF</a></li><li><a href="https://www.pranacz.com/index.html?currency=BRL">BRL</a></li><li><a href="https://www.pranacz.com/index.html?currency=ARS">ARS</a></li><li><a href="https://www.pranacz.com/index.html?currency=COP">COP</a></li><li><a href="https://www.pranacz.com/index.html?currency=UYU">UYU</a></li><li><a href="https://www.pranacz.com/index.html?currency=PEN">PEN</a></li><li><a href="https://www.pranacz.com/index.html?currency=CLP">CLP</a></li><li><a href="https://www.pranacz.com/index.html?currency=MXN">MXN</a></li><li><a href="https://www.pranacz.com/index.html?currency=PLN">PLN</a></li><li class="selected"><a class="active" href="https://www.pranacz.com/index.html?currency=CZK">CZK</a></li><li><a href="https://www.pranacz.com/index.html?currency=RSD">RSD</a></li><li><a href="https://www.pranacz.com/index.html?currency=TRY">TRY</a></li><li><a href="https://www.pranacz.com/index.html?currency=HUF">HUF</a></li><li><a href="https://www.pranacz.com/index.html?currency=RON">RON</a></li><li><a href="https://www.pranacz.com/index.html?currency=BGN">BGN</a></li><li><a href="https://www.pranacz.com/index.html?currency=ILS">ILS</a></li><li><a href="https://www.pranacz.com/index.html?currency=AED">AED</a></li><li><a href="https://www.pranacz.com/index.html?currency=KWD">KWD</a></li><li><a href="https://www.pranacz.com/index.html?currency=JPY">JPY</a></li>                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="navbar-link d-flex s-none">
+            <!--Main Navigation Desktop-->
+            <nav class="grid__item s-none" id="QXUphy">
+                <ul id="siteNav" class="site-nav medium left hidearrow"><li class="lvl1 parent NtDrXYhySF">
+<a class="site-nav" href="https://www.pranacz.com/mu%C5%BEi-c-9/">muži<i class="an an-angle-down-l"></i></a><div class="NtDrXYhySF style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/bundy-a-svrchn%C3%AD-od%C4%9Bvy-c-9_12/">bundy a svrchní oděvy</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/bundy-c-9_12_13/">bundy</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/vesty-c-9_12_38/">vesty</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/dna-c-9_20/">dna</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/kalhoty-c-9_20_21/">kalhoty</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/%C5%A1ortky-c-9_20_27/">šortky</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/plavat-c-9_36/">plavat</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/%C5%A1ortky-c-9_36_37/">šortky</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/topy-c-9_10/">topy</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/">košile a knoflíky</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/">svetry a mikiny</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/tri%C4%8Dka-a-tanky-c-9_10_11/">trička a tanky</a></li></ul></div></div></div></li><li class="lvl1 parent NtDrXYhySF">
+<a class="site-nav" href="https://www.pranacz.com/p%C5%99%C3%ADslu%C5%A1enstv%C3%AD-c-31/">Příslušenství<i class="an an-angle-down-l"></i></a><div class="NtDrXYhySF style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/%C4%8Depice-a-%C4%8Delenky-c-31_34/">čepice a čelenky</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/k%C5%99%C3%ADdov%C3%A9-s%C3%A1%C4%8Dky-c-31_35/">křídové sáčky</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/%C5%A1%C3%A1tky-a-sarongy-c-31_32/">šátky a sarongy</a></div></div></div></li><li class="lvl1 parent NtDrXYhySF">
+<a class="site-nav" href="https://www.pranacz.com/%C5%BEeny-c-1/">ženy<i class="an an-angle-down-l"></i></a><div class="NtDrXYhySF style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/bundy-a-svrchn%C3%AD-od%C4%9Bvy-c-1_7/">bundy a svrchní oděvy</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/bundy-c-1_7_8/">bundy</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/vesty-c-1_7_33/">vesty</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/dna-c-1_18/">dna</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/kalhoty-c-1_18_19/">kalhoty</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/leg%C3%ADny-a-j%C3%B3ga-c-1_18_22/">legíny a jóga</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/%C5%A1ortky-c-1_18_25/">šortky</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/plavat-c-1_16/">plavat</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/dna-c-1_16_29/">dna</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/jeden-kus-c-1_16_30/">jeden kus</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/topy-a-tankiny-c-1_16_28/">topy a tankiny</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/zakr%C3%BDt-ups-c-1_16_17/">Zakrýt ups</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/%C5%A1aty-a-sukn%C4%9B-c-1_23/">šaty a sukně</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/%C5%A1aty-a-kombin%C3%A9zy-c-1_23_24/">šaty a kombinézy</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/sukn%C4%9B-a-sukn%C4%9B-c-1_23_26/">sukně a sukně</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.pranacz.com/topy-c-1_2/">topy</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/j%C3%B3ga-a-podprsenka-c-1_2_6/">jóga a podprsenka</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/ko%C5%A1ile-c-1_2_4/">košile</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/svetry-a-mikiny-c-1_2_3/">svetry a mikiny</a></li><li>
+<a class="site-nav lvl-2" href="https://www.pranacz.com/tanky-a-tri%C4%8Dka-c-1_2_5/">tanky a trička</a></li></ul></div></div></div></li></ul>            </nav>
+        </div>
+    </div>
+    <!--Search Popup-->
+    <div id="VCfGtYNh" class="search-drawer">
+        <div class="container">
+            <span class="closeSearch an an-times-l"></span>
+            <form name="quick_find_header" action="https://www.pranacz.com/index.php?main_page=advanced_search_result" method="get" id="header-search" class="form minisearch"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1">                <label class="label"><span>Hledat</span></label>
+                <div class="control">
+                    <div class="searchField">
+                        <div class="input-box">
+                            <button type="submit" title="Hledat" class="action search"><i class="icon an an-search-l"></i></button>
+                            <input type="text" name="keyword" value="" placeholder="Vložte klíèová slova" class="input-text">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+<!--End Header-->
+
+<!--Mobile Menu-->
+<div class="qnToqYUzsW" role="navigation">
+    <div class="LZbhCj"><i class="icon an an-times-l pull-right"></i></div>
+    <ul id="SuwnscdrKWu" class="mobile-nav"><li class="lvl1 parent NtDrXYhySF">
+<a href="https://www.pranacz.com/mu%C5%BEi-c-9/">muži<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/bundy-a-svrchn%C3%AD-od%C4%9Bvy-c-9_12/">bundy a svrchní oděvy<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/bundy-c-9_12_13/">bundy</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/vesty-c-9_12_38/">vesty</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/dna-c-9_20/">dna<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/kalhoty-c-9_20_21/">kalhoty</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1ortky-c-9_20_27/">šortky</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/plavat-c-9_36/">plavat<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1ortky-c-9_36_37/">šortky</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/topy-c-9_10/">topy<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/">košile a knoflíky</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/">svetry a mikiny</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/tri%C4%8Dka-a-tanky-c-9_10_11/">trička a tanky</a></li></ul></li></ul></li><li class="lvl1 parent NtDrXYhySF">
+<a href="https://www.pranacz.com/p%C5%99%C3%ADslu%C5%A1enstv%C3%AD-c-31/">Příslušenství<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/%C4%8Depice-a-%C4%8Delenky-c-31_34/">čepice a čelenky</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/k%C5%99%C3%ADdov%C3%A9-s%C3%A1%C4%8Dky-c-31_35/">křídové sáčky</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1%C3%A1tky-a-sarongy-c-31_32/">šátky a sarongy</a></li></ul></li><li class="lvl1 parent NtDrXYhySF">
+<a href="https://www.pranacz.com/%C5%BEeny-c-1/">ženy<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/bundy-a-svrchn%C3%AD-od%C4%9Bvy-c-1_7/">bundy a svrchní oděvy<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/bundy-c-1_7_8/">bundy</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/vesty-c-1_7_33/">vesty</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/dna-c-1_18/">dna<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/kalhoty-c-1_18_19/">kalhoty</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/leg%C3%ADny-a-j%C3%B3ga-c-1_18_22/">legíny a jóga</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1ortky-c-1_18_25/">šortky</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/plavat-c-1_16/">plavat<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/dna-c-1_16_29/">dna</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/jeden-kus-c-1_16_30/">jeden kus</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/topy-a-tankiny-c-1_16_28/">topy a tankiny</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/zakr%C3%BDt-ups-c-1_16_17/">Zakrýt ups</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1aty-a-sukn%C4%9B-c-1_23/">šaty a sukně<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/%C5%A1aty-a-kombin%C3%A9zy-c-1_23_24/">šaty a kombinézy</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/sukn%C4%9B-a-sukn%C4%9B-c-1_23_26/">sukně a sukně</a></li></ul></li><li>
+<a class="site-nav" href="https://www.pranacz.com/topy-c-1_2/">topy<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.pranacz.com/j%C3%B3ga-a-podprsenka-c-1_2_6/">jóga a podprsenka</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/ko%C5%A1ile-c-1_2_4/">košile</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/svetry-a-mikiny-c-1_2_3/">svetry a mikiny</a></li><li>
+<a class="site-nav" href="https://www.pranacz.com/tanky-a-tri%C4%8Dka-c-1_2_5/">tanky a trička</a></li></ul></li></ul></li><li class="acLink"></li><li class="lvl1 bottom-link"><a href="https://www.pranacz.com/index.php?main_page=login">Pøihlásit</a></li><li class="lvl1 bottom-link"><a href="https://www.pranacz.com/index.php?main_page=create_account">Registrovat</a></li><li class="lvl1 bottom-link"><a href="https://www.pranacz.com/index.php?main_page=wishlist">Seznam přání</a></li></ul></div>
+<!--End Mobile Menu-->
+<!--Body Container-->
+<div id="page-content">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+
+
+    
+
+<section class="slideshow slide-style1">
+    <div class="container-none p-0">
+        <div class="GZXKuQK slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1600px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1600px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div class="slide-content style-middle" style="width: 100%; display: inline-block;">
+                <a href="https://www.pranacz.com/bundy-a-svrchn%C3%AD-od%C4%9Bvy-c-9_12/" tabindex="0">
+                    <div class="banner-image">
+                        <picture>
+                            <source srcset="includes/templates/pranacz/images/pranacz/slide_banner1d.jpg" type="image/jpg" media="(min-width: 768px)">
+                            <source srcset="includes/templates/pranacz/images/pranacz/slide_banner1d.jpg" type="image/jpg" media="(max-width: 767px)">
+                            <img src="includes/templates/pranacz/images/pranacz/slide_banner1d.webp">
+                        </picture>
+                    </div>
+                    <div class="banner-items">
+                        <div class="item-wrap">
+                            <div class="main-label"><img src="includes/templates/pranacz/images/pranacz/banner1d_text.webp"></div>
+                            <div class="main-button">
+                                <span class="mouldBtn">Nakupujte kolekci</span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div></div></div></div></div></div></div></section>
+
+<section class="section product-modular product-style1">
+    <div class="container">
+        
+            
+            
+            
+            
+                                            
+<!-- bof: specials -->
+<section class="EGGZnp">
+
+
+<div class="productSlider BQTu slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8690px; transform: translate3d(-1580px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg" alt="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" title="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=770" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=770" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1">prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">784.51Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg" alt="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" title="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=768" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=768" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1">prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">830.88Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg" alt="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" title="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=762" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=762" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1">prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">789.98Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg" alt="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" title="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=766" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=766" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1">prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">834.69Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-pampy-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl785-p-769.html" tabindex="0"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_pampy_oble_en_mu_i_88B0VL785.jpg" alt="prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785" title="prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_pampy_oble_en_mu_i_88B0VL785.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=769" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=769" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-pampy-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl785-p-769.html" tabindex="0">prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">791.88Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-temn%C3%A1-obloha-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl780-p-764.html" tabindex="0"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_temn_obloha_v_es_oble_en_mu_i_88B0VL780.jpg" alt="prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780" title="prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_temn_obloha_v_es_oble_en_mu_i_88B0VL780.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=764" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=764" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-temn%C3%A1-obloha-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl780-p-764.html" tabindex="0">prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">928.38Kč </span>&nbsp;<span class="price">983.55Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-osika-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl781-p-765.html" tabindex="0"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_osika_oble_en_mu_i_88B0VL781.jpg" alt="prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781" title="prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_osika_oble_en_mu_i_88B0VL781.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=765" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=765" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-osika-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl781-p-765.html" tabindex="0">prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">603.07Kč </span>&nbsp;<span class="price">670.60Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-oko%C5%99en%C4%9Bn%C3%A9-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl783-p-767.html" tabindex="0"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_oko_en_n_oble_en_mu_i_88B0VL783.jpg" alt="prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783" title="prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_oko_en_n_oble_en_mu_i_88B0VL783.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=767" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=767" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-oko%C5%99en%C4%9Bn%C3%A9-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl783-p-767.html" tabindex="0">prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">761.92Kč </span>&nbsp;<span class="price">827.08Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl779-p-763.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_v_esov_ed_oble_en_mu_i_88B0VL779.jpg" alt="prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779" title="prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_v_esov_ed_oble_en_mu_i_88B0VL779.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=763" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=763" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl779-p-763.html" tabindex="-1">prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">855.85Kč </span>&nbsp;<span class="price">916.49Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg" alt="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" title="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" width="144" height="200" class="primary blur-up lazyloaded" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=770" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=770" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1">prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">784.51Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg" alt="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" title="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=768" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=768" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1">prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">830.88Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg" alt="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" title="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=762" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=762" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1">prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">789.98Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg" alt="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" title="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=766" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=766" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1">prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">834.69Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-pampy-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl785-p-769.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_pampy_oble_en_mu_i_88B0VL785.jpg" alt="prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785" title="prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785" width="144" height="200" class="primary blur-up lazyloading" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_pampy_oble_en_mu_i_88B0VL785.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=769" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=769" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-pampy-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl785-p-769.html" tabindex="-1">prAna flanelová košile z Westbrooku pampy oblečení muži 88B0VL785</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">791.88Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-temn%C3%A1-obloha-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl780-p-764.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_temn_obloha_v_es_oble_en_mu_i_88B0VL780.jpg" alt="prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780" title="prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_temn_obloha_v_es_oble_en_mu_i_88B0VL780.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=764" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=764" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-temn%C3%A1-obloha-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl780-p-764.html" tabindex="-1">prAna cardiff fleece posádka temná obloha vřes oblečení muži 88B0VL780</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">928.38Kč </span>&nbsp;<span class="price">983.55Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-osika-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl781-p-765.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_osika_oble_en_mu_i_88B0VL781.jpg" alt="prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781" title="prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_osika_oble_en_mu_i_88B0VL781.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=765" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=765" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-osika-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl781-p-765.html" tabindex="-1">prAna flanelová košile z Westbrooku osika oblečení muži 88B0VL781</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">603.07Kč </span>&nbsp;<span class="price">670.60Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-oko%C5%99en%C4%9Bn%C3%A9-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl783-p-767.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_oko_en_n_oble_en_mu_i_88B0VL783.jpg" alt="prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783" title="prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_oko_en_n_oble_en_mu_i_88B0VL783.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=767" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=767" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-oko%C5%99en%C4%9Bn%C3%A9-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl783-p-767.html" tabindex="-1">prAna flanelová košile z Westbrooku okořeněné oblečení muži 88B0VL783</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">761.92Kč </span>&nbsp;<span class="price">827.08Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl779-p-763.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_v_esov_ed_oble_en_mu_i_88B0VL779.jpg" alt="prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779" title="prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_v_esov_ed_oble_en_mu_i_88B0VL779.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=763" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=763" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl779-p-763.html" tabindex="-1">prAna cardiff fleece posádka vřesově šedá oblečení muži 88B0VL779</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">855.85Kč </span>&nbsp;<span class="price">916.49Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg" alt="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" title="prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_bou_kov_noc_oble_en_mu_i_88B0VL786.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=770" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=770" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-bou%C5%99kov%C3%A1-noc-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl786-p-770.html" tabindex="-1">prAna flanelová košile z Westbrooku bouřková noc oblečení muži 88B0VL786</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">784.51Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg" alt="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" title="prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_evergreen_oble_en_mu_i_88B0VL784.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=768" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=768" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-evergreen-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl784-p-768.html" tabindex="-1">prAna flanelová košile z Westbrooku evergreen oblečení muži 88B0VL784</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">830.88Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1"><img src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg" alt="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" title="prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/svetry-a-mikiny/prAna_cardiff_fleece_pos_dka_ko_en_n_v_es_oble_en_mu_i_88B0VL778.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=762" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=762" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/svetry-a-mikiny-c-9_10_15/prana-cardiff-fleece-pos%C3%A1dka-ko%C5%99en%C4%9Bn%C3%BD-v%C5%99es-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl778-p-762.html" tabindex="-1">prAna cardiff fleece posádka kořeněný vřes oblečení muži 88B0VL778</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">789.98Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 385px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1"><img src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg" alt="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" title="prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/topy/kosile-a-knofliky/prAna_flanelov_ko_ile_z_Westbrooku_ra_elina_oble_en_mu_i_88B0VL782.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=766" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=766" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/ko%C5%A1ile-a-knofl%C3%ADky-c-9_10_14/prana-flanelov%C3%A1-ko%C5%A1ile-z-westbrooku-ra%C5%A1elina-oble%C4%8Den%C3%AD-mu%C5%BEi-88b0vl782-p-766.html" tabindex="-1">prAna flanelová košile z Westbrooku rašelina oblečení muži 88B0VL782</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">834.69Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: specials -->
+            
+            
+            
+                </div>
+</section>
+
+<section class="section module-banner banner-style1">
+    <div class="container-none p-0">
+        <div class="banner-content">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <div class="item-images">
+                    <picture>
+                        <source srcset="includes/templates/pranacz/images/pranacz/banner4d.jpg" type="image/jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/pranacz/images/pranacz/banner4d.jpg" type="image/jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/pranacz/images/pranacz/banner4d.webp">
+                    </picture>
+                </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <div class="item-content">
+                    <div class="item-wrap">
+                        <h2 class="main-title">Polo tričko</h2>
+                        <div class="main-describe">Update your wardrobe with our men's polo shirts collection. An essential men's clothing piece, a polo shirt perfectly balances smart and casual styles to make this a must-have item.
+     Available in a variety of colours in both long-sleeved and short-sleeved styles, with simple logo branding, find your new go-to men's polo shirt here at Barbour International.</div>
+                        <div class="main-button">
+                            <a href="https://www.pranacz.com/j%C3%B3ga-a-podprsenka-c-1_2_6/">
+                                <span class="mouldBtn">Nakupujte kolekci</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section module-banner banner-style2">
+    <div class="container">
+        <div class="banner-content flex-row-reverse">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <div class="item-images">
+                    <picture>
+                        <source srcset="includes/templates/pranacz/images/pranacz/banner5d.jpg" type="image/jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/pranacz/images/pranacz/banner5d.jpg" type="image/jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/pranacz/images/pranacz/banner5d.webp">
+                    </picture>
+                </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <div class="item-content">
+                    <div class="item-wrap">
+                        <h2 class="main-title">Festivaly</h2>
+                        <div class="main-describe">With festival season right around the corner, there couldn't be a better time to invest in the essentials that are going to see you through. 
+    Whether you're looking for a wax bucket hat to match your jacket or a pair of Barbour wellies to withstand the muddiest of weekends, the Barbour Festival Shop has it all this summer.</div>
+                        <div class="main-button">
+                            <a href="https://www.pranacz.com/bundy-c-1_7_8/">
+                                <span class="mouldBtn">Nakupujte kolekci</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section product-modular product-style2">
+    <div class="container">
+        
+                                            
+<!-- bof: whats_new -->
+<section class="EGGZnp">
+
+
+<div class="productSlider BQTu slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 9520px; transform: translate3d(-1360px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg" alt="prAna bridžové džíny džínovina dna muži 88B0VL970" title="prAna bridžové džíny džínovina dna muži 88B0VL970" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=951" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=951" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1">prAna bridžové džíny džínovina dna muži 88B0VL970</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">740.99Kč </span>&nbsp;<span class="price">804.72Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg" alt="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" title="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=945" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=945" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1">prAna výškový tracker jogger ii námořní dna muži 88B0VL964</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">812.33Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg" alt="prAna bridžové džíny rašelina dna muži 88B0VL974" title="prAna bridžové džíny rašelina dna muži 88B0VL974" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=955" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=955" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1">prAna bridžové džíny rašelina dna muži 88B0VL974</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">814.71Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg" alt="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" title="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=947" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=947" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1">prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">791.17Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-miner%C3%A1ln%C3%AD-zelen%C3%A1-dna-mu%C5%BEi-88b0vl965-p-946.html" tabindex="0"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_miner_ln_zelen_dna_mu_i_88B0VL965.jpg" alt="prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965" title="prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_miner_ln_zelen_dna_mu_i_88B0VL965.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=946" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=946" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-miner%C3%A1ln%C3%AD-zelen%C3%A1-dna-mu%C5%BEi-88b0vl965-p-946.html" tabindex="0">prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">927.43Kč </span>&nbsp;<span class="price">983.55Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-temn%C3%A1-obloha-v%C5%99es-dna-mu%C5%BEi-88b0vl969-p-950.html" tabindex="0"><img src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_temn_obloha_v_es_dna_mu_i_88B0VL969.jpg" alt="prAna fleece tepláky temná obloha vřes dna muži 88B0VL969" title="prAna fleece tepláky temná obloha vřes dna muži 88B0VL969" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_temn_obloha_v_es_dna_mu_i_88B0VL969.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=950" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=950" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-temn%C3%A1-obloha-v%C5%99es-dna-mu%C5%BEi-88b0vl969-p-950.html" tabindex="0">prAna fleece tepláky temná obloha vřes dna muži 88B0VL969</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">809.95Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-bl%C3%A1to-dna-mu%C5%BEi-88b0vl972-p-953.html" tabindex="0"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_bl_to_dna_mu_i_88B0VL972.jpg" alt="prAna bridžové džíny bláto dna muži 88B0VL972" title="prAna bridžové džíny bláto dna muži 88B0VL972" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_bl_to_dna_mu_i_88B0VL972.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=953" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=953" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-bl%C3%A1to-dna-mu%C5%BEi-88b0vl972-p-953.html" tabindex="0">prAna bridžové džíny bláto dna muži 88B0VL972</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">905.79Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl967-p-948.html" tabindex="0"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_v_esov_ed_dna_mu_i_88B0VL967.jpg" alt="prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967" title="prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_v_esov_ed_dna_mu_i_88B0VL967.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=948" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=948" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl967-p-948.html" tabindex="0">prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">906.74Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-s%C3%A9pie-dna-mu%C5%BEi-88b0vl973-p-954.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_s_pie_dna_mu_i_88B0VL973.jpg" alt="prAna bridžové džíny sépie dna muži 88B0VL973" title="prAna bridžové džíny sépie dna muži 88B0VL973" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_s_pie_dna_mu_i_88B0VL973.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=954" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=954" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-s%C3%A9pie-dna-mu%C5%BEi-88b0vl973-p-954.html" tabindex="-1">prAna bridžové džíny sépie dna muži 88B0VL973</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">903.17Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl968-p-949.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_v_esov_ed_dna_mu_i_88B0VL968.jpg" alt="prAna fleece tepláky vřesově šedá dna muži 88B0VL968" title="prAna fleece tepláky vřesově šedá dna muži 88B0VL968" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_v_esov_ed_dna_mu_i_88B0VL968.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=949" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=949" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl968-p-949.html" tabindex="-1">prAna fleece tepláky vřesově šedá dna muži 88B0VL968</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">835.64Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-indie-modr%C3%A1-dna-mu%C5%BEi-88b0vl971-p-952.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_indie_modr_dna_mu_i_88B0VL971.jpg" alt="prAna bridžové džíny indie modrá dna muži 88B0VL971" title="prAna bridžové džíny indie modrá dna muži 88B0VL971" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_indie_modr_dna_mu_i_88B0VL971.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=952" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=952" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-indie-modr%C3%A1-dna-mu%C5%BEi-88b0vl971-p-952.html" tabindex="-1">prAna bridžové džíny indie modrá dna muži 88B0VL971</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">877.97Kč </span>&nbsp;<span class="price">938.84Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl963-p-944.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_ern_dna_mu_i_88B0VL963.jpg" alt="prAna výškový tracker jogger ii Černá dna muži 88B0VL963" title="prAna výškový tracker jogger ii Černá dna muži 88B0VL963" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_ern_dna_mu_i_88B0VL963.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=944" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=944" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl963-p-944.html" tabindex="-1">prAna výškový tracker jogger ii Černá dna muži 88B0VL963</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">901.51Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg" alt="prAna bridžové džíny džínovina dna muži 88B0VL970" title="prAna bridžové džíny džínovina dna muži 88B0VL970" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=951" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=951" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1">prAna bridžové džíny džínovina dna muži 88B0VL970</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">740.99Kč </span>&nbsp;<span class="price">804.72Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg" alt="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" title="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=945" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=945" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1">prAna výškový tracker jogger ii námořní dna muži 88B0VL964</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">812.33Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg" alt="prAna bridžové džíny rašelina dna muži 88B0VL974" title="prAna bridžové džíny rašelina dna muži 88B0VL974" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=955" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=955" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1">prAna bridžové džíny rašelina dna muži 88B0VL974</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">814.71Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg" alt="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" title="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=947" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=947" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1">prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">791.17Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-miner%C3%A1ln%C3%AD-zelen%C3%A1-dna-mu%C5%BEi-88b0vl965-p-946.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_miner_ln_zelen_dna_mu_i_88B0VL965.jpg" alt="prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965" title="prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_miner_ln_zelen_dna_mu_i_88B0VL965.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=946" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=946" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-miner%C3%A1ln%C3%AD-zelen%C3%A1-dna-mu%C5%BEi-88b0vl965-p-946.html" tabindex="-1">prAna kalhoty na sledování výšky ii minerální zelená dna muži 88B0VL965</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">927.43Kč </span>&nbsp;<span class="price">983.55Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-temn%C3%A1-obloha-v%C5%99es-dna-mu%C5%BEi-88b0vl969-p-950.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_temn_obloha_v_es_dna_mu_i_88B0VL969.jpg" alt="prAna fleece tepláky temná obloha vřes dna muži 88B0VL969" title="prAna fleece tepláky temná obloha vřes dna muži 88B0VL969" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_temn_obloha_v_es_dna_mu_i_88B0VL969.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=950" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=950" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-temn%C3%A1-obloha-v%C5%99es-dna-mu%C5%BEi-88b0vl969-p-950.html" tabindex="-1">prAna fleece tepláky temná obloha vřes dna muži 88B0VL969</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">809.95Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-bl%C3%A1to-dna-mu%C5%BEi-88b0vl972-p-953.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_bl_to_dna_mu_i_88B0VL972.jpg" alt="prAna bridžové džíny bláto dna muži 88B0VL972" title="prAna bridžové džíny bláto dna muži 88B0VL972" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_bl_to_dna_mu_i_88B0VL972.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=953" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=953" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-bl%C3%A1to-dna-mu%C5%BEi-88b0vl972-p-953.html" tabindex="-1">prAna bridžové džíny bláto dna muži 88B0VL972</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">905.79Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl967-p-948.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_v_esov_ed_dna_mu_i_88B0VL967.jpg" alt="prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967" title="prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_v_esov_ed_dna_mu_i_88B0VL967.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=948" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=948" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl967-p-948.html" tabindex="-1">prAna kalhoty na sledování výšky ii vřesově šedá dna muži 88B0VL967</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">906.74Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-s%C3%A9pie-dna-mu%C5%BEi-88b0vl973-p-954.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_s_pie_dna_mu_i_88B0VL973.jpg" alt="prAna bridžové džíny sépie dna muži 88B0VL973" title="prAna bridžové džíny sépie dna muži 88B0VL973" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_s_pie_dna_mu_i_88B0VL973.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=954" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=954" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-s%C3%A9pie-dna-mu%C5%BEi-88b0vl973-p-954.html" tabindex="-1">prAna bridžové džíny sépie dna muži 88B0VL973</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">903.17Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl968-p-949.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_v_esov_ed_dna_mu_i_88B0VL968.jpg" alt="prAna fleece tepláky vřesově šedá dna muži 88B0VL968" title="prAna fleece tepláky vřesově šedá dna muži 88B0VL968" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_fleece_tepl_ky_v_esov_ed_dna_mu_i_88B0VL968.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=949" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=949" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-fleece-tepl%C3%A1ky-v%C5%99esov%C4%9B-%C5%A1ed%C3%A1-dna-mu%C5%BEi-88b0vl968-p-949.html" tabindex="-1">prAna fleece tepláky vřesově šedá dna muži 88B0VL968</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">835.64Kč </span>&nbsp;<span class="price">894.14Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="18" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-indie-modr%C3%A1-dna-mu%C5%BEi-88b0vl971-p-952.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_indie_modr_dna_mu_i_88B0VL971.jpg" alt="prAna bridžové džíny indie modrá dna muži 88B0VL971" title="prAna bridžové džíny indie modrá dna muži 88B0VL971" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_indie_modr_dna_mu_i_88B0VL971.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=952" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=952" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-indie-modr%C3%A1-dna-mu%C5%BEi-88b0vl971-p-952.html" tabindex="-1">prAna bridžové džíny indie modrá dna muži 88B0VL971</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">877.97Kč </span>&nbsp;<span class="price">938.84Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="19" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl963-p-944.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_ern_dna_mu_i_88B0VL963.jpg" alt="prAna výškový tracker jogger ii Černá dna muži 88B0VL963" title="prAna výškový tracker jogger ii Černá dna muži 88B0VL963" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_ern_dna_mu_i_88B0VL963.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=944" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=944" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl963-p-944.html" tabindex="-1">prAna výškový tracker jogger ii Černá dna muži 88B0VL963</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">901.51Kč </span>&nbsp;<span class="price">961.20Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="20" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg" alt="prAna bridžové džíny džínovina dna muži 88B0VL970" title="prAna bridžové džíny džínovina dna muži 88B0VL970" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_d_novina_dna_mu_i_88B0VL970.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=951" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=951" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-d%C5%BE%C3%ADnovina-dna-mu%C5%BEi-88b0vl970-p-951.html" tabindex="-1">prAna bridžové džíny džínovina dna muži 88B0VL970</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">740.99Kč </span>&nbsp;<span class="price">804.72Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="21" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg" alt="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" title="prAna výškový tracker jogger ii námořní dna muži 88B0VL964" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_v_kov_tracker_jogger_ii_n_mo_n_dna_mu_i_88B0VL964.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=945" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=945" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-v%C3%BD%C5%A1kov%C3%BD-tracker-jogger-ii-n%C3%A1mo%C5%99n%C3%AD-dna-mu%C5%BEi-88b0vl964-p-945.html" tabindex="-1">prAna výškový tracker jogger ii námořní dna muži 88B0VL964</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">812.33Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="22" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg" alt="prAna bridžové džíny rašelina dna muži 88B0VL974" title="prAna bridžové džíny rašelina dna muži 88B0VL974" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_brid_ov_d_ny_ra_elina_dna_mu_i_88B0VL974.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=955" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=955" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-brid%C5%BEov%C3%A9-d%C5%BE%C3%ADny-ra%C5%A1elina-dna-mu%C5%BEi-88b0vl974-p-955.html" tabindex="-1">prAna bridžové džíny rašelina dna muži 88B0VL974</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">814.71Kč </span>&nbsp;<span class="price">871.78Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="23" id="" aria-hidden="true" tabindex="-1" style="width: 330px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="CGaEUPtnE">
+
+    <a class="ryQpjD" href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1"><img src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg" alt="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" title="prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966" width="144" height="200" class="primary blur-up lazyload" data-src="images/muzi/dna/kalhoty/prAna_kalhoty_na_sledov_n_v_ky_ii_ern_dna_mu_i_88B0VL966.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.pranacz.com/index.html?action=buy_now&amp;products_id=947" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">vložení do košíku</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.pranacz.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=947" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Přidat do seznamu přání</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="nARcZOo text-left">
+
+    <div class="KFwnNvkt">
+
+        <a href="https://www.pranacz.com/kalhoty-c-9_20_21/prana-kalhoty-na-sledov%C3%A1n%C3%AD-v%C3%BD%C5%A1ky-ii-%C4%8Dern%C3%A1-dna-mu%C5%BEi-88b0vl966-p-947.html" tabindex="-1">prAna kalhoty na sledování výšky ii Černá dna muži 88B0VL966</a>
+
+    </div>
+
+    <div class="product-price">
+
+        <span class="old-price">791.17Kč </span>&nbsp;<span class="price">849.43Kč</span>
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: whats_new -->
+            
+            
+            
+            
+            
+            
+            
+                </div>
+</section>
+
+
+                
+            </div>
+            <!--End Body Container-->
+
+
+
+
+
+<footer class="footer footer-8 mt-3">
+    <div class="OsRaXtvApG clearfix bg-transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">Zůstaňme v kontaktu</h4>
+                    <p class="p-contact">Uvidíme se na interwebech.</p>
+                    <ul class="list-inline social-icons mt-3 pt-1">
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Facebook" aria-label="Facebook">
+                                <i class="an an-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Instagram" aria-label="Instagram">
+                                <i class="an an-pinterest-p"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-instagram"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="TikTok" aria-label="TikTok">
+                                <i class="an an-tiktok"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Whatsapp" aria-label="Whatsapp">
+                                <i class="an an-whatsapp"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="h4 text-transform-title">Informace</h4>
+                    <ul class="p-0">
+                          <li><a rel="nofollow" href="https://www.pranacz.com/contact_us.html">Kontaktujte nás</a></li>
+  <li><a rel="nofollow" href="https://www.pranacz.com/z%C3%A1sady-ochrany-osobn%C3%ADch-%C3%BAdaj%C5%AF-ezp-2.html">Zásady ochrany osobních údajů</a></li>
+  <li><a rel="nofollow" href="https://www.pranacz.com/podm%C3%ADnky-slu%C5%BEby-ezp-3.html">Podmínky služby</a></li>
+  <li><a rel="nofollow" href="https://www.pranacz.com/p%C5%99epravn%C3%AD-politika-ezp-4.html">Přepravní Politika</a></li>
+  <li><a rel="nofollow" href="https://www.pranacz.com/reklama%C4%8Dn%C3%AD-%C5%99%C3%A1d-ezp-5.html">Reklamační řád</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">předplatit</h4>
+                    <p class="p-news">Zjistěte nejprve, co je nového, nabídky a akce.</p>
+                    <div class="email-input d-flex">
+                        <input class="input-box" type="text" placeholder="Email Address">
+                        <button class="input-but" type="button"><span>Připojte se &gt;</span></button>
+                        <button class="input-but ai-none" type="button"><i class="an input_icon"></i></button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="footerBox" class="adivxUbWhV clearfix bg-transparent container">
+        <div class="d-flex-center flex-column justify-content-md-between flex-md-row-reverse">
+            <img src="images/payment.png" alt="Paypal Visa Payments">
+            <div class="copy-white copytext text-uppercase">Copyright © 2024 <a href="https://www.pranacz.com/" target="_blank">Pranacz</a>.</div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+            <!--Scoll Top-->
+            <span id="LSNMTTT" class="rounded-2"><i class="icon an an-arw-up"></i></span> 
+            <!--End Scoll Top-->
+
+            <!--MiniCart Drawer-->
+<div class="minicart-right-drawer modal right fade" id="XqUYakseZ">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div id="cart-drawer" class="block block-cart">
+                            <div class="minicart-header">
+                                <a href="javascript:void(0);" class="close-cart" data-bs-dismiss="modal" aria-label="Close"><i class="an an-times-r" aria-hidden="true" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Close" aria-label="Close"></i></a>
+                                <h4 class="fs-6 text-black">tvůj košík (0 Položky)</h4>
+                            </div>
+                            <div class="minicart-content">
+                                <ul class="m-0 clearfix">
+                                                                        
+                                </ul>
+                            </div>
+                            <div class="minicart-bottom text-black">
+                                <div class="subtotal">
+                                    <span>Mezisoučet:</span>
+                                    <span class="product-price">0.00Kč</span>
+                                </div>
+                                <a href="https://www.pranacz.com/index.php?main_page=checkout_shipping" class="w-100 p-2 my-2 btn rounded proceed-to-checkout">dokonèení</a>
+                                <a href="https://www.pranacz.com/shopping_cart.html" class="w-100 btn btn-outline-primary rounded cart-btn">Prohlédnout košík</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End MiniCart Drawer-->            <div class="modalOverly"></div>
+
+      
+
+</div>
+
+
+  <script type="text/javascript" src="includes/templates/pranacz/jscript/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="includes/templates/template_default/jscript/jquery.min.js"%3E%3C/script%3E'));</script>
+
+<script type="text/javascript" src="includes/templates/pranacz/jscript/jscript_cookies.js"></script>
+<script type="text/javascript" src="includes/templates/pranacz/jscript/jscript_extend.js"></script>
+<script type="text/javascript" src="includes/templates/pranacz/jscript/jscript_plugins.js"></script>
+<script type="text/javascript" src="includes/templates/pranacz/jscript/jscript_zmain.js"></script>
+
+
+
+</body>

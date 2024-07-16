@@ -1,0 +1,877 @@
+<head>
+<title>Levné Webbing Sandals Dr Martens - Dr Martens Velkoobchod</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Webbing Sandals Dr Martens,Levné , Velkoobchod">
+<meta name="description" content="- 30% Webbing Sandals Dr Martens Slevy A Výprodeje. Vrácení Zboží Zdarma. Top Značky. ✔️ Nejvyšší Kvalita Od Těch Nejlepších Značek. Velký Vyběr.">
+<meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+<style>
+    :root{
+        --main-color: #000000;
+        --background-main-color: #000000;
+        --partial-color: #565656;
+        --top-navigation-bg-color: #000000;
+        --top-navigation-color: #FFFFFF;
+        --advertise-avigation-color: #FFFFFF;
+        --advertise-avigation-bg-color: #000000;
+        --bottom-font-color: #FFFFFF;
+        --pc-top-menu-high: 80px;
+        --1024-top-menu-high: 80px;
+        --768-top-menu-high: 80px;
+        --phone-top-menu-high: 40px;
+        --bottom-menu-width: 100%;
+        --bottom-statement-align: center;
+        --pc-logo-high: 40px;
+        --1024-logo-high: 20px;
+        --768-logo-high: 30px;
+        --phone-logo-high: 28px;
+        --add-cart-color:  #FF0000;
+        --menu-independent-high: px;
+        --menu-independent-color: #FF0000;
+        --menu-independent-bg-color: #000000    }
+</style>
+<base href="https://www.docsmartens.cz/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/style.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet1.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_all.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_categories_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_header_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_jquery.mmenu.all.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_lightbox.css">
+<link rel="stylesheet" type="text/css" href="//www.docsmartens.cz/includes/templates/docsmartens/css/stylesheet_slick.css">
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_1.11.1.min.js"></script>
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_2.2.0.min.js"></script>
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_jquery.js"></script>
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_jquery_kinSlideshow.js"></script>
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_lightbox.js"></script>
+<script type="text/javascript" src="//www.docsmartens.cz/includes/templates/docsmartens/jscript/jscript_slick.js"></script>
+<link rel="stylesheet" href="https://www.docsmartens.cz/includes/templates/docsmartens/js/theme/default/layer.css?v=3.5.0" id="layuicss-layer"></head><body id="indexBody" class="mescroll-bar"><div class="mescroll-downwarp"><div class="downwarp-content"><p class="downwarp-progress"></p><p class="downwarp-tip"></p></div></div><nav id="menu" class="mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0"><div class="mm-list-search"><form name="quick_find_header" action="/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" placeholder="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="NvO4UDy2Bp" type="submit" title="Submit search"><i class="material-icons">search</i></button></form><hr size="1"></div><li><a class="mm-subopen" href="#mm-1"></a><a href="/collections/all-c-0.html?&amp;gender=1">Pánské</a></li><li><a class="mm-subopen" href="#mm-5"></a><a href="/collections/all-c-0.html?&amp;gender=2">Dámské</a></li><li><a class="mm-subopen" href="#mm-9"></a><a href="/collections/all-c-0.html?&amp;gender=3">Dětské</a></li><li><a href="/favourite.html" rel="nofollow">Favourites</a></li><li><a href="/contact_us.html" rel="nofollow">Kontakt</a></li><li><a href="/shippinginfo.html" rel="nofollow">Přeprava a doručení</a></li><li><a href="https://www.docsmartens.cz/shopping_cart.html">Shopping Cart&nbsp;(0)</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Pánské</a></li><li><a class="mm-subopen" href="#mm-2"></a><a href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=1">Boty</a></li><li><a class="mm-subopen" href="#mm-3"></a><a href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=1">Obuv</a></li><li><a class="mm-subopen" href="#mm-4"></a><a href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=1">Sandály</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=1">Kotníkové Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=1">Chelsea Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-canvas-boots-c-1_5.html?&amp;gender=1">Canvas Boots</a></li><li><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=1">Šněrovací Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-užitkové-boty-c-1_15.html?&amp;gender=1">Užitkové Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-boty-c-1_17.html?&amp;gender=1">Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-mid-calf-boots-c-1_31.html?&amp;gender=1">Mid Calf Boots</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Obuv</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=1">Oxfordky</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-canvas-shoes-c-7_22.html?&amp;gender=1">Canvas Shoes</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html?&amp;gender=1">Pantofle</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html?&amp;gender=1">Slingbacks</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=1">Webbing Sandals</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=1">Páskové Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html?&amp;gender=1">Sandály Gladiator</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Dámské</a></li><li><a class="mm-subopen" href="#mm-6"></a><a href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=2">Boty</a></li><li><a class="mm-subopen" href="#mm-7"></a><a href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=2">Obuv</a></li><li><a class="mm-subopen" href="#mm-8"></a><a href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=2">Sandály</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=2">Kotníkové Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=2">Chelsea Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-canvas-boots-c-1_5.html?&amp;gender=2">Canvas Boots</a></li><li><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=2">Šněrovací Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-boty-c-1_17.html?&amp;gender=2">Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-kozačky-na-podpatku-c-1_21.html?&amp;gender=2">Kozačky na Podpatku</a></li><li><a href="https://www.docsmartens.cz/collections/boty-boty-casual-c-1_23.html?&amp;gender=2">Boty Casual</a></li><li><a href="https://www.docsmartens.cz/collections/boty-patent-boots-c-1_27.html?&amp;gender=2">Patent Boots</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Obuv</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=2">Oxfordky</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-boty-na-platformy-c-7_9.html?&amp;gender=2">Boty Na Platformy</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-boty-casual-c-7_19.html?&amp;gender=2">Boty Casual</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-boty-mary-jane-c-7_26.html?&amp;gender=2">Boty Mary Jane</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-patent-shoes-c-7_28.html?&amp;gender=2">Patent Shoes</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-boty-se-sponou-c-7_29.html?&amp;gender=2">Boty Se Sponou</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-brogue-boty-c-7_30.html?&amp;gender=2">Brogue Boty</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html?&amp;gender=2">Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html?&amp;gender=2">Pantofle</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html?&amp;gender=2">Slingbacks</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-suede-slingbacks-c-10_14.html?&amp;gender=2">Suede Slingbacks</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=2">Webbing Sandals</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=2">Páskové Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html?&amp;gender=2">Sandály Gladiator</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-patent-sandals-c-10_24.html?&amp;gender=2">Patent Sandals</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-sandály-na-platformě-c-10_25.html?&amp;gender=2">Sandály na Platformě</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Dětské</a></li><li><a class="mm-subopen" href="#mm-10"></a><a href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=3">Boty</a></li><li><a class="mm-subopen" href="#mm-11"></a><a href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=3">Obuv</a></li><li><a class="mm-subopen" href="#mm-12"></a><a href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=3">Sandály</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=3">Kotníkové Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=3">Chelsea Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-nízké-kozačky-c-1_4.html?&amp;gender=3">Nízké Kozačky</a></li><li><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=3">Šněrovací Boty</a></li><li><a href="https://www.docsmartens.cz/collections/boty-boty-casual-c-1_23.html?&amp;gender=3">Boty Casual</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-11"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Obuv</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=3">Oxfordky</a></li><li><a href="https://www.docsmartens.cz/collections/obuv-Šněrovací-boty-c-7_34.html?&amp;gender=3">Šněrovací Boty</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-12"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html?&amp;gender=3">Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=3">Páskové Sandály</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-velcro-sandals-c-10_32.html?&amp;gender=3">Velcro Sandals</a></li><li><a href="https://www.docsmartens.cz/collections/sandály-glitter-sandals-c-10_33.html?&amp;gender=3">Glitter Sandals</a></li></ul></nav>
+
+<div class="mm-page mm-slideout"><div id="q0RPniXu2T">
+    <section class="lazy slider slick-initialized slick-slider" data-sizes="50vw"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4400px; transform: translate3d(-1600px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Slevy Až 50% <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> 5% slevu na Vaši první objednávku <i class="material-icons">money_off</i></div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Doručení Zdarma Od 2000Kč <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> Vrácení Zboží Do 30 Dnů <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="3" aria-hidden="false" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Rychlé doručení <i class="material-icons">flight</i></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Slevy Až 50% <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> 5% slevu na Vaši první objednávku <i class="material-icons">money_off</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Doručení Zdarma Od 2000Kč <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> Vrácení Zboží Do 30 Dnů <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Rychlé doručení <i class="material-icons">flight</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Slevy Až 50% <i class="material-icons">local_shipping</i></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_right</i></button></section>
+    <hr size="1">
+</div><div id="AXDc8v9QwN">
+
+    
+
+
+    
+
+
+    
+    <div id="BaCxDEzEkr"><a href="https://www.docsmartens.cz/"><img src="images/hoverimg/202204201552573882.png"></a></div><div id="xxwvq0no7Q">
+        <div class="Aj8l42FEMA"><div id="menu-head"><ul class="level1"><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=1">Pánské</a><ul class="level2"><li><a class="submenu" href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=1">Boty</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=1">Kotníkové Boty</a><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=1">Chelsea Boty</a><a href="https://www.docsmartens.cz/collections/boty-canvas-boots-c-1_5.html?&amp;gender=1">Canvas Boots</a><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=1">Šněrovací Boty</a><a href="https://www.docsmartens.cz/collections/boty-užitkové-boty-c-1_15.html?&amp;gender=1">Užitkové Boty</a><a href="https://www.docsmartens.cz/collections/boty-boty-c-1_17.html?&amp;gender=1">Boty</a><a href="https://www.docsmartens.cz/collections/boty-mid-calf-boots-c-1_31.html?&amp;gender=1">Mid Calf Boots</a></li><li class="tVNG1MWmil"></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=1">Obuv</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=1">Oxfordky</a><a href="https://www.docsmartens.cz/collections/obuv-canvas-shoes-c-7_22.html?&amp;gender=1">Canvas Shoes</a></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=1">Sandály</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html?&amp;gender=1">Pantofle</a><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html?&amp;gender=1">Slingbacks</a><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=1">Webbing Sandals</a><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=1">Páskové Sandály</a><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html?&amp;gender=1">Sandály Gladiator</a></li></ul></li><ul class="categories_img"><li><a href="https://www.docsmartens.cz/collections/boty-c-1.html?gender=1"><img src="images/hoverimg/202204241001341717.jpg"></a><span style="text-align: center; display: block;">Boty</span></li></ul></ul></li><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=2">Dámské</a><ul class="level2"><li><a class="submenu" href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=2">Boty</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=2">Kotníkové Boty</a><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=2">Chelsea Boty</a><a href="https://www.docsmartens.cz/collections/boty-canvas-boots-c-1_5.html?&amp;gender=2">Canvas Boots</a><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=2">Šněrovací Boty</a><a href="https://www.docsmartens.cz/collections/boty-boty-c-1_17.html?&amp;gender=2">Boty</a><a href="https://www.docsmartens.cz/collections/boty-kozačky-na-podpatku-c-1_21.html?&amp;gender=2">Kozačky na Podpatku</a><a href="https://www.docsmartens.cz/collections/boty-boty-casual-c-1_23.html?&amp;gender=2">Boty Casual</a></li><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/boty-patent-boots-c-1_27.html?&amp;gender=2">Patent Boots</a></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=2">Obuv</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=2">Oxfordky</a><a href="https://www.docsmartens.cz/collections/obuv-boty-na-platformy-c-7_9.html?&amp;gender=2">Boty Na Platformy</a><a href="https://www.docsmartens.cz/collections/obuv-boty-casual-c-7_19.html?&amp;gender=2">Boty Casual</a><a href="https://www.docsmartens.cz/collections/obuv-boty-mary-jane-c-7_26.html?&amp;gender=2">Boty Mary Jane</a><a href="https://www.docsmartens.cz/collections/obuv-patent-shoes-c-7_28.html?&amp;gender=2">Patent Shoes</a><a href="https://www.docsmartens.cz/collections/obuv-boty-se-sponou-c-7_29.html?&amp;gender=2">Boty Se Sponou</a><a href="https://www.docsmartens.cz/collections/obuv-brogue-boty-c-7_30.html?&amp;gender=2">Brogue Boty</a></li><li class="tVNG1MWmil"></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=2">Sandály</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html?&amp;gender=2">Sandály</a><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html?&amp;gender=2">Pantofle</a><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html?&amp;gender=2">Slingbacks</a><a href="https://www.docsmartens.cz/collections/sandály-suede-slingbacks-c-10_14.html?&amp;gender=2">Suede Slingbacks</a><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=2">Webbing Sandals</a><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=2">Páskové Sandály</a><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html?&amp;gender=2">Sandály Gladiator</a></li><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/sandály-patent-sandals-c-10_24.html?&amp;gender=2">Patent Sandals</a><a href="https://www.docsmartens.cz/collections/sandály-sandály-na-platformě-c-10_25.html?&amp;gender=2">Sandály na Platformě</a></li></ul></li><ul class="categories_img"><li><a href="https://www.docsmartens.cz/collections/boty-c-1.html?gender=2"><img src="images/hoverimg/202204241001348775.jpg"></a><span style="text-align: center; display: block;">Boty</span></li></ul></ul></li><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=3">Dětské</a><ul class="level2"><li><a class="submenu" href="https://www.docsmartens.cz/collections/boty-c-1.html?&amp;gender=3">Boty</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html?&amp;gender=3">Kotníkové Boty</a><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html?&amp;gender=3">Chelsea Boty</a><a href="https://www.docsmartens.cz/collections/boty-nízké-kozačky-c-1_4.html?&amp;gender=3">Nízké Kozačky</a><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html?&amp;gender=3">Šněrovací Boty</a><a href="https://www.docsmartens.cz/collections/boty-boty-casual-c-1_23.html?&amp;gender=3">Boty Casual</a></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/obuv-c-7.html?&amp;gender=3">Obuv</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html?&amp;gender=3">Oxfordky</a><a href="https://www.docsmartens.cz/collections/obuv-Šněrovací-boty-c-7_34.html?&amp;gender=3">Šněrovací Boty</a></li></ul></li><li><a class="submenu" href="https://www.docsmartens.cz/collections/sandály-c-10.html?&amp;gender=3">Sandály</a><ul><li class="tVNG1MWmil"><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html?&amp;gender=3">Sandály</a><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html?&amp;gender=3">Páskové Sandály</a><a href="https://www.docsmartens.cz/collections/sandály-velcro-sandals-c-10_32.html?&amp;gender=3">Velcro Sandals</a><a href="https://www.docsmartens.cz/collections/sandály-glitter-sandals-c-10_33.html?&amp;gender=3">Glitter Sandals</a></li></ul></li><ul class="categories_img"><li><a href="https://www.docsmartens.cz/collections/boty-c-1.html?gender=3"><img src="images/hoverimg/202204241001348799.jpg"></a><span style="text-align: center; display: block;">Boty</span></li></ul></ul></li><li></li></ul>
+</div><div class="header"><a href="#menu"><i class="material-icons">menu</i></a></div><script type="text/javascript" src="js/jquery-1.7.2.min.js"></script><script type="text/javascript" src="js/jquery-1.7.2.min.js"></script><script type="text/javascript" src="js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+</script></div><div id="carts"></div></div>
+
+    <div id="AWpcHKUkrM">
+                <div class="itxqA5BFKy">
+            <div id="U4fOBHEQfe">
+                                                <a href="javascript:void(0);" title="Log In" rel="nofollow" class="login_box tyTOtonmDc"><i class="material-icons">person</i></a>
+                                        <a rel="nofollow" title="Registrace" id="registerLogout" href="javascript:void(0);"><i class="material-icons">person_add_alt_1</i></a>
+                    <a id="favourites" title="Favourites"><i class="material-icons login_box">favorite</i></a>
+                                <div id="DxGoKw5UDB">
+                    <div class="OGdr3PewCt">
+                                                <img src="includes/templates/docsmartens/images/flag/CZE.png" title="Česká Republika" alt="CZK">
+                    </div>
+                    <div class="bRdjdLpiMI">
+                        <!-- ========== CURRENCIES ========= -->
+                                                                                                <!-- ====================================== -->
+                    </div>
+                </div>
+            </div>
+            <div class="search">                <form name="quick_find_header" action="https://www.docsmartens.cz/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" placeholder="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="NvO4UDy2Bp" type="submit" title="Submit search"><i class="material-icons">search</i></button></form>            </div>
+        </div><!-- /container -->
+
+
+
+        </div>
+        <!-- logininf -->
+    </div><div id="login_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Log In</div>
+        <form name="login" action="/index.php?main_page=login&amp;action=process" method="post" id="loginForm"><input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<div class="p-3"></div>
+        	<div class="loginInput">
+        	    <input class="form-control" type="email" name="email_address" size="41" maxlength="96" id="login-email-address" autofocus="" placeholder="Emailové Adresa" required="">
+        	</div>
+        
+        	<div class="loginInput">
+        	    <input class="form-control" type="password" name="password" size="41" maxlength="255" id="login-password" autocomplete="off" placeholder="Heslo" required="">
+        	</div>
+        	
+        	<input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<!--
+        	<div id="loginDefault-btn-toolbar" class="btn-toolbar justify-content-between" role="toolbar">
+        	    <a href="http://192.168.1.99/53484-qiuyi004.com-en/index.php?main_page=password_forgotten">Forgot your password?</a>
+        	    <button type="submit" class="btn button_login button_login">Log In</button>
+        	</div>
+        	-->
+    
+    	</form>
+        <!--
+        <div class="loginInput"><input type="text" name="email_address" size="41" maxlength="288" id="login-email-address" placeholder="Email Address:"></div>
+        <div class="loginInput"><input type="password" name="password" size="41" maxlength="120" id="login-password" placeholder="Password:"></div>
+        -->
+        <div class="buttonRow" id="forgotpswd"><span style="cursor: pointer;">Zapomněli jste heslo?</span></div>
+        <div class="loginLayerBtn bSUzCubgpg" id="ajaxLoginBtn"><span style="cursor: pointer;" id="ajaxLogin">Log In</span></div>
+
+		<div class="loginLayerBtn bSUzCubgpg" id="createAccountLayerBtn"><span style="cursor: pointer;">Registrace</span></div>
+    </div>
+</div><div id="forgotpswd_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Zapomněli jste heslo</div>
+        <div class="layerMainFont">Prosím zadejte svůj email a my Vám zašleme nové heslo.</div>
+        <div class="loginInput" style="margin-top:1em;"><input type="text" name="forgot_email_address" size="41" maxlength="288" id="forgot_email_address" placeholder="Emailové Adresa"></div>
+        <div class="loginLayerBtn bSUzCubgpg" id="forgotLayerBtn">potvrdit</div>
+    </div>
+</div><div id="register_layer" style="display:none;">
+    <div id="registerForm" class="registerForm">
+		<form name="ajaxCreateAccountForm">
+		<input type="hidden" name="action" value="process">
+		<input type="hidden" name="email_pref_html" value="email_format">
+        <div class="loginTitle">Registrace</div>
+        <div class="loginInput fl"><input type="text" name="firstname" size="41" maxlength="288" id="firstname" placeholder="Jméno:"></div>
+        <div class="loginInput fl"><input type="text" name="lastname" size="41" maxlength="288" id="lastname" placeholder="Příjmení:"></div>
+        <div class="loginInput fl"><input type="text" name="street_address" size="41" maxlength="288" id="street-address" placeholder="Ulice:"></div>
+        <div class="loginInput fl"><input type="text" name="city" size="41" maxlength="288" id="city" placeholder="Město:"></div>
+        <div class="loginInput fl">
+            <select name="zone_country_id" class="layerFormSelect" id="select_country" onchange="update_city(this.value);" style="display: none;"></select>
+        </div>
+        <div class="loginInput fl">
+            <select name="zone_id" class="layerFormSelect" id="select_city" style="display: none;"></select>
+        </div>
+        <div class="loginInput fl"><input type="text" name="postcode" size="41" maxlength="288" id="postcode" placeholder="PSČ:"></div>
+        <div class="loginInput fl"><input type="text" name="telephone" size="41" maxlength="288" id="telephone" placeholder="Telefon:"></div>
+        <div class="loginInput fl"><input type="text" name="email_address" size="41" maxlength="288" id="register-email-address" placeholder="Emailové Adresa"></div>
+        <div class="loginInput fl"><input type="password" name="password" size="41" maxlength="120" id="register-password" placeholder="Heslo"></div>
+        <div class="loginInput fl"><input type="password" name="confirmation" size="41" maxlength="120" id="register_password_confirm" placeholder="Potvrdit Nové Heslo:"></div>
+        <div class="loginInput fl">
+        <input type="text" name="setcodes" placeholder="Ověřovací Kód" maxlength="5" id="Txtidcodes" class="txtVerification">
+            <canvas id="idcodes" width="120" height="40"></canvas>
+
+        </div>
+        <div class="loginLayerBtn bSUzCubgpg uGzLJ6zuHE" id="registerLayerBtn">potvrdit</div>
+            <script>
+                var canvass = document.getElementById("idcodes");
+                var contexts = canvass.getContext("2d");
+                var buttons = document.getElementById("registerLayerBtn");
+                var inputs = document.getElementById("Txtidcodes");
+                draws();
+                canvass.onclick = function () {
+                    contexts.clearRect(0, 0, 120, 40);
+                    draws();
+                }
+                function getColors() {
+                    var r = Math.floor(Math.random() * 256);
+                    var g = Math.floor(Math.random() * 256);
+                    var b = Math.floor(Math.random() * 256);
+                    return "rgb(" + r + "," + g + "," + b + ")";
+                }
+                function draws() {
+                    contexts.strokeRect(0, 0, 120, 40);
+                    var aCode = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f"];
+                    var arr = []
+                    var num
+                    for (var i = 0; i < 4; i++) {
+                        var x = 20 + i * 20;
+                        var y = 20 + 10 * Math.random();
+                        var index = Math.floor(Math.random() * aCode.length);
+                        var txt = aCode[index];
+                        contexts.font = "bold 20px 微软雅黑";
+                        contexts.fillStyle=getColors();
+                        contexts.translate(x,y);
+                        var deg=30*Math.random()*Math.PI/180;
+                        contexts.rotate(deg);
+                        contexts.fillText(txt, 0, 0);
+                        contexts.rotate(-deg);
+                        contexts.translate(-x,-y);
+                        arr[i] = txt
+                    }
+                    num = arr[0] + arr[1] + arr[2] + arr[3]
+
+                    for (var i = 0; i < 8; i++) {
+                        contexts.beginPath();
+                        contexts.moveTo(Math.random() * 120, Math.random() * 40);
+                        contexts.lineTo(Math.random() * 120, Math.random() * 40);
+                        contexts.strokeStyle=getColors();
+                        contexts.stroke();
+                    }
+
+                    for (var i = 0; i < 20; i++) {
+                        contexts.beginPath();
+                        var x = Math.random() * 120;
+                        var y = Math.random() * 40;
+                        contexts.moveTo(x, y);
+                        contexts.lineTo(x + 1, y + 1);
+                        contexts.strokeStyle=getColors();
+                        contexts.stroke();
+                    }
+
+
+                    buttons.onclick = function () {
+                        var text = inputs.value
+                        if (text === num) {
+                            textname = true;
+                        } else {
+                            textname = false;
+                            errorname = 'Ověřovací Kód: Chyba';
+                        }
+                    }
+
+                }
+            </script>
+	  </form>
+    </div>
+</div><div class="initLayerShade" id="initLayerShade" style="display:none;"></div><div id="LaIb6Dj5Eb"><div id="iCadRVJk0l">  <a href="https://www.docsmartens.cz/">Home</a>&nbsp;::&nbsp;
+  <a href="https://www.docsmartens.cz/collections/sandály-c-10.html">Sandály</a>
+
+</div></div><div id="h2GsD5FN0J">
+		<h1 id="productListHeading">Webbing Sandals</h1>
+			<script>
+	$(function(){
+	var windowWidth = $(window).width();
+		if(windowWidth < 1024){
+    var HeadNav = $("#h2GsD5FN0J");
+    var toTopHeight = HeadNav.offset().top;
+    $(window).scroll(function() {
+        if( $(document).scrollTop() > toTopHeight ){
+            if ('undefined' == typeof(document.body.style.maxHeight)) {
+                var scrollTop = $(document).scrollTop();
+                HeadNav.css({'position':'absolute','top':scrollTop+'px'});
+            }else{
+                HeadNav.addClass("gdflex");
+            }
+        }else{
+            if ('undefined' == typeof(document.body.style.maxHeight)) {
+                HeadNav.css({'position':'absolute','top':toTopHeight+'px'});
+            }else{
+                HeadNav.removeClass("gdflex");
+            }
+        }
+		});
+		}
+});
+</script>
+					<div class="burger">
+					<a href="javascript:void(0)" id="navToggle">
+					<i class="material-icons">storage</i>
+			        </a>
+					</div>
+					<div class="KVuQDvqOOk">
+                        <div class="KVRi88Outp" onclick="showsort(this)"><span>Řadit Podle: Doporučené Modely</span><i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+                        <div class="Q6iLCKE6mO">
+                            <span>Doporučené Modely</span><span><a href="/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html?sorting=priceDESC">Cena: od Nejvyšší</a></span>
+                            <span><a href="/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html?sorting=priceASC">Cena: od Nejnižší</a></span>                        </div>
+					</div>
+		        <div class="clear"></div>
+</div><div id="sz9KxQB2uU">
+<!--banner_1-->
+<div class="awCCzLy7og">
+<div id="yDupTtfbAE">
+
+<div id="d9rNm1Xggu" class="ctaxheB6cD">
+            <script type="text/javascript">
+        $(function() {
+            $("#slider-range").slider({
+                range: true,
+                min: 1068,
+                max: 1187,
+                step: 1,
+                values: [1068,1187],
+                slide: function(event, ui) {
+                    $(".first_price").val(ui.values[0]);
+                    $(".last_price").val(ui.values[1]);
+                }
+            });
+        });
+</script>
+<script type="text/javascript">
+    function showaa(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+
+      if(obj_parent.className=="uI8sd1Ofcp")
+      {
+        obj_parent.className="OUMQijoBAy";
+      }
+      else
+      {
+        obj_parent.className="uI8sd1Ofcp";
+      }
+
+    }
+</script>
+<script type="text/javascript">
+    function showbb(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+
+      if(obj_parent.className=="dlUQTbCz8g")
+      {
+        obj_parent.className="cTHqn3OryH";
+      }
+      else
+      {
+        obj_parent.className="dlUQTbCz8g";
+      }
+
+    }
+</script><script type="text/javascript" src="includes/templates/docsmartens/jscript/jquery-price-slider.js"></script><div class="m_nav"><div class="top clearfix"><i class="material-icons closed">cancel</i></div><div id="D2D1h1vVNh"><div id="Af2VcArlOz"><span>Řadit Podle: </span><span><i class="material-icons closed">adjust</i>Doporučené Modely</span><span><i class="material-icons closed">panorama_fish_eye</i><a href="/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html?sorting=priceDESC">Cena: od Nejvyšší</a></span><span><i class="material-icons closed">panorama_fish_eye</i><a href="/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html?sorting=priceASC">Cena: od Nejnižší</a></span></div><div id="zMNhm4RXFG"><div><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html">Sandály</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html">Pantofle</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html">Slingbacks</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-suede-slingbacks-c-10_14.html">Suede Slingbacks</a></div><div class="hATdIWPSvN"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html">Webbing Sandals</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html">Páskové Sandály</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html">Sandály Gladiator</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-patent-sandals-c-10_24.html">Patent Sandals</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-sandály-na-platformě-c-10_25.html">Sandály na Platformě</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-velcro-sandals-c-10_32.html">Velcro Sandals</a></div><div><a href="https://www.docsmartens.cz/collections/sandály-glitter-sandals-c-10_33.html">Glitter Sandals</a></div></div><div class="uI8sd1Ofcp">
+	<div class="qmBEMki2KE" onclick="showaa(this)">Pohlaví<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="dlUQTbCz8g"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=1"><i class="material-icons">check_box_outline_blank</i>Pánské</a><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;gender=2"><i class="material-icons">check_box_outline_blank</i>Dámské</a></div></div><div class="uI8sd1Ofcp">
+	<div class="qmBEMki2KE" onclick="showaa(this)">Barva<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="olxKmSs2PF"><div class="HWELRQgQmB"><a style="background:#000" title="Černé" href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;color=Černé"></a></div><div class="clear"></div></div></div><div class="uI8sd1Ofcp">
+	<div class="qmBEMki2KE" onclick="showaa(this)">Velikost<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="HMNmsc1Nkf"><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=46">46</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=45">45</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=44">44</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=47">47</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=48">48</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=50">50</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=49.5">49.5</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=43">43</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=42">42</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=36">36</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=35">35</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=34">34</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=37">37</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=38">38</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=41">41</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=39">39</a></div><div class="HWELRQgQmB"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html?&amp;size=EUR">EUR</a></div><div class="clear"></div></div></div><div class="uI8sd1Ofcp">
+<div class="qmBEMki2KE" onclick="showaa(this)">Cena<span>(Kč)</span><i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+<div class="olxKmSs2PF"><form method="get" action="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html" name="price_header">
+
+  <div class="nstSlider" data-range_min="1068" data-range_max="1187" data-cur_min="1068" data-cur_max="1187" style="width: 200px;">
+      <div class="bar" style="width: 190px; background: rgb(238, 238, 238); left: 10px;"></div>
+      <div class="leftGrip" tabindex="0" style="left: 0px;"></div>
+      <div class="rightGrip" tabindex="0" style="left: 180px;"></div>
+  </div>
+  <div class="leftLabel"></div>
+  <div class="rightLabel"></div>
+
+  <div id="newFirstPrice" value="1068" style="display:none;"></div>
+  <div id="newLastPrice" value="1187" style="display:none;"></div>
+	<div id="amount"><div id="Iyau3RCw9P">
+        <input type="text" name="pfrom" id="first_price" class="first_price" value="1068"><span>-</span>
+        <input type="text" name="pto" class="last_price" id="last_price" value="1187"></div>
+        <input class="ioV8ITq3ll" type="submit" value="GO">
+	</div></form></div><div class="clearBoth"></div></div></div></div>
+<script src="js/jquery.nstSlider.min.js"></script>
+<script>
+    $('.nstSlider').nstSlider({
+        left_grip_selector: '.leftGrip',
+        right_grip_selector: '.rightGrip',
+        value_bar_selector: '.bar',
+        highlight: {
+            grip_class: 'gripHighlighted',
+            panel_selector: '.highlightPanel'
+        },
+        value_changed_callback: function(cause, leftValue, rightValue) {
+            $('#first_price').val(leftValue);
+            $('#last_price').val(rightValue);
+        },
+    });
+
+    $(document).scroll(function () {
+       var winWid = $(window).width();
+       if(winWid<1024){
+          $('.m_nav').removeClass('leftMenuFixed');
+       }else{
+          var bodyScrollTop = $(document).scrollTop();; //滚动高度
+          if(bodyScrollTop>310){
+           if(!$('.m_nav').hasClass('leftMenuFixed')){
+               $('.m_nav').addClass('leftMenuFixed');
+           }
+          }else{
+               $('.m_nav').removeClass('leftMenuFixed');
+          }
+       }
+
+    })
+
+</script>
+</div>
+<div class="LmwgiOTzRu">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+<!-- content -->
+
+<div id="thiscPath" style="display:none;">10_16</div>
+
+
+<div id="mescroll" class="mescroll">
+
+	<div id="productListing" class="productListing" style="min-height: 1032px;">
+		<div>
+		<div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.docsmartens.cz/products/pánské-webbing-sandals-dr-martens-forster-Černé-tshzr8609-p-46.html"><img src="images/docsmartens/Pánské_Webbing_Sandals_Dr_Martens_Forste-TSHZR-8609.jpg"></a></div><p class="productname"><a href="https://www.docsmartens.cz/products/pánské-webbing-sandals-dr-martens-forster-Černé-tshzr8609-p-46.html" class="titleLink">Pánské Webbing Sandals Dr Martens Forster Černé | TSHZR-8609</a></p><div class="OD76aX3ulQ"><div class="color_q">1 Barva</div><div class="productprice"><span class="normalprice">1,571Kč </span><span class="productSpecialPrice">1,068Kč</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.docsmartens.cz/products/pánské-webbing-sandals-dr-martens-forster-Černé-tshzr8609-p-46.html" proid="46" proname="Pánské Webbing Sandals Dr Martens Forster Černé | TSHZR-8609" procolor="Černé" prodiscount="-32%" prourl="https://www.docsmartens.cz/products/pánské-webbing-sandals-dr-martens-forster-Černé-tshzr8609-p-46.html" proimage="images/docsmartens/Pánské_Webbing_Sandals_Dr_Martens_Forste-TSHZR-8609.jpg">
+						<img src="images/small/docsmartens/Pánské_Webbing_Sandals_Dr_Martens_Forste-TSHZR-8609_SMALL.jpg" title="Černé">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">1,571Kč </span><span class="productSpecialPrice">1,068Kč</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-forster-Černé-obwtj0519-p-45.html"><img src="images/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Forste-OBWTJ-0519.jpg"></a></div><p class="productname"><a href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-forster-Černé-obwtj0519-p-45.html" class="titleLink">Dámské Webbing Sandals Dr Martens Forster Černé | OBWTJ-0519</a></p><div class="OD76aX3ulQ"><div class="color_q">1 Barva</div><div class="productprice"><span class="normalprice">1,571Kč </span><span class="productSpecialPrice">1,068Kč</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-forster-Černé-obwtj0519-p-45.html" proid="45" proname="Dámské Webbing Sandals Dr Martens Forster Černé | OBWTJ-0519" procolor="Černé" prodiscount="-32%" prourl="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-forster-Černé-obwtj0519-p-45.html" proimage="images/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Forste-OBWTJ-0519.jpg">
+						<img src="images/small/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Forste-OBWTJ-0519_SMALL.jpg" title="Černé">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">1,571Kč </span><span class="productSpecialPrice">1,068Kč</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-pearson-Černé-xtlnv8356-p-170.html"><img src="images/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Pearso-XTLNV-8356.jpg"></a></div><p class="productname"><a href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-pearson-Černé-xtlnv8356-p-170.html" class="titleLink">Dámské Webbing Sandals Dr Martens Pearson Černé | XTLNV-8356</a></p><div class="OD76aX3ulQ"><div class="color_q">1 Barva</div><div class="productprice"><span class="normalprice">1,746Kč </span><span class="productSpecialPrice">1,187Kč</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-pearson-Černé-xtlnv8356-p-170.html" proid="170" proname="Dámské Webbing Sandals Dr Martens Pearson Černé | XTLNV-8356" procolor="Černé" prodiscount="-32%" prourl="https://www.docsmartens.cz/products/dámské-webbing-sandals-dr-martens-pearson-Černé-xtlnv8356-p-170.html" proimage="images/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Pearso-XTLNV-8356.jpg">
+						<img src="images/small/docsmartens/Dámské_Webbing_Sandals_Dr_Martens_Pearso-XTLNV-8356_SMALL.jpg" title="Černé">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">1,746Kč </span><span class="productSpecialPrice">1,187Kč</span></span>
+						</div></div></div></div></div>	</div>
+        	
+</div>
+<script src="includes/templates/docsmartens/templates/js/mescroll.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="includes/templates/docsmartens/js/layer.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    // var maxHeight = 0;
+    sessionStorage.setItem('maxHeight',0);
+	$(".layui-layer-loading").hide();
+
+    $(function(){
+        var winHeigh = $(window).height() - $("#hhSXo5x8xT").height();
+		var leftMenuHeigh = $("#d9rNm1Xggu").height();
+		if(winHeigh > leftMenuHeigh){
+			$("#productListing").css("min-height",winHeigh);
+		}else{
+			$("#productListing").css("min-height",leftMenuHeigh);
+		}
+
+
+		$(window).scroll(function(){
+			var winH = $(window).height()+$("#hhSXo5x8xT").height()+3;
+			var winTop = $(window).scrollTop();
+			var bodyH = $("body").height();
+			var theSub = $("body").height()-$(window).scrollTop();
+			if(theSub<=winH){
+				$(".m_nav").css("padding-bottom",winH-theSub)
+			}else{
+				$(".m_nav").css("padding-bottom",0)
+			}
+		})
+
+        //创建MeScroll对象
+        var mescroll = new MeScroll("body", {
+            //down: {
+                //auto: false, //是否在初始化完毕之后自动执行下拉回调callback; 默认true
+                //callback: downCallback //下拉刷新的回调
+            //},
+            up: {
+                auto: true, //是否在初始化时以上拉加载的方式自动加载第一页数据; 默认false
+                page: {
+                  num: 0, //当前页 默认0,回调之前会加1; 即callback(page)会从1开始
+                  size: 12, //每页数据条数
+                  time: null //加载第一页数据服务器返回的时间; 防止用户翻页时,后台新增了数据从而导致下一页数据重复;
+                },
+                isBounce: false, //此处禁止ios回弹,解析(务必认真阅读,特别是最后一点): http://www.mescroll.com/qa.html#q10
+                callback: upCallback, //上拉回调,此处可简写; 相当于 callback: function (page) { upCallback(page); }
+                inited: function(mescroll, upwarp) {
+                  //console.log("up --> inited");
+                  //初始化完毕的回调,可缓存dom 比如
+                  $('.mescroll-upwarp').remove()
+                  $('.mescroll-totop').hide()
+                  mescroll.upProgressDom = upwarp.getElementsByClassName("upwarp-progress")[0];
+                }
+            }
+        });
+
+        /*上拉加载的回调 page = {num:1, size:10}; num:当前页 从1开始, size:每页数据条数 */
+        function upCallback(page){
+            //联网加载数据
+            //sessionStorage.setItem('page_index',page.num)
+            //console.log('page_index=='+page.num)
+            var searchUrl = location.search;
+			$(".selfLoading").show();
+            $(".layui-layer-shade").hide();
+            $('.layui-layer-loading').addClass('isLoadMore');
+            var href = window.location.href; /* 获取完整URL */
+            var host = window.location.host; /* 获取完整host */
+            var htmlIndex = href.indexOf('.html');
+            var pathNum2 = href.substring(htmlIndex-2,htmlIndex-1)
+            var pathNum1 = href.substring(htmlIndex-1,htmlIndex)
+            //console.log('pathNum1='+pathNum1)
+            //console.log('pathNum2='+pathNum2)
+            var cPath = $('#thiscPath').text();
+            var pageNum = page.num+1;
+            var requestUrl = "/api/product_list"+searchUrl+"&page="+pageNum+'&cPath='+cPath
+             //console.log('host='+host)
+             //console.log('requestUrl='+requestUrl)
+
+            $.ajax({
+                type: "GET",
+                url: requestUrl,
+                // async: false,
+                dataType: "json", //预期服务器返回数据的类型
+                success: function(data){
+					$(".selfLoading").hide();
+                    if(data.list){
+                    var productListResonse = data
+                    mescroll.endByPage(productListResonse.list.length,productListResonse.count-12);
+                    for(var i=0; i<productListResonse.list.length;i++){
+                       var productInfoList = productListResonse.list[i];
+                       var productListHtml = '';
+                       for(var j=0; j<productInfoList.length;j++){
+                            var proId = productInfoList[j].products_id;
+                            var proName= productInfoList[j].products_name;
+                            var proImage = productInfoList[j].products_image;
+                            var proImage_img = proImage.replace(/images\//,"");
+                            var proImage_a = '.'+proImage_img.replace(/.+\./,"");
+                            var proImage_hz = '_SMALL'+proImage_a;
+                            var proImage_base = proImage.replace(proImage_a,"");
+                            var small_images = 'images/small/'+proImage_base+proImage_hz;
+                            var proColor = productInfoList[j].products_color;
+                            var proSpecialsPrice = productInfoList[j].specials_new_products_price;
+                            var proFinalPrice = productInfoList[j].final_price;
+                            var proUrl = productInfoList[j].product_url;
+                            var proTjProductsPrice = productInfoList[j].tj_products_price;
+                            productListHtml +=
+                                '<div class="productColorList">'+
+                                    '<a class="colorLink" href="'+proUrl+'" proId="'+proId+'" proId="'+proId+'" proName="'+proName+'" proColor="'+proColor+'" proUrl="'+proUrl+'" proImage="images/'+proImage+'">'+
+                                        '<img title="'+proColor+'" src="'+small_images+'">'+
+                                    '</a>'+
+									'<span class="hideTjPrice" style="display:none;">'+proTjProductsPrice+'</span>'+
+                                '</div>'
+                       }
+
+                       var products_id = productInfoList[0].products_id
+                       var products_image = productInfoList[0].products_image
+                       var products_name = productInfoList[0].products_name
+                       var tj_products_price = productInfoList[0].tj_products_price
+                       var product_url = productInfoList[0].product_url
+                       var colorLenght = productInfoList.length
+                       var listHtml =
+                        '<div class="productNewList">'+
+                         '<div class="productsCol firstColumn">'+
+                          '<div class="colBorder">'+
+                           '<div id="gallery" class="ad-gallery">'+
+                            '<div class="productShowImage"><a href="'+product_url+'"><img src="images/'+products_image+'"></a></div>'+
+                            '<p class="productname"><a class="titleLink" title="'+products_name+'" href="'+product_url+'">'+products_name+'</a></p>'+
+                             '<div class="OD76aX3ulQ">'+
+                              '<div class="productprice">'+tj_products_price+'</div>'+
+                              '<div class="color_q">'+colorLenght+' Barva</div>'+
+                              '<div class="clear"></div>'+
+                             '</div>'+
+                             '<div class="productColorLists">'+productListHtml+'</div>'+
+                           '</div>'+
+                          '</div>'+
+                         '</div>'+
+                        '</div>';
+                        //debugger
+                         //$('#productLists').push(listHtml)
+                         var listDom=document.getElementById("productLists");
+                         //先保存div中原来的html
+                         //再跟你想追加的代码加到一起插入div中
+                         listDom.innerHTML = listDom.innerHTML + listHtml;
+                         //initProductListHeight();
+                         $('.productColorList').hover(function(){
+                            $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                             $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+							var aaa=$(this).find('.hideTjPrice').html()
+                            $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+                         });
+                         var winWid = $(window).width();
+                         if(winWid<=1024){
+                            $('.productColorList').find('a').attr('href','javascript:void(0);')
+                            $('.productColorList').click(function(){
+                                $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                                $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+                                $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+                             });
+                         }
+					   }
+					}
+                 
+                },
+                error: function(jqXHR){
+                }
+            })
+
+        }
+
+        /*设置列表数据*/
+        function setListData(curPageData, isAppend) {
+            var listDom=document.getElementById("productLists");
+            //先保存div中原来的html
+            var html = listDom.innerHTML;
+            //再跟你想追加的代码加到一起插入div中
+            listDom.innerHTML = html + document.getElementById("hideProduct").innerHTML;
+        }
+
+        function initProductListHeight(){
+            var flagMax = sessionStorage.getItem('maxHeight')
+            $('.productNewList').each(function(i, btn){
+                var thisHeight = $(this).height();
+                if(parseInt(thisHeight) > parseInt(flagMax)){
+                    flagMax = thisHeight
+                }
+            });
+            sessionStorage.setItem('maxHeight',flagMax)
+            $('.productNewList').css("height",flagMax);
+        }
+
+        $('.productColorList').hover(function(){
+            $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+            $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+            var aaa=$(this).find('.hideTjPrice').html()
+            $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+        });
+        var winWid = $(window).width();
+        if(winWid<=1024){
+            $('.productColorList').find('a').attr('href','javascript:void(0);')
+            $('.productColorList').click(function(){
+                $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('img').attr('src'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+                $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+            });
+        }
+
+    })
+
+</script>
+
+
+</div>
+
+<!-- content -->
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div><div id="box_foot_id" style="display: none">hhSXo5x8xT</div><div id="hhSXo5x8xT">
+        <hr size="1">
+        <div id="fKDMr26X2e">
+            <div id="v6FQiJD0vO">            <div id="CVMyOWSWEs">                            <ul>
+<!--<li><a href="https://www.docsmartens.cz/">Home</a></li>-->
+<li><a href="https://www.docsmartens.cz/about_us.html" rel="nofollow" style="border:none;">O nás</a><hr size="1"></li>
+<li><a href="https://www.docsmartens.cz/shippinginfo.html" rel="nofollow" style="border:none;">Přeprava a doručení</a><hr size="1"></li>
+<li><a href="https://www.docsmartens.cz/privacy.html" rel="nofollow">Ochrana Osobních Údajů</a><hr size="1"></li>
+<li><a href="https://www.docsmartens.cz/contact_us.html" rel="nofollow">Kontakt</a><hr size="1"></li>
+<li><a href="https://www.docsmartens.cz/return.html" rel="nofollow">Vrácení zboží</a><hr size="1"></li>
+<li><a href="https://www.docsmartens.cz/payment_method.html" rel="nofollow">Způsoby platby</a><hr size="1"></li>
+    <li><a href="https://www.docsmartens.cz/outlet.html" rel="nofollow">Outlet</a><hr size="1"></li>
+    </ul>                    </div>
+        <div class="EbU9RV9VaC"><div id="ncw7uQTGns"><div class="Vja7LbllJV"><a href="https://www.docsmartens.cz/collections/boty-c-1.html" class="UvKfMPo4pk">Boty</a><i class="material-icons icons1" onclick="showcc(this)">add</i><i class="material-icons icons2" onclick="showcc(this)">remove</i><div class="clear"></div><hr size="1"><div class="DoXGO1B3xi"><ul><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/boty-kotníkové-boty-c-1_2.html">Kotníkové Boty</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-chelsea-boty-c-1_3.html">Chelsea Boty</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-nízké-kozačky-c-1_4.html">Nízké Kozačky</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-canvas-boots-c-1_5.html">Canvas Boots</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-Šněrovací-boty-c-1_6.html">Šněrovací Boty</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-užitkové-boty-c-1_15.html">Užitkové Boty</a><hr size="1"></li><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/boty-boty-c-1_17.html">Boty</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-kozačky-na-podpatku-c-1_21.html">Kozačky na Podpatku</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-boty-casual-c-1_23.html">Boty Casual</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-patent-boots-c-1_27.html">Patent Boots</a><hr size="1"><a href="https://www.docsmartens.cz/collections/boty-mid-calf-boots-c-1_31.html">Mid Calf Boots</a><hr size="1"></li></ul></div></div><div class="Vja7LbllJV"><a href="https://www.docsmartens.cz/collections/obuv-c-7.html" class="UvKfMPo4pk">Obuv</a><i class="material-icons icons1" onclick="showcc(this)">add</i><i class="material-icons icons2" onclick="showcc(this)">remove</i><div class="clear"></div><hr size="1"><div class="DoXGO1B3xi"><ul><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/obuv-oxfordky-c-7_8.html">Oxfordky</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-boty-na-platformy-c-7_9.html">Boty Na Platformy</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-boty-casual-c-7_19.html">Boty Casual</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-canvas-shoes-c-7_22.html">Canvas Shoes</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-boty-mary-jane-c-7_26.html">Boty Mary Jane</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-patent-shoes-c-7_28.html">Patent Shoes</a><hr size="1"></li><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/obuv-boty-se-sponou-c-7_29.html">Boty Se Sponou</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-brogue-boty-c-7_30.html">Brogue Boty</a><hr size="1"><a href="https://www.docsmartens.cz/collections/obuv-Šněrovací-boty-c-7_34.html">Šněrovací Boty</a><hr size="1"></li></ul></div></div><div class="Vja7LbllJV"><a href="https://www.docsmartens.cz/collections/sandály-c-10.html" class="UvKfMPo4pk">Sandály</a><i class="material-icons icons1" onclick="showcc(this)">add</i><i class="material-icons icons2" onclick="showcc(this)">remove</i><div class="clear"></div><hr size="1"><div class="DoXGO1B3xi"><ul><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/sandály-sandály-c-10_11.html">Sandály</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-pantofle-c-10_12.html">Pantofle</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-slingbacks-c-10_13.html">Slingbacks</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-suede-slingbacks-c-10_14.html">Suede Slingbacks</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-webbing-sandals-c-10_16.html">Webbing Sandals</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-páskové-sandály-c-10_18.html">Páskové Sandály</a><hr size="1"></li><li class="q4Oor8PKtM"><a href="https://www.docsmartens.cz/collections/sandály-sandály-gladiator-c-10_20.html">Sandály Gladiator</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-patent-sandals-c-10_24.html">Patent Sandals</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-sandály-na-platformě-c-10_25.html">Sandály na Platformě</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-velcro-sandals-c-10_32.html">Velcro Sandals</a><hr size="1"><a href="https://www.docsmartens.cz/collections/sandály-glitter-sandals-c-10_33.html">Glitter Sandals</a><hr size="1"></li></ul></div></div></div></div><script type="text/javascript">
+    function showcc(obj)
+    {
+        //var obj_parent=obj.parentNode;
+        var obj_parent=obj.parentElement
+
+      if(obj_parent.className=="Hh6sbzzU5O")
+      {
+          obj_parent.className="Vja7LbllJV";
+      }
+      else
+      {
+          obj_parent.className="Hh6sbzzU5O";
+      }
+
+    }
+</script>
+        <div id="Pxk5zyWPmp"><a href="https://www.facebook.com/sharer/sharer.php?u=http://docsmartens.cz/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html">
+    <svg class="LruU9S8BtT" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M928 0h-832c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h416v-448h-128v-128h128v-64c0-105.8 86.2-192 192-192h128v128h-128c-35.2 0-64 28.8-64 64v64h192l-32 128h-160v448h288c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96z"></path>
+        </g></svg>
+</a>
+<a href="https://twitter.com/intent/tweet/?url=http://docsmartens.cz/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html">
+    <svg class="LruU9S8BtT" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M1024 226.4c-37.6 16.8-78.2 28-120.6 33 43.4-26 76.6-67.2 92.4-116.2-40.6 24-85.6 41.6-133.4 51-38.4-40.8-93-66.2-153.4-66.2-116 0-210 94-210 210 0 16.4 1.8 32.4 5.4 47.8-174.6-8.8-329.4-92.4-433-219.6-18 31-28.4 67.2-28.4 105.6 0 72.8 37 137.2 93.4 174.8-34.4-1-66.8-10.6-95.2-26.2 0 0.8 0 1.8 0 2.6 0 101.8 72.4 186.8 168.6 206-17.6 4.8-36.2 7.4-55.4 7.4-13.6 0-26.6-1.4-39.6-3.8 26.8 83.4 104.4 144.2 196.2 146-72 56.4-162.4 90-261 90-17 0-33.6-1-50.2-3 93.2 59.8 203.6 94.4 322.2 94.4 386.4 0 597.8-320.2 597.8-597.8 0-9.2-0.2-18.2-0.6-27.2 41-29.4 76.6-66.4 104.8-108.6z"></path>
+        </g></svg>
+</a>
+<a href="https://www.pinterest.com/pin/create/button/?url=http://docsmartens.cz/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html">
+    <svg class="LruU9S8BtT" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 68.4c-245 0-443.6 198.6-443.6 443.6 0 188 117 348.4 282 413-3.8-35-7.4-89 1.6-127.2 8-34.6 52-220.4 52-220.4s-13.2-26.6-13.2-65.8c0-61.6 35.8-107.8 80.2-107.8 37.8 0 56.2 28.4 56.2 62.4 0 38-24.2 95-36.8 147.6-10.6 44.2 22 80.2 65.6 80.2 78.8 0 139.4-83.2 139.4-203.2 0-106.2-76.4-180.4-185.2-180.4-126.2 0-200.2 94.6-200.2 192.6 0 38.2 14.6 79 33 101.2 3.6 4.4 4.2 8.2 3 12.8-3.4 14-10.8 44.2-12.4 50.4-2 8.2-6.4 9.8-14.8 6-55.4-25.8-90-106.8-90-171.8 0-140 101.6-268.4 293-268.4 153.8 0 273.4 109.6 273.4 256.2 0 152.8-96.4 276-230.2 276-45 0-87.2-23.4-101.6-51 0 0-22.2 84.6-27.6 105.4-10 38.6-37 86.8-55.2 116.2 41.6 12.8 85.6 19.8 131.4 19.8 245 0 443.6-198.6 443.6-443.6 0-245.2-198.6-443.8-443.6-443.8z"></path></g></svg>
+</a>
+<a href="http://www.tumblr.com/share/link?url=http://docsmartens.cz/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html">
+    <svg class="LruU9S8BtT" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M576.032 448l-0.002 234.184c0 59.418-0.77 93.656 5.53 110.5 6.25 16.754 21.918 34.146 38.99 44.202 22.684 13.588 48.542 20.376 77.708 20.376 51.854 0 82.478-6.848 133.742-40.54v153.944c-43.7 20.552-81.866 32.594-117.324 40.922-35.5 8.242-73.86 12.406-115.064 12.406-46.828 0-74.456-5.886-110.41-17.656-35.958-11.868-66.66-28.806-92.020-50.54-25.45-21.922-43.022-45.208-52.848-69.832-9.826-24.636-14.716-60.414-14.716-107.244v-359.1h-137.426v-145.006c40.208-13.042 85.164-31.788 113.78-56.152 28.754-24.45 51.766-53.706 69.106-87.944 17.392-34.146 29.348-77.712 35.872-130.516h165.084l-0.002 255.996h255.968v192h-255.968z"></path>
+        </g></svg>
+</a>
+<a style="margin-right:0px;" href="https://plus.google.com/share?url=http://docsmartens.cz/collections/sand%c3%a1ly-webbing-sandals-c-10_16.html">
+    <svg class="LruU9S8BtT" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512 512-229.2 512-512-229.2-512-512-512zM384 768c-141.6 0-256-114.4-256-256s114.4-256 256-256c69.2 0 127 25.2 171.6 67l-69.6 66.8c-19-18.2-52.2-39.4-102-39.4-87.4 0-158.8 72.4-158.8 161.6s71.4 161.6 158.8 161.6c101.4 0 139.4-72.8 145.2-110.4h-145.2v-87.8h241.8c2.2 12.8 4 25.6 4 42.4 0 146.4-98 250.2-245.8 250.2zM832 512v64h-64v-64h-64v-64h64v-64h64v64h64v64h-64z"></path></g></svg>
+</a>
+<div class="clear"></div></div>
+    </div>
+    <div class="uX44ntQzRU">
+        <hr size="1">
+        <a href="https://www.docsmartens.cz/">
+            Copyright © 2024 <span style="text-transform: lowercase;">docsmartens</span> Powered By </a><a href="https://www.docsmartens.cz/"><span style="text-transform: lowercase;">docsmartens.cz</span></a>
+        
+        <div class="clear"></div>
+    </div>
+    <a href="https://www.docsmartensmalaysia.com/" style="color:#000000">Dr Martens Boots Sale</a>
+<a href="https://www.docsmartensireland.com/" style="color:#000000">Dr Martens Outlet</a>
+<a href="https://www.docsmartensnz.com/" style="color:#000000">Dr Martens Outlet NZ</a>
+<a href="https://www.docsmartensindonesia.com/" style="color:#000000">Dr Martens Outlet</a>
+<a href="https://www.docsmartensuae.com/" style="color:#000000">Dr Martens Dubai</a>
+<a href="https://www.doctormartenssouthafrica.com/" style="color:#000000">Dr Martens Sale</a>
+<a href="https://www.docsmartensaustralia.com/" style="color:#000000">Dr Martens Outlet </a>
+<a href="https://www.docsmartenscanada.ca/" style="color:#000000">Dr Martens Outlet</a>
+<a href="https://www.docsmartensfactoryoutlet.com/" style="color:#000000">Dr Martens Outlet</a>
+<a href="https://www.docsmartensturkey.com/" style="color:#000000">Dr Martens Turkey</a>
+<a href="https://www.docsmartensnederland.com/" style="color:#000000">Dr Martens Nederland</a>
+<a href="https://www.docsmartensportugal.com/" style="color:#000000">Dr Martens Portugal</a>
+<a href="https://www.docsmartenschile.com/" style="color:#000000">Dr Martens Chile</a>
+<a href="https://www.docmartenscolombia.com.co/" style="color:#000000">Dr Martens Colombia</a>
+<a href="https://www.docsmartensspain.com/" style="color:#000000">Dr Martens Spain</a>
+    </div>
+    </div></div>
+
+
+
+
+
+
+
+<!--EOF Login-->
+
+
+
+
+
+
+<script type="text/javascript" src="includes/templates/docsmartens/js/layer.js"></script>
+<script type="text/javascript" src="includes/templates/docsmartens/js/re_login.js"></script>
+
+<script>
+    var before = 0;
+    function throttle(func, wait, mustRun) {
+        var timeout,
+            startTime = new Date();
+
+        return function() {
+            var context = this,
+                args = arguments,
+                curTime = new Date();
+
+            clearTimeout(timeout);
+            // 如果达到了规定的触发时间间隔，触发 handler
+            if(curTime - startTime >= mustRun){
+                func.apply(context,args);
+                startTime = curTime;
+                // 没达到触发间隔，重新设定定时器
+            }else{
+                timeout = setTimeout(func, wait);
+            }
+        };
+    };
+    // 实际想绑定在 scroll 事件上的 handler
+
+    function realFunc(){
+		var thigh = document.getElementById("q0RPniXu2T").clientHeight;
+        var after = $(window).scrollTop();
+        if (before<after && $("#AXDc8v9QwN").hasClass("toMenuFixed")) {
+            $("#AXDc8v9QwN").removeClass("toMenuFixed");
+        }
+        else if (before>after) {
+            if(after>thigh && !$("#AXDc8v9QwN").hasClass("toMenuFixed")){
+                $("#AXDc8v9QwN").addClass("toMenuFixed");
+            }else if(after<thigh && $("#AXDc8v9QwN").hasClass("toMenuFixed")){
+                $("#AXDc8v9QwN").removeClass("toMenuFixed");
+            }
+        };
+        before = after;
+    }
+    // 采用了节流函数
+    window.addEventListener('scroll',throttle(realFunc,300,1000));
+
+    function turnoff(obj){
+        document.getElementById(obj).style.display="none";
+        $("body").css({"height":"auto","overflow":"auto"});
+        $(".initLayerShade").hide();
+        $("#AXDc8v9QwN").removeClass("toMenuFixed");
+    }
+</script>	<!-- bof  breadcrumb -->
+			
+			
+<script type="text/javascript">
+    function showsort(obj)
+    {
+        //var obj_parent=obj.parentNode;
+        var obj_parent=obj.parentElement
+
+        if(obj_parent.className=="KVuQDvqOOk")
+        {
+            obj_parent.className="a116IaQH4H";
+        }
+        else
+        {
+            obj_parent.className="KVuQDvqOOk";
+        }
+
+    }
+</script>
+<!-- eof breadcrumb -->
+
+
+
+
+    
+            <a class="top-link" style="display: none;"><svg _ngcontent-cmh-c32="" width="26" height="26" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path _ngcontent-cmh-c32="" d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"></path></svg></a>
+
+        <script>
+            $(".top-link").click(function(){
+                $('body,html').animate({scrollTop:0},100);
+                return false;
+            });
+
+            $(document).ready(function(){
+                $(window).scroll(function () {
+                    if($(window).scrollTop()=="0") {
+                        $('.top-link').fadeOut(300)
+                    }else {
+                        $('.top-link').fadeIn(300)
+                    }
+                });
+                $('.top-link').click(function(){$("html,body").animate({scrollTop:0},300);return false});
+            });
+        </script>
+        
+    
+        <script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/slick_new.js" type="text/javascript" charset="utf-8"></script>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+
+
+	<script src="js/jquery.jxa.js"></script>
+	<script src="js/jquery.jxb.js"></script>
+	<script>
+		$(function(){
+			$('#navToggle').on('click',function(){
+				$('.m_nav').addClass('open');
+				$('body').css({"height":"100%","overflow":"hidden"})
+			})
+			$('.m_nav .top .closed').on('click',function(){
+				$('.m_nav').removeClass('open');
+				$('body').css({"height":"auto","overflow":"auto"})
+			})
+
+		})
+	</script>
+	<script type="text/javascript">
+	  $.noConflict();
+	</script>
+
+
+<div id="mm-blocker" class="mm-slideout"></div></body>

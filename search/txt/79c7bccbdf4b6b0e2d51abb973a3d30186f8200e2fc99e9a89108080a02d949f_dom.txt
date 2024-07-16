@@ -1,0 +1,2772 @@
+<head>
+        <script async="" src="https://invitejs.trustpilot.com/tp.min.js" type="text/javascript"></script><script>
+    var require = {
+        "baseUrl": "https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB"
+    };
+</script>
+        <meta charset="utf-8">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<title>Miagadget</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_Slideshow/css/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_Slideshow/css/owl.theme.default.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_Slideshow/css/animate.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/css/styles-m.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_OneStepCheckout/custom.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/gallery/gallery.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_QuickShop/css/quickshop.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Customization_CustomTheme/css/default.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/JiteshBaagul_Offercountdown/css/offerTimer.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/JiteshBaagul_Offercountdown/css/cdz-icon.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magebird_Popup/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magefan_Blog/css/blog-m.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magefan_Blog/css/blog-custom.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/MageWorx_SearchSuiteAutocomplete/css/searchsuiteautocomplete.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Trustpilot_Reviews/css/trustpilot.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_Lookbookpro/css/lookbook.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Customization_SideBanner/css/sideBanner.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Mageplaza_SocialLogin/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Mageplaza_Core/css/grid-mageplaza.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Mageplaza_Core/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/css/styles-l.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/css/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/css/fontawesome/font-awesome.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/css/fontpeicon/pe-icon-7-stroke.css">
+<script type="text/javascript" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/requirejs/require.js"></script>
+<script type="text/javascript" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/requirejs-config.js"></script>
+<script type="text/javascript" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Customization_CustomDatalayer/js/analyzer.js"></script>
+<script type="text/javascript" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magebird_Popup/js/main.js"></script>
+<link rel="icon" type="image/x-icon" href="https://www.miagadget.co.uk/media/favicon/stores/1/UK_3_logo_0000-04.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.miagadget.co.uk/media/favicon/stores/1/UK_3_logo_0000-04.png">
+<style>
+tr.totals-tax {display: none;}
+/* Slider start */
+.slider-height{
+    height: 25px !important;
+    background: #fdf3df;
+}
+#slider-header-1{
+  width:100%;
+  height:100%;
+  position:relative;
+  overflow:hidden;
+}
+.slider-header-slides{
+  width:400%;
+  height:100%;
+  position:relative;
+  -webkit-animation:slide-ani 30s infinite;
+  -moz-animation:slide-ani 30s infinite;
+  animation:slide-ani 30s infinite;
+}
+.slider-header{
+  width:25%;
+  height:100%;
+  float:left;
+  position:relative;
+  z-index:1;
+  overflow:hidden;
+}
+
+/* slider-header-Contents */
+.slider-header-content{
+  width:100%;
+  height:100%;
+  position:absolute;
+  overflow:hidden;
+}
+.slider-header-content-txt{
+  width:100%;
+  float:left;
+  position:relative;
+  -webkit-animation:slider-header-content-s 7.5s infinite;
+  -moz-animation:slider-header-content-s 7.5s infinite;
+  animation:slider-header-content-s 7.5s infinite;
+}
+.slider-header-content-txt a{
+  color:#273b84 !important;
+  font-family:Arial;
+  text-transform:uppercase;
+  font-size:20px;
+  text-align: center;
+}
+
+/* Animation */
+@-webkit-keyframes slide-ani{
+  0%,100%{
+    margin-left:0%;
+  }
+  31%{
+    margin-left:0%;
+  }
+  35%{
+    margin-left:-100%;
+  }
+  61%{
+    margin-left:-100%;
+  }
+  65%{
+    margin-left:-200%;
+  }
+  96%{
+    margin-left:-200%;
+  }
+}
+@-moz-keyframes slide-ani{
+  0%,100%{
+    margin-left:0%;
+  }
+  31%{
+    margin-left:0%;
+  }
+  35%{
+    margin-left:-100%;
+  }
+  61%{
+    margin-left:-100%;
+  }
+  65%{
+    margin-left:-200%;
+  }
+  96%{
+    margin-left:-200%;
+  }
+}
+/* Slider end */
+</style>
+<meta property="og:url" content="https://www.miagadget.co.uk">
+<meta property="og:url" content="https://www.miagadget.co.uk/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="www.miagadget.co.uk">
+<meta property="og:description" content="Welcome to Miagadget.">
+<meta property="og:image" content="https://miagadget.co.uk/media/wysiwyg/site-logo/meta-logo.png">        <script>
+require(['jquery/jquery.cookie'], function() {
+    if (jQuery.cookie('mage-messages')) {
+        require(['Magento_Customer/js/customer-data'], function(customerData) {
+            customerData.reload(['cart'], true);
+        });
+    }
+});
+</script>
+<!-- Google Tag Manager by MagePal -->
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "magepalGtmDatalayer": {
+                "isCookieRestrictionModeEnabled": 0,
+                "currentWebsite": 1,
+                "cookieName": "user_allowed_save_cookie",
+                "dataLayer": "dataLayer",
+                "accountId": "GTM-MJLHXBL",
+                "data": [{"ecommerce":{"currencyCode":"GBP"},"pageType":"cms_index_index","list":"other"}],
+                "isGdprEnabled": 0,
+                "gdprOption": 0,
+                "addJsInHeader": 0,
+                "containerCode": ""
+            }
+        }
+    }
+</script>
+<!-- End Google Tag Manager by MagePal -->
+<script type="text/javascript">
+    window.ecommerce = {
+    "currency": "GBP"
+};
+</script>
+<style>
+    #social-login-popup .social-login-title {
+        background-color: #6e716e    }
+
+    #social-login-popup .social-login #bnt-social-login-authentication,
+    #social-login-popup .forgot .primary button,
+    #social-login-popup .create .primary button,
+    #social-login-popup .fake-email .primary button {
+        background-color: #6e716e;
+        border: #6e716e    }
+
+    .block.social-login-authentication-channel.account-social-login .block-content {
+        text-align: center;
+    }
+
+    
+                #bnt-social-login-fake-email {
+                    background-color: grey !important;
+                    border: grey !important;
+                }
+
+                #request-popup .social-login-title {
+                    background-color: grey !important;
+                }
+                
+    /* Compatible ETheme_YOURstore*/
+    div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login {
+        max-width: 900px !important;
+        margin: 0 auto !important;
+    }
+
+    div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login .block-content {
+        text-align: center;
+    }
+
+    @media (max-width: 1024px) {
+        div#centerColumn .column.main .block.social-login-authentication-channel.account-social-login .block-content {
+            padding: 0 15px;
+        }
+    }
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Poppins:200,200italic,300,300italic,400,400italic,500,500italic,600italic,600italic,700,700italic,800,800italic,900,900italic&amp;subset=latin,cyrillic-ext,cyrillic,greek-ext,greek,vietnamese,latin-ext" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	var ThemeOptions = {
+		box_wide: 0,
+		rtl_layout: 0,
+		sticky_header: 1		
+	}; 
+	if(navigator.userAgent.match(/iPhone|iPod|iPhone Simulator|iPod Simulator/i) !== null){
+		document.addEventListener("DOMContentLoaded", function(event) { 
+			document.body.classList.add('iMenu');
+		});
+	}
+</script>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.mobile.custom" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery.mobile.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dataPost" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/dataPost.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/bootstrap" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate-inline" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/translate-inline.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/responsive" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Theme/js/responsive.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/theme" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Theme/js/theme.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/fastest" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Theme/js/fastest.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/customer-data" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Customer/js/customer-data.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.cookie" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/translate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/template" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/confirm" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/modal/confirm.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/main" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/apply/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bootstrap" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-migrate" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery-migrate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/common" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="js/owlcarousel/owl.carousel.min" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/js/owlcarousel/owl.carousel.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery-ui.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/smart-keyboard-handler" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/smart-keyboard-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/mage" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/mage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/ie-class-fixer" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/ie-class-fixer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui-modules/tooltip" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/ui-modules/tooltip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="js/owlcarousel/owlslider" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/js/owlcarousel/owlslider.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/toggle" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/toggle.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/tabs" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/tabs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Codazon_ProductFilter/js/productfilter" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Codazon_ProductFilter/js/productfilter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchMedia" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/matchMedia.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/underscore.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/modal" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/modal/modal.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/knockoutjs/knockout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/section-config" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Customer/js/section-config.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/storage" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/storage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-storageapi" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery.storageapi.min.js"></script><style type="text/css">.mbdialog.popupid1 .dialogBody{border:1px solid #194afc;;padding:20px;}.mbdialog.popupid1{width:85%; max-width:1200px;}.dialogBg.popupid1{cursor:auto;}.mbdialog.popupid1 .dialogBody{background-color: #FFFFFF;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;}.mbdialog.popupid1 table{border-spacing:none !important;}.popupid1 .dialogClose.style4,
+		.popupid1 .dialogClose.style6,
+		.popupid1 .dialogClose.style7,
+		.popupid1 .dialogClose.style8,
+		.popupid1 .dialogClose.style9,
+		.popupid1 .dialogClose.style10,
+		.popupid1 .dialogClose.style11,
+		.popupid1 .dialogClose.style3{
+		top:1px;right:1px;
+		}.mbdialog.popupid1{position:fixed;left: 0;right: 0;margin:0 auto;bottom:-5px;}.mbdialog.popupid1 h6{
+margin-top: -24px !important;
+padding:4px 20px;
+}
+
+</style><link rel="stylesheet" href="https://www.miagadget.co.uk/static/version1686797482/frontend/Codazon/fastest_hightech/en_US/Magebird_Popup/css/widget/buttons.css" type="text/css"><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/scripts" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/apply/scripts.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-es5" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/knockoutjs/knockout-es5.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/engine" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/template/engine.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bootstrap" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/observable_array" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/extender/observable_array.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/bound-nodes" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/extender/bound-nodes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui-modules/core" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/ui-modules/core.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui-modules/widget" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/ui-modules/widget.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui-modules/position" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/ui-modules/position.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/collapsible" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/requirejs/text.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/key-codes" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/key-codes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/url" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/url.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/wrapper" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/wrapper.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/events" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/core/events.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="es6-collections" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/es6-collections.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/observable_source" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/template/observable_source.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/renderer" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/template/renderer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-logger" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/console-logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-repeat" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/knockoutjs/knockout-repeat.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-fast-foreach" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/knockoutjs/knockout-fast-foreach.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/resizable" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/resizable.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/i18n" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/i18n.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/scope" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/scope.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/range" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/range.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/mage-init" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/mage-init.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/keyboard" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/keyboard.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/optgroup" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/optgroup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/after-render" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/after-render.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/autoselect" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/autoselect.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/datepicker" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/datepicker.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/outer_click" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/outer_click.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/fadeVisible" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/fadeVisible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/collapsible" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/staticChecked" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/staticChecked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/simple-checked" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/simple-checked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bind-html" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/bind-html.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/tooltip" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/bindings/tooltip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/class" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/core/class.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/storage/local" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/core/storage/local.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry-factory" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/entry-factory.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-output-handler" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/console-output-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/formatter" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/formatter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/message-pool" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/message-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/levels-pool" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/levels-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger-utils" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/logger-utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/async" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/view/utils/async.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/registry/registry" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/registry/registry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/loader" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/knockout/template/loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/main" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/calendar" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/calendar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="moment" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/moment.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/logger/entry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/template" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/dom-observer" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/view/utils/dom-observer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/bindings" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Magento_Ui/js/lib/view/utils/bindings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/arrays" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/arrays.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/compare" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/compare.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/misc" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/misc.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/objects" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/objects.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/strings" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/mage/utils/strings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="MutationObserver" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/MutationObserver.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-ui-timepicker-addon" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/jquery/jquery-ui-timepicker-addon.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="FormData" src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/FormData.js"></script></head><body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/images/loader-2.gif&quot;}}" class="cms-home cms-index-index page-layout-1column">
+        <script type="text/javascript" po_cmp_ignore="">
+//<![CDATA[
+var mbPopupParams = {"storeId":"1","previewId":0,"templateId":0,"popupPageId":1,"filterId":0,"page":"1","rootUrl":"https:\/\/www.miagadget.co.uk\/","pubDir":"","baseUrl":"https:\/\/www.miagadget.co.uk\/","doGaTracking":false,"doMousetracking":false,"customParams":""};
+//]]>
+</script>  
+<!-- Google Tag Manager by MagePal -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJLHXBL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager by MagePal -->
+
+<script>
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
+        }
+
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
+
+                function createCookie(name, value, days) {
+                    var date, expires;
+
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
+
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
+
+                    for (i=0; i < ca.length; i++) {
+                        c = ca[i];
+
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
+
+                    return null;
+                }
+
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
+
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
+
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
+
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
+
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
+
+                    return 'sessionStorage' + window.name;
+                }
+
+                data = getData();
+
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
+
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
+
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
+
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorage = new Storage('session');
+        })();
+    }
+</script>
+<script type="text/x-magento-init">
+{	"*":{
+		"Magento_Theme/js/fastest_grocery":{}
+	}
+}
+</script>    <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== '22f78db3d233c5ed5bfecf82dcbfab323e3c5ecd') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '22f78db3d233c5ed5bfecf82dcbfab323e3c5ecd'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".www.miagadget.co.uk",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_GoogleAnalytics/js/google-analytics": {
+            "isCookieRestrictionModeEnabled": 0,
+            "currentWebsite": 1,
+            "cookieName": "user_allowed_save_cookie",
+            "ordersTrackingData": [],
+            "pageTrackingData": {"optPageUrl":"","isAnonymizedIpActive":"0","accountId":"UA-182379631-1"}        }
+    }
+}
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<div style="display: none;" id="paypal-express-in-context-checkout-main"></div>
+<script type="text/x-magento-init">
+    {"*":{"Magento_Paypal\/js\/in-context\/express-checkout":{"id":"paypal-express-in-context-checkout-main","path":"https:\/\/www.miagadget.co.uk\/paypal\/express\/gettoken\/","merchantId":"PD9BPV5RXVNZC","button":true,"clientConfig":{"locale":"en_GB","environment":"production","button":["paypal-express-in-context-checkout-main"]}}}}</script>
+
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
+<div class="row"><div class="col-sm-24 col-md-8 header-top-left"><div class="header-panel-left"><div class="widget block block-static-block">
+    </div>
+</div></div><div class="col-sm-24 col-md-16 header-top-right"><div class="header-panel-right">
+<ul class="header links">        <li class="greet welcome" data-bind="scope: 'customer'">
+            <!-- ko if: customer().fullname  -->
+            <span data-bind="text: new String('Welcome, %1!').replace('%1', customer().firstname)">
+            </span>
+            <!-- /ko -->
+            <!-- ko ifnot: customer().fullname  -->
+            <span data-bind="html:&quot;Love is You is Me.&quot;"></span>
+                        <!-- /ko -->
+        </li>
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "customer": {
+                            "component": "Magento_Customer/js/view/customer"
+                        }
+                    }
+                }
+            }
+        }
+        </script>
+    <li class="link wishlist" data-bind="scope: 'wishlist'">
+    <a href="https://www.miagadget.co.uk/wishlist/">Wishlist        <!-- ko if: wishlist().counter -->
+        <span data-bind="text: wishlist().counter" class="counter qty"></span>
+        <!-- /ko -->
+    </a>
+</li>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "wishlist": {
+                        "component": "Magento_Wishlist/js/view/wishlist"
+                    }
+                }
+            }
+        }
+    }
+
+</script>
+<li class="item link compare" data-bind="scope: 'compareProducts'" data-role="compare-products-link">
+    <a class="action compare no-display" title="Compare" data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}">
+        Compare        <!-- ko if: compareProducts().count -->
+        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+         <!-- /ko -->
+    </a>
+</li>
+<script type="text/x-magento-init">
+{"[data-role=compare-products-link]": {"Magento_Ui/js/core/app": {"components":{"compareProducts":{"component":"Magento_Catalog\/js\/view\/compare-products"}}}}}
+</script>
+<li class="authorization-link switcher log-in" id="authorization-top-link"> 		<a style="display:none" class="log-in link" href="https://www.miagadget.co.uk/customer/account/login/referer/aHR0cHM6Ly93d3cubWlhZ2FkZ2V0LmNvLnVrLz9TSUQ9cmF1a2xoaTAyZnM1ajF1azE2ZTF0N2M1MzI%2C/">
+        Sign In    </a>
+	<div class="actions dropdown options switcher-options">
+		<div class="action toggle switcher-trigger" id="authorization-trigger">
+			Sign In		</div>
+		<div style="display:none;" id="cdz-login-form-dropdown" class="cdz-login-form-dropdown dropdown switcher-dropdown" data-mage-init="{&quot;dropdownDialog&quot;:{
+					&quot;appendTo&quot;:&quot;#authorization-top-link > .options&quot;,
+					&quot;triggerTarget&quot;:&quot;#authorization-trigger&quot;,
+					&quot;closeOnMouseLeave&quot;: false,
+					&quot;triggerClass&quot;:&quot;active&quot;,
+					&quot;parentClass&quot;:&quot;active&quot;,
+					&quot;buttons&quot;:null}}">
+			<div class="block block-customer-login">
+    <div class="block-content">
+        <form class="form form-login" action="https://www.miagadget.co.uk/customer/account/loginPost/" method="post" data-mage-init="{&quot;validation&quot;:{}}">
+            <input name="form_key" type="hidden" value="gdp2t2e7kf3V0ymt">            <fieldset class="fieldset login" data-hasrequired="* Required Fields">
+                <div class="field email required">
+                    <!--<label class="label" for="email"><span>Email</span></label>-->
+                    <div class="control">
+                        <input placeholder="Email" name="login[username]" value="" autocomplete="off" type="email" class="input-text" title="Email" data-validate="{required:true, 'validate-email':true}">
+                    </div>
+                </div>
+                <div class="field password required">
+                    <!--<label for="pass" class="label"><span>Password</span></label>-->
+                    <div class="control">
+                        <input placeholder="Password" name="login[password]" type="password" autocomplete="off" class="input-text" title="Password" data-validate="{required:true, 'validate-password':true}">
+                    </div>
+                </div>
+                    <div class="block social-login-authentication-channel account-social-login">
+        <div class="block-content">
+                            <div class="actions-toolbar social-btn social-btn-actions-toolbar google-login">
+                    <a class="btn btn-block btn-social btn-google" data-mage-init="{&quot;socialProvider&quot;: {&quot;url&quot;: &quot;https://www.miagadget.co.uk/sociallogin/social/login/type/google/&quot;, &quot;label&quot;: &quot;Login By Google&quot;}}">
+                        <span class="fa fa-google"></span>
+                        Sign in with Google                    </a>
+                </div>
+                    </div>
+    </div>
+<style type="text/css">
+    .request-popup{
+        overflow-y: unset;
+        max-width: 800px;
+        left: 30%;
+    }
+    .request-popup .modal-header{
+        padding: 0;
+    }
+    .request-popup .modal-header button.action-close{
+        color: white;
+        z-index: 100;
+    }
+    .request-popup .modal-content{
+        padding: 0;
+    }
+</style>
+                <div class="actions-toolbar">
+                    <div class="">
+						<button type="submit" class="action login primary" name="send"><span>Login</span></button></div>
+						<!--<a class="action create primary" href="https://www.miagadget.co.uk/customer/account/create/"><span>Sign up</span></a>-->
+					<div class="secondary">
+					<a class="action remind" href="https://www.miagadget.co.uk/customer/account/forgotpassword/"><span>Forgot Your Password?</span></a>
+					</div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+		</div>
+	</div>
+	</li>
+<li><a href="https://www.miagadget.co.uk/customer/account/create/" class="register-link">Create an Account</a></li></ul></div></div></div></div></div><div class="only-show-on-desktop"><div><script>
+	require(["jquery"], function($) {
+		$(document).ready(function($) {
+			$('.offer-counter-inner').each(function() {
+				// Calculate EndDate in month, days, and yearly..
+				let montharr = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', "July", "Aug", 'Sept', 'Oct', 'Nov', 'Dec']
+				let year = $(this).find(".offeryear").text();
+				let month = $(this).find(".offermonth").text();
+				let day = $(this).find(".offerday").text();
+				let _this = this;
+
+				// Get the date we're counting down to
+				let countDownDate = new Date(montharr[month - 1] + "," + day + "," + year).getTime();
+
+				// Update the count down every 1 second
+				let JB = setInterval(function() {
+					// Get todays date and time
+					let now = new Date().getTime();
+
+					// Find the distance between now and the count down date
+					let distance = countDownDate - now;
+
+					// Time calculations for days, hours, minutes and seconds
+					let days = Math.floor(distance / (1000 * 60 * 60 * 24));
+					let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+					let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+					let seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-days .time").html(days);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-hrs .time").html(hours);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-mins .time").html(minutes);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-secs .time").html(seconds);
+
+					// If the count down is over
+					if (distance < 0) {
+						clearInterval(JB);
+						$(".offer-counter-inner").html("This Deal has ended..<br>Please visit again for new deal");
+					}
+				}, 1000);
+			});
+		});
+	});
+</script></div></div><script type="text/javascript">
+
+	(function(w,d,s,r,n){w.TrustpilotObject=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};
+	a=d.createElement(s);a.async=1;a.src=r;a.type='text/java'+s;f=d.getElementsByTagName(s)[0];
+	f.parentNode.insertBefore(a,f)})(window,document,'script', 'https://invitejs.trustpilot.com/tp.min.js', 'tp');
+	tp('register','');
+</script>
+	<script type="text/javascript">
+		if (window.self !== window.top) {
+			var w = document.createElement("script");
+  			w.type = "text/javascript";
+ 			w.onload = "wgxpath.install();";
+  			w.src = "https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/Trustpilot_Reviews/js/wgxpath.install.js";
+  			document.head.append(w);
+
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			s.src = "//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js";
+			s.async = true;
+			document.head.append(s);
+		}
+	</script>
+<div class="header-wrapper-content sticky-menu"><div class="header content"><div class="row"><div class="col-sm-7 col-md-7"><div class="header-wrapper-left"><div class="logo-left"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a class="logo" href="https://www.miagadget.co.uk/" title="">
+    <img class="main-logo" src="https://www.miagadget.co.uk/media/logo/websites/1/UK3-OG-LOGO.png" alt="" width="200" height="58">
+        <img class="small-logo" src="https://www.miagadget.co.uk/media/logo/websites/1/UK3-OG-LOGO.png" alt="" width="200" height="58">
+</a>
+    <script type="text/javascript">
+        require(['jquery'], function ($) {
+            var logoSrc = "https://www.miagadget.co.uk/media/logo/websites/1/UK3-OG-LOGO.png";
+            var imageType = logoSrc.substr(-4);
+            var imageName = logoSrc.substr(0, logoSrc.length - 4);
+            imageName += imageType;
+            $('.small-logo').attr('src', imageName);
+        });
+    </script>
+<div class="only-show-on-mobile"><script>
+	require(["jquery"], function($) {
+		$(document).ready(function($) {
+			$('.offer-counter-inner').each(function() {
+				// Calculate EndDate in month, days, and yearly..
+				let montharr = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', "July", "Aug", 'Sept', 'Oct', 'Nov', 'Dec']
+				let year = $(this).find(".offeryear").text();
+				let month = $(this).find(".offermonth").text();
+				let day = $(this).find(".offerday").text();
+				let _this = this;
+
+				// Get the date we're counting down to
+				let countDownDate = new Date(montharr[month - 1] + "," + day + "," + year).getTime();
+
+				// Update the count down every 1 second
+				let JB = setInterval(function() {
+					// Get todays date and time
+					let now = new Date().getTime();
+
+					// Find the distance between now and the count down date
+					let distance = countDownDate - now;
+
+					// Time calculations for days, hours, minutes and seconds
+					let days = Math.floor(distance / (1000 * 60 * 60 * 24));
+					let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+					let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+					let seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-days .time").html(days);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-hrs .time").html(hours);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-mins .time").html(minutes);
+					$(_this).closest(".offer-counter-inner").find(".special-count .no-secs .time").html(seconds);
+
+					// If the count down is over
+					if (distance < 0) {
+						clearInterval(JB);
+						$(".offer-counter-inner").html("This Deal has ended..<br>Please visit again for new deal");
+					}
+				}, 1000);
+			});
+		});
+	});
+</script></div></div></div></div><div class="col-sm-11 col-md-10"><div class="header-wrapper-center"><div class="search-wrapper">
+	<div class="search-content block block-search" id="search-content">
+        <a class="search-icon" title="Search" href="javascript:void(0);"><span>Search</span></a>        
+		
+		<div class="search-form-container">
+			
+		<form class="form minisearch has-cat" id="search_mini_form" action="https://www.miagadget.co.uk/catalogsearch/result/" method="get">
+				<div class="field search">
+					<label class="label" for="search" data-role="minisearch-label">
+						<span>Search</span>
+					</label>
+					<div class="control">
+						<input id="search" data-mage-init="{&quot;quickSearch&quot;:{
+                                &quot;formSelector&quot;:&quot;#search_mini_form&quot;,
+                                &quot;url&quot;:&quot;https://www.miagadget.co.uk/search/ajax/suggest/&quot;,
+                                &quot;destinationSelector&quot;:&quot;#search_autocomplete&quot;}
+                           }" type="text" name="q" value="" placeholder="Search entire store here..." class="input-text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search entire store here...'" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off" aria-expanded="false">
+						<div id="search_autocomplete" class="search-autocomplete"></div>
+						<div class="nested">
+    <a class="action advanced" href="https://www.miagadget.co.uk/catalogsearch/advanced/" data-action="advanced-search">
+        Advanced Search    </a>
+</div>
+
+<div data-bind="scope: 'searchsuiteautocomplete_form'">
+    <!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "searchsuiteautocomplete_form": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/autocomplete"
+                },
+                "searchsuiteautocompleteBindEvents": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/bindEvents",
+                    "config": {
+                        "searchFormSelector": "#search_mini_form",
+                        "searchButtonSelector": "button.search",
+                        "inputSelector": "#search, #mobile_search, .minisearch input[type=\"text\"]",
+                        "searchDelay": "500"
+                    }
+                },
+                "searchsuiteautocompleteDataProvider": {
+                    "component": "MageWorx_SearchSuiteAutocomplete/js/dataProvider",
+                    "config": {
+                        "url": "https://www.miagadget.co.uk/mageworx_searchsuiteautocomplete/ajax/index/"
+                    }
+                }
+            }
+        }
+    }
+}
+</script><div class="cdz-cat-search" data-mage-init="{&quot;Codazon_ThemeOptions\/js\/category-search&quot;:{&quot;allCatText&quot;:&quot;All Categories&quot;,&quot;currentCat&quot;:false}}">
+    <div class="inner">
+        <a href="javascript:;" class="current-cat" data-role="trigger"><span>All Categories</span></a>
+        <div class="category-chooser dropdown" data-role="dropdown">
+            <div class="dropdown-inner">
+                <ul class="category-list" data-role="category-list">
+                    <li><a class="all-cat">All Categories</a></li>
+                    <li class="parent"><a data-id="20">Audio</a><ul><li class="parent"><a data-id="21">All Headphones</a><ul><li><a data-id="80">Apple</a></li><li><a data-id="81">Beats</a></li><li><a data-id="82">Bose</a></li><li><a data-id="83">OnePlus</a></li><li><a data-id="84">Samsung</a></li><li><a data-id="85">Sony</a></li><li><a data-id="133">Google</a></li><li><a data-id="135">Xiaomi</a></li><li><a data-id="156">OPPO</a></li><li><a data-id="169">JBL</a></li></ul></li><li><a data-id="38">Speaker</a></li><li><a data-id="22">Audio Accessories</a></li></ul></li><li class="parent"><a data-id="28">Laptops</a><ul><li><a data-id="19">Laptop Accessories</a></li></ul></li><li class="parent"><a data-id="27">Cameras</a><ul><li class="parent"><a data-id="13">All Cameras</a><ul><li><a data-id="31">Canon</a></li><li><a data-id="87">Nikon</a></li><li><a data-id="88">Fujifilm</a></li><li><a data-id="89">Gopro</a></li><li><a data-id="90">Sony</a></li><li><a data-id="170">Ricoh</a></li></ul></li><li class="parent"><a data-id="23">Lenses</a><ul><li><a data-id="15">Canon</a></li><li><a data-id="91">Fujifilm</a></li><li><a data-id="92">Nikon</a></li><li><a data-id="93">Sony</a></li><li><a data-id="94">Olympus</a></li><li><a data-id="95">Tamron</a></li><li><a data-id="96">Sigma</a></li><li><a data-id="159">Panasonic</a></li></ul></li></ul></li><li class="parent"><a data-id="10">Mobile Phones</a><ul><li><a data-id="12">Mobile Phone Accessories</a></li><li class="parent"><a data-id="53">All Phones</a><ul><li><a data-id="98">Samsung</a></li><li><a data-id="99">Google</a></li><li><a data-id="100">Asus</a></li><li><a data-id="101">OnePlus</a></li><li><a data-id="103">Xiaomi</a></li><li><a data-id="114">Sony</a></li><li><a data-id="162">Nothing Phone</a></li><li><a data-id="163">Nubia</a></li><li><a data-id="166">Nokia</a></li></ul></li></ul></li><li class="parent"><a data-id="25">Wearable</a><ul><li><a data-id="34">Smart Watch Accessories</a></li><li class="parent"><a data-id="44">All Smartwatches </a><ul><li><a data-id="50">Apple</a></li><li><a data-id="51">Samsung</a></li><li><a data-id="108">Xiaomi</a></li><li><a data-id="109">Huawei</a></li><li><a data-id="110">OnePlus</a></li></ul></li></ul></li><li class="parent"><a data-id="24">Gadgets</a><ul><li><a data-id="32">All Gadgets</a></li><li><a data-id="33">Gaming Console</a></li><li><a data-id="54">TV Stick</a></li></ul></li><li class="parent"><a data-id="35">SALE</a><ul><li><a data-id="36">HOT DEALS</a></li></ul></li><li><a data-id="41">NEW!</a></li><li class="parent"><a data-id="56">Tablets</a><ul><li class="parent"><a data-id="63">All Tablets</a><ul><li><a data-id="111">Apple iPad</a></li><li><a data-id="112">Amazon</a></li><li><a data-id="113">Samsung</a></li><li><a data-id="118">Xiaomi</a></li><li><a data-id="150">OPPO</a></li><li><a data-id="161">Google</a></li></ul></li><li><a data-id="67">e-Readers</a></li><li><a data-id="68">Tablets Accessories</a></li></ul></li><li><a data-id="42">CLEARANCE</a></li><li><a data-id="4">SPECIAL PRODUCTS</a></li><li><a data-id="139">Laptop|Tablet|e-Reader</a></li><li><a data-id="164">Bundle Up and Save Big</a></li>                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+document.getElementById('search_mini_form').classList.add('has-cat');
+</script>
+					</div>
+				</div>
+				<div class="actions">
+					<button type="submit" title="Search" class="action search primary">
+						<span>Search</span>
+					</button>
+				</div>
+			</form></div>
+		
+	</div>
+</div>
+<div class="header-wrapper-center-content"><div class="widget block block-static-block">
+    <p></p>
+<p><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=Macbook+Air+m2">Apple Macbook Air M2</a>, <a href="https://www.miagadget.co.uk/audio/all-headphones/apple.html">AirPods</a>,&nbsp;<a href="https://www.miagadget.co.uk/catalogsearch/result/?q=ap-pad21">iPad 2021</a>, <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=Eufy+RoboVac">Eufy RoboVac</a></p>
+<p><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=wf-1000xm5">Sony WF-1000XM5</a> , <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=Galaxy+A54">Galaxy A54</a>, <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=OP-11">OnePlus 11</a>&nbsp;, <a href="https://www.miagadget.co.uk/nintendo-switch-oled.html">Switch OLED</a></p></div>
+</div></div></div><div class="col-sm-6 col-md-7"><div class="header-wrapper-right">
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://www.miagadget.co.uk/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>        
+        <span class="price-label" data-bind="html: getCartParam('subtotal')"><!-- ko text: getCartParam('subtotal') --><!-- /ko --></span>        
+        <!-- ko ifnot: getCartParam('subtotal') -->
+        <span class="price-label">        
+                <!-- ko i18n: '0.00 ' --><!-- /ko -->        
+        </span>
+            <!-- /ko -->
+        <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number">
+             <!-- ko ifnot: getCartParam('summary_count') -->
+                <!-- ko i18n: '0 ' --><!-- /ko -->
+            <!-- /ko -->
+            <!-- ko if: getCartParam('summary_count') -->
+            	<!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+            <!-- /ko -->            	
+            </span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart empty" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;,
+                &quot;triggerTarget&quot;:&quot;.showcart&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.miagadget.co.uk\/checkout\/cart\/","checkoutUrl":"https:\/\/www.miagadget.co.uk\/checkout\/","updateItemQtyUrl":"https:\/\/www.miagadget.co.uk\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.miagadget.co.uk\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.miagadget.co.uk\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"customerLoginUrl":"https:\/\/www.miagadget.co.uk\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.miagadget.co.uk\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.miagadget.co.uk\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals","children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}}}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/images/loader-1.gif"
+        }
+    }
+    </script>
+</div>
+
+
+</div></div></div></div><div class="header-wrapper-middle">
+<div class="mobile-search-wrapper">
+	<div class="mobile-search-content block block-search" id="mobile-search-content">
+		<div class="mobile-search-form-container" id="mobile-search-form-container"></div>
+	</div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    var $searchform = $('#search_mini_form'), $mbwrap = $('#mobile-search-form-container'), $pcwrap = $('#search-content .search-form-container').first();
+    var winwidth = window.innerWidth, adapt = 768;
+    function searchPosition(winwidth){
+        if (winwidth < adapt) {
+            $searchform.appendTo($mbwrap);
+            $('[data-action="advanced-search"]',$searchform).css('display','none');
+        }else{
+            $searchform.appendTo($pcwrap);
+            $('[data-action="advanced-search"]',$searchform).css('display','');
+        }
+    }
+    searchPosition(winwidth);
+    $(window).resize(function(){
+        var newwidth = window.innerWidth;
+        if( (winwidth < adapt && newwidth >= adapt) || (winwidth >= adapt && newwidth < adapt) ){
+            searchPosition(newwidth);
+            winwidth = newwidth;
+        }
+    });
+});
+</script>
+</div><div class="header-wrapper-bottom"><div class="header content"><div class="row"><div class="header-wrapper-bottom-content"><div class="col-sm-6"><div class="header-bottom-left"><div class="cdz-main-menu left-navigation"><div class="widget block block-static-block">
+    <div class="cdz-main-menu left-navigation"><nav id="left-nav" class="navigation page-footer">
+<div class="menu-title" data-cdz-toggle="#lefmenu-mobile">All Categories</div>
+<div id="lefmenu-mobile" class="showhide"><div class="cdz-menu cdz-vertical-menu   cdz-normal" id="menu-5-6683a5b8e3f32" data-action="navigation" data-mage-init="{&quot;megamenu&quot;:{&quot;dropdownEffect&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;1&quot;}}">
+	<ul class="groupmenu">
+	<li class="item level0  level-top">
+	<a class="menu-link" href="new-arrival.html"><i class="menu-icon fa fa-gratipay"></i> <span>Miagadget's New In</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="sale.html"><i class="menu-icon fa fa-money"></i> <span>Hot Deal on Miagadget</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="hugesaving.html"><i class="menu-icon fa fa-hourglass-start"></i> <span>Clearance Sale</span></a>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="mobile-phones/all-phones.html"><i class="menu-icon fa fa-mobile-phone"></i> <span>Mobile Phones</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Phones</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones.html"><span>All Phones</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/samsung.html"><span>Samsung (Galaxy)</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/google.html"><span>Google</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/asus.html"><span>Asus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/oneplus.html"><span>OnePlus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/sony.html"><span>Sony (Xperia)</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/privacy-policy-cookie-restriction-mode"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/privacy-policy-cookie-restriction-mode">
+    </a><a href="https://www.miagadget.co.uk/mobile-phones/mobile-phone-accessories.html"><span>Mobile Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="tablets/all-tablets.html"><i class="menu-icon fa fa-tablet"></i> <span>Tablets</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Tablets</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets.html"><span>All Tablets</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/apple-ipad.html"><span>Apple iPad</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/amazon.html"><span>Amazon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/e-readers.html"><span>e-Readers</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/tablets-accessories.html"><span>Tablets Accessories</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 34px; top: 133px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="laptops/all-laptops.html"><i class="menu-icon fa fa-laptop"></i> <span>Laptops</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Laptops</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/all-laptops.html"><span>All Laptops</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/all-laptops/apple-macbook.html"><span>Apple MacBook</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/laptop-accessories.html"><span>Laptop Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="audio/all-headphones.html"><i class="menu-icon fa fa-music"></i> <span>Audio</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Audio</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=apple"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=apple">
+    </a><a href="https://www.miagadget.co.uk/audio/all-headphones.html"><span>All Headphones</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/apple.html"><span>Apple</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/bose.html"><span>Bose</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=samsung"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=samsung">
+    </a><a href="https://www.miagadget.co.uk/audio/all-headphones/oneplus.html"><span>OnePlus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/sony.html"><span>Sony</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/beats.html"><span>Beats</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/google.html"><span>Google</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li><span class="widget block block-category-link-inline">
+    <a href="https://www.miagadget.co.uk/audio/speaker.html"><span>Speaker</span></a>
+</span>
+</li>
+<li><span class="widget block block-category-link-inline">
+    <a href="https://www.miagadget.co.uk/audio/audio-accessories.html"><span>Audio Accessories</span></a>
+</span>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 36px; top: 138px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="wearable/all-smartwatches.html"><i class="menu-icon fa fa-clock-o"></i> <span>Wearable</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">WEARABLE</p>
+<ul class="groupdrop-link">
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=apple"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=apple">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches.html"><span>All Smartwatches</span></a>
+</div>
+</li>
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=samsung"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=samsung">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches/apple.html"><span>Apple</span></a>
+</div>
+</li>
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=xiaomi"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=xiaomi">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item last"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/wearable/all-smartwatches/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item last"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/wearable/smart-watch-accessories.html"><span>Smart Watch Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="cameras/all-cameras.html"><i class="menu-icon fa fa-camera"></i> <span>Cameras</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-12" style=" ">
+        	        	<div class="row">
+                        	<div class="col-sm-12"><p class="groupdrop-title">Cameras</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/cameras-optics.html?manufacturer=canon"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/cameras-optics.html?manufacturer=canon">
+    </a><a href="https://www.miagadget.co.uk/cameras.html"><span>All Cameras</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/canon.html"><span>Canon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/fujifilm.html"><span>Fujifilm</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/nikon.html"><span>Nikon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/gopro.html"><span>GoPro</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/sony.html"><span>Sony</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 50px; top: 90px;">
+<div class="gtx-trans-icon"></div>
+</div></div>
+                        	<div class="col-sm-12"><p class="groupdrop-title">Lenses</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/canon.html"><span>Canon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/fujifilm.html"><span>Fujifilm</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/nikon.html"><span>Nikon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/sony.html"><span>Sony</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/olympus.html"><span>Olympus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/tamron.html"><span>Tamron</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/sigma.html"><span>Sigma</span></a>
+</div>
+</li>
+</ul></div>
+                        </div>
+                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="gadgets/all-gadgets.html"><i class="menu-icon fa fa-gamepad"></i> <span>Gadgets</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Gadgets</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/electronics/video-game-consoles.html"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/electronics/video-game-consoles.html">
+    </a><a href="https://www.miagadget.co.uk/gadgets/all-gadgets.html"><span>All Gadgets</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=tv stick"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=tv stick">
+    </a><a href="https://www.miagadget.co.uk/gadgets/gaming-console.html"><span>Gaming Console</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/gadgets/tv-stick.html"><span>TV Stick</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 51px; top: 85px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li>	</ul>
+</div>
+</div>
+</nav></div></div>
+</div></div></div><div class="col-sm-18 col-md-18"><div class="header-bottom-center"><div class="header-main-menu">    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items" data-mage-init="{&quot;tabs&quot;:{&quot;openedState&quot;:&quot;active&quot;}}">
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menu</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content"><div class="menu-container"><div class="widget block block-static-block">
+    <div class="cdz-main-menu"><div class="cdz-menu cdz-horizontal-menu   cdz-normal" id="menu-6-6683a5b913e8a" data-action="navigation" data-mage-init="{&quot;megamenu&quot;:{&quot;dropdownEffect&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;0&quot;}}">
+	<ul class="groupmenu">
+	<li class="item level0  level-top">
+	<a class="menu-link" href="https://www.miagadget.co.uk/"><i class="menu-icon fa fa-home"></i> <span>Home</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="new-arrival.html"> <span>NEW!</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="sale.html"> <span>Sale</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="https://www.miagadget.co.uk/hugesaving.html"> <span>Clearance</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="https://www.miagadget.co.uk/contacts"> <span>Contact us</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="https://www.miagadget.co.uk/about"> <span>About us</span></a>
+    </li>	</ul>
+</div>
+</div></div>
+</div></div>
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store.links">Account</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"><!-- Account links --></div>
+                                    </div>
+    </div>
+</div></div></div></div></div></div></div></div></header><main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+    <h1 class="page-title">
+        <span class="base" data-ui-id="page-title-wrapper">Home Page</span>    </h1>
+    </div>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><div class="content-top panel"><div class="cdz-right cdz-sm-16"><div class="widget block block-static-block">
+    <div class="space-base slideshow-wrapper">
+<div class="row">
+<div class="col-sm-6">
+<div class="cdz-main-menu left-navigation hidden-xs"><nav id="left-nav" class="navigation"><div class="cdz-menu cdz-vertical-menu   cdz-normal" id="menu-5-6683a5b8e3f32" data-action="navigation" data-mage-init="{&quot;megamenu&quot;:{&quot;dropdownEffect&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;1&quot;}}">
+	<ul class="groupmenu">
+	<li class="item level0  level-top">
+	<a class="menu-link" href="new-arrival.html"><i class="menu-icon fa fa-gratipay"></i> <span>Miagadget's New In</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="sale.html"><i class="menu-icon fa fa-money"></i> <span>Hot Deal on Miagadget</span></a>
+    </li><li class="item level0  level-top">
+	<a class="menu-link" href="hugesaving.html"><i class="menu-icon fa fa-hourglass-start"></i> <span>Clearance Sale</span></a>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="mobile-phones/all-phones.html"><i class="menu-icon fa fa-mobile-phone"></i> <span>Mobile Phones</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Phones</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones.html"><span>All Phones</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/samsung.html"><span>Samsung (Galaxy)</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/google.html"><span>Google</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/asus.html"><span>Asus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/oneplus.html"><span>OnePlus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/mobile-phones/all-phones/sony.html"><span>Sony (Xperia)</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/privacy-policy-cookie-restriction-mode"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/privacy-policy-cookie-restriction-mode">
+    </a><a href="https://www.miagadget.co.uk/mobile-phones/mobile-phone-accessories.html"><span>Mobile Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="tablets/all-tablets.html"><i class="menu-icon fa fa-tablet"></i> <span>Tablets</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Tablets</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets.html"><span>All Tablets</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/apple-ipad.html"><span>Apple iPad</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/all-tablets/amazon.html"><span>Amazon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/e-readers.html"><span>e-Readers</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/tablets/tablets-accessories.html"><span>Tablets Accessories</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 34px; top: 133px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="laptops/all-laptops.html"><i class="menu-icon fa fa-laptop"></i> <span>Laptops</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Laptops</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/all-laptops.html"><span>All Laptops</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/all-laptops/apple-macbook.html"><span>Apple MacBook</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/laptops/laptop-accessories.html"><span>Laptop Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="audio/all-headphones.html"><i class="menu-icon fa fa-music"></i> <span>Audio</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Audio</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=apple"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=apple">
+    </a><a href="https://www.miagadget.co.uk/audio/all-headphones.html"><span>All Headphones</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/apple.html"><span>Apple</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/bose.html"><span>Bose</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=samsung"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/audio/headphones.html?manufacturer=samsung">
+    </a><a href="https://www.miagadget.co.uk/audio/all-headphones/oneplus.html"><span>OnePlus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/sony.html"><span>Sony</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/beats.html"><span>Beats</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/google.html"><span>Google</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/audio/all-headphones/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li><span class="widget block block-category-link-inline">
+    <a href="https://www.miagadget.co.uk/audio/speaker.html"><span>Speaker</span></a>
+</span>
+</li>
+<li><span class="widget block block-category-link-inline">
+    <a href="https://www.miagadget.co.uk/audio/audio-accessories.html"><span>Audio Accessories</span></a>
+</span>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 36px; top: 138px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="wearable/all-smartwatches.html"><i class="menu-icon fa fa-clock-o"></i> <span>Wearable</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">WEARABLE</p>
+<ul class="groupdrop-link">
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=apple"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=apple">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches.html"><span>All Smartwatches</span></a>
+</div>
+</li>
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=samsung"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=samsung">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches/apple.html"><span>Apple</span></a>
+</div>
+</li>
+<li class="item last"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=xiaomi"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/smart-watches.html?manufacturer=xiaomi">
+    </a><a href="https://www.miagadget.co.uk/wearable/all-smartwatches/samsung.html"><span>Samsung</span></a>
+</div>
+</li>
+<li class="item last"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/wearable/all-smartwatches/xiaomi.html"><span>Xiaomi</span></a>
+</div>
+</li>
+<li class="item last"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/wearable/smart-watch-accessories.html"><span>Smart Watch Accessories</span></a>
+</div>
+</li>
+</ul>                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="cameras/all-cameras.html"><i class="menu-icon fa fa-camera"></i> <span>Cameras</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-12" style=" ">
+        	        	<div class="row">
+                        	<div class="col-sm-12"><p class="groupdrop-title">Cameras</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/cameras-optics.html?manufacturer=canon"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/cameras-optics.html?manufacturer=canon">
+    </a><a href="https://www.miagadget.co.uk/cameras.html"><span>All Cameras</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/canon.html"><span>Canon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/fujifilm.html"><span>Fujifilm</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/nikon.html"><span>Nikon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/gopro.html"><span>GoPro</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/all-cameras/sony.html"><span>Sony</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 50px; top: 90px;">
+<div class="gtx-trans-icon"></div>
+</div></div>
+                        	<div class="col-sm-12"><p class="groupdrop-title">Lenses</p>
+<ul class="groupdrop-link">
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/canon.html"><span>Canon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/fujifilm.html"><span>Fujifilm</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/nikon.html"><span>Nikon</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/sony.html"><span>Sony</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/olympus.html"><span>Olympus</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/tamron.html"><span>Tamron</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/cameras/lenses/sigma.html"><span>Sigma</span></a>
+</div>
+</li>
+</ul></div>
+                        </div>
+                </div>
+</li>    </ul>
+    </li><li class="item level0  level-top parent">
+	<a class="menu-link" href="gadgets/all-gadgets.html"><i class="menu-icon fa fa-gamepad"></i> <span>Gadgets</span></a>
+        <ul class="groupmenu-drop">
+    	<li class="item level1  text-content">
+	        <div class=" groupmenu-drop-content groupmenu-width-18" style=" ">
+        	            	<p class="groupdrop-title">Gadgets</p>
+<ul class="groupdrop-link">
+<li class="item"><a href="https://www.miagadget.co.uk/electronics/video-game-consoles.html"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/electronics/video-game-consoles.html">
+    </a><a href="https://www.miagadget.co.uk/gadgets/all-gadgets.html"><span>All Gadgets</span></a>
+</div>
+</li>
+<li class="item"><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=tv stick"></a><div class="widget block block-category-link"><a href="https://www.miagadget.co.uk/catalogsearch/result/?q=tv stick">
+    </a><a href="https://www.miagadget.co.uk/gadgets/gaming-console.html"><span>Gaming Console</span></a>
+</div>
+</li>
+<li class="item"><div class="widget block block-category-link">
+    <a href="https://www.miagadget.co.uk/gadgets/tv-stick.html"><span>TV Stick</span></a>
+</div>
+</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: 51px; top: 85px;">
+<div class="gtx-trans-icon"></div>
+</div>                </div>
+</li>    </ul>
+    </li>	</ul>
+</div>
+</nav></div>
+</div>
+<div class="col-sm-18">
+<div class="slideshow-container"><style>
+.tripple-bounce-spinner {
+  margin: 0px auto 0;
+  width: 70px;
+  text-align: center;
+}
+
+.tripple-bounce-spinner > div {
+  width: 18px;
+  height: 18px;
+  background-color: #333;
+
+  border-radius: 100%;
+  display: inline-block;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.tripple-bounce-spinner .bounce1 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.tripple-bounce-spinner .bounce2 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bouncedelay {
+  0%, 80%, 100% { 
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  } 40% { 
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+  }
+}
+@media (min-width: 768px){
+    .tripple-bounce-spinner {
+        padding-top:214.5px; padding-bottom:234.5px;
+    }
+}
+@media (max-width: 768px){
+    .tripple-bounce-spinner {
+        padding-top:50px; padding-bottom:50px;
+    }
+}
+</style>
+<div class="cdz-slideshow">        
+        <div class="slider-wrapper theme-default loading" style="min-height:469px">
+        	<div class="slider-item f-image">
+                <div class="slideshow tripple-bounce-spinner">
+                    <div class="bounce1"></div>
+                    <div class="bounce2"></div>
+                    <div class="bounce3"></div>
+                </div>
+            </div>
+            <div class="owl-carousel owl-theme b0d9be1fbed7ed7b980cba3c430d1b88">
+                                
+                                        <div class="slider-item">
+                                                <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=ss-a546e">
+                                                                           
+                            <img src="https://www.miagadget.co.uk/media/codazon/slideshow/cache/880x469/a/5/a54_uk3.png" alt="https://www.miagadget.co.uk/catalogsearch/result/?q=ss-a546e" title="https://www.miagadget.co.uk/catalogsearch/result/?q=ss-a546e">
+                           
+                                                </a>
+                                                <div class="cdz-slideshow-description">                            
+                                <div class=" cdz-owlcarousel-des">
+                                                                    </div>                            
+                        </div>
+                    </div>
+                                        
+                                
+                                        <div class="slider-item">
+                                                <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=eufy">
+                                                                           
+                            <img src="https://www.miagadget.co.uk/media/codazon/slideshow/cache/880x469/h/e/hero_banner.jpg" alt="https://www.miagadget.co.uk/catalogsearch/result/?q=eufy" title="https://www.miagadget.co.uk/catalogsearch/result/?q=eufy">
+                           
+                                                </a>
+                                                <div class="cdz-slideshow-description">                            
+                                <div class=" cdz-owlcarousel-des">
+                                                                    </div>                            
+                        </div>
+                    </div>
+                                        
+                                
+                                        <div class="slider-item">
+                                                <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=AP-PAD10-&amp;utm_source=UK3&amp;utm_medium=banner&amp;utm_campaign=hero_PAD10">
+                                                                           
+                            <img src="https://www.miagadget.co.uk/media/codazon/slideshow/cache/880x469/h/e/hero_banner_12_.jpg" alt="https://www.miagadget.co.uk/catalogsearch/result/?q=AP-PAD10-&amp;utm_source=UK3&amp;utm_medium=banner&amp;utm_campaign=hero_PAD10" title="https://www.miagadget.co.uk/catalogsearch/result/?q=AP-PAD10-&amp;utm_source=UK3&amp;utm_medium=banner&amp;utm_campaign=hero_PAD10">
+                           
+                                                </a>
+                                                <div class="cdz-slideshow-description">                            
+                                <div class=" cdz-owlcarousel-des">
+                                                                    </div>                            
+                        </div>
+                    </div>
+                                        
+                                
+                                        <div class="slider-item">
+                                                <a href="https://www.miagadget.co.uk/catalogsearch/result/?q=SY-wf1000XM5&amp;utm_source=UK3&amp;utm_medium=Banner&amp;utm_campaign=hero_WF1000XM5">
+                                                                           
+                            <img src="https://www.miagadget.co.uk/media/codazon/slideshow/cache/880x469/h/e/hero_banner_33_.jpg" alt="https://www.miagadget.co.uk/catalogsearch/result/?q=SY-wf1000XM5&amp;utm_source=UK3&amp;utm_medium=Banner&amp;utm_campaign=hero_WF1000XM5" title="https://www.miagadget.co.uk/catalogsearch/result/?q=SY-wf1000XM5&amp;utm_source=UK3&amp;utm_medium=Banner&amp;utm_campaign=hero_WF1000XM5">
+                           
+                                                </a>
+                                                <div class="cdz-slideshow-description">                            
+                                <div class=" cdz-owlcarousel-des">
+                                                                    </div>                            
+                        </div>
+                    </div>
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+                                        
+                                
+            </div>
+                    </div>
+
+</div>    
+
+    <script type="text/javascript">
+    require(['jquery','owlSlider','domReady!'],function($){
+    	var owl = $('.b0d9be1fbed7ed7b980cba3c430d1b88');    	
+    	if(owl.length){
+    		owl.on('initialized.owl.carousel', function(e) {	        	
+	        	var parentDiv = $(this).parent();		        	
+	        	if(parentDiv.hasClass('loading')) 
+	        	{
+	        		parentDiv.removeClass('loading');
+	        		parentDiv.removeAttr('style');
+	        	}        
+	        	var firstImage = parentDiv.find('div.f-image'); 
+	        	firstImage.fadeTo('slow',1000);
+	        	firstImage.remove();
+	        	
+			});
+	        owl.owlCarousel({
+	            animateOut: "fadeOut",
+	            animateIn: "fadeIn",
+	            items: 1,
+	            loop: true,
+	            //center: true,
+	            //rewind: false,
+	            startPosition: 0,
+	            rtl: ThemeOptions.rtl_layout == 1 ? true : false,                                   
+	
+	            autoplay : true,
+	            
+	            autoplayHoverPause : false,
+	            autoplaySpeed: false,
+	            nav: false,
+	            dots: true,
+	            lazyLoad: false,
+	            URLhashListener: false,
+	                        
+	        });	        	     
+    	}
+    });           
+    </script>
+    </div>
+</div>
+</div>
+</div></div>
+</div></div><input name="form_key" type="hidden" value="gdp2t2e7kf3V0ymt"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    <script>
+        window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/www.miagadget.co.uk\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.miagadget.co.uk\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.miagadget.co.uk\/"};
+    </script>
+    <!-- ko template: getTemplate() --><!-- /ko -->
+    <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"},"social-buttons":{"component":"Mageplaza_SocialLogin\/js\/view\/social-buttons","displayArea":"before"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.miagadget.co.uk\u002Fstatic\u002Fversion1713077546\u002Ffrontend\u002FCodazon\u002Ffastest_hightech\u002Fen_GB\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"checkout\/cart\/add":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/delete":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/updatepost":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/updateitemoptions":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/couponpost":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/estimatepost":["magepal-gtm-jsdatalayer","cart"],"checkout\/cart\/estimateupdatepost":["magepal-gtm-jsdatalayer","cart"],"checkout\/onepage\/saveorder":["magepal-gtm-jsdatalayer","cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["magepal-gtm-jsdatalayer","cart"],"checkout\/sidebar\/updateitemqty":["magepal-gtm-jsdatalayer","cart"],"rest\/*\/v1\/carts\/*\/payment-information":["magepal-gtm-jsdatalayer","cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["magepal-gtm-jsdatalayer","cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["magepal-gtm-jsdatalayer","cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["magepal-gtm-jsdatalayer","cart","checkout-data","instant-purchase"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"ajaxcartpro\/cart\/add":["cart"],"fbt\/cart\/addmultiple":["cart"],"fbt\/cart\/add":["cart"],"fbt\/wishlist\/add":["wishlist"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"review\/product\/post":["review"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"sociallogin\/popup\/create":["checkout-data","cart"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/www.miagadget.co.uk\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.miagadget.co.uk\/customer\/section\/load\/","expirableSectionLifetime":60,"expirableSectionNames":["cart"],"cookieLifeTime":"3600","updateSessionUrl":"https:\/\/www.miagadget.co.uk\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
+<script type="text/x-magento-init">
+{
+     "[data-block='minicart']" : {
+        "Customization_MiniCart/js/checkout/view/minicart_open" : {}
+     }
+}
+</script><script type="text/x-magento-init">
+{
+	"[data-block='footer_minicart']": {
+		"Magento_Ui/js/core/app": {"types":[],"components":{"ajaxcart_content":{"component":"Codazon_AjaxCartPro\/js\/ajaxcart","config":{"template":"Codazon_AjaxCartPro\/ajaxcart\/content"},"children":{"added_item":{"component":"uiComponent","config":{"displayArea":"addedItemContainer","template":"Codazon_AjaxCartPro\/ajaxcart\/added_item"},"children":{"component":"uiComponent","config":{"template":"Codazon_AjaxCartPro\/ajaxcart\/added_item"}}},"cart_summary":{"component":"uiComponent","config":{"displayArea":"cartSummaryContainer","template":"Codazon_AjaxCartPro\/ajaxcart\/cart_summary"},"children":{"component":"uiComponent","config":{"template":"Codazon_AjaxCartPro\/ajaxcart\/cart_summary"}}},"crossell":{"component":"uiComponent","config":{"displayArea":"crossellContainer","template":"Codazon_AjaxCartPro\/ajaxcart\/crossell"},"children":{"component":"uiComponent","config":{"template":"Codazon_AjaxCartPro\/ajaxcart\/crossell"}}}}}}}	},
+	"*": {
+		"Magento_Ui/js/block-loader": "https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/images/loader-1.gif"
+	}
+}
+</script><script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.miagadget.co.uk\/page_cache\/block\/render\/?SID=rauklhi02fs5j1uk16e1t7c532","handles":["default","cms_index_index","cms_page_view","cms_index_index_id_home"],"originalRequest":{"route":"cms","controller":"index","action":"index","uri":"\/?SID=rauklhi02fs5j1uk16e1t7c532"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+        <style type="text/css">
+                
+        .form.form-login .g-recaptcha .grecaptcha-badge{
+            position: unset !important;
+        }
+
+        .form-customer-login .g-recaptcha {
+            margin: 0px;
+        }
+
+        #social-form-create .g-recaptcha{
+            padding-top: 5%;
+        }
+
+        #social-form-password-forget .g-recaptcha{
+            padding-top: 5%;
+        }
+
+        .onestepcheckout-index-index .form-login .g-recaptcha .grecaptcha-badge {
+            position: unset !important;
+        }
+
+        .checkout-index-index form[data-role=login] .g-recaptcha .grecaptcha-badge {
+            position: unset !important;
+        }
+
+        #mpageverify-form .g-recaptcha {
+            margin-left: 30%;
+        }
+
+        .g-recaptcha {
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+    </style>
+    <script type="text/x-magento-init">
+        {
+            "*": {
+                "Mageplaza_GoogleRecaptcha/js/captcha": {
+                    "key": "6Lc8escZAAAAAIZ08qkAjkNIosEwF7gWWAGd-R4R",
+                    "language": "en",
+                    "position": "inline",
+                    "theme": "light",
+                    "forms": ["#social-form-login","#social-form-create","#social-form-password-forget","#product-sendtofriend-form","#cdz-login-form-dropdown > div > div > form","#contact-form"],
+                    "type": "visible",
+                    "size": "normal"
+                }
+            }
+        }
+    </script>
+
+
+
+
+    <div class="fixed-center-right loaded">
+        <div class="content">
+            <p><a href="https://www.miagadget.co.uk/bundle-up-and-save-big.html"><img src="https://www.miagadget.co.uk/media/wysiwyg/Side_Banner_3_.png" width="300" height="400"></a></p>        </div>
+        <button id="close-button">
+            <span class="close-icon">X</span>
+        </button>
+    </div>
+<script type="text/javascript">
+    require(['jquery'], function($) {
+        $(document).ready(function() {
+            let delayedDisplay = $('.fixed-center-right');
+            delayedDisplay.addClass('loaded');
+            $('#close-button').click(function() {
+                $('.fixed-center-right').hide();
+            });
+        });
+    });
+</script><div class="row"><div class="col-sm-6 sidebar"><div class="widget block block-static-block">
+    <div class="block hot-deals product-style13">
+<div class="block-title"></div>
+<div class="block-title">Hot deals</div>
+<div class="product-list-style-01"><div class="ajax_1f7b7f83613b469f0b7fdf83f493fd65">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_1f7b7f83613b469f0b7fdf83f493fd65":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"name ASC","show":"thumb,name,sku,review,price,addtocart,addto","thumb_width":"280","thumb_height":"280","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"1","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`36`^]^]"}		}
+	}
+}
+</script>
+</div>
+</div>
+<div class="block product-list-style02">
+<div class="block-title">Special products</div>
+<div class="ajax_e7a4ffb4d3e4ee46185bf1da27e68786">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_e7a4ffb4d3e4ee46185bf1da27e68786":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"5","order_by":"price ASC","show":"thumb,name,sku,review,price,addtocart,addto","thumb_width":"70","thumb_height":"70","filter_template":"custom","custom_template":"custom_list.phtml","show_slider":"1","slider_item":"5","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`()`,`value`:`4`^]^]"}		}
+	}
+}
+</script>
+</div>
+<div class="block">
+<div class="block-banner-content">
+<div class="cdz-shadow shine-effect cdz-banner"><a title="Bose QC45" href="https://www.miagadget.co.uk/catalogsearch/result/?q=BOS-QC45"><img src="https://d1sh47nr05d35z.cloudfront.net/tmp/catalog/product/a/u/au2uk3_banner_1.png" width="280" height="304"></a></div>
+</div>
+</div>
+<div class="block">
+<div class="block-title">Brands</div>
+<div class="block-content">
+
+<div class="brand-slider-wrapper no-loaded" data-role="slider-wrapper">
+    <div class="brand-loader double-bounce-spinner" data-role="slider-loader">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+    </div>
+    <div class="shop-by-brand-slider style-default owl-carousel" data-mage-init="{&quot;Codazon_Shopbybrandpro\/js\/brands&quot;:{&quot;codazon.brandslider&quot;:{&quot;sliderConfig&quot;:{&quot;nav&quot;:true,&quot;dots&quot;:false,&quot;loop&quot;:false,&quot;stagePadding&quot;:0,&quot;lazyLoad&quot;:true,&quot;responsive&quot;:{&quot;1900&quot;:{&quot;items&quot;:2},&quot;1600&quot;:{&quot;items&quot;:2},&quot;1420&quot;:{&quot;items&quot;:2},&quot;1280&quot;:{&quot;items&quot;:2},&quot;980&quot;:{&quot;items&quot;:2},&quot;768&quot;:{&quot;items&quot;:2},&quot;480&quot;:{&quot;items&quot;:2},&quot;320&quot;:{&quot;items&quot;:2},&quot;0&quot;:{&quot;items&quot;:1}},&quot;margin&quot;:20}}}}">
+                        <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/apple" title="Apple">
+                <img class="brand-img owl-lazy zoom-eff" alt="Apple" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Apple.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/samsung" title="Samsung">
+                <img class="brand-img owl-lazy zoom-eff" alt="Samsung" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/Samsung_Orig_Wordmark_BLUE_RGB.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/sony" title="Sony">
+                <img class="brand-img owl-lazy zoom-eff" alt="Sony" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Sony.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/bose" title="Bose">
+                <img class="brand-img owl-lazy zoom-eff" alt="Bose" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Bose.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/oneplus" title="OnePlus">
+                <img class="brand-img owl-lazy zoom-eff" alt="OnePlus" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/OnePlus.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/canon" title="Canon">
+                <img class="brand-img owl-lazy zoom-eff" alt="Canon" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Canon.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/xiaomi" title="Xiaomi">
+                <img class="brand-img owl-lazy zoom-eff" alt="Xiaomi" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Xiaomi.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/haylou" title="Haylou">
+                <img class="brand-img owl-lazy zoom-eff" alt="Haylou" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Haylou.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/klipsch" title="Klipsch">
+                <img class="brand-img owl-lazy zoom-eff" alt="Klipsch" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Klipsch.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/pamu" title="Pamu">
+                <img class="brand-img owl-lazy zoom-eff" alt="Pamu" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Pamu.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/shava" title="SHAVA">
+                <img class="brand-img owl-lazy zoom-eff" alt="SHAVA" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/SHAVA.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/jabra" title="Jabra">
+                <img class="brand-img owl-lazy zoom-eff" alt="Jabra" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Jabra.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/beats" title="Beats">
+                <img class="brand-img owl-lazy zoom-eff" alt="Beats" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Beats.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/amazon" title="Amazon">
+                <img class="brand-img owl-lazy zoom-eff" alt="Amazon" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Amazon.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/microsoft" title="Microsoft">
+                <img class="brand-img owl-lazy zoom-eff" alt="Microsoft" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Microsoft.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/gpd" title="GPD">
+                <img class="brand-img owl-lazy zoom-eff" alt="GPD" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/GPD.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/one-netbook" title="One-Netbook">
+                <img class="brand-img owl-lazy zoom-eff" alt="One-Netbook" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/One-Netbook.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/fujifilm" title="Fujifilm">
+                <img class="brand-img owl-lazy zoom-eff" alt="Fujifilm" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Fujifilm.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nikon" title="Nikon">
+                <img class="brand-img owl-lazy zoom-eff" alt="Nikon" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Nikon.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/gopro" title="GoPro">
+                <img class="brand-img owl-lazy zoom-eff" alt="GoPro" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Gopro.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nintendo" title="Nintendo">
+                <img class="brand-img owl-lazy zoom-eff" alt="Nintendo" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Nintendo.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/google" title="Google">
+                <img class="brand-img owl-lazy zoom-eff" alt="Google" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Google.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/htc" title="HTC">
+                <img class="brand-img owl-lazy zoom-eff" alt="HTC" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/HTC.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/huawei" title="Huawei">
+                <img class="brand-img owl-lazy zoom-eff" alt="Huawei" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Huawei.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/lenovo" title="Lenovo">
+                <img class="brand-img owl-lazy zoom-eff" alt="Lenovo" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/lenovo.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/oppo" title="Oppo">
+                <img class="brand-img owl-lazy zoom-eff" alt="Oppo" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/oppo.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nokia" title="Nokia">
+                <img class="brand-img owl-lazy zoom-eff" alt="Nokia" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/nokia.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nvidia" title="NVIDIA">
+                <img class="brand-img owl-lazy zoom-eff" alt="NVIDIA" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/nvidia.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/comica" title="COMICA">
+                <img class="brand-img owl-lazy zoom-eff" alt="COMICA" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/COMICA.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/dji" title="DJI">
+                <img class="brand-img owl-lazy zoom-eff" alt="DJI" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/DJI.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/one-netbook" title="One-netbook">
+                <img class="brand-img owl-lazy zoom-eff" alt="One-netbook" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/One-netbook.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/onyx" title="Onyx">
+                <img class="brand-img owl-lazy zoom-eff" alt="Onyx" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/onyx.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/ring" title="Ring">
+                <img class="brand-img owl-lazy zoom-eff" alt="Ring" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Ring.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/realme" title="Realme">
+                <img class="brand-img owl-lazy zoom-eff" alt="Realme" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Realme.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/zeapon" title="Zeapon">
+                <img class="brand-img owl-lazy zoom-eff" alt="Zeapon" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Zeapon.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/zhiyun" title="Zhiyun">
+                <img class="brand-img owl-lazy zoom-eff" alt="Zhiyun" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Zhiyun.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/jbl" title="JBL">
+                <img class="brand-img owl-lazy zoom-eff" alt="JBL" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/JBL.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/asus" title="Asus">
+                <img class="brand-img owl-lazy zoom-eff" alt="Asus" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Asus.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/boyue" title="Boyue">
+                <img class="brand-img owl-lazy zoom-eff" alt="Boyue" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Boyue.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nubia" title="Nubia">
+                <img class="brand-img owl-lazy zoom-eff" alt="Nubia" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Nubia.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/logitech" title="Logitech">
+                <img class="brand-img owl-lazy zoom-eff" alt="Logitech" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Logitech.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/sennheiser" title="Sennheiser">
+                <img class="brand-img owl-lazy zoom-eff" alt="Sennheiser" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/Sennheiser.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/fitbit" title="Fitbit">
+                <img class="brand-img owl-lazy zoom-eff" alt="Fitbit" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/fitbit.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/razer" title="Razer">
+                <img class="brand-img owl-lazy zoom-eff" alt="Razer" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150__Razer.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/oculus" title="Oculus">
+                <img class="brand-img owl-lazy zoom-eff" alt="Oculus" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150___oculuc_1_.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/generic" title="Generic">
+                <img class="brand-img owl-lazy zoom-eff" alt="Generic" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/UK3_generic.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/vivo" title="Vivo">
+                <img class="brand-img owl-lazy zoom-eff" alt="Vivo" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150_vivo.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/lg" title="LG">
+                <img class="brand-img owl-lazy zoom-eff" alt="LG" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150___LG.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/sigma" title="Sigma">
+                <img class="brand-img owl-lazy zoom-eff" alt="Sigma" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150__sigma_1_.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/harman-kardon" title="Harman Kardon">
+                <img class="brand-img owl-lazy zoom-eff" alt="Harman Kardon" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/wysiwyg/codazon/brand/logo220_150__Harman_Kardon.png" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/tamron" title="Tamron">
+                <img class="brand-img owl-lazy zoom-eff" alt="Tamron" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/insta360" title="Insta360">
+                <img class="brand-img owl-lazy zoom-eff" alt="Insta360" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/olympus" title="Olympus">
+                <img class="brand-img owl-lazy zoom-eff" alt="Olympus" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/valve" title="Valve">
+                <img class="brand-img owl-lazy zoom-eff" alt="Valve" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/panasonic" title="Panasonic">
+                <img class="brand-img owl-lazy zoom-eff" alt="Panasonic" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/motorola" title="Motorola">
+                <img class="brand-img owl-lazy zoom-eff" alt="Motorola" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/pico" title="PICO">
+                <img class="brand-img owl-lazy zoom-eff" alt="PICO" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/atuvos" title="ATUVOS">
+                <img class="brand-img owl-lazy zoom-eff" alt="ATUVOS" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/nothing-phone" title="Nothing Phone">
+                <img class="brand-img owl-lazy zoom-eff" alt="Nothing Phone" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/ricoh" title="Ricoh">
+                <img class="brand-img owl-lazy zoom-eff" alt="Ricoh" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                                <div class="item-group">
+                <div class="brand-item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://www.miagadget.co.uk/brand/eufy" title="eufy">
+                <img class="brand-img owl-lazy zoom-eff" alt="eufy" data-src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg" src="https://www.miagadget.co.uk/media/codazon_cache/brand/100x100/codazon/brand/placeholder_thumbnail.jpg">
+            </a>
+        </div>
+                </div>
+                    </div>
+</div>
+</div>
+</div></div>
+</div><div class="col-sm-18"><div class="widget block block-static-block">
+    <div class="cdz-best-seller-wrap cdz-products box-product product-style05">
+<div class="row">
+<div class="col-sm-24">
+<div class="block-title">
+<p class="b-title h3"><span>New Product</span></p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-24 text-center "><div class="ajax_e21a04052dfad4cbfb18da64d72650fa">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_e21a04052dfad4cbfb18da64d72650fa":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`!=`,`value`:`22, 19, 8, 12, 34, 23`^]^]"}		}
+	}
+}
+</script>
+</div>
+</div>
+</div></div>
+<div class="widget block block-static-block">
+    <div class="col-sm-12">
+<div class="cdz-shadow shine-effect cdz-banner"><a title="A54" href="https://www.miagadget.co.uk/catalogsearch/result/?q=Galaxy+A54"><img title="A54" src="https://www.miagadget.co.uk/media/catalog/product/a/u/au2uk3_banner_2_4_.jpg" width="430" height="190"></a></div>
+</div>
+<div class="col-sm-12">
+<div class="cdz-shadow shine-effect cdz-banner"><a title="Nord CE 3 Lite" href="https://www.miagadget.co.uk/catalogsearch/result/?q=nord+Ce3"><img src="https://www.miagadget.co.uk/media/catalog/product/a/u/au2uk3_banner_2_1.jpg" width="430" height="190"></a></div>
+<div class="cdz-shadow shine-effect cdz-banner"></div>
+</div></div>
+<div class="widget block block-static-block">
+    <div class="cdz-product-tab01 box-product product-style05 ">
+<div class="row">
+<div class="col-sm-24">
+<div class="tabs-list bestseller-product cdz-tabs">
+<ul class="nav nav-tabs hidden-xs abs-dropdown cdz-mobiledropdown">
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-1" data-toggle="switch">Laptop</a></li>
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-2" data-toggle="switch">Phone</a></li>
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-3" data-toggle="switch">Tablet</a></li>
+</ul>
+<div class="tab-content product data items">
+<div id="best-seller-tab-1" class="data item content" data-role="content"><div class="ajax_96a2deb3c3daa1e6b6d45ef90430f7fc">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_96a2deb3c3daa1e6b6d45ef90430f7fc":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`16`^]^]"}		}
+	}
+}
+</script>
+</div>
+<div id="best-seller-tab-2" class="data item content" data-role="content"><div class="ajax_1e2d9e723abd95c836535608f9612292">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_1e2d9e723abd95c836535608f9612292":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`53`^]^]"}		}
+	}
+}
+</script>
+</div>
+<div id="best-seller-tab-3" class="data item content" data-role="content"><div class="ajax_81e3a79a005f814063bf36a699b65a70">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_81e3a79a005f814063bf36a699b65a70":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`63`^]^]"}		}
+	}
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row" style="margin-top: 20px;">
+<div class="col-sm-24">
+<div class="cdz-shadow shine-effect cdz-banner"><a title="Your title" href="https://www.miagadget.co.uk/laptop-tablet-e-reader.html"><img title="Laptop | Tablet | e-Reader" src="https://d1sh47nr05d35z.cloudfront.net/tmp/catalog/product/a/u/au2_uk3_banner.png" width="1176" height="300"></a></div>
+</div>
+</div></div>
+<div class="widget block block-static-block">
+    <div class="cdz-product-tab01 box-product product-style05 space-base ">
+<div class="row">
+<div class="col-sm-24">
+<div class="tabs-list bestseller-product cdz-tabs">
+<ul class="nav nav-tabs hidden-xs abs-dropdown cdz-mobiledropdown">
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-1" data-toggle="switch">Headphone</a></li>
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-2" data-toggle="switch">Camera</a></li>
+<li class="data item title text-uppercase" data-role="collapsible"><a class="data switch" tabindex="0" href="#best-seller-tab-3" data-toggle="switch">Gadget</a></li>
+</ul>
+<div class="tab-content product data items">
+<div id="best-seller-tab-1" class="data item content" data-role="content"><div class="ajax_4b18643e1977fcb6651e415e31e99894">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_4b18643e1977fcb6651e415e31e99894":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`21`^]^]"}		}
+	}
+}
+</script>
+</div>
+<div id="best-seller-tab-2" class="data item content" data-role="content"><div class="ajax_e2755bd60d15e68c06ba8f55faa00686">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_e2755bd60d15e68c06ba8f55faa00686":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`13`^]^]"}		}
+	}
+}
+</script>
+</div>
+<div id="best-seller-tab-3" class="data item content" data-role="content"><div class="ajax_440ba8eac996f758ccdc6f66c366e139">
+    <div class="icon-loading"><span>Loading...</span></div>
+</div>
+
+<script type="text/x-magento-init">
+{
+	".ajax_440ba8eac996f758ccdc6f66c366e139":{
+		"Codazon_ProductFilter/js/firstload":{
+			"ajaxUrl": "https://www.miagadget.co.uk/productfilter/index/firstLoad/",
+			"currentUrl": "https://www.miagadget.co.uk/",
+			"jsonData": {"is_ajax":1,"title":null,"display_type":"all_products","products_count":"20","order_by":"entity_id DESC","show":"thumb,name,review,price,addtocart,addto","thumb_width":"220","thumb_height":"220","filter_template":"custom","custom_template":"grid_slider_1.phtml","show_slider":"1","slider_item":"4","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^],`1--1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Product`,`attribute`:`category_ids`,`operator`:`==`,`value`:`24`^]^]"}		}
+	}
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div></div><div class="widget block block-static-block">
+    </div>
+<div class="widget block block-static-block">
+    <div class="cdz_wapper-blog01 text-center space-lg"></div></div>
+<div class="widget block block-static-block">
+    <div class="wrapper-ads07 hidden-xs space-lg">
+<div class="row">
+<div class="col-sm-6 space-xs">
+<div class="text-area"><span class="icon-font pe-7s-ticket">&nbsp;</span>
+<h4>BRAND NEW ORIGINAL</h4>
+<p class="text">Top Products, Great Quality+</p>
+</div>
+</div>
+<div class="col-sm-6 space-xs">
+<div class="text-area"><span class="icon-font pe-7s-star">&nbsp;</span>
+<h4>FREE SHIPPING</h4>
+<p class="text">No Any hidden fee</p>
+</div>
+</div>
+<div class="col-sm-6 space-xs">
+<div class="text-area"><span class="icon-font pe-7s-car">&nbsp;</span>
+<h4>RETURN IN 30 DAYS</h4>
+<p class="text">Shop with confidence</p>
+</div>
+</div>
+<div class="col-sm-6 space-xs">
+<div class="text-area"><span class="icon-font pe-7s-piggy">&nbsp;</span>
+<h4>7/24 CUSTOMER SERVICE&nbsp;</h4>
+<p class="text">Reply within 24 working hours</p>
+</div>
+</div>
+</div>
+</div></div>
+<div class="widget block block-static-block">
+    </div>
+<div class="quickshop-modal"><div id="quickshop" class="quickshop-modal">
+    <div class="content-wrap">
+        <div class="qs-loading-wrap" style="display:none;">
+            <div class="qs-loader"><img src="https://www.miagadget.co.uk/static/version1713077546/frontend/Codazon/fastest_hightech/en_GB/images/loader-1.gif" alt="Loading..."></div>
+        </div>
+        <div class="qs-content qs-main" style="display:none;"></div>
+    </div>
+</div>
+<script type="text/x-magento-init">
+{
+    "body": {
+        "Codazon_QuickShop/js/quickshop": {"baseUrl":"https:\/\/www.miagadget.co.uk\/","qsLabel":"Quick Shop","itemClass":".product-item","autoAddButtons":true,"target":".product-item-info"}    }
+}
+</script></div><div class="widget block block-static-block">
+    </div>
+</div></div></main><footer class="page-footer"><div id="topfooter" class="top-footer-wrapper"><div class="footer content">
+    <!-- Start of miagadget Zendesk Widget script -->
+    <iframe src="javascript:false" title="" role="presentation" style="display: none;"></iframe><script>
+        /*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="miagadget.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+        /*]]>*/
+    </script>
+    <!-- End of miagadget Zendesk Widget script -->
+</div><div class="footer content footer-content-top"><div class="widget block block-static-block">
+    </div>
+</div></div><div class="footer content footer-container-wrapper"><div class="widget block block-static-block">
+    <div class="row">
+<div class="col-sm-6">
+<div class="footer-box">
+<p class="h5" data-cdz-toggle="#footer-content-1">Our Company</p>
+<ul id="footer-content-1" class="footer-link showhide">
+<li><a title="About Us" href="https://www.miagadget.co.uk/about">About Us</a></li>
+<li><a title="Contact Us" href="https://www.miagadget.co.uk/contacts">Contact Us</a></li>
+<li><a href="https://www.miagadget.co.uk/privacy-policy">Privacy Policy</a></li>
+<li><a title="Terms &amp; Conditions of Miagadget" href="https://www.miagadget.co.uk/terms-and-conditions">Terms &amp; Conditions</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="footer-box">
+<p class="h5" data-cdz-toggle="#footer-content-2">Account</p>
+<ul id="footer-content-2" class="footer-link showhide">
+<li><a href="https://www.miagadget.co.uk/customer/account/login">Login</a></li>
+<li><a href="https://www.miagadget.co.uk/customer/account">My Account</a></li>
+<li><a href="https://www.miagadget.co.uk/wishlist">My Wishlist</a></li>
+<li><a href="https://www.miagadget.co.uk/sales/order/history">Order History</a></li>
+<li><a title="Tracking" href="https://www.miagadget.co.uk/tracking">Tracking</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="footer-box">
+<p class="h5" data-cdz-toggle="#footer-content-3">Information</p>
+<ul id="footer-content-3" class="footer-link showhide">
+<li><a href="https://www.miagadget.co.uk/faq">FAQ</a></li>
+<li><a href="https://www.miagadget.co.uk/payment">Payment</a></li>
+<li><a href="https://www.miagadget.co.uk/returns">Returns</a></li>
+<li><a href="https://www.miagadget.co.uk/shipping">Shipping</a></li>
+<li><a href="https://www.miagadget.co.uk/warranty/">Warranty</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="footer-box">
+<p class="h5" data-cdz-toggle="#footer-content-4">About Miagadget</p>
+<ul id="footer-content-4" class="footer-link showhide">
+<li><span class="fa fa-map-marker">&nbsp;Registered Business Address (We do not have a physical store):&nbsp;</span>14 Cotton's Garden, London, E2 8DN</li>
+<li><span class="fa fa-phone">&nbsp;</span>Phone: +44 07861 496166</li>
+<li><span class="fa fa-envelope">&nbsp;</span>Email: miagadgetuk@gmail.com</li>
+</ul>
+</div>
+</div>
+</div></div>
+</div><div id="bottomfooter" class="bottom-footer-wrapper"><div class="footer content"><small class="copyright">    
+    <span class="f-left">
+		Copyright © LWHUK LTD. All rights reserved		
+	</span>						
+</small>
+<div class="footer-custom-block"><div class="widget block block-static-block">
+    <p><img src="https://www.miagadget.co.uk/media/wysiwyg/payment.png" alt=""></p></div>
+</div></div></div></footer><div id="back-top" style="display: none;"><a title="Top" href="#top">Top</a></div>
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.miagadget.co.uk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.miagadget.co.uk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.miagadget.co.uk\/rest\/default\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<div class="cart-footer" id="cart-footer" data-bind="scope: 'ajaxcart_content'" style="display:none;" data-block="footer_minicart">
+    <div class="cart-qty" id="footer-cart-trigger" data-bind="click: toggleFooterSidebar.bind(this)">
+        <span class="number"><!-- ko text: cartSidebar().summary_count --><!-- /ko --></span>
+        item(s) in your cart    </div>
+    <div id="footer-mini-cart" class="footer-mini-cart" style="display:none;">
+    	<span class="cart-icon"></span>
+        <div class="cart-items" id="footer-cart-list">
+            <div class="cart-items-inner">
+            <!-- ko foreach: { data: cartSidebar().items, as: 'item' } -->
+                <!-- ko template: 'Codazon_AjaxCartPro/ajaxcart/cart_items' --><!-- /ko -->
+            <!-- /ko -->
+            </div>
+        </div>
+		<div class="footer-cart-additional">
+			<div class="footer-cart-summary">
+			<!-- ko template: 'Codazon_AjaxCartPro/ajaxcart/summary' --><!-- /ko -->
+			</div>
+			<!-- ko if: cartSidebar().possible_onepage_checkout -->
+			<div class="footer-cart-actions">
+				<div class="primary">
+					<button id="footer-cart-btn-checkout" type="button" class="action primary checkout" data-bind="attr: {title: $t('Go to Checkout')}">
+						Go to Checkout					</button>
+					<div data-bind="html: cartSidebar().extra_actions"></div>
+				</div>
+			</div>
+			<!-- /ko -->
+			
+		</div>
+    </div>
+</div>
+</div>    
+
+     
+		<script data-cfasync="false" type="text/javascript">  
+			//<![CDATA[
+			if(typeof mb_popups === 'undefined'){
+				var mb_popups = null;
+			}    
+
+			var popupScriptListener = setInterval(function(){
+					//must wait for body and jquery to be loaded!
+					//mb_popups is for extra check to avoid any infinitive loop 
+					if(!mb_popups){  
+					
+						clearInterval(popupScriptListener);    
+						var mb_popup_style = jQuery('<style type="text/css">'+".mbdialog.popupid1 .dialogBody{border:1px solid #194afc;;padding:20px;}.mbdialog.popupid1{width:85%; max-width:1200px;}.dialogBg.popupid1{cursor:auto;}.mbdialog.popupid1 .dialogBody{background-color: #FFFFFF;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;}.mbdialog.popupid1 table{border-spacing:none !important;}.popupid1 .dialogClose.style4,\r\n\t\t.popupid1 .dialogClose.style6,\r\n\t\t.popupid1 .dialogClose.style7,\r\n\t\t.popupid1 .dialogClose.style8,\r\n\t\t.popupid1 .dialogClose.style9,\r\n\t\t.popupid1 .dialogClose.style10,\r\n\t\t.popupid1 .dialogClose.style11,\r\n\t\t.popupid1 .dialogClose.style3{\r\n\t\ttop:1px;right:1px;\r\n\t\t}.mbdialog.popupid1{position:fixed;left: 0;right: 0;margin:0 auto;bottom:-5px;}.mbdialog.popupid1 h6{\r\nmargin-top: -24px !important;\r\npadding:4px 20px;\r\n}\n\r\n"+'</style>');
+						jQuery('html > head').append(mb_popup_style);  
+						mb_popups = {"1":{"popupId":"1","overlay":"3","appearType":"1","closeEffect":"1","startTime":"","showWhen":"1","scrollPx":"50","secondsDelay":"2","totalSecondsDelay":"2","cartSecondsDelay":"0","closeTimeout":"0","closeOnOverlay":"0","title":"Cookie Popup","content":"<h6 style=\"background-color: #194afc; color: white; width: 60%; margin: 0px auto; text-align: center;\"><span style=\"color: #ffffff;\"><span style=\"font-size: large;\">We value your Privacy<\/span><span style=\"font-size: xx-large; font-weight: bold;\"><br \/><\/span><\/span><\/h6>\r\n<p>We use cookies to help give you the best experience on our site and to allow us and third parties to customise the marketing content you see across websites and social media. For more information see our cookie policy.<\/p>\r\n<div style=\"clear: both;\">\r\n    <p style=\"float: right; margin-right: 5px;\"><script type=\"text\/javascript\">     \r\n  if (typeof popupButton === \"undefined\"){   \r\n    jQuery('head').append('<link rel=\"stylesheet\" href=\"https:\/\/www.miagadget.co.uk\/static\/version1686797482\/frontend\/Codazon\/fastest_hightech\/en_US\/Magebird_Popup\/css\/widget\/buttons.css\" type=\"text\/css\" \/>');\r\n    var popupButton = {};\r\n    popupButton.ajaxUrl = 'https:\/\/www.miagadget.co.uk\/magebird_popup\/coupon\/newcoupon\/?___store=default&rand='+Math.floor((Math.random() * 100000000) + 1)\r\n    popupButton.workingText = 'Working...';    \r\n    var buttonScriptUrl = mb_popup.correctHttps(\"https:\/\/www.miagadget.co.uk\/static\/version1686797482\/frontend\/Codazon\/fastest_hightech\/en_US\/Magebird_Popup\/js\/button.js\");                                                            \r\n    jQuery.getScript(buttonScriptUrl); \r\n  }\r\n<\/script>               <style>\r\n#_5muq.popupButton{\r\n  background-color: #194afc;\r\n\t-moz-border-radius: 5px;\r\n\t-webkit-border-radius: 5px;\r\n\tborder-radius: 5px;  \r\n  color:#FFFFFF;\r\n}  \r\n<\/style>\r\n  <a href=\"https:\/\/www.miagadget.co.uk\/privacy-policy\" target=\"_blank\" id=\"_5muq\" class=\"popupButton size3\">Cookie Policy<\/a>\r\n<\/p>\r\n    <p style=\"float: right; margin-right: 5px;\"><script type=\"text\/javascript\">     \r\n  if (typeof popupButton === \"undefined\"){   \r\n    jQuery('head').append('<link rel=\"stylesheet\" href=\"https:\/\/www.miagadget.co.uk\/static\/version1686797482\/frontend\/Codazon\/fastest_hightech\/en_US\/Magebird_Popup\/css\/widget\/buttons.css\" type=\"text\/css\" \/>');\r\n    var popupButton = {};\r\n    popupButton.ajaxUrl = 'https:\/\/www.miagadget.co.uk\/magebird_popup\/coupon\/newcoupon\/?___store=default&rand='+Math.floor((Math.random() * 100000000) + 1)\r\n    popupButton.workingText = 'Working...';    \r\n    var buttonScriptUrl = mb_popup.correctHttps(\"https:\/\/www.miagadget.co.uk\/static\/version1686797482\/frontend\/Codazon\/fastest_hightech\/en_US\/Magebird_Popup\/js\/button.js\");                                                            \r\n    jQuery.getScript(buttonScriptUrl); \r\n  }\r\n<\/script>               <style>\r\n#_ifey.popupButton{\r\n  background-color: #194afc;\r\n\t-moz-border-radius: 5px;\r\n\t-webkit-border-radius: 5px;\r\n\tborder-radius: 5px;  \r\n  color:#FFFFFF;\r\n}  \r\n<\/style>\r\n  <a href=\"\"  id=\"_ifey\" class=\"popupButton size3 dialogCloseCustom\">Accept All Cookies<\/a>\r\n<\/p>\r\n<\/div>","horizontalPosition":"1","horizontalPositionPx":"10","verticalPosition":"2","verticalPositionPx":"-5","elementIdPosition":"","closeStyle":"5","makeStats":"1","cookieTime":"15","cookieId":"e9d0e9","showingFrequency":"2"}};                        
+						mb_popup.serverLocalTime = 1719919873;
+						mb_popup.serverTime = 1719912673;
+						mb_popup.clientTime = new Date().getTime();
+						for (var key in mb_popups) {
+							if (!mb_popups.hasOwnProperty(key)) continue;
+							mb_popups[key].dialogActive = false;
+							mb_popups[key].removed = false;
+							mb_popup.prepareDialog(mb_popups[key]);              
+							if(mb_popups[key].makeStats!=false){
+								mb_popup.showStatsGlobal = true;
+							} 
+						}                                   
+						if(mb_popup.showStatsGlobal){
+							mb_popup.onbeforeunloadHandler();
+						}      
+             
+											}
+				},10)
+			//]]>
+		</script>
+		<div class="mbdialog popupid1" data-popupid="1" style="display: block;"><div class="dialogBody"><h6 style="background-color: #194afc; color: white; width: 60%; margin: 0px auto; text-align: center;"><span style="color: #ffffff;"><span style="font-size: large;">We value your Privacy</span><span style="font-size: xx-large; font-weight: bold;"><br></span></span></h6>
+<p>We use cookies to help give you the best experience on our site and to allow us and third parties to customise the marketing content you see across websites and social media. For more information see our cookie policy.</p>
+<div style="clear: both;">
+    <p style="float: right; margin-right: 5px;"><script type="text/javascript">     
+  if (typeof popupButton === "undefined"){   
+    jQuery('head').append('<link rel="stylesheet" href="https://www.miagadget.co.uk/static/version1686797482/frontend/Codazon/fastest_hightech/en_US/Magebird_Popup/css/widget/buttons.css" type="text/css" />');
+    var popupButton = {};
+    popupButton.ajaxUrl = 'https://www.miagadget.co.uk/magebird_popup/coupon/newcoupon/?___store=default&rand='+Math.floor((Math.random() * 100000000) + 1)
+    popupButton.workingText = 'Working...';    
+    var buttonScriptUrl = mb_popup.correctHttps("https://www.miagadget.co.uk/static/version1686797482/frontend/Codazon/fastest_hightech/en_US/Magebird_Popup/js/button.js");                                                            
+    jQuery.getScript(buttonScriptUrl); 
+  }
+</script>               <style>
+#_5muq.popupButton{
+  background-color: #194afc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;  
+  color:#FFFFFF;
+}  
+</style>
+  <a href="https://www.miagadget.co.uk/privacy-policy" target="_blank" id="_5muq" class="popupButton size3">Cookie Policy</a>
+</p>
+    <p style="float: right; margin-right: 5px;"><script type="text/javascript">     
+  if (typeof popupButton === "undefined"){   
+    jQuery('head').append('<link rel="stylesheet" href="https://www.miagadget.co.uk/static/version1686797482/frontend/Codazon/fastest_hightech/en_US/Magebird_Popup/css/widget/buttons.css" type="text/css" />');
+    var popupButton = {};
+    popupButton.ajaxUrl = 'https://www.miagadget.co.uk/magebird_popup/coupon/newcoupon/?___store=default&rand='+Math.floor((Math.random() * 100000000) + 1)
+    popupButton.workingText = 'Working...';    
+    var buttonScriptUrl = mb_popup.correctHttps("https://www.miagadget.co.uk/static/version1686797482/frontend/Codazon/fastest_hightech/en_US/Magebird_Popup/js/button.js");                                                            
+    jQuery.getScript(buttonScriptUrl); 
+  }
+</script>               <style>
+#_ifey.popupButton{
+  background-color: #194afc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;  
+  color:#FFFFFF;
+}  
+</style>
+  <a href="" id="_ifey" class="popupButton size3 dialogCloseCustom">Accept All Cookies</a>
+</p>
+</div></div></div></body>

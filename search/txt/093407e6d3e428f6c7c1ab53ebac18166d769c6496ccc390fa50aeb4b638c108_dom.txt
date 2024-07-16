@@ -1,0 +1,930 @@
+<head><title>Volksbank Bad Salzuflen eG</title><meta name="content-language" content="German"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="google-site-verification" content="google81278abab11537c3"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no, shrink-to-fit=no"><meta name="HandheldFriendly" content="true"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="apple-touch-icon" href="corveos/modules/portalapp/gui/elements/app-icon-57.png"><link rel="apple-touch-icon" sizes="57x57" href="corveos/modules/portalapp/gui/elements/app-icon-72.png"><link rel="apple-touch-icon" sizes="72x72" href="corveos/modules/portalapp/gui/elements/app-icon-72.png"><link rel="apple-touch-icon" sizes="76x76" href="corveos/modules/portalapp/gui/elements/app-icon-76.png"><link rel="apple-touch-icon" sizes="114x114" href="corveos/modules/portalapp/gui/elements/app-icon-114.png"><link rel="apple-touch-icon" sizes="120x120" href="corveos/modules/portalapp/gui/elements/app-icon-120.png"><link rel="apple-touch-icon" sizes="144x144" href="corveos/modules/portalapp/gui/elements/app-icon-144.png"><link rel="apple-touch-icon" sizes="152x152" href="corveos/modules/portalapp/gui/elements/app-icon-152.png"><link rel="apple-touch-icon" sizes="180x180" href="corveos/modules/portalapp/gui/elements/app-icon-180.png"><link rel="apple-touch-icon" sizes="196x196" href="corveos/modules/portalapp/gui/elements/app-icon-196.png"><link rel="shortcut icon" sizes="196x196" href="corveos/modules/portalapp/gui/elements/app-icon-196.png"><link rel="icon" href="projects/vbbs/gui/elements/favicon.ico"><meta name="robots" content="noindex,nofollow"><style id="iCSSStandalone" type="text/css">
+.cEventDescription.cDescription .cImageCell { display:none;}
+</style>
+<!-- JS:INCLUDE frontend.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-portal-js-frontend-js---agent-safari--lang-DE--build-11149--frontend.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE frontend-init.js -->
+<script language="JavaScript">
+
+
+
+
+
+
+COUPE.VERSION.GENERATION = 10;
+COUPE.MODE.DEVELOPER = false;
+COUPE.MODE.NOSIDEBAR = false;
+COUPE.PAGE.ID = "event-info";
+COUPE.API.MASTER = "index.php";
+COUPE.API.MASTEREXT = "https://vbbs.genolive.de/index.php";
+
+LANGUAGE.SET("DE");
+LANGUAGE.FNB = false;
+
+</script>
+<!-- END  -->
+
+<!-- JS:INCLUDE cxadmin_filemanager.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-filemanager-js-cxadmin_filemanager-js---agent-safari--lang-DE--build-11149--cxadmin_filemanager.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE payment.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-payment-js-payment-js---agent-safari--lang-DE--build-11149--payment.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE form-fillout.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-form-js-form-fillout-js---agent-safari--lang-DE--build-11149--form-fillout.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE core.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-core-js---agent-safari--lang-DE--build-11149--core.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-os-js---agent-safari--lang-DE--build-11149--os.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os_session.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-os_session-js---agent-safari--lang-DE--build-11149--os_session.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os_xml.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-os_xml-js---agent-safari--lang-DE--build-11149--os_xml.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os_data.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-os_data-js---agent-safari--lang-DE--build-11149--os_data.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os_keyboard.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-os_keyboard-js---agent-safari--lang-DE--build-11149--os_keyboard.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE system-features.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-system-features-js---agent-safari--lang-DE--build-11149--system-features.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE sha256.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-lib3-sha256-sha256-js---agent-safari--lang-DE--build-11149--sha256.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE os_init.js -->
+<script language="JavaScript">
+
+
+OS.INIT(
+"index.php",
+"",
+"projects/vbbs/",
+"event-info",
+"PAGE=event-code&CODE=MFGESUND&CATALOGITEM=MFGESUND&RETURN=start",
+"vbbs",
+"Volksbank Bad Salzuflen eG",
+true, /*Expert*/
+"DE",
+"",
+"",
+{},
+false,
+"PUBLIC",
+"GENOLIVE",
+"GENOLIVE<sup>&reg;</sup>",
+"&copy; 2024&nbsp;<a href='http://www.conventex.com' target='_blank'>Conventex GmbH</a>",
+"",
+false,
+"",
+
+"",
+"Volksbank Bad Salzuflen eG",
+"PROFESSIONAL",
+
+600,
+"11.0.0",
+"",
+"11149",
+"21.05.2024, 13:14:08",
+"dummy1",
+"",
+"",
+"",
+"",
+"",
+"",
+"https://vbbs.genolive.de/",
+"DB",
+"https://vbbs.genolive.de/index.php"
+);
+
+OS.FEATURES.INIT("ACADEMY.ACTIVE",true,"ACADEMY.AUTHORING",false,"BONUS.ACTIVE",false,"BONUS.VOUCHERS",false,"BONUS.PAX",false,"BOOT.ACTIVE",false,"BUSINESS.ACTIVE",false,"BUSINESS.BUSINESSUNITS",false,"COMMUNITY.ACTIVE",false,"COMMUNITY.COMMUNITIES",false,"CONNECT.ACTIVE",false,"DB.ADVANCED",true,"DB.REPORT.ANALYZE",false,"DB.REPORT.SAVE",false,"DB.VIEWS.CUSTOMVIEWS",true,"DEMO8BALL.ACTIVE",false,"DEMO8BALL.DOUBLETROUBLE",false,"DEVELOPER.LEVEL",false,"EDITOR.INDIVIDUAL",false,"ELECTION.ACTIVE",false,"ENGAGE.ACTIVE",false,"ENGAGE.MANAGER",false,"ENGAGE.PAX",false,"EVENTS.ACTIVE",true,"EVENTS.MEETINGS",true,"EVENTS.PCO",false,"EVENTS.ORGA",false,"EVENTS.CREDITS",false,"EVENTS.CALENDARS",true,"EVENTS.EVENTS",true,"EVENTS.INTERNAL",false,"EVENTS.PAX",true,"EVENTS.CANCELLATION",true,"EVENTS.DIGITAL",true,"EVENTS.LOCATIONS",true,"EVENTS.CONTACTS",true,"EVENTS.PROCESSTYPES",true,"EVENTS.ADVANCED",true,"EVENTS.SIGNATURE",false,"EVENTS.CUSTOMFIELDS",true,"EVENTS.TOPICS",false,"EVENTS.PRICING.BASIC",true,"EVENTS.PAYMENT.DIRECTPAYMENT",false,"EVENTS.PAYMENT.SEPA",false,"EVENTS.MANAGEMENT.CUSTOMFIELDS",false,"EVENTS.SETTINGS.BOOKINGS",true,"EVENTS.CALENDAR.ARCHIVE",false,"EVENTS.CALENDAR.ADVANCED",false,"EVENTS.ELECTIONS.VOTINGRIGHTS",false,"EVENTS.CHECKINDUAL",false,"EVENTS.CLEARANCE",false,"FAMILY.ACTIVE",false,"GAMES.ACTIVE",false,"EDUCATION.ACTIVE",false,"GEO.MAPS",true,"HYDRA.ACTIVE",false,"INTERCOM.ACTIVE",false,"INTERCOM.WEBMAIL",false,"INTERNATIONAL.ACTIVE",false,"JOBPLAN.ACTIVE",false,"MEDIA.ACTIVE",false,"ONSITE.ACTIVE",true,"ONSITE.SCANAPP",true,"ONSITE.ADVANCED",false,"ONSITE.SOFTWARE",false,"ONSITE.SEATING",false,"PAYMENT.ADVANCEDMODELS",true,"PAYMENT.BILLING",false,"FRONTEND.ACTIVE",true,"PORTALAPP.ACTIVE",true,"PORTALAPP.BONUS",true,"PORTALAPP.EVENTS",false,"QUIZ.ACTIVE",false,"CRM.ACTIVE",true,"CRM.AGENTS",false,"CRM.BASE",false,"CRM.LINKS",false,"ROOMS.ACTIVE",false,"ROOMS.VIDEOCONFERENCE",false,"ROOMS.ROOMS",false,"S2SI.ACTIVE",false,"SERVICECENTER.ACTIVE",true,"SERVICECENTER.ACCOUNTS",true,"SUPPORT.QUOTA",true,"SUPPORT.MAIL",true,"SUPPORT.PHONE",true,"SYSTEM.EXPRESS",false,"SYSTEM.RELEASE.C11",false,"SYSTEM.USER.ACCOUNTS",true,"SYSTEM.USER.GROUPS",true,"SYSTEM.SESSIONS.CONCURRENT",true,"SYSTEM.APPS.BETA",false,"SYSTEM.SETTINGS.ADVANCED",true,"DB.ARCHIVESPLIT",false,"VOTING.ACTIVE",false,"WORKFLOW.ACTIVE",true,"WORKFLOW.ARCHIVE",false,"WORKFLOW.TEXTTEMPLATES",true,"WORKFLOW.LAYOUTS",true,"WORKFLOW.FREE",true,"WORKFLOW.ADVANCED",false,"WORKFLOW.CUSTOM",false,"WORKFLOW.MARKER",true,"WORKFLOW.PRINTING",false,"WORKSPACE.ACTIVE",false,"WORKSPACE.TIMETRACKING",false);
+OS.FEATURES.EDGE = false;
+OS.FEATURES.GODMODE = false;
+
+OS.LICENSE.PACKAGES = ["EDITION - Standardfeatures","EDITION - Basic","USERS","EVENTS","EVENTS:PAX"];
+
+
+function hPreventBackspaceNavigation()
+{
+if ( document.body==null) {
+window.setTimeout(function(){hPreventBackspaceNavigation()},50);
+return;
+};
+document.body.onkeydown = function(e) {
+if ( e.key=="Backspace") {
+var vTarget = e.target||e.srcElement;
+if(vTarget.tagName!="INPUT" && vTarget.tagName!="TEXTAREA" && vTarget.isContentEditable==false ) {
+e.preventDefault();
+};
+};
+};
+};
+
+hPreventBackspaceNavigation();
+</script>
+<!-- END  -->
+
+<!-- JS:INCLUDE html.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-html-js---agent-safari--lang-DE--build-11149--html.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE form-timecheck.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-form-js-form-timecheck-js---agent-safari--lang-DE--build-11149--form-timecheck.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE form-structureedit.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-modules-form-js-form-structureedit-js---agent-safari--lang-DE--build-11149--form-structureedit.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE validate.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-validate-js---agent-safari--lang-DE--build-11149--validate.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE data-random.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-corveos-data-random-js---agent-safari--lang-DE--build-11149--data-random.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE ui.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-ui-js---agent-safari--lang-DE--build-11149--ui.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLUDE ui_dragdrop.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-ui_dragdrop-js---agent-safari--lang-DE--build-11149--ui_dragdrop.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<!-- JS:INCLLUDE wz_tooltip.js - direct --><script language="JavaScript">
+var vCheckTo=0;var TIMECHECK;function hFormValidate(pCheckTo, pSetFocus, pElement, pAlert, pRequiredCheck) {
+     if ( typeof(pRequiredCheck)=='undefined') pRequiredCheck=true;
+     if ( typeof(pAlert)=='undefined' ) pAlert=false;
+     var vRequiredCheck=pRequiredCheck;
+		FORM.CACHERESET();
+		FORM.WARNALERT = pAlert;
+		FORM.FORMID = "FORMSREGISTRATION";
+		FORM.WARNSETFOCUS = pSetFocus;
+		FORM.WARNFIRSTERROR = '';
+		if ( typeof(pElement)!='undefined') {
+			if ( pElement!='') {
+			    if ( FORM.DUMMYCHECK(pElement) ) return(false);
+		    };
+		};
+		var vThisError=false;     if ( pCheckTo>vCheckTo ) vCheckTo=pCheckTo;
+if ( FORM.SLACKMODE==false) {
+if ( FORM.DISPLAY('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FIELD')!='none' ) {
+if ( pCheckTo < 1 ) return(true);
+if( !FORM.VALUE('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17') ) {
+	FORM.WARN('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_WARN', 'ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17', true, "Feld 'Ich bin Mitglied': Bitte haken Sie das Feld an!");
+} else {
+	FORM.WARN('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_WARN', 'ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17', false);
+};};
+};
+//--- Begin validators for KDNRKD ---
+if ( FORM.DISPLAY('KDNRKD_FIELD')!='none' ) {
+// Validator: KDNRKD: CONTENT matches NUMBER
+FORM.WARN('','KDNRKD',false);
+FORM.WARN('KDNRKD_WARN_CONTENT','',false);
+if ( FORM.VALUE('KDNRKD') != '' ) {
+   if ( !(VALIDATE.NUMBER(FORM.VALUE('KDNRKD'))) ) {
+   	FORM.WARN('KDNRKD_WARN_CONTENT','KDNRKD',true,"Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!");
+   	vThisError = true;
+   };
+};
+// Validator: KDNRKD: MIN matches 
+FORM.WARN('KDNRKD_WARN_MIN','',false);
+// Validator: KDNRKD: MAX matches 
+FORM.WARN('KDNRKD_WARN_MAX','',false);
+// Validator: KDNRKD: REFERENCE matches 
+FORM.WARN('KDNRKD_WARN_REFERENCE','',false);
+}
+//--- Begin validators for KDNRMGL ---
+if ( FORM.DISPLAY('KDNRMGL_FIELD')!='none' ) {
+// Validator: KDNRMGL: CONTENT matches NUMBER
+FORM.WARN('','KDNRMGL',false);
+FORM.WARN('KDNRMGL_WARN_CONTENT','',false);
+if ( FORM.VALUE('KDNRMGL') != '' ) {
+   if ( !(VALIDATE.NUMBER(FORM.VALUE('KDNRMGL'))) ) {
+   	FORM.WARN('KDNRMGL_WARN_CONTENT','KDNRMGL',true,"Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!");
+   	vThisError = true;
+   };
+};
+// Validator: KDNRMGL: MIN matches 
+FORM.WARN('KDNRMGL_WARN_MIN','',false);
+// Validator: KDNRMGL: MAX matches 
+FORM.WARN('KDNRMGL_WARN_MAX','',false);
+// Validator: KDNRMGL: REFERENCE matches 
+FORM.WARN('KDNRMGL_WARN_REFERENCE','',false);
+}
+FORM.VALUE('ITEM.REGISTRATION.USERID', '');
+if ( FORM.DISPLAY('KDNRKD_FIELD') != 'none') FORM.VALUE('REGISTRATION.USERID', FORM.VALUE('KDNRKD'));
+if ( FORM.DISPLAY('KDNRMGL_FIELD') != 'none') FORM.VALUE('REGISTRATION.USERID', FORM.VALUE('KDNRMGL'));
+if ( vRequiredCheck) {
+if ( FORM.DISPLAY('PERSONAL.ADDRESS_FIELD')!='none' ) {
+if ( pCheckTo < 4 ) return(true);
+if( FORM.VALUE('PERSONAL.ADDRESS')=='_EMPTY_' ) {
+	FORM.WARN('PERSONAL.ADDRESS_WARN', 'PERSONAL.ADDRESS', true, "Feld 'Anrede': Bitte wählen Sie einen Eintrag aus der Liste aus!");
+} else {
+	FORM.WARN('PERSONAL.ADDRESS_WARN', 'PERSONAL.ADDRESS', false);
+};};
+};
+if ( FORM.VALUE('PERSONAL.TITLE_LIST') != '_OTHER_' ) {
+	FORM.VALUE('PERSONAL.TITLE', FORM.CLEAREMPTY( FORM.VALUE('PERSONAL.TITLE_LIST') ) );
+} else {
+	if ( FORM.VALUE('PERSONAL.TITLE_TEXT') != '' ) {
+		FORM.VALUE('PERSONAL.TITLE', FORM.VALUE('PERSONAL.TITLE_TEXT') );
+	} else {
+		FORM.VALUE('PERSONAL.TITLE', '' );
+	};
+};
+if ( FORM.DISPLAY('PERSONAL.FIRSTNAME_FIELD')!='none' ) {
+if ( pCheckTo < 6 ) return(true);
+vThisError=false;
+//--- Begin validators for PERSONAL.FIRSTNAME ---
+if ( FORM.DISPLAY('PERSONAL.FIRSTNAME_FIELD')!='none' ) {
+// Validator: PERSONAL.FIRSTNAME: CONTENT matches FIRSTNAME
+FORM.WARN('','PERSONAL.FIRSTNAME',false);
+FORM.WARN('PERSONAL.FIRSTNAME_WARN_CONTENT','',false);
+if ( FORM.VALUE('PERSONAL.FIRSTNAME') != '' ) {
+   if ( !(VALIDATE.FIRSTNAME(FORM.VALUE('PERSONAL.FIRSTNAME'))) ) {
+   	FORM.WARN('PERSONAL.FIRSTNAME_WARN_CONTENT','PERSONAL.FIRSTNAME',true,"Der eingegebene Vorname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!");
+   	vThisError = true;
+   };
+};
+// Validator: PERSONAL.FIRSTNAME: MIN matches 
+FORM.WARN('PERSONAL.FIRSTNAME_WARN_MIN','',false);
+// Validator: PERSONAL.FIRSTNAME: MAX matches 
+FORM.WARN('PERSONAL.FIRSTNAME_WARN_MAX','',false);
+// Validator: PERSONAL.FIRSTNAME: REFERENCE matches 
+FORM.WARN('PERSONAL.FIRSTNAME_WARN_REFERENCE','',false);
+}
+if( vThisError ) {
+} else if( (FORM.VALUE('PERSONAL.FIRSTNAME')=='' && vRequiredCheck ) ) {
+	FORM.WARN('PERSONAL.FIRSTNAME_WARN', 'PERSONAL.FIRSTNAME', true, "Feld 'Vorname, Nachname': Bitte geben Sie einen Text ein!");
+} else {
+	FORM.WARN('', 'PERSONAL.FIRSTNAME', false);
+};
+if ( pCheckTo < 7 ) return(true);
+if( !vThisError ) {
+//--- Begin validators for ITEM.PERSONAL.LASTNAME ---
+if ( FORM.DISPLAY('ITEM.PERSONAL.LASTNAME_FIELD')!='none' ) {
+// Validator: ITEM.PERSONAL.LASTNAME: CONTENT matches LASTNAME
+FORM.WARN('','ITEM.PERSONAL.LASTNAME',false);
+FORM.WARN('ITEM.PERSONAL.LASTNAME_WARN_CONTENT','',false);
+if ( FORM.VALUE('ITEM.PERSONAL.LASTNAME') != '' ) {
+   if ( !(VALIDATE.LASTNAME(FORM.VALUE('ITEM.PERSONAL.LASTNAME'))) ) {
+   	FORM.WARN('ITEM.PERSONAL.LASTNAME_WARN_CONTENT','ITEM.PERSONAL.LASTNAME',true,"Der eingegebene Nachname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!");
+   	vThisError = true;
+   };
+};
+}
+};
+if( vThisError ) {
+} else if( (FORM.VALUE('ITEM.PERSONAL.LASTNAME')=='' && vRequiredCheck ) ) {
+	FORM.WARN('PERSONAL.FIRSTNAME_WARN', 'ITEM.PERSONAL.LASTNAME', true, "Feld 'Vorname, Nachname': Bitte geben Sie einen Text ein!");
+} else {
+	FORM.WARN('', 'ITEM.PERSONAL.LASTNAME', false);
+};
+if( vThisError==false && (vRequiredCheck==false || ((FORM.VALUE('PERSONAL.FIRSTNAME')!='') && (FORM.VALUE('ITEM.PERSONAL.LASTNAME')!='')) ) ) {
+	FORM.WARN('PERSONAL.FIRSTNAME_WARN', 'PERSONAL.FIRSTNAME', false);
+	FORM.WARN('PERSONAL.FIRSTNAME_WARN', 'ITEM.PERSONAL.LASTNAME', false);
+};};
+if ( FORM.DISPLAY('PERSONAL.BIRTHDATE_FIELD')!='none' ) {
+if ( pCheckTo < 8 ) return(true);
+if( !FORM.DATEVALID('PERSONAL.BIRTHDATE',!vRequiredCheck) ) {
+	FORM.WARN('PERSONAL.BIRTHDATE_WARN', 'PERSONAL.BIRTHDATE', true, "Feld 'Geburtsdatum': Bitte geben Sie ein gültiges Datum (TT.MM.JJJJ) ein!");
+} else {
+	FORM.WARN('PERSONAL.BIRTHDATE_WARN', 'PERSONAL.BIRTHDATE', false);
+};};
+if ( vRequiredCheck) {
+if ( FORM.DISPLAY('CONTACT.BUSINESS.EMAIL_FIELD')!='none' ) {
+if ( pCheckTo < 9 ) return(true);
+if( FORM.VALUE('CONTACT.BUSINESS.EMAIL')=='' ) {
+	FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN', 'CONTACT.BUSINESS.EMAIL', true, "Feld 'E-Mail': Bitte geben Sie einen Text ein!");
+} else {
+	FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN', 'CONTACT.BUSINESS.EMAIL', false);
+};};
+};
+//--- Begin validators for CONTACT.BUSINESS.EMAIL ---
+if ( FORM.DISPLAY('CONTACT.BUSINESS.EMAIL_FIELD')!='none' ) {
+if ( FORM.DISPLAY('CONTACT.BUSINESS.EMAIL_WARN')=='none' ) {
+// Validator: CONTACT.BUSINESS.EMAIL: CONTENT matches EMAIL
+FORM.WARN('','CONTACT.BUSINESS.EMAIL',false);
+FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_CONTENT','',false);
+if ( FORM.VALUE('CONTACT.BUSINESS.EMAIL') != '' ) {
+   FORM.AUTOCORRECT('CONTACT.BUSINESS.EMAIL', AUTOCORRECT.EMAIL )
+   if ( !(VALIDATE.EMAIL(FORM.VALUE('CONTACT.BUSINESS.EMAIL'))) ) {
+   	FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_CONTENT','CONTACT.BUSINESS.EMAIL',true,"Die eingegebene E-Mail-Adresse ist nicht gültig. Bitte geben Sie eine gültige E-Mail-Adresse ein!");
+   	vThisError = true;
+   };
+};
+// Validator: CONTACT.BUSINESS.EMAIL: MIN matches 
+FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_MIN','',false);
+// Validator: CONTACT.BUSINESS.EMAIL: MAX matches 
+FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_MAX','',false);
+// Validator: CONTACT.BUSINESS.EMAIL: REFERENCE matches 
+FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_REFERENCE','',false);
+} else {
+FORM.WARN('CONTACT.BUSINESS.EMAIL_WARN_CONTENT','',false);
+};
+}
+if ( FORM.SLACKMODE==false) {
+if ( FORM.DISPLAY('CONDITIONSCHECKBOX_FIELD')!='none' ) {
+if ( pCheckTo < 10 ) return(true);
+if( !FORM.VALUE('CONDITIONSCHECKBOX') ) {
+	FORM.WARN('CONDITIONSCHECKBOX_WARN', 'CONDITIONSCHECKBOX', true, "Bitte lesen Sie die Teilnahmebedingungen und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!");
+} else {
+	FORM.WARN('CONDITIONSCHECKBOX_WARN', 'CONDITIONSCHECKBOX', false);
+};};
+};
+if ( FORM.SLACKMODE==false) {
+if ( FORM.DISPLAY('PRIVACYCHECKBOX_FIELD')!='none' ) {
+if ( pCheckTo < 11 ) return(true);
+if( !FORM.VALUE('PRIVACYCHECKBOX') ) {
+	FORM.WARN('PRIVACYCHECKBOX_WARN', 'PRIVACYCHECKBOX', true, "Bitte lesen Sie die Datenschutzhinweise und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!");
+} else {
+	FORM.WARN('PRIVACYCHECKBOX_WARN', 'PRIVACYCHECKBOX', false);
+};};
+};
+TIMECHECK = new cls_FormTimeCheck();
+		var vTimeError=TIMECHECK.CHECK(pSetFocus);		if ( FORM.WARNFIRSTERROR=='') {			FORM.WARNFIRSTERROR=vTimeError; vThisError=true;		};		return(FORM.WARNFIRSTERROR=='');}
+function hFormCheckSubmit(pShowError){		if ( typeof(pShowError)=='undefined') pShowError=true;		FORM.CACHERESET();
+		if ( FORM.VALIDATE(1000,true,'',false)==false ) {			if (pShowError==false) return(false);			var vRecoverableError = FORM.WARNFIRSTERROR;		    if ( FORM.SLACKMODE==true && FORM.VALIDATE(1000,true,'',true,false)==true ) {				if (window.confirm(vRecoverableError+' - Wollen Sie trotzdem fortfahren?')==false) {				    return(false);				} else {					return(true);				};		    } else {			    FORM.VALIDATE(1000,true,'',true);				return(false);		    };		} else {if ( document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17').checked==false ) {
+	document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17').name='';
+	document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FALSE').name='ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17';
+} else {
+	document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17').name='ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17';
+	document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FALSE').name='';
+};
+if ( document.getElementById('CONDITIONSCHECKBOX').checked==false ) {
+	document.getElementById('CONDITIONSCHECKBOX').name='';
+	document.getElementById('CONDITIONSCHECKBOX_FALSE').name='ITEM.REGISTRATION.CONDITIONSACCEPTED';
+} else {
+	document.getElementById('CONDITIONSCHECKBOX').name='ITEM.REGISTRATION.CONDITIONSACCEPTED';
+	document.getElementById('CONDITIONSCHECKBOX_FALSE').name='';
+};
+if ( document.getElementById('PRIVACYCHECKBOX').checked==false ) {
+	document.getElementById('PRIVACYCHECKBOX').name='';
+	document.getElementById('PRIVACYCHECKBOX_FALSE').name='ITEM.REGISTRATION.PRIVACYACCEPTED';
+} else {
+	document.getElementById('PRIVACYCHECKBOX').name='ITEM.REGISTRATION.PRIVACYACCEPTED';
+	document.getElementById('PRIVACYCHECKBOX_FALSE').name='';
+};
+			return(true);		}}
+function hFormDefault(pFieldID) {
+};
+function hFormLoad(pData) {
+FORM.DROPDOWNTEXTLOAD('PERSONAL.TITLE');
+FORM.DATELOAD('PERSONAL.BIRTHDATE',false);};
+function hFormClear() {
+FORM.CHECKBOXCLEAR('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17','ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17');
+FORM.MULTICLEAR('PERSONAL.TITLE');
+FORM.MULTICLEAR('PERSONAL.BIRTHDATE');
+FORM.CHECKBOXCLEAR('CONDITIONSCHECKBOX','ITEM.REGISTRATION.CONDITIONSACCEPTED');
+FORM.CHECKBOXCLEAR('PRIVACYCHECKBOX','ITEM.REGISTRATION.PRIVACYACCEPTED');};
+function hFormInit() {
+};
+FORM.SWITCHES = [{"FIELD":"INVALIDINFO"},{"FIELD":"CHECKSORT4TEXT"},{"FIELD":"KDNRKD,ORGA.SUBSIDIARY"},{"FIELD":"KDNRMGL"},{"FIELD":"PERSONALNUMMER"},{"FIELD":"CONTACT.BUSINESS.STREET,CONTACT.BUSINESS.ZIPCODE,CONTACT.BUSINESS.ADDITIONAL,ADDRESSSEPERATOR,BUSINESS.COMPANY,CONTACT.BUSINESS.COUNTRY"},{"FIELD":"CONTACT.BUSINESS.MOBILE"},{"FIELD":"CONTACT.BUSINESS.PHONE"},{"FIELD":"BIRTHDAYINFO,PERSONAL.BIRTHDATE"},{"FIELD":"HYGIENECHECKBOX"}];
+function hFormVisibility(pCheckTo) {
+FORM.CACHERESET();if (pCheckTo <= vCheckTo ) FORM.VALIDATE(pCheckTo,false);if ( FORM.DISPLAY('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FIELD') != 'none' && FORM.VALUE('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17') ) {
+} else {
+try {document.getElementById('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17').checked=false;} catch (pExp) {};
+};
+FORM.SWITCH('INVALIDINFO', true, "TYPE EQUAL 666", "", "",'',false);
+FORM.SWITCH('CHECKSORT4TEXT', true, "TYPE EQUAL 4", "", "",'',false);
+FORM.SWITCH('KDNRKD,ORGA.SUBSIDIARY', true, "TYPE IN 4", "", "",'',false);
+FORM.SWITCH('KDNRMGL', true, "TYPE IN 1", "", "",'',false);
+FORM.SWITCH('PERSONALNUMMER', true, "TYPE IN 2", "", "",'',false);
+FORM.VALUE('ITEM.REGISTRATION.USERID', '');
+if ( FORM.DISPLAY('KDNRKD_FIELD') != 'none') FORM.VALUE('REGISTRATION.USERID', FORM.VALUE('KDNRKD'));
+if ( FORM.DISPLAY('KDNRMGL_FIELD') != 'none') FORM.VALUE('REGISTRATION.USERID', FORM.VALUE('KDNRMGL'));
+if ( FORM.VALUE('PERSONAL.TITLE_LIST') != '_OTHER_' ) {
+	   FORM.VALUE('PERSONAL.TITLE', FORM.CLEAREMPTY( FORM.VALUE('PERSONAL.TITLE_LIST') ) );
+} else {
+	   FORM.VALUE('PERSONAL.TITLE', FORM.VALUE('PERSONAL.TITLE_TEXT') );
+};
+FORM.DISPLAY('PERSONAL.TITLE_TEXT', FORM.VALUE('PERSONAL.TITLE_LIST') == '_OTHER_' );
+FORM.DISPLAY('PERSONAL.TITLE_SEARCH', FORM.VALUE('PERSONAL.TITLE_LIST') != '_OTHER_' );
+FORM.SWITCH('CONTACT.BUSINESS.STREET,CONTACT.BUSINESS.ZIPCODE,CONTACT.BUSINESS.ADDITIONAL,ADDRESSSEPERATOR,BUSINESS.COMPANY,CONTACT.BUSINESS.COUNTRY', true, "TYPE UNEQUAL 2", "", "",'',false);
+FORM.SWITCH('CONTACT.BUSINESS.MOBILE', true, "TYPE UNEQUAL 2", "", "",'',false);
+FORM.SWITCH('CONTACT.BUSINESS.PHONE', true, "TYPE UNEQUAL 2", "", "",'',false);
+FORM.DATEVALUE('PERSONAL.BIRTHDATE',false,false);
+FORM.SWITCH('BIRTHDAYINFO,PERSONAL.BIRTHDATE', true, "TYPE UNEQUAL 2", "", "",'',false);
+if ( FORM.DISPLAY('CONDITIONSCHECKBOX_FIELD') != 'none' && FORM.VALUE('CONDITIONSCHECKBOX') ) {
+} else {
+try {document.getElementById('CONDITIONSCHECKBOX').checked=false;} catch (pExp) {};
+};
+if ( FORM.DISPLAY('PRIVACYCHECKBOX_FIELD') != 'none' && FORM.VALUE('PRIVACYCHECKBOX') ) {
+} else {
+try {document.getElementById('PRIVACYCHECKBOX').checked=false;} catch (pExp) {};
+};
+FORM.SWITCH('HYGIENECHECKBOX', true, "ONSITE.MODE UNEQUAL ONLINE", "", "",'',false);}
+
+</script>
+<!-- CSS:INCLUDE formtool.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-form-gui-styles-formtool-css---agent-safari--lang-DE--build-11149--formtool.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<!-- CSS:INCLUDE portal.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-portal-gui-styles-portal-css---agent-safari--lang-DE--build-11149--portal.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<!-- CSS:INCLUDE portal-customer.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-projects-vbbs-gui-styles-portal-customer-css---agent-safari--lang-DE--build-11149--portal-customer.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<!-- CSS:INCLUDE portal-mobile.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-portal-gui-styles-portal-mobile-css---agent-safari--lang-DE--build-11149--portal-mobile.css.css?TSFF=786d2887f96d210d2d14392c5163080b" media="(max-width:949px)">
+<!-- CSS:INCLUDE portal-mobile-customer.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-projects-vbbs-gui-styles-portal-mobile-customer-css---agent-safari--lang-DE--build-11149--portal-mobile-customer.css.css?TSFF=786d2887f96d210d2d14392c5163080b" media="(max-width:949px)">
+<!-- CSS:INCLUDE portal-desktop.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-portal-gui-styles-portal-desktop-css---agent-safari--lang-DE--build-11149--portal-desktop.css.css?TSFF=786d2887f96d210d2d14392c5163080b" media="(min-width:950px)">
+<!-- CSS:INCLUDE coupe-global.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-portal-gui-styles-coupe-global-css---agent-safari--lang-DE--build-11149--coupe-global.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<!-- CSS:INCLUDE cxadmin_filemanager.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-filemanager-gui-styles-cxadmin_filemanager-css---agent-safari--lang-DE--build-11149--cxadmin_filemanager.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<!-- CSS:INCLUDE payment.css --><link rel="stylesheet" type="text/css" href="projects/vbbs/cache/parser-corveos-modules-payment-gui-styles-payment-css---agent-safari--lang-DE--build-11149--payment.css.css?TSFF=786d2887f96d210d2d14392c5163080b">
+<style type="text/css">
+.cEventDescription.cDescription .cImageCell {
+ display:none;
+}
+</style>
+<!--- DIRECTCALL CHECK ---><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script language="JavaScript">
+if (!window.LANGUAGETEXTS) {
+window.LANGUAGETEXTS={};
+window.TLSDEF=function(pTransID,pLang,pText){
+if (!window.LANGUAGETEXTS[pTransID]) window.LANGUAGETEXTS[pTransID]={};
+window.LANGUAGETEXTS[pTransID][pLang]=pText;
+}}
+if (!window.LANGUAGEOBJECTS) {
+window.LANGUAGEOBJECTS={};
+window.LOD=function(pID,pArticle,pCases){
+window.LANGUAGEOBJECTS[pID]={ARTICLE:pArticle,CASES:pCases};
+}}
+LOD("CUSTOMER", "M", {"NOMINATIV":"Kunde","GENITIV":"Kunden","DATIV":"Kunden","AKKUSATIV":"Kunden","NOMINATIVPLURAL":"Kunden","GENITIVPLURAL":"Kunden","DATIVPLURAL":"Kunden","AKKUSATIVPLURAL":"Kunden"});
+LOD("PARTICIPANT", "M", {"NOMINATIV":"Teilnehmende","GENITIV":"Teilnehmenden","DATIV":"Teilnehmenden","AKKUSATIV":"Teilnehmenden","NOMINATIVPLURAL":"Teilnehmenden","GENITIVPLURAL":"Teilnehmenden","DATIVPLURAL":"Teilnehmenden","AKKUSATIVPLURAL":"Teilnehmenden"});
+LOD("EMPLOYEE", "M", {"NOMINATIV":"Mitarbeitende","GENITIV":"Mitarbeitenden","DATIV":"Mitarbeitenden","AKKUSATIV":"Mitarbeitenden","NOMINATIVPLURAL":"Mitarbeitenden","GENITIVPLURAL":"Mitarbeitenden","DATIVPLURAL":"Mitarbeitenden","AKKUSATIVPLURAL":"Mitarbeitenden"});
+LOD("MEMBER", "N", {"NOMINATIV":"Mitglied","GENITIV":"Mitglieds","DATIV":"Mitglied","AKKUSATIV":"Mitglied","NOMINATIVPLURAL":"Mitglieder","GENITIVPLURAL":"Mitglieder","DATIVPLURAL":"Mitgliedern","AKKUSATIVPLURAL":"Mitglieder"});
+TLSDEF("PRT_1000", "DE", "Es ist ein Problem aufgetreten:");
+TLSDEF("PRT_1000", "EN", "A problem occured:");
+TLSDEF("PRT_1001", "DE", "Schließen");
+TLSDEF("PRT_1001", "EN", "Close");
+TLSDEF("PRT_1002", "DE", "Hinweis");
+TLSDEF("PRT_1002", "EN", "Hint");
+TLSDEF("EVN_1000", "DE", "Fehler");
+TLSDEF("EVN_1000", "EN", "Error");
+TLSDEF("EVN_1001", "DE", "[Sie haben/Du hast] durch [Ihre/Deine] digitale Teilnahme %1 kg CO2 und %2 Minuten Fahrtzeit eingespart (basierend auf einem entfallenen Anfahrtsweg von %2 km mit dem PKW)");
+TLSDEF("EVN_1001", "EN", "By participating digitally you have saved %1 kg CO2 and %2 minutes of time (compared to a commute by car)");
+TLSDEF("EVN_1002", "DE", "Eine Umschaltung des Videos ist derzeit nicht vorgesehen.");
+TLSDEF("EVN_1002", "EN", "Switchting to a differnt video is currently not possible.");
+TLSDEF("EVN_1003", "DE", "[Wählen Sie/Wähle] aus, welches Video [Sie/Du] ansehen [möchten/möchtest]:");
+TLSDEF("EVN_1003", "EN", "Please select the video you want to watch:");
+TLSDEF("EVN_1004", "DE", "Video wechseln");
+TLSDEF("EVN_1004", "EN", "Switch video");
+TLSDEF("EVN_1005", "DE", "Das gewünschte Video ist derzeit nicht verfügbar.");
+TLSDEF("EVN_1005", "EN", "The video is currently not available");
+TLSDEF("EVN_1006", "DE", "Schließen");
+TLSDEF("EVN_1006", "EN", "Close");
+TLSDEF("EVN_1007", "DE", "Geöffnet - Jetzt eintreten");
+TLSDEF("EVN_1007", "EN", "Opened - Enter now");
+TLSDEF("EVN_1008", "DE", "Der digitale Raum ist geöffnet. [Klicken/Klicke] oder [tippen Sie/tippe] oben auf 'Jetzt eintreten'.");
+TLSDEF("EVN_1008", "EN", "The digital room is open. Click or tap 'Enter now'.");
+TLSDEF("EVN_1009", "DE", "Herzlich willkommen! Bevor es losgeht, ein paar Tipps...");
+TLSDEF("EVN_1009", "EN", "Welcome! Here are some tips before the digital room opens...");
+TLSDEF("EVN_1010", "DE", "[Sie können/Du kannst] unseren <a %1>Technik-Check</a> nutzen, um zu prüfen, ob der digitale Raum auf [Ihrem/Deinem] Gerät reibungslos funktioniert.");
+TLSDEF("EVN_1010", "EN", "You can use our <a %1>technic check</a> to make sure the digital room works well on your device.");
+TLSDEF("EVN_1011", "DE", "Es ist nicht nötig, diese Seite neu zu laden. Sobald der digitale Raum geöffnet wird erscheint automatisch 'Jetzt eintreten'.");
+TLSDEF("EVN_1011", "EN", "There is no need to reload this page manually. As soon as the digital room opens, a button 'Enter now' appears automatically.");
+TLSDEF("EVN_1012", "DE", "[Sie können/Du kannst] jederzeit mit einem anderen Gerät, beispielsweise [Ihrem/Deinem] Smartphone, den digitalen Raum betreten. [Klicken/Klicke] oder [tippen Sie/tippe] dazu auf 'Gerät wechseln'.");
+TLSDEF("EVN_1012", "EN", "You can enter this digital room at any time with another device, such as your smartphone. Just click or tap on 'Switch device'.");
+TLSDEF("EVN_1013", "DE", "Falls [Sie/Du] einen Script-Blocker (wie NoScript) [nutzen/nutztst], [deaktivieren Sie/deaktiviere] diesen um den digitalen Raum zu betreten.");
+TLSDEF("EVN_1013", "EN", "In case you use script-blockers (like NoScript), please disable them to enter this digital room.");
+TLSDEF("EVN_1014", "DE", "[Sollten Sie oder Ihr/Solltest Du oder Dein] Unternehmen eine Firewall einsetzen, welche Teile des digitalen Raums blockiert, [nutzen Sie/nutze] 'Gerät wechseln' um auf einem anderen Gerät teilzunehmen.");
+TLSDEF("EVN_1014", "EN", "In case your company uses a firewall that blocks parts of this digital room, use 'Switch device' to open it on a different device.");
+TLSDEF("EVN_1015", "DE", "Die Veranstaltung hat begonnen. [Klicken oder tippen Sie/Klicke oder tippe] oben auf 'Jetzt eintreten'.");
+TLSDEF("EVN_1015", "EN", "The event has begun. Click or tap 'Enter now'.");
+TLSDEF("EVN_1016", "DE", "Auch wenn die Veranstaltung noch nicht begonnen hat [können Sie/kannst Du] bereits jetzt eintreten. [Klicken oder tippen Sie/Klicke oder tippe] dazu auf 'Jetzt bereits eintreten'.");
+TLSDEF("EVN_1016", "EN", "Although the event has not started yet you can already enter by clicking or tapping 'Enter now'");
+TLSDEF("EVN_1017", "DE", "Herzlich willkommen! Bevor es losgeht, ein paar Tipps...");
+TLSDEF("EVN_1017", "EN", "Welcome! Here are some tips before the event starts...");
+TLSDEF("EVN_1018", "DE", "[Sie können/Du kannst] unseren <a %1>Technik-Check</a> nutzen, um zu prüfen, ob die digitale Veranstaltung auf [Ihrem/Deinem] Gerät reibungslos funktioniert.");
+TLSDEF("EVN_1018", "EN", "You can use our <a %1'>technic check</a> to make sure the digital event works well on your device.");
+TLSDEF("EVN_1019", "DE", "Es ist nicht nötig, diese Seite neu zu laden. Sobald die Veranstaltung startet erscheint automatisch 'Jetzt eintreten'.");
+TLSDEF("EVN_1019", "EN", "There is no need to reload this page manually. As soon as the event starts, a button 'Enter now' appears automatically.");
+TLSDEF("EVN_1020", "DE", "[Sie können/Du kannst] jederzeit mit einem anderen Gerät, beispielsweise [Ihrem/Deinem] Smartphone, an der Veranstaltung teilnehmen. [Klicken oder tippen Sie/Klicke oder tippe] dazu auf 'Gerät wechseln'.");
+TLSDEF("EVN_1020", "EN", "You can attend this digital event at any time with another device, such as your smartphone. Just click or tap on 'Switch device'.");
+TLSDEF("EVN_1021", "DE", "[Falls Sie/Falls Du] einen Script-Blocker (wie NoScript) [nutzen/nutztst], [deaktivieren Sie/deaktiviere] diesen für die Veranstaltung.");
+TLSDEF("EVN_1021", "EN", "In case you use script-blockers (like NoScript), please disable them for the duration of this digital event.");
+TLSDEF("EVN_1022", "DE", "[Sollten Sie oder Ihr Unternehmen/Du oder Dein Unternehmen] eine Firewall einsetzen, welche Teile der Veranstaltung blockiert, [nutzen Sie/nutze] 'Gerät wechseln' um auf einem anderen Gerät teilzunehmen.");
+TLSDEF("EVN_1022", "EN", "In case your company uses a firewall that blocks parts of this event, use 'Switch device' to attend the event on a different device.");
+TLSDEF("EVN_1023", "DE", "Folgende Schritte könnten [Ihr/Dein] Problem beheben:");
+TLSDEF("EVN_1023", "EN", "The following steps might help you solve the issue:");
+TLSDEF("EVN_1024", "DE", "Nichts hilft? Das bedauern wir sehr! [Nutzen Sie/Nutze] die Funktion <a %1>Gerät wechseln</a>, um auf einem anderen Gerät [an der Veranstaltung teilzunehmen]");
+TLSDEF("EVN_1024", "EN", "Nothing helps? We are very sorry for that! Please use <a %1><b>Switch device</b></a> to attend on a different device like your smartphone, tablet or laptop.");
+TLSDEF("EVN_1025", "DE", "[Versuchen Sie/Versuche], [die Veranstaltung] auf diesem Gerät <a %1>neu zu laden</a>.");
+TLSDEF("EVN_1026", "DE", "[Versuchen Sie/Versuche] das Video <a %1>neu zu laden</a>.");
+TLSDEF("EVN_1026", "EN", "Try <a %1>reloading</a> the video.");
+TLSDEF("EVN_1027", "DE", "[Sie benötigen/Du benötigst] Hilfe [zur digitalen Veranstaltung]? [Klicken oder tippen Sie/Klicke oder tippe] nachfolgend auf das gewünschte Thema:");
+TLSDEF("EVN_1027", "EN", "You need help for [this digital event]? Click or tap on one of the following topics:");
+TLSDEF("EVN_1028", "DE", "Bild oder Text sind zu klein");
+TLSDEF("EVN_1028", "EN", "Video or text is too small");
+TLSDEF("EVN_1029", "DE", "Bild oder Ton");
+TLSDEF("EVN_1029", "EN", "Video or sound");
+TLSDEF("EVN_1030", "DE", "Oben rechts im Video und oben rechts bei den Inhalten [finden Sie/findest Du] 'Vergrößern'-Symbole %1 [Klicken Sie/Klick auf] auf diese Symbole, um entweder dem Video oder dem Inhalt mehr Platz einzuräumen. Dadurch werden ggf. auch die Texte größer dargestellt. Durch wiederholtes Anklicken oder Antippen wird die Vergrößerung verstärkt.");
+TLSDEF("EVN_1030", "EN", "In the top right corner of the video and the content is an icon %1 to change the size. Click on either one to enlarge the left or right side respectively. By repeatedly clicking or tapping the icon you can increase the effect.");
+TLSDEF("EVN_1031", "DE", "Wenn der Text immer noch zu klein ist, [nutzen Sie/nutze] die Funktion <a %1>Gerät wechseln</a>, um auf einem anderen Gerät [an der Veranstaltung teilzunehmen].");
+TLSDEF("EVN_1031", "EN", "If the text or video is still too small, use <a %1>Switch device</a>, to [attend this digital event] on a more suitable device with a bigger screen.");
+TLSDEF("EVN_1032", "DE", "Worin besteht die Schwierigkeit mit dem Video?");
+TLSDEF("EVN_1032", "EN", "What exactly is your video or sound related issue?");
+TLSDEF("EVN_1033", "DE", "Wie wechsele ich das Video?");
+TLSDEF("EVN_1033", "EN", "How do I switch between videos?");
+TLSDEF("EVN_1034", "DE", "Das Video ist zeitversetzt");
+TLSDEF("EVN_1034", "EN", "The video is delayed");
+TLSDEF("EVN_1035", "DE", "Ton ist zu leise oder aus");
+TLSDEF("EVN_1035", "EN", "The sound is too quiet or off");
+TLSDEF("EVN_1036", "DE", "Ton ist doppelt oder mit Echo");
+TLSDEF("EVN_1036", "EN", "The sound is echoed");
+TLSDEF("EVN_1037", "DE", "Bild stockt oder ruckelt");
+TLSDEF("EVN_1037", "EN", "The video image stutters or stops");
+TLSDEF("EVN_1038", "DE", "Ton stockt oder ruckelt");
+TLSDEF("EVN_1038", "EN", "The sound stutters or stops");
+TLSDEF("EVN_1039", "DE", "Ich sehe kein Video");
+TLSDEF("EVN_1039", "EN", "I don't see a video image");
+TLSDEF("EVN_1040", "DE", "Bitte [stellen Sie/stelle] sicher, dass [Sie/Du] diese Seite nur ein mal geöffnet [haben/hast]. Zu einem Echo kommt es in der Regel, wenn [Sie/Du] die Seite doppelt oder gar mehrfach in [Ihrem/Deinem] Browser geöffnet [haben/hast]. [Schließen Sie/Schließe] alle Browserfenster bis auf das aktuelle.");
+TLSDEF("EVN_1040", "EN", "Please make sure that you have this site only opened in one browser window or tab. The echo comes from multiple open windows or tabs of this site. Please close all other windows or tabs.");
+TLSDEF("EVN_1041", "DE", "Oft [können Sie/kannst Du] das Video wechseln, indem [Sie/Du] auf die entsprechenden Link-Buttons im Text [klicken/klickst] oder [tippen/tippst].");
+TLSDEF("EVN_1041", "EN", "Most of the times you can simply switch between videos by clicking or tapping the link buttons within the text.");
+TLSDEF("EVN_1042", "DE", "[Sie können/Du kannst] manuell zwischen den Videos wechseln, indem [Sie/Du] ganz oben im Videobereich auf den grauen Balken mit dem Video-Symbol [klicken/klickst] oder [tippen/tippst]. Es erscheint ein Auswahlmenü mit den verfügbaren Videos.");
+TLSDEF("EVN_1042", "EN", "You can manually switch between videos by clicking or tapping the gray bar on the top end of the video area with the TV symbol. A menu will appear from which you can select one of the available videos.");
+TLSDEF("EVN_1043", "DE", "Es ist ganz <b>normal, dass Video-Übertragungen einen Zeitversatz haben</b>. Dies liegt daran, dass das Video mehrere Stationen von uns zu [Ihnen/Dir] zurücklegen muss. Zudem lädt [Ihr/Dein] Gerät ein paar Sekunden des Videos als Puffer, bevor es mit der Wiedergabe beginnt. Dies sorgt dafür, dass es seltener zu Aussetzern kommt.");
+TLSDEF("EVN_1043", "EN", "It is <b>normal that live videos have a delay</b>. This so-called 'buffering' helps to prevent stutters on some internet connections and devices. The exact delay varies from device to device and depends on your internet connection and on how many participants are watching the video.");
+TLSDEF("EVN_1044", "DE", "Wenn [Sie/Du] das Gefühl [haben/hast], dass der <b>Zeitversatz zu hoch</b> ist, [können Sie/kannst Du] versuchen die Qualität des Videos herabzusetzen. [Klicken/Klicke] oder [tippen Sie/tippe] dazu in das Video und dann unten rechts auf das 'HD' Symbol. [Wählen Sie/Wähle] nun eine geringere Qualität aus.");
+TLSDEF("EVN_1044", "EN", "If you feel that the <b>delay is too long</b>, you can try lowering the video quality by clicking on the 'HD' symbol in the video.");
+TLSDEF("EVN_1045", "DE", "[Überprüfen Sie/Überprüfe], dass [Ihre/Deine] <b>Lautsprecher eingeschaltet</b> und <b>laut genug eingestellt</b> sind.");
+TLSDEF("EVN_1045", "EN", "Please ensure that your <b>speakers are turned on</b> and the <b>volume is turned high enough</b>.");
+TLSDEF("EVN_1046", "DE", "[Stellen Sie/Stelle] sicher, dass [Sie/Du] auf [Ihrem/Deinem] Gerät <b>generell Sound</b> hören [können/kannst].");
+TLSDEF("EVN_1046", "EN", "Please check that you can <b>hear sound in general</b> on your device.");
+TLSDEF("EVN_1047", "DE", "[Prüfen Sie/Prüfe], ob die <b>Lautstärke-Regelung des Videos</b> höher gestellt werden kann.");
+TLSDEF("EVN_1047", "EN", "Check if the <b>volume control of the video</b> can be adjusted.");
+TLSDEF("EVN_1048", "DE", "Die <b>Qualität des Videos</b> lässt sich runterregeln, wenn [Ihre/Deine] Internetverbindung nicht leistungsstark genug ist. [Klicken/Klicke] oder [tippen Sie/tippe] dazu in das Video und dann unten rechts auf das 'HD' Symbol. [Wählen Sie/Wähle] nun eine geringere Qualität aus.");
+TLSDEF("EVN_1048", "EN", "The <b>quality of the video</b> can be adjusted, if your internet connection is not good enough. Click or tap the 'HD' icon in the video image and select a lower quality.");
+TLSDEF("EVN_1049", "DE", "Wenn [Sie/Du] auf einem mobilen Endgerät [teilnehmen/teilnimmst], [schauen Sie/schau], ob [Sie/Du] in eine bessere <b>Funkreichweite</b> gehen [können/kannst].");
+TLSDEF("EVN_1049", "EN", "If you attend on a mobile device, make sure you have <b>good cellphone reception</b> or maybe switch your position.");
+TLSDEF("EVN_1050", "DE", "[Schauen Sie/Schau], ob im Video eine <b>Uhrzeit eingeblendet</b> ist, die weiter läuft - in diesem Fall ist alles in Ordnung, nur das Video ist gerade durch den Veranstalter pausiert.");
+TLSDEF("EVN_1050", "EN", "Please check if there is a <b>clock ticking</b> in the video. If so, everything is in order, the transmission is just paused by the host.");
+TLSDEF("EVN_1051", "DE", "[Versuchen Sie/Versuche] <b>auf das Video zu klicken</b> oder zu tippen - auf einigen Geräten startet die Videogabe möglicherweise erst, nachdem [Sie/Du] mit dem Video interagiert [haben/hast].");
+TLSDEF("EVN_1051", "EN", "Please try <b>clicking or tapping the video</b> - some devices require an interaction of the user before they start playback.");
+TLSDEF("EVN_1052", "DE", "Der Chat <b>aktualisiert sich automatisch</b> alle paar Sekunden. Es ist normal, dass es beim ersten Öffnen einen Moment dauert, bis die Nachrichten geladen sind.");
+TLSDEF("EVN_1052", "EN", "The chat <b>updates automatically</b> every few seconds. It is normal that it takes a moment, before the messages are displayed.");
+TLSDEF("EVN_1053", "DE", "Um selbst eine Nachricht zu schreiben, [tippen/tippe] oder [klicken Sie/klicke] bitte in das <b>Eingabefeld am unteren Bildrand</b>. Nachdem [Sie Ihre/Du Deine] Nachricht geschrieben [haben/hast], [verwenden Sie/verwende] entweder die Enter-Taste oder [tippen/tippe] oder [klicken Sie/klicke] auf das Symbol %1");
+TLSDEF("EVN_1053", "EN", "To write a message, click or tap on the entry field on the bottom of the screen. After typing your message click or tap the %1 icon to send it.");
+TLSDEF("EVN_1054", "DE", "Chat-Nachrichten können nur geschrieben werden, wenn <b>diese Funktion vom Veranstalter freigegeben</b> wurde. Die Funktion kann zwischenzeitlich geschlossen oder auch wieder geöffnet werden. Ob die Funktion geschlossen ist, wird entsprechend angezeigt.");
+TLSDEF("EVN_1054", "EN", "Chat messages can only by written <b>if the chat is enabled</b>. The host may decide to close or re-open the chat at any time.");
+TLSDEF("EVN_1055", "DE", "Die Break-Out-Sessions werden <b>zu gegebener Zeit vom Veranstalter geöffnet</b> und ggf. auch wieder geschlossen.");
+TLSDEF("EVN_1055", "EN", "The break-out sessions will be <b>opened by host</b> when they begin and may also be closed again later on.");
+TLSDEF("EVN_1056", "DE", "[Klicken oder Tippen Sie/Klicke oder Tippe] auf eine <b>aktive Session</b> um dorthin zu wechseln.");
+TLSDEF("EVN_1056", "EN", "Click or tap on an active session to participate.");
+TLSDEF("EVN_1057", "DE", "[Nutzen Sie/Nutze] in der Session die Funktion '<b>Zurückkehren</b>' um die Session zu verlassen und wieder an der Hauptveranstaltung teilzunehmen.");
+TLSDEF("EVN_1057", "EN", "Once inside the session click or tap on '<b>Return</b>' to get back to the main event.");
+TLSDEF("EVN_1058", "DE", "Die Liste der Fragen <b>aktualisiert sich automatisch</b> alle paar Sekunden. Es ist normal, dass es beim ersten Öffnen einen Moment dauert, bis diese geladen sind.");
+TLSDEF("EVN_1058", "EN", "The list of questions <b>updates automatically</b> every few seconds. It is normal that it takes a moment, before the questions are displayed.");
+TLSDEF("EVN_1059", "DE", "Fragen können nur gestellt werden, wenn <b>diese Funktion vom Veranstalter freigegeben</b> wurde. Die Funktion kann zwischenzeitlich geschlossen oder auch wieder geöffnet werden. Ob die Funktion geschlossen ist, wird entsprechend angezeigt.");
+TLSDEF("EVN_1059", "EN", "Questions can only be written if <b>the function is enabled</b>. The host may decide to close or re-open questions at any time.");
+TLSDEF("EVN_1060", "DE", "<b>Fragen anderer Teilnehmer</b> werden nur bei [Ihnen/Dir] angezeigt, wenn der Veranstalter die Frage für alle Teilnehmer freigibt.");
+TLSDEF("EVN_1060", "EN", "<b>Questions of other participants</b> are only displayed if the host has decided to do so. By default only the questioner can see hers or his questions.");
+TLSDEF("EVN_1061", "DE", "Die Abstimmung wird meist <b>nur bei stimmberechtigten Teilnehmern</b> angezeigt. Wenn der Reiter für die Abstimmung nicht zu sehen ist, könnte dies an einer fehlenden Stimmberechtigung liegen.");
+TLSDEF("EVN_1061", "EN", "The voting tab is <b>only visible for voters</b>. If the tab is not visible to you this might be due to missing voting rights.");
+TLSDEF("EVN_1062", "DE", "Wenn der Reiter vorhanden ist, [Sie/Du] aber nach dem <b>Wahl-Code</b> gefragt [werden/wirst], dann ist seitens des Veranstalters für [Sie/Dich] kein Stimmrecht hinterlegt worden. [Setzen Sie sich/Setze Dich] bitte mit dem Veranstalter über die %1-Funktion in Verbindung.");
+TLSDEF("EVN_1062", "EN", "If the voting tab is present, but you are asked to enter your <b>voting code</b>, please look in your inviation or documents for [this digital event]. If you cannot find a voting code - and have the right to vote - please contact the host using the %1 button.");
+TLSDEF("EVN_1063", "DE", "Falls ein <b>zweites Sicherheitsmerkmal</b> abgefragt wird: [Achten Sie/Achte] bitte auf die korrekte Schreibweise des geforderten Merkmals.");
+TLSDEF("EVN_1063", "EN", "If a <b>secondary security feature</b> is being asked from you: Please ensure you enter it exactly as it is asked and has been provided to you.");
+TLSDEF("EVN_1064", "DE", "Wenn ein Abstimmungspunkt <b>nur für [Sie/Dich] nicht geöffnet</b> wird, dann [schauen Sie/schau] bitte, ob [Sie/Du] für diesen Punkt von der Abstimmung ausgeschlossen [sind/bist] - dies wird unterhalb des Buttons zum Abstimmen angezeigt.");
+TLSDEF("EVN_1064", "EN", "If a voting point <b>is not available to you</b> (but available for other voters) this might be due to a restriction for this voting point. Normally this is shown below the disabled voting button. If you feel you should have the right to vote for this specific voting point, please contact the host.");
+TLSDEF("EVN_1065", "DE", "[Beachten Sie/Beachte], dass [Sie Ihre/Du Deine] <b>Stimmabgabe bestätigen</b> [müssen/musst], damit [Ihre/Deine] Stimme auch wirklich übertragen wird.");
+TLSDEF("EVN_1065", "EN", "Please make sure that you <b>confirm your vote</b>. Only after your confirmation the vote will be cast.");
+TLSDEF("EVN_1066", "DE", "Zurück");
+TLSDEF("EVN_1066", "EN", "Back");
+TLSDEF("EVN_1067", "DE", "Hilfe [zur digitalen Veranstaltung]");
+TLSDEF("EVN_1067", "EN", "Help");
+TLSDEF("EVN_1068", "DE", "Vielen Dank für [Ihre/Deine] Teilnahme.");
+TLSDEF("EVN_1068", "EN", "Thank you for your participation.");
+TLSDEF("EVN_1069", "DE", "[Sie können/Du kannst] weiterhin auf der Seite bleiben, jedoch ist keine Partizipation mehr vorgesehen.");
+TLSDEF("EVN_1069", "EN", "You can stay on this page, but there is no more interaction planned.");
+TLSDEF("EVN_1070", "DE", "Der digitale Raum ist nun geschlossen.");
+TLSDEF("EVN_1070", "EN", "The digital room is now closed.");
+TLSDEF("EVN_1071", "DE", "Raum geschlossen");
+TLSDEF("EVN_1071", "EN", "Room is closed");
+TLSDEF("EVN_1072", "DE", "Die Break-Out-Session ist zu Ende. [Klicken oder Tippen Sie/Klicke oder Tippe] auf 'Zurückkehren' um wieder an der Hauptveranstaltung teilzunehmen.");
+TLSDEF("EVN_1072", "EN", "This break-out session is over. Click or tap on 'Return' to go back to the main event.");
+TLSDEF("EVN_1073", "DE", "Archiv ansehen");
+TLSDEF("EVN_1073", "EN", "View archive");
+TLSDEF("EVN_1074", "DE", "Zurückkehren");
+TLSDEF("EVN_1074", "EN", "Return");
+TLSDEF("EVN_1075", "DE", "Ende der Veranstaltung");
+TLSDEF("EVN_1075", "EN", "The event is over");
+TLSDEF("EVN_1076", "DE", "Die digitale Veranstaltung ist zu Ende.");
+TLSDEF("EVN_1076", "EN", "This digital event is over.");
+TLSDEF("EVN_1077", "DE", "[Nutzen Sie/Nutze] jetzt noch die Möglichkeit %1.");
+TLSDEF("EVN_1077", "EN", "You can still %1.");
+TLSDEF("EVN_1078", "DE", "[Sie können/Du kannst] [die Veranstaltung] auch auf anderen Geräten, beispielsweise [Ihrem/Deinem] Smartphone, Laptop oder Tablet, aufrufen. Um [Ihnen/Dir] den Wechsel leicht zu machen, [können Sie/kannst Du] einfach den folgenden QR-Code verwenden:");
+TLSDEF("EVN_1078", "EN", "You can attend [this digital event] on a different device - for example your smartphone, laptop or tablet - by scanning the following QR code:");
+TLSDEF("EVN_1079", "DE", "Alternativ [können Sie/kannst Du] auch [die Veranstaltung] auf diesem Gerät <a %1>neu laden</a> - dies kann unter Umständen ebenfalls helfen, Störungen zu beseitigen.");
+TLSDEF("EVN_1079", "EN", "Alternatively, you can also <a %1>reload</a> [the digital event] on this device - this can also help to eliminate problems.");
+TLSDEF("EVN_1080", "DE", "Meeting-Moderator");
+TLSDEF("EVN_1080", "EN", "Meeting moderator");
+TLSDEF("EVN_1081", "DE", "Meeting-Teilnehmer");
+TLSDEF("EVN_1081", "EN", "Meeting participant");
+TLSDEF("EVN_1083", "DE", "<b>Der digitale Raum wurde bereits geschlossen.</b> [Sie befinden sich/Du befindest Dich] gerade aber im Technik-Check, den [Sie/Du] über den entsprechenden Link aufgerufen [haben/hast]. <b>[Möchten Sie/Möchest Du] jetzt zum Archiv des digitalen Raums wechseln?</b>");
+TLSDEF("EVN_1083", "EN", "<b>The digital room is closed.</b> You are still running the technic-check which you accessed by clicking the corresponding link. Do you want to switch to the archive of the digital room now?");
+TLSDEF("EVN_1084", "DE", "<b>Der digitale Raum ist bereits geöffnet.</b> [Sie befinden sich/Du befindest Dich] gerade aber noch im Technik-Check, den [Sie/Du] über den entsprechenden Link aufgerufen [haben/hast]. <b>[Möchten Sie/Möchtest Du] jetzt zum echten digitalen Raum wechseln?</b>");
+TLSDEF("EVN_1084", "EN", "<b>The digital room is already open.</b> You are still running the technic-check which you accessed by clicking the corresponding link. Do you want to switch to the real digital room now?");
+TLSDEF("EVN_1085", "DE", "<b>Die echte Veranstaltung  hat bereits stattgefunden.</b> [Sie befinden sich/Du befindest Dich] gerade aber im Technik-Check, den [Sie/Du] über den entsprechenden Link aufgerufen [haben/hast]. <b>[Möchten Sie/Möchtest Du] jetzt zum Archiv der echten Veranstaltung wechseln?</b>");
+TLSDEF("EVN_1085", "EN", "<b>The real event is already over.</b> You are still running the technic-check which you accessed by clicking the corresponding link. Do you want to switch to the real event now?");
+TLSDEF("EVN_1086", "DE", "<b>Die echte Veranstaltung läuft bereits.</b> [Sie befinden sich/Du befindest Dich] gerade aber noch im Technik-Check, den [Sie/Du] über den entsprechenden Link aufgerufen [haben/hast]. <b>[Möchten Sie/Möchtest Du] jetzt zur echten Veranstaltung wechseln?</b>");
+TLSDEF("EVN_1086", "EN", "<b>The real event is already running.</b> You are still running the technic-check which you accessed by clicking the corresponding link. Do you want to switch to the real event now?");
+TLSDEF("EVN_1087", "DE", "Achtung: [Sie sind/Du bist] im Technik-Check!");
+TLSDEF("EVN_1087", "EN", "Attention: You are running the technic-check!");
+TLSDEF("EVN_1088", "DE", "Wechseln");
+TLSDEF("EVN_1088", "EN", "Switch");
+TLSDEF("EVN_1089", "DE", "Trotzdem fortfahren");
+TLSDEF("EVN_1089", "EN", "Continue technic-check");
+TLSDEF("EVN_1090", "DE", "Der digitale Raum ist bereits geschlossen.");
+TLSDEF("EVN_1090", "EN", "This digital room is already closed.");
+TLSDEF("EVN_1091", "DE", "Der digitale Raum ist bereits geschlossen, [Sie können sich/Du kannst Dir] aber noch das Archiv ansehen.");
+TLSDEF("EVN_1091", "EN", "This digital room is already closed, but you can still access the archive.");
+TLSDEF("EVN_1092", "DE", "Die Veranstaltung ist bereits vorüber.");
+TLSDEF("EVN_1092", "EN", "The event is already over.");
+TLSDEF("EVN_1093", "DE", "Die Veranstaltung ist bereits vorüber, [Sie können sich/Du kannst Dir] aber noch das Archiv ansehen.");
+TLSDEF("EVN_1093", "EN", "The event is already over, but you can still access the archive.");
+TLSDEF("EVN_1094", "DE", "Geschlossen");
+TLSDEF("EVN_1094", "EN", "Closed");
+TLSDEF("EVN_1095", "DE", "Jetzt eintreten");
+TLSDEF("EVN_1095", "EN", "Enter now");
+TLSDEF("EVN_1096", "DE", "Jetzt eintreten!");
+TLSDEF("EVN_1096", "EN", "Enter now!");
+TLSDEF("EVN_1097", "DE", "Jetzt bereits eintreten");
+TLSDEF("EVN_1097", "EN", "Already enter now");
+TLSDEF("EVN_1098", "DE", "[Wählen Sie aus/Wähle aus], was [Sie/Du] neuladen [möchten/möchtest]:");
+TLSDEF("EVN_1098", "EN", "Please select what you want to reload:");
+TLSDEF("EVN_1099", "DE", "Nur den Video-Stream neu laden");
+TLSDEF("EVN_1099", "EN", "Only reload the video");
+TLSDEF("EVN_1100", "DE", "Die ganze Seite neu laden");
+TLSDEF("EVN_1100", "EN", "Reload the whole page");
+TLSDEF("EVN_1101", "DE", "Neu laden");
+TLSDEF("EVN_1101", "EN", "Reload");
+TLSDEF("EVN_1102", "DE", "[Sind Sie/Bist Du] sicher, dass [Sie/Du] die Seite verlassen oder neu laden [wollen/willst]? [Sollten Sie/Solltest Du] Probleme mit dem Video haben hilft es meist bereits, nur das Video neu zu laden.");
+TLSDEF("EVN_1102", "EN", "Are you sure you want to reload the whole page? If you have trouble with the video, it is normally sufficient to reload the video only.");
+TLSDEF("EVN_1103", "DE", "Statt neu zu laden...");
+TLSDEF("EVN_1103", "EN", "Instead of reloading...");
+TLSDEF("EVN_1104", "DE", "[Sie haben/Du hast] diese Seite gerade neu geladen. [Hatten Sie/Hattest Du] eventuell Probleme mit dem Video? Dann [können Sie/kannst Du] auch einfach nur das <a %1>Video neu laden</a>. Dies geht auch jederzeit über <a %2>Hilfe</a>, wo [Sie/Du] auch Hilfe und Informationen zu anderen Problemen [finden/findest].<br><br>Ein häufiges Neuladen der Seite, wenn es viele Teilnehmer gleichzeitig machen, kann zu einer verschlechterten Leistung führen.<br><br>Danke für [Ihr/Dein] Verständnis.");
+TLSDEF("EVN_1104", "EN", "You just reloaded this page. Did you have trouble watching the video? You can also try to <a %1>reload the video</a> instead of the whole page. This is also possible at any time via the <a %2>Help</a> function, where you will also find more information on trouble shooting.<br><br>Reloading this page many times, if done by several participants at the same time, may decrease the performance of this site.<br><br>Thank you for your understanding.");
+TLSDEF("EVN_1105", "DE", "[Sie haben/Du hast] diese Seite gerade neu geladen. Wir empfehlen [Ihnen/Dir], die <a %1'>Hilfe</a> zu nutzen, wenn [Sie/Du] Problemen mit der Seite [haben/hast].<br><br>Ein häufiges Neuladen der Seite, wenn es viele Teilnehmer gleichzeitig machen, kann zu einer verschlechterten Leistung führen.<br><br>Danke für [Ihr/Dein] Verständnis.");
+TLSDEF("EVN_1105", "EN", "You just reloaded this page. We recommend using the <a %1'>Help</a> function, when you have trouble with this site.<br><br>Reloading this page many times, if done by several participants at the same time, may decrease the performance of this site.<br><br>Thank you for your understanding.");
+TLSDEF("EVN_1106", "DE", "<a %1>Digitale Events</a> von %2");
+TLSDEF("EVN_1106", "EN", "<a %1>Digital events</a> by %2");
+TLSDEF("EVN_1107", "DE", "Gerät wechseln");
+TLSDEF("EVN_1107", "EN", "Switch device");
+TLSDEF("EVN_1108", "DE", "Hilfe");
+TLSDEF("EVN_1108", "EN", "Help");
+TLSDEF("EVN_1109", "DE", "Zurückkehren");
+TLSDEF("EVN_1109", "EN", "Return");
+TLSDEF("EVN_1110", "DE", "Verlassen");
+TLSDEF("EVN_1110", "EN", "Leave");
+TLSDEF("EVN_1111", "DE", "Bitte [aktivieren Sie/aktiviere] JavaScript um teilzunehmen!");
+TLSDEF("EVN_1111", "EN", "Leave");
+TLSDEF("EVN_1112", "DE", "Für die Teilnahme an unseren digitalen Veranstaltung ist es notwendig, dass Ihr Webbrowser JavaScript unterstützt bzw. die Unterstützung aktiviert ist.");
+TLSDEF("EVN_1112", "EN", "To attend our digital events your browser has to support JavaScript.");
+TLSDEF("EVN_1113", "DE", "Bitte aktivieren Sie JavaScript und laden Sie diese Seite neu oder nutzen Sie den folgenden QR-Code, um auf ein anderes Gerät mit JavaScript-Unterstützung zu wechseln.");
+TLSDEF("EVN_1113", "EN", "Please enable JavaScript an reload this page. Alternatively you can use the following QR code to attend our event on a different device which supports JavaScript:");
+TLSDEF("EVN_1114", "DE", "[Ihre/Deine] Teilnehmerinformation ist leider nicht mehr bei uns im System hinterlegt.");
+TLSDEF("EVN_1115", "DE", "Umfrage");
+TLSDEF("EVN_1115", "EN", "Survey");
+TLSDEF("EVN_1116", "DE", "Externer Inhalt");
+TLSDEF("EVN_1116", "EN", "External content");
+TLSDEF("EVN_1117", "DE", "Hinweise");
+TLSDEF("EVN_1117", "EN", "Please note");
+TLSDEF("EVN_1118", "DE", "Abstimmung");
+TLSDEF("EVN_1118", "EN", "Voting");
+TLSDEF("EVN_1119", "DE", "Fotogalerie");
+TLSDEF("EVN_1119", "EN", "Gallery");
+TLSDEF("EVN_1120", "DE", "Unterlagen");
+TLSDEF("EVN_1120", "EN", "Documents");
+TLSDEF("EVN_1121", "DE", "Teilnehmerliste");
+TLSDEF("EVN_1121", "EN", "Participants");
+TLSDEF("EVN_1122", "DE", "Frage einreichen");
+TLSDEF("EVN_1122", "EN", "Submit questions");
+TLSDEF("EVN_1123", "DE", "Willkommen zum Technik-Check!");
+TLSDEF("EVN_1123", "EN", "Welcome to the technic check!");
+TLSDEF("EVN_1124", "DE", "Auf dieser Seite [können Sie/kannst Du] überprüfen, ob [Ihr/Dein] Endgerät in der Lage ist, an der digitalen Veranstaltung teilzunehmen.");
+TLSDEF("EVN_1124", "EN", "The page will you you to verify that all functions of our digital event work without any issues on your device.");
+TLSDEF("EVN_1125", "DE", "[Überprüfen Sie/Überprüfe], ob [Sie/Du] das angezeigte Video auf [Ihrem/Deinem] Gerät abspielen [können/kannst]. Später wird an dieser Stelle das echte Video zur Veranstaltung erscheinen.");
+TLSDEF("EVN_1125", "EN", "Make sure that your device can play the video without issues. Later on this video will be replaced by the real video feed from our event.");
+TLSDEF("EVN_1126", "DE", "[Überprüfen Sie/Überprüfe], dass [Sie/Du] am Video-Meeting teilnehmen [können/kannst], [Ihr/Dein] Mikrofon und [Ihre/Deine] Webcam funktionieren, damit [Sie/Du] später auch vollwertig teilnehmen [können/kannst].");
+TLSDEF("EVN_1126", "EN", "Make sure you can join the demo meeting and that your microphone and your webcam work without problems to ensure you can participate later on.");
+TLSDEF("EVN_1127", "DE", "[Schauen Sie sich/Schau Dir] den Reiter 'Frage einreichen' an und [versuchen Sie/versuche], eine Frage zu stellen.");
+TLSDEF("EVN_1127", "EN", "Have a look at 'Questions' and try to post a question of your own.");
+TLSDEF("EVN_1128", "DE", "[Versuchen Sie/Versuche], im Chat etwas einzugeben und [schauen Sie/schau], ob [Ihnen/Dir] unser Technik-Check-Bot antwortet.");
+TLSDEF("EVN_1128", "EN", "Try to post something in our chat window and see if our technic chat bot will answer you.");
+TLSDEF("EVN_1129", "DE", "[Sollten Sie/Solltest Du] Schwierigkeiten haben, [können Sie/kannst Du] jederzeit die Funktion „Gerät wechseln“ verwenden, um es auf einem anderen Endgerät – beispielsweise einem Smartphone, Tablet oder Laptop – zu versuchen.");
+TLSDEF("EVN_1129", "EN", "If you have any troubles try 'Switch device' to run the technic check on a different device, for example a tablet or laptop.");
+TLSDEF("EVN_1130", "DE", "Wenn [Sie/Du] zusätzlich Unterstützung [benötigen/benötigst], helfen wir [Ihnen/Dir] gerne weiter. [Klicken Sie/Klick] dazu einfach auf 'Kontakt'.");
+TLSDEF("EVN_1130", "EN", "If you need further assistance don't hesitate to contact us using the contact button below.");
+TLSDEF("EVN_1131", "DE", "Feedback abzugeben");
+TLSDEF("EVN_1131", "EN", "give us feedback");
+TLSDEF("EVN_1082", "DE", "Beginn %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1082", "EN", "Starts on %DATE% at %TIME%");
+TLSDEF("EVN_1132", "DE", "Beginn heute um %TIME% Uhr");
+TLSDEF("EVN_1132", "EN", "Starts today at %TIME%");
+TLSDEF("EVN_1133", "DE", "Beginnt in %MINUTES% Min.");
+TLSDEF("EVN_1133", "EN", "Starts in %MINUTES% min.");
+TLSDEF("EVN_1134", "DE", "Beginnt in %SECONDS% Sek.");
+TLSDEF("EVN_1134", "EN", "Starts in %SECONDS% sec.");
+TLSDEF("EVN_1135", "DE", "Beginnt jetzt");
+TLSDEF("EVN_1135", "EN", "Starts now");
+TLSDEF("EVN_1136", "DE", "Öffnet am %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1136", "EN", "Opens on %DATE% at %TIME%");
+TLSDEF("EVN_1137", "DE", "Öffnet heute um %TIME% Uhr");
+TLSDEF("EVN_1137", "EN", "Opens today at %TIME%");
+TLSDEF("EVN_1138", "DE", "Öffnet in %MINUTES% Minuten");
+TLSDEF("EVN_1138", "EN", "Opens in %MINUTES%");
+TLSDEF("EVN_1139", "DE", "Öffnet in %SECONDS% Sekunden");
+TLSDEF("EVN_1139", "EN", "Opens in %SECONDS% seconds");
+TLSDEF("EVN_1140", "DE", "Öffnet jetzt");
+TLSDEF("EVN_1140", "EN", "Opens now");
+TLSDEF("EVN_1141", "DE", "Einlass am %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1141", "EN", "Opening on %DATE% at %TIME%");
+TLSDEF("EVN_1142", "DE", "Einlass heute um %TIME% Uhr");
+TLSDEF("EVN_1142", "EN", "Opening today at %TIME%");
+TLSDEF("EVN_1143", "DE", "Einlass in %MINUTES% Minuten");
+TLSDEF("EVN_1143", "EN", "Opening in %MINUTES% minutes");
+TLSDEF("EVN_1144", "DE", "Einlass in %SECONDS% Sekunden");
+TLSDEF("EVN_1144", "EN", "Opening in %SECONDS% seconds");
+TLSDEF("EVN_1145", "DE", "Einlass jetzt");
+TLSDEF("EVN_1145", "EN", "Opening now");
+TLSDEF("EVN_1146", "DE", "Beginn um %1 Uhr");
+TLSDEF("EVN_1146", "EN", "Starts at %1");
+TLSDEF("EVN_1147", "DE", "Beginnt am %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1147", "EN", "Starts on %DATE% at %TIME%");
+TLSDEF("EVN_1148", "DE", "Beginnt heute um %TIME% Uhr");
+TLSDEF("EVN_1148", "EN", "Starts today at %TIME%");
+TLSDEF("EVN_1149", "DE", "Beginnt in %MINUTES% Minuten");
+TLSDEF("EVN_1149", "EN", "Starts in %MINUTES% minutes");
+TLSDEF("EVN_1150", "DE", "Beginnt in %SECONDS% Sekunden");
+TLSDEF("EVN_1150", "EN", "Starts in %SECONDS% seconds");
+TLSDEF("EVN_1151", "DE", "Geschlossen seit dem %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1151", "EN", "Closed since %DATE% at %TIME%");
+TLSDEF("EVN_1152", "DE", "Geschlossen seit %TIME%");
+TLSDEF("EVN_1152", "EN", "Closed since %TIME%");
+TLSDEF("EVN_1153", "DE", "Geschlossen seit %MINUTES% Minuten");
+TLSDEF("EVN_1153", "EN", "Closed for %MINUTES% minutes");
+TLSDEF("EVN_1154", "DE", "Geschlossen seit %SECONDS% Sekunden");
+TLSDEF("EVN_1154", "EN", "Closed for %SECONDS% seconds");
+TLSDEF("EVN_1155", "DE", "Jetzt geschlossen");
+TLSDEF("EVN_1155", "EN", "Just closed");
+TLSDEF("EVN_1156", "DE", "Schließt am %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1156", "EN", "Closes on %DATE% at %TIME%");
+TLSDEF("EVN_1157", "DE", "Schließt heute um %TIME% Uhr");
+TLSDEF("EVN_1157", "EN", "Closes today at %TIME%");
+TLSDEF("EVN_1158", "DE", "Schließt in %MINUTES% Minuten");
+TLSDEF("EVN_1158", "EN", "Closes in %MINUTES% minutes");
+TLSDEF("EVN_1159", "DE", "Schließt in %SECONDS% Sekunden");
+TLSDEF("EVN_1159", "EN", "Closes in %SECONDS% seconds");
+TLSDEF("EVN_1160", "DE", "Schließt jetzt");
+TLSDEF("EVN_1160", "EN", "Closes now");
+TLSDEF("EVN_1161", "DE", "Vorbei seit dem %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1161", "EN", "Over since %DATE% at %TIME%");
+TLSDEF("EVN_1162", "DE", "Vorbei seit %TIME%");
+TLSDEF("EVN_1162", "EN", "Over since %TIME%");
+TLSDEF("EVN_1163", "DE", "Vorbei seit %MINUTES% Minuten");
+TLSDEF("EVN_1163", "EN", "Over for %MINUTES% minutes");
+TLSDEF("EVN_1164", "DE", "Vorbei seit %SECONDS% Sekunden");
+TLSDEF("EVN_1164", "EN", "Over for %SECONDS% seconds");
+TLSDEF("EVN_1165", "DE", "Jetzt vorbei");
+TLSDEF("EVN_1165", "EN", "Over just now");
+TLSDEF("EVN_1166", "DE", "Läuft seit dem %DATE% um %TIME% Uhr");
+TLSDEF("EVN_1166", "EN", "Running since %DATE% at %TIME%");
+TLSDEF("EVN_1167", "DE", "Läuft seit %TIME%");
+TLSDEF("EVN_1167", "EN", "Running since %TIME%");
+TLSDEF("EVN_1168", "DE", "Läuft seit %MINUTES% Minuten");
+TLSDEF("EVN_1168", "EN", "Running for %MINUTES% minutes");
+TLSDEF("EVN_1169", "DE", "Läuft seit %SECONDS% Sekunden");
+TLSDEF("EVN_1169", "EN", "Running for %SECONDS% seconds");
+TLSDEF("EVN_1170", "DE", "Läuft jetzt");
+TLSDEF("EVN_1170", "EN", "Running");
+TLSDEF("EVN_1171", "DE", "Technik-Check");
+TLSDEF("EVN_1171", "EN", "Technic check");
+TLSDEF("EVN_1172", "DE", "Demo-Seite");
+TLSDEF("EVN_1172", "EN", "Demo page");
+TLSDEF("EVN_1173", "DE", "Sprache");
+TLSDEF("EVN_1173", "EN", "Language");
+TLSDEF("EVN_1174", "DE", "Wählen Sie durch Klicken oder Tippen die gewünschte Sprachen aus.");
+TLSDEF("EVN_1174", "EN", "Select the language you want to use by clicking or tapping on it.");
+TLSDEF("EVN_1175", "DE", "Möglicherweise sind nicht alle Teile der Veranstaltung in der gewünschten Sprache verfügbar.");
+TLSDEF("EVN_1175", "EN", "It is possible that not all contents of this event are available in your language.");
+TLSDEF("EVN_1176", "DE", "Möglicherweise sind nicht alle Teile des digitalen Raums in der gewünschten Sprache verfügbar.");
+TLSDEF("EVN_1176", "EN", "It is possible that not all contents of this digital room are available in your language.");
+TLSDEF("EVN_1177", "DE", "Vorbei");
+TLSDEF("EVN_1177", "EN", "Over");
+TLSDEF("EVN_1178", "DE", "Die Veranstaltung hat bereits stattgefunden");
+TLSDEF("EVN_1178", "EN", "The event has already occured");
+TLSDEF("EVN_1179", "DE", "Bereits gebucht");
+TLSDEF("EVN_1179", "EN", "Already booked");
+TLSDEF("EVN_1180", "DE", "Die Veranstaltung [haben Sie/hast Du] bereits gebucht");
+TLSDEF("EVN_1180", "EN", "You already booked this event");
+TLSDEF("EVN_1181", "DE", "Plätze verfügbar");
+TLSDEF("EVN_1181", "EN", "Enough tickets available");
+TLSDEF("EVN_1182", "DE", "Es sind noch genügend Plätze verfügbar");
+TLSDEF("EVN_1182", "EN", "There are enough tickets available");
+TLSDEF("EVN_1183", "DE", "Wenige Plätze");
+TLSDEF("EVN_1183", "EN", "Few tickets available");
+TLSDEF("EVN_1184", "DE", "Es sind nur noch wenige Plätze verfügbar");
+TLSDEF("EVN_1184", "EN", "There are only a few remaining tickets available");
+TLSDEF("EVN_1185", "DE", "Ausgebucht");
+TLSDEF("EVN_1185", "EN", "Fully booked");
+TLSDEF("EVN_1186", "DE", "Die Veranstaltung ist ausgebucht");
+TLSDEF("EVN_1186", "EN", "The event ist fully booked");
+TLSDEF("EVN_1187", "DE", "Warteliste");
+TLSDEF("EVN_1187", "EN", "Waiting list");
+TLSDEF("EVN_1188", "DE", "Diese Veranstaltung ist bereits ausgebucht, es gibt aber eine Warteliste");
+TLSDEF("EVN_1188", "EN", "The event is fully booked but there is a waiting list");
+TLSDEF("EVN_1189", "DE", "Kostenpflichtig");
+TLSDEF("EVN_1189", "EN", "Event fee");
+TLSDEF("EVN_1190", "DE", "Diese Veranstaltung ist kostenpflichtig");
+TLSDEF("EVN_1190", "EN", "This event has a fee");
+TLSDEF("EVN_1191", "DE", "Digitales Event");
+TLSDEF("EVN_1191", "EN", "Digital event");
+TLSDEF("EVN_1192", "DE", "Diese Veranstaltung findet rein digital statt");
+TLSDEF("EVN_1192", "EN", "This event takes place online");
+TLSDEF("EVN_1193", "DE", "Information");
+TLSDEF("EVN_1193", "EN", "Information");
+TLSDEF("EVN_1194", "DE", "Information über eine Veranstaltung");
+TLSDEF("EVN_1194", "EN", "Information of an event");
+TLSDEF("EVN_1195", "DE", "Zielgruppe");
+TLSDEF("EVN_1195", "EN", "Target group");
+TLSDEF("EVN_1196", "DE", "Diese Veranstaltung richtet sich an einen speziellen Personenkreis");
+TLSDEF("EVN_1196", "EN", "This event is meant for a special audience");
+TLSDEF("EVN_1197", "DE", "Mit Einladungscode");
+TLSDEF("EVN_1197", "EN", "With invitation code only");
+TLSDEF("EVN_1198", "DE", "Für diese Veranstaltung [benötigen Sie/benötigst Du] einen Einladungscode");
+TLSDEF("EVN_1198", "EN", "This events requires an invitation code");
+TLSDEF("EVN_1199", "DE", "Legende");
+TLSDEF("EVN_1199", "EN", "Legend");
+TLSDEF("EVN_1200", "DE", "Wir freuen uns auf [Ihr/Dein] Feedback zu unserer Veranstaltung:");
+TLSDEF("EVN_1200", "EN", "We are looking forward to your feedback to [our event].");
+TLSDEF("EVN_1201", "DE", "Kein Text eingegeben");
+TLSDEF("EVN_1201", "EN", "No feedback text entered");
+TLSDEF("EVN_1202", "DE", "[Geben Sie/Gib] erst [Ihren/Deine] Anregungstext ein!");
+TLSDEF("EVN_1202", "EN", "Please enter your suggestion text first!");
+TLSDEF("EVN_1203", "DE", "Danke für [Ihr/Dein] Feedback!");
+TLSDEF("EVN_1203", "EN", "Thank you for your feedback!");
+TLSDEF("EVN_1204", "DE", "[Möchten Sie/Möchtest Du] uns noch etwas mitteilen?");
+TLSDEF("EVN_1204", "EN", "Would you also like to submit a suggestion or tell us something?");
+TLSDEF("EVN_1205", "DE", "Senden");
+TLSDEF("EVN_1205", "EN", "Send feedback/comment");
+TLSDEF("EVN_1206", "DE", "Danke für [Ihre/Deine] Anregungen!");
+TLSDEF("EVN_1206", "EN", "Thank you for your suggestion!");
+TLSDEF("EVN_1207", "DE", "Feedback ändern");
+TLSDEF("EVN_1207", "EN", "Change feedback");
+TLSDEF("EVN_1208", "DE", "Über den nachfolgenden QR-Code gelangen Sie direkt [zur Veranstaltung]. Scannen Sie den Code einfach mit Ihrem Endgerät.");
+TLSDEF("EVN_1208", "EN", "Use the following QR code to directly access [our event]. Simply use the camera or QR code scanner app of the device you want to attend with.");
+TLSDEF("EVN_1209", "DE", "Alternativ [können Sie/kannst Du] auch auf folgende Internetseite gehen");
+TLSDEF("EVN_1209", "EN", "Alternatively you can enter the following internet address");
+TLSDEF("EVN_1210", "DE", "und dort [Ihren/Deinen] persönlichen Einladungscode eingeben:");
+TLSDEF("EVN_1210", "EN", "and enter your personal invitation code:");
+TLSDEF("EVN_1211", "DE", "[Sie gelangen/Du gelangst] anschließend [zur Veranstaltung].");
+TLSDEF("EVN_1211", "EN", "After that you can directly access [our event].");
+TLSDEF("EVN_1212", "DE", "Bitte [öffnen Sie/öffne] die Veranstaltung rechtzeitig vor Beginn auf [Ihrem/Deinem] Endgerät. [Sie können/Du kannst] auch jetzt schon online den Technik-Check machen, um sicherzustellen, dass die Veranstaltung problemlos auf [Ihrem/Deinem] Gerät funktioniert.");
+TLSDEF("EVN_1212", "EN", "Please open [the event] on your device in good time before the start. You can also perform a technic check now to ensure that the event works without any issues on your device.");
+TLSDEF("EVN_1213", "DE", "Einloggen");
+TLSDEF("EVN_1213", "EN", "Login");
+TLSDEF("EVN_1214", "DE", "Aktuell [nehmen Sie/nimmst Du] als Gast [an der Veranstaltung] teil. Wenn [Sie/Du] einen Einladungscode [haben, können Sie/hast, kannst Du] diesen in das unten stehende Feld eingeben um [sich/Dich] anzumelden und alle Funktionen zu nutzen:");
+TLSDEF("EVN_1215", "DE", "Bitte [geben Sie/gib] einen vollständigen Einladungscode ein.");
+TLSDEF("EVN_1216", "DE", "Als Gast teilnehmen?");
+TLSDEF("EVN_1216", "EN", "Join as a guest?");
+TLSDEF("EVN_1217", "DE", "[Sie können/Du kannst] auch als Gast [an der Veranstaltung] teilnehmen. Dabei sind allerdings möglicherweise einige Funktionen eingeschränkt.");
+TLSDEF("EVN_1217", "EN", "A can also join [this event] as a guest. Not all features and contents may be accessible in guest mode.");
+TLSDEF("EVN_1218", "DE", "Als Gast teilnehmen");
+TLSDEF("EVN_1218", "EN", "Join as guest");
+TLSDEF("EVN_1219", "DE", "Archiv ansehen");
+TLSDEF("EVN_1219", "EN", "View archive");
+TLSDEF("EVN_1220", "DE", "[Die Veranstaltung] ist vorbei, das Archiv ist allerdings noch online. [Sie können/Du kannst] das Archiv auch als Gast ansehen, jedoch sind möglicherweise nicht alle Inhalte mit dem Gast-Zugang verfügbar.");
+TLSDEF("EVN_1220", "EN", "[The event] is over but the archive is still online. You can view the archive even as a guest but some contents may not be visible in guest mode");
+TLSDEF("EVN_1221", "DE", "Archiv als Gast ansehen");
+TLSDEF("EVN_1221", "EN", "View archive as guest");
+TLSDEF("EVN_1222", "DE", "Frist");
+TLSDEF("EVN_1222", "EN", "Deadline");
+TLSDEF("EVN_1223", "DE", "Die Anmeldefrist ist abgelaufen");
+TLSDEF("EVN_1223", "EN", "The registration period has expired");
+</script>
+<script language="JavaScript">
+
+COUPE.EMBEDDED.CSS = ".cEventDescription.cDescription .cImageCell { display:none;}";
+COUPE.EMBEDDED.CSSSTANDALONE = ".cEventDescription.cDescription .cImageCell { display:none;}";
+COUPE.EMBEDDED.WATCHER(false,false,0,false,false,"index.php");
+
+</script>
+<script language="JavaScript">
+
+
+COUPE.EMBEDDED.SIZEUPDATER();
+
+
+</script>
+<script type="text/javascript" src="https://vbbs.genolive.de/corveos/js/lib3/edit_area/elements_functions.js" charset="UTF-8"></script><script type="text/javascript" src="https://vbbs.genolive.de/corveos/js/lib3/edit_area/resize_area.js" charset="UTF-8"></script><script type="text/javascript" src="https://vbbs.genolive.de/corveos/js/lib3/edit_area/reg_syntax.js" charset="UTF-8"></script></head><body><div id="Cx" class="cPageEventInfo cCategoryMF cEventMFGESUND cStandAlone"><table id="holder" cellpadding="0" cellspacing="0"><tbody><tr><td id="iFrameLeft" class="cFrameLeft part_l">&nbsp;</td><td id="iFrameCenter" class="part_c"><div id="iFrame" class="cFrame"><div id="iHeader"><a href="index.php?page=start"><img id="iLogo" src="projects/vbbs/gui/elements/logo.png"></a><form id="iTabGoStart" action="index.php" method="post"><input type="hidden" name="FWDOVW1" value="OXJTV2dNSZkpqftGmnrJcyq6ovfmO1KZvOcdIeAqjR5omDryFnWmuUmPGseew7Lh3QmRgk0Loz2G7ky[S]1[S]L504IMKdh6rEGnEWC4I+SuDWDtDUT506HxY[S]40oSDIPtbofwg[E]_c7e480558f1ee5f525170a67f67c65a4"></form><script language="JavaScript">
+
+function hTabGoStart() {document.getElementById('iTabGoStart').submit();};
+
+</script>
+<div id="iTopTabs"><div onclick="hTabGoStart();" class="cTab cTabSelected">Veranstaltungsportal</div><div class="cTabEnd"></div></div><div id="iTabs"><div onclick="hTabGoStart();" class="cTab cTabUnselected">Willkommen</div><div class="cTabEnd"></div></div></div><div id="iContentArea"><form name="frm_Registration" action="index.php" method="POST" enctype="multipart/form-data"><input type="hidden" name="FWDOVW2" value="8j8nZCP1fbkyQ[S]3RNr[S]Tg5V6p2S9WIA38AAVdwHi2A5B09fxHGOx2pGXUEv1q3fMSAfpfR4KcH3ItTPYlC47Q2lkDLC3QZJxF1wUFyisVdeq9hJw3e3o0Neq8QsZSbUoxjtw6kjfdVn9VLelPnfHw6z9dIlFxFfo[S]qK0lbxNDUxlnb0KBO2EkKXAyFheT1QpItREvfG4GYXU4xJVcQlUK54pJqHKeRFdYKqX1RE[E]_ad82c2979477f435676aee91d46418a9"><div><img class="cBannerImageFlex" src="projects/vbbs/images/genolive_anmeldemaske_gesundheitsforum.jpg"></div><div id="iSidebar" class="cSidebar"><div id="iSidebarSpacer" style="height: 36px;"></div><div><h1>Sie müssen absagen?</h1><div class="cContent"><p>Sie können leider nicht an '<nobr>MitgliederForum: GesundheitsForum mit Dr. Ben Baak</nobr>' teilnehmen?</p><p>Dann würden wir uns freuen, wenn Sie die Möglichkeit zur Absage nutzen würden. Sie unterstützen uns dadurch bei der Planung der Veranstaltung.</p><p>Vielen Dank!</p><button type="button" id="LID_91_F2AD08" onclick="document.getElementById('frm_Cancel').submit();" class="cUIWidget cUIButton sClickable large"><nobr>&nbsp;Absagen&nbsp;<img class="cIcon csSmall " src="corveos/gui/icons/white/no2.gif"></nobr></button></div></div><div><h1>Kontakt &amp; Service</h1><div class="cContent"><table class="cContactTable"><tbody><tr class="csUnit"><td colspan="2">Mitgliedermanagement</td></tr><tr class="csCompany"><td colspan="2">Volksbank Bad Salzuflen eG</td></tr><tr class="csPhone"><th><img class="cIcon" style="max-width:16px;max-height:16px;" border="0" align="absmiddle" src="corveos/gui/icons/grey/phone.gif"></th><td><a href="tel:05222 801-3005">05222 801-3005</a></td></tr><tr class="csMail"><th><img class="cIcon" style="max-width:16px;max-height:16px;" border="0" align="absmiddle" src="corveos/gui/icons/grey/email.gif"></th><td><a href="mailto:event@vbbs.de">event@vbbs.de</a></td></tr></tbody></table></div></div><div><h1>Hinweis</h1><div class="cContent"><p>Alle mit * markierten Felder sind Pflichtfelder.</p></div></div><div><h1>Sicherheitsinformation</h1><div class="cContent"><p>Diese Seite befindet sich auf dem SSL-gesicherten Webserver unseres Technologie-Partners <nobr><a href="http://www.conventex.com?page=ssl" target="_blank">Conventex GmbH</a></nobr>.</p><p>Alle Informationen werden SSL-verschlüsselt übertragen und nach den rechtlichen <a href="https://www.vbbs.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.html" target="_blank">Datenschutz­bestimmungen</a> verwendet.</p></div></div></div><div id="iContent" class="cContentIndent" style="min-height:500px;"><h2 class="cProcessStep">Online-Anmeldung</h2><div class="cSection"><div class="cEventDetails cEventDetailsSingle"><div class="event-box"><h1 class="sFontMid">MitgliederForum: GesundheitsForum mit Dr. Ben Baak</h1><div class="cEventInfo">Dieser Vortrag richtet sich an: <b>Mitglieder</b></div><br><table class="event-info"><tbody><tr><th>Termin</th><td>Donnerstag, 12. September 2024</td></tr><tr><th>Einlass ab</th><td>18:00&nbsp;Uhr</td></tr><tr><th>Uhrzeit</th><td>18:30&nbsp;Uhr bis ca. 20:30&nbsp;Uhr</td></tr><tr><th>Ort</th><td>Netzwerk<br>Uferstraße 13, 32108&nbsp;Bad Salzuflen</td></tr><tr><th>Anmeldung bis</th><td>Freitag, 6. September 2024</td></tr></tbody></table><br><h3 id="iEventDescriptionTitle">Beschreibung</h3><div class="cEventDescription"><p><strong>Dr. Ben Baak ist Autor, Redner und Coach</strong> sowie promovierter Sportwissenschaftler. An der Sporthochschule Köln hat er unter anderem die Schwerelosigkeit auf den menschlichen Körper erforscht. Als Autor hat Ben Baak Bücher zum Thema Bewegung, Regeneration und der inneren Einstellung veröffentlicht. Er hat mehr als 400 erfolgreiche Unternehmer*innen und Persönlichkeiten wie z.B. Coach und Speaker Bodo Schäfer oder Fußballprofi Toni Schumacher begleitet, ihre Gesundheit, als auch ihr persönliches Wohlbefinden und ihre Leistungsfähigkeit gleichermaßen zu entwickeln.</p>
+<p>Lassen Sie sich durch seinen inspirierenden Vortrag zu <strong>Bewegung, Ernährung und der inneren Einstellung</strong> begeistern!</p>
+<p>Wie lassen sich die <strong>Lebensdauer und Lebensqualität</strong> durch Bewegung fördern? Welchen Einfluss hat die Ernährung und ihre Reihenfolge des Verzehrs auf die Leistungsfähigkeit, Konzentration und Stimmung? Und <strong>wie weitreichend ist der persönliche Einfluss auf die Gesundheit</strong> und was braucht es, dass uns Lebenskrisen und Stress nichts anhaben können?</p>
+<p>Im Anschluss an den Vortrag beantwortet Ben Baak gerne Ihre Fragen. Beim Imbiss haben Sie die Möglichkeit mit Ben Baak und anderen Mitgliedern in den Austausch zu gehen.</p>
+<p>Wir freuen uns auf einen inspirierenden Abend mit Ihnen!</p>
+<p>&nbsp;</p><table class="cSpeakerTable"><tbody><tr><th><h3>Redner</h3></th><td><nobr></nobr> <nobr>Dr.</nobr> <nobr>Ben</nobr> <nobr>Baak</nobr></td></tr></tbody></table></div></div></div></div><div class="cSection"><a name="#registration"></a><script language="JavaScript">
+FORM.CONFIG.WARNMODE = 'ICON';
+</script><input type="hidden" name="FWDOVW3" value="k2bYT5OtQ8wry[S]Uk0F7VvKTu1soGTkCvKOCa97vxpijhFBGPLm65yElrvD1TxGOPlyOq30S4CiGDY[S]Sq61YYX[S]3yJ7qvKITGEZ5TL2e5yLi+7zRLyRRC0TREUnEINed7rUmZqxjbe8QCguBOBiDmtCBlVTiaRY+O9veh+eVWCX0wEwQvlTGRcxJAh8101Q1UwTZPdm4vGAzKKm2uovhK9DXbNtaUCTrUjtJmjYE[E]_fcbcd6fb0a1c29692071f3ebc3015498"><input type="hidden" name="ITEM.TYPE" id="ITEM.TYPE" value="1">
+<div class="cEasyWidgets cFormEngine" id="vForm_registration"><!-- w2 -->
+<!-- START -->
+<div class="cFormUntabbed "><table class="cEasyWidgets FORM_DEFAULT"><colgroup><col style="min-width:5rem" max-width="30%"><col style="min-width:8rem" max-width="30%"><col style="min-width:8rem" max-width="40%"><col width="40px"></colgroup><tbody><tr class="cFormTitle" id="TITLEDATA_FIELD"><td colspan="5"><h2>Meine Daten</h2></td></tr><tr id="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FIELD" data-fieldtype="CHECKBOX"><th><label for="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17"><nobr>Ich bin Mitglied<sup class="csRequiredMarker">*</sup></nobr></label></th><td colspan="2"><table class="cFormOptionList"><tbody><tr><td valign="top" class="csCheckboxWrapperCell"><input type="checkbox" class="" onclick="FORMTOOL.CHANGE(this,1)" id="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17" name="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17" value="true"><label for="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17" class="cCheckboxStyler"></label></td><td></td></tr></tbody></table></td><td><input type="hidden" name="" id="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_FALSE" value="false"><img onmouseover="Tip('Feld \'Ich bin Mitglied\': Bitte haken Sie das Feld an!');" ontouchstart="TipTouch('Feld \'Ich bin Mitglied\': Bitte haken Sie das Feld an!');" id="ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><tr id="KDNRKD_FIELD" data-fieldtype="TEXT" class="cFieldHidden" style="display: none;"><th><label for="KDNRKD">Kunden- oder Kontonummer</label><br><sup>(Falls zur Hand)</sup></th><td colspan="2"><nobr><table class="cFormControlWrapper" style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;margin:0px;width:50%;"><input onkeyup="" type="text" onchange="FORMTOOL.CHANGE(this,2)" onkeydown="FORMTOOL.WARNCLEAR('KDNRKD');" class="FORM_INPUT cFormInput csValidateNumber" style="width:100%;" name="ITEM.TEMP.KDNRKD" id="KDNRKD" value=""></td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><div style="width:100%;"></div></td></tr></tbody></table></nobr></td><td><img onmouseover="Tip('Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!');" ontouchstart="TipTouch('Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!');" id="KDNRKD_WARN_CONTENT" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td><td>&nbsp;</td></tr><tr id="KDNRMGL_FIELD" data-fieldtype="TEXT" class="" style="display: table-row;"><th><label for="KDNRMGL">Kunden- oder Kontonummer</label><br><sup>(Falls zur Hand)</sup></th><td colspan="2"><nobr><table class="cFormControlWrapper" style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;margin:0px;width:50%;"><input onkeyup="" type="text" onchange="FORMTOOL.CHANGE(this,3)" onkeydown="FORMTOOL.WARNCLEAR('KDNRMGL');" class="FORM_INPUT cFormInput csValidateNumber" style="width:100%;" name="ITEM.TEMP.KDNRMGL" id="KDNRMGL" value=""></td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><div style="width:100%;"></div></td></tr></tbody></table></nobr></td><td><img onmouseover="Tip('Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!');" ontouchstart="TipTouch('Die eingegebene Zahl ist nicht gültig. Bitte geben Sie eine gültige Zahl ein!');" id="KDNRMGL_WARN_CONTENT" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td><td>&nbsp;</td></tr><input type="hidden" name="ITEM.REGISTRATION.USERID" id="REGISTRATION.USERID" value=""><tr id="PERSONAL.ADDRESS_FIELD" data-fieldtype="DROPDOWN"><th><label for="PERSONAL.ADDRESS"><nobr>Anrede<sup class="csRequiredMarker">*</sup></nobr></label></th><td colspan="2"><nobr><table style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;margin:0px;width:50%;"><nobr><select class="cFormInput FORM_INPUT_NF cFormInputNoFocus" onchange="FORMTOOL.CHANGE(this,4)" name="ITEM.PERSONAL.ADDRESS" style="width:100%;" id="PERSONAL.ADDRESS"><option value="_EMPTY_" selected="">(Bitte wählen)</option><option value="HERR">Herr</option><option value="FRAU">Frau</option><option value="DIVERS">Divers</option></select></nobr></td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><div style="width:100%;"></div></td></tr></tbody></table></nobr></td><td><img onmouseover="Tip('Feld \'Anrede\': Bitte wählen Sie einen Eintrag aus der Liste aus!');" ontouchstart="TipTouch('Feld \'Anrede\': Bitte wählen Sie einen Eintrag aus der Liste aus!');" id="PERSONAL.ADDRESS_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><tr id="PERSONAL.TITLE_FIELD" data-fieldtype="DROPDOWNTEXT"><th><label for="PERSONAL.TITLE"><nobr>Titel</nobr></label></th><td colspan="2"><nobr><table class="cFormControlWrapper" style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="width:50%;"><select class="cFormInput" onchange="FORMTOOL.CHANGE(this,5)" style="width:100%;" id="PERSONAL.TITLE_LIST" name="TEMP.ITEM.PERSONAL.TITLE.LIST"><option value="_EMPTY_">(Bitte wählen)</option><option value="EMPTY" selected=""></option><option value="DR">Dr.</option><option value="PROF">Prof.</option><option value="_OTHER_">(Sonstige)</option></select></td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><input onchange="FORMTOOL.CHANGE(this,5)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.TITLE');" class="FORM_INPUT cFormInput cFieldHidden" name="TEMP.ITEM.PERSONAL.TITLE.TEXT" type="text" style="width: 100%; visibility: visible; display: none;" id="PERSONAL.TITLE_TEXT" value=""><input type="hidden" name="ITEM.PERSONAL.TITLE" id="PERSONAL.TITLE" value="EMPTY"></td><td></td></tr></tbody></table></nobr></td><td>&nbsp;</td></tr><tr id="PERSONAL.FIRSTNAME_FIELD" data-fieldtype="DOUBLETEXT"><th><label for="PERSONAL.FIRSTNAME"><nobr>Vorname, Nachname<sup class="csRequiredMarker">*</sup></nobr></label></th><td colspan="2"><nobr><table class="cFormControlWrapper" style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;margin:0px;width:50%;"><input onkeyup="" type="text" onchange="FORMTOOL.CHANGE(this,6)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.FIRSTNAME');" class="FORM_INPUT cFormInput" style="width:100%;" name="ITEM.PERSONAL.FIRSTNAME" id="PERSONAL.FIRSTNAME" value=""> </td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><input onkeyup="" type="text" onchange="FORMTOOL.CHANGE(this,7)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.FIRSTNAME'); FORMTOOL.WARNCLEAR('ITEM.PERSONAL.LASTNAME');" class="FORM_INPUT cFormInput" style="width:100%;" name="ITEM.PERSONAL.LASTNAME" id="ITEM.PERSONAL.LASTNAME" value=""></td></tr></tbody></table></nobr></td><td><img onmouseover="Tip('Feld \'Vorname, Nachname\': Bitte geben Sie einen Text ein!');" ontouchstart="TipTouch('Feld \'Vorname, Nachname\': Bitte geben Sie einen Text ein!');" id="PERSONAL.FIRSTNAME_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png"><img onmouseover="Tip('Der eingegebene Vorname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!');" ontouchstart="TipTouch('Der eingegebene Vorname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!');" id="PERSONAL.FIRSTNAME_WARN_CONTENT" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png"><img onmouseover="Tip('Der eingegebene Nachname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!');" ontouchstart="TipTouch('Der eingegebene Nachname ist nicht gültig. Bitte geben Sie einen gültigen Namen ein!');" id="ITEM.PERSONAL.LASTNAME_WARN_CONTENT" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><tr id="ADDRESSSEPERATOR_FIELD" class="" style="display: table-row;"><td colspan="4"><br></td></tr><tr id="PERSONAL.BIRTHDATE_FIELD" data-fieldtype="DATE" class="" style="display: table-row;"><th><label for="PERSONAL.BIRTHDATE"><nobr>Geburtsdatum<sup class="csRequiredMarker">*</sup></nobr></label></th><td colspan="2"><table class="cFormControlWrapper" style="width:100%;padding:0px;margin:0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding:0px;margin:0px;width:50%;"><input type="hidden" name="ITEM.PERSONAL.BIRTHDATE" id="PERSONAL.BIRTHDATE_COMPLETE" value="0"><table class="cFormControlWrapper cFormDateInput" style="width:calc(100% - 0.3rem);padding:0px;margin:0px 0px 0px 0px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="25%"><input onkeyup="FORMTOOL.EMPTYCHECK('PERSONAL.BIRTHDATE_DAY');FORM.NEXT(this,2);" type="text" onchange="FORMTOOL.CHANGE(this,8)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.BIRTHDATE');" class="FORM_INPUT cFormInput csDay" style="text-align:center;width:100%;" id="PERSONAL.BIRTHDATE_DAY" value=""></td><td valign="bottom">&nbsp;&nbsp;.&nbsp;</td><td width="25%"><input onkeyup="FORMTOOL.EMPTYCHECK('PERSONAL.BIRTHDATE_DAY');FORM.NEXT(this,2);" type="text" onchange="FORMTOOL.CHANGE(this,8)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.BIRTHDATE');" class="FORM_INPUT cFormInput csMonth" style="text-align:center;width:100%;" id="PERSONAL.BIRTHDATE_MONTH" value=""></td><td valign="bottom">&nbsp;&nbsp;.&nbsp;</td><td width="50%"><input onkeyup="FORMTOOL.EMPTYCHECK('PERSONAL.BIRTHDATE_DAY');FORM.NEXT(this,4);" type="text" onchange="FORMTOOL.CHANGE(this,8)" onkeydown="FORMTOOL.WARNCLEAR('PERSONAL.BIRTHDATE');" class="FORM_INPUT cFormInput csYear" style="text-align:center;width:100%;" id="PERSONAL.BIRTHDATE_YEAR" value=""></td></tr></tbody></table></td><td style="width:0.4rem;"><div style="width:0.4rem"></div></td><td style="width:50%;"><div style="width:100%;"><img onmouseover="Tip('Feld \'Geburtsdatum\': Bitte geben Sie ein gültiges Datum (TT.MM.JJJJ) ein!');" ontouchstart="TipTouch('Feld \'Geburtsdatum\': Bitte geben Sie ein gültiges Datum (TT.MM.JJJJ) ein!');" id="PERSONAL.BIRTHDATE_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png"></div></td></tr></tbody></table></td><td></td></tr><tr id="CONTACT.BUSINESS.EMAIL_FIELD" data-fieldtype="TEXT"><th><label for="CONTACT.BUSINESS.EMAIL"><nobr>E-Mail<sup class="csRequiredMarker">*</sup></nobr></label></th><td colspan="2"><input onkeyup="" type="text" onchange="FORMTOOL.CHANGE(this,9)" onkeydown="FORMTOOL.WARNCLEAR('CONTACT.BUSINESS.EMAIL');" class="FORM_INPUT cFormInput csValidateEmail" style="width:100%;" name="ITEM.CONTACT.BUSINESS.EMAIL" id="CONTACT.BUSINESS.EMAIL" value=""></td><td><img onmouseover="Tip('Feld \'E-Mail\': Bitte geben Sie einen Text ein!');" ontouchstart="TipTouch('Feld \'E-Mail\': Bitte geben Sie einen Text ein!');" id="CONTACT.BUSINESS.EMAIL_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png"><img onmouseover="Tip('Die eingegebene E-Mail-Adresse ist nicht gültig. Bitte geben Sie eine gültige E-Mail-Adresse ein!');" ontouchstart="TipTouch('Die eingegebene E-Mail-Adresse ist nicht gültig. Bitte geben Sie eine gültige E-Mail-Adresse ein!');" id="CONTACT.BUSINESS.EMAIL_WARN_CONTENT" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><tr class="cFormTitle" id="CONDITIONSTITLE_FIELD"><td colspan="5"><br><h2>Teilnahmebedingungen und Datenschutz</h2></td></tr><tr id="CONDITIONSCHECKBOX_FIELD" data-fieldtype="CHECKBOX"><th>&nbsp;</th><td colspan="2"><table class="cFormOptionList"><tbody><tr><td valign="top" class="csCheckboxWrapperCell"><input type="checkbox" class="" onclick="FORMTOOL.CHANGE(this,10)" id="CONDITIONSCHECKBOX" name="ITEM.REGISTRATION.CONDITIONSACCEPTED" value="true"><label for="CONDITIONSCHECKBOX" class="cCheckboxStyler"></label></td><td></td><th><label for="CONDITIONSCHECKBOX">Ich habe die <a href="https://vbbs.genolive.de/index.php?page=event-conditions&amp;catalogitem=MFGESUND" target="_blank">Teilnahmebedingungen</a> gelesen und akzeptiere diese.<sup class="csRequiredMarker">*</sup></label></th></tr></tbody></table></td><td><input type="hidden" name="" id="CONDITIONSCHECKBOX_FALSE" value="false"><img onmouseover="Tip('Bitte lesen Sie die Teilnahmebedingungen und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!');" ontouchstart="TipTouch('Bitte lesen Sie die Teilnahmebedingungen und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!');" id="CONDITIONSCHECKBOX_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><tr id="PRIVACYCHECKBOX_FIELD" data-fieldtype="CHECKBOX"><th>&nbsp;</th><td colspan="2"><table class="cFormOptionList"><tbody><tr><td valign="top" class="csCheckboxWrapperCell"><input type="checkbox" class="" onclick="FORMTOOL.CHANGE(this,11)" id="PRIVACYCHECKBOX" name="ITEM.REGISTRATION.PRIVACYACCEPTED" value="true"><label for="PRIVACYCHECKBOX" class="cCheckboxStyler"></label></td><td></td><th><label for="PRIVACYCHECKBOX">Ich habe die <a href="https://vbbs.genolive.de/index.php?page=event-privacy&amp;catalogitem=MFGESUND" target="_blank">Datenschutzhinweise</a> gelesen und akzeptiere diese.<sup class="csRequiredMarker">*</sup><br><br><p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p>Die Speicherung und Weiterverarbeitung Ihrer vorstehend erhobenen personenbezogenen Daten und, sofern angegeben, der personenbezogenen Daten von Begleitpersonen dienen ausschließlich der ordnungsgemäßen Bearbeitung Ihrer Anmeldung. Jede anderweitige Nutzung ist ausgeschlossen.</p></label></th></tr></tbody></table></td><td><input type="hidden" name="" id="PRIVACYCHECKBOX_FALSE" value="false"><img onmouseover="Tip('Bitte lesen Sie die Datenschutzhinweise und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!');" ontouchstart="TipTouch('Bitte lesen Sie die Datenschutzhinweise und bestätigen Sie, dass Sie diese gelesen haben und akzeptieren!');" id="PRIVACYCHECKBOX_WARN" class="cFormWarnIcon" src="corveos/modules/form/gui/icons/form/attention.png">&nbsp;</td></tr><input id="ITEM.GUID" type="hidden" name="ITEM.GUID" value="C96V64EI5VH5ML7H648AN797TDOC007LJ4EBM5SR0D477S0BS116ME02CDJ"><input id="ITEM.TYPE" type="hidden" name="" value=""><input id="ITEM.ONSITE.MODE" type="hidden" name="" value=""><script language="JavaScript">
+var vForm_registration = new cForm();
+vForm_registration.INIT('vForm_registration');
+FORM.CURRENT = vForm_registration;
+</script><script type="text/javascript" src="corveos/js/lib3/edit_area/edit_area_loader.js"></script><!-- JS:INCLUDE wz_tooltip.js --><script language="JavaScript" src="projects/vbbs/cache/parser-corveos-js-wz_tooltip-js---agent-safari--lang-DE--build-11149--wz_tooltip.js.js?TSFF=786d2887f96d210d2d14392c5163080b"></script>
+<script type="text/javascript">FORM.TARGET='ITEM';</script><script language="JavaScript">
+FORM.DUMMY('ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17','ITEM.ADDITIONAL.MITC8F954D7734D03FE113EBF57A66C9BAB17','checkbox',true);FORM.DUMMY('KDNRKD','ITEM.TEMP.KDNRKD','NUMBER',false);FORM.DUMMY('KDNRMGL','ITEM.TEMP.KDNRMGL','NUMBER',false);FORM.DUMMY('PERSONAL.ADDRESS','ITEM.PERSONAL.ADDRESS','dropdown',true,'HERR,FRAU,DIVERS');FORM.DUMMY('PERSONAL.TITLE','PERSONAL.TITLE_LIST','dropdown',false,'EMPTY,DR,PROF');FORM.DUMMY('PERSONAL.FIRSTNAME','ITEM.PERSONAL.FIRSTNAME','FIRSTNAME',true);FORM.DUMMY('ITEM.PERSONAL.LASTNAME','ITEM.PERSONAL.LASTNAME','LASTNAME',true);FORM.DUMMY('PERSONAL.BIRTHDATE','ITEM.PERSONAL.BIRTHDATE','date',true);FORM.DUMMY('CONTACT.BUSINESS.EMAIL','ITEM.CONTACT.BUSINESS.EMAIL','EMAIL',true);FORM.DUMMY('CONDITIONSCHECKBOX','CONDITIONSCHECKBOX','checkbox',true);FORM.DUMMY('PRIVACYCHECKBOX','PRIVACYCHECKBOX','checkbox',true);</script>
+</tbody></table>
+<script language="JavaScript">FORM.VISIBILITYFIRST();</script></div>
+<!-- END -->
+<!-- w2end --></div>
+</div><input type="hidden" name="FWDOVW4" value="3Gj0t61IqDHpIKpFkMJ2qbdF0ckJdPdCKLnZA24sPZLvF15fKdRcvaiNxrJqNem0ST10nYdY5SqhLZfnlCH7uTIBvPKzcNiRweYnfynr2HMIwOP75xxI4Y9se6g849VNhvkiqoFQIRGgewf+0hGD+Bs[S]0wYn+xmGsZxugUnPIrpAa3BPDJymbI4WPc6w4tVZP4qfAm7Scz+PI8ow523DQEwHXvadBVyPgzcXW8M0QA[E][E]_10e2afbbdce8da11cb1c8233a6adba85"><div id="iControl"><table class="cControlTable cDesktopOnly"><tbody><tr><td class="cControlLeft"><button type="button" id="LID_97_F2AD08" onclick="COUPE.PAGE.BACK();" class="cUIWidget cUIButton sClickable large"><nobr><img class="cIcon csSmall " src="corveos/gui/icons/white/prev.gif">&nbsp;Zurück&nbsp;</nobr></button></td><td class="cControlMid cPadLeft"><div class="cInnerCenter"><p>Wenn Ihre Angaben vollständig sind, klicken Sie bitte auf 'Anmelden'</p></div></td><td class="cControlRight cPadLeft"><button type="button" id="LID_98_F2AD08" onclick="FORM.SUBMIT('frm_Registration');" class="cUIWidget cUIButton sClickable large"><nobr>&nbsp;Anmelden&nbsp;<img class="cIcon csSmall " src="corveos/gui/icons/white/ok2.gif"></nobr></button></td></tr></tbody></table><table class="cControlTable cMobileOnly"><tbody><tr><td class="cControlLeft"><button type="button" id="LID_97_F2AD08" onclick="COUPE.PAGE.BACK();" class="cUIWidget cUIButton sClickable large"><nobr><img class="cIcon csSmall " src="corveos/gui/icons/white/prev.gif">&nbsp;Zurück&nbsp;</nobr></button></td><td class="cControlRight cPadLeft"><button type="button" id="LID_98_F2AD08" onclick="FORM.SUBMIT('frm_Registration');" class="cUIWidget cUIButton sClickable large"><nobr>&nbsp;Anmelden&nbsp;<img class="cIcon csSmall " src="corveos/gui/icons/white/ok2.gif"></nobr></button></td></tr><tr><td colspan="2" class="cControlMid cPadTop"><div class="cInnerCenter"><p>Wenn Ihre Angaben vollständig sind, klicken Sie bitte auf 'Anmelden'</p></div></td></tr></tbody></table></div></div></form><form id="frm_Cancel" action="index.php" method="POST"><input type="hidden" name="FWDOVW5" value="BsiCWy1HYBEVPFf+5xanfDCqPBcKroF1[S]TnWa3VPCLvSnSh2jpkKBslyK0jOI52aO0oKbvKdt3QCHSk9db4ai5ZEzztKNvfWrIkiocPBsW[S]EZpduZFf[S]NODO5CAwCUpSDfStaUXXfBka4CfBhvaS0OJcQo92ktcgwK2v6foTME8vWx9Cp3qKZNnS1rg6tc9g8UafXHPNjMjmcSBCbaAjYCaMUp[S]Jh24DK8yvDWolROk[E]_c3c3ea123ecde08b551a74b5bfa2b403"></form><div id="iSidebarMobile" class="cSidebar cContentIndent"><div><h1>Sie müssen absagen?</h1><div class="cContent"><p>Sie können leider nicht an '<nobr>MitgliederForum: GesundheitsForum mit Dr. Ben Baak</nobr>' teilnehmen?</p><p>Dann würden wir uns freuen, wenn Sie die Möglichkeit zur Absage nutzen würden. Sie unterstützen uns dadurch bei der Planung der Veranstaltung.</p><p>Vielen Dank!</p><button type="button" id="LID_99_F2AD08" onclick="document.getElementById('frm_Cancel').submit();" class="cUIWidget cUIButton sClickable large"><nobr>&nbsp;Absagen&nbsp;<img class="cIcon csSmall " src="corveos/gui/icons/white/no2.gif"></nobr></button></div></div><div><h1>Kontakt &amp; Service</h1><div class="cContent"><table class="cContactTable"><tbody><tr class="csUnit"><td colspan="2">Mitgliedermanagement</td></tr><tr class="csCompany"><td colspan="2">Volksbank Bad Salzuflen eG</td></tr><tr class="csPhone"><th><img class="cIcon" style="max-width:16px;max-height:16px;" border="0" align="absmiddle" src="corveos/gui/icons/grey/phone.gif"></th><td><a href="tel:05222 801-3005">05222 801-3005</a></td></tr><tr class="csMail"><th><img class="cIcon" style="max-width:16px;max-height:16px;" border="0" align="absmiddle" src="corveos/gui/icons/grey/email.gif"></th><td><a href="mailto:event@vbbs.de">event@vbbs.de</a></td></tr></tbody></table></div></div><div><h1>Hinweis</h1><div class="cContent"><p>Alle mit * markierten Felder sind Pflichtfelder.</p></div></div><div><h1>Sicherheitsinformation</h1><div class="cContent"><p>Diese Seite befindet sich auf dem SSL-gesicherten Webserver unseres Technologie-Partners <nobr><a href="http://www.conventex.com?page=ssl" target="_blank">Conventex GmbH</a></nobr>.</p><p>Alle Informationen werden SSL-verschlüsselt übertragen und nach den rechtlichen <a href="https://www.vbbs.de/service/rechtliche-hinweise/datenschutzhinweis-zur-website.html" target="_blank">Datenschutz­bestimmungen</a> verwendet.</p></div></div></div></div></div><div id="iFooter" class="cFrame"><div id="iFooterInner"><a id="iFooterImprint" href="https://www.vbbs.de/service/rechtliche-hinweise/impressum.html" target="_blank">Impressum</a><a id="iFooterConditions" href="index.php?page=event-conditions" target="_blank">Allg. Teilnahmebedingungen</a><a id="iFooterPrivacy" href="index.php?page=event-privacy" target="_blank">Datenschutz</a><p>Powered by <a href="http://www.genolive.de" target="_blank">GENOLIVE<sup>®</sup></a></p><p>© 2024&nbsp;<a href="http://www.conventex.com" target="_blank">Conventex GmbH</a></p></div></div></td><td id="iFrameRight" class="cFrameRight part_r">&nbsp;</td></tr></tbody></table></div><form id="iCoupeFormGoto" action="index.php" method="post"><input type="hidden" name="FWDRCS6" value="VZ8yNX5S7vG7kTjV7S09PeWA7L5FeVOebBP+X4NxjOBIQ66XEm8XnsXqyJVBS++b87rcAnISgZ8MH8f42sMhy1MN+1w6CEm78JxAwh811Aq4bRD1s9QR38fZBmh[S]1iSbZUsSl2X2J9sGxBmHVI5dSWOEZcmlUckVRvli4A7yPlBxxF8sYKxirAS2rdl3rC6RwgTBsunoVLFbfh2qCgxbjwQH4p3wiyETi6cqlmk[E]_b51a569bf328c8c277c937f6ae2ff61e"><input type="hidden" name="PAGE" value="event-info"></form><form id="iCoupeFormReload" action="index.php" method="post"><input type="hidden" name="FWDOVW7" value="Lh+hrWBSrq5ZKYymBeRYmeT8cQYGuloF[S]szL6SVfjwBaKA[S]a8CqbSqU+Jy2e8haeZrLRr0wECwKxMvKVeHCA4Tf9fKYxgWLKUIqwlWKNvXnmAjp0o6BzMBzIEGWoWzgdVJ+VEna7DTMj51YrPLOXZvKIExyq8qGMHjh[S]fX3enM+9Q4ssONNu26a17XdCKyPPoCmcw91Gra+paqVUqAqvTWpQOSy5NPR9NfBw5QM[E]_acfdcb26d4c47013e1800fbb88e31b76"></form><script language="JavaScript">
+
+
+function hRemoveJSWarning() {
+try {
+var vClasses = document.getElementById("Cx").className;
+if ( vClasses.indexOf("cNoJS")>=0) {
+vClasses = vClasses.replace("cNoJS","").trim();
+document.getElementById("Cx").className = vClasses;
+};
+} catch (pExp) {};
+};
+
+hRemoveJSWarning();
+window.setTimeout(hRemoveJSWarning,50);
+
+
+try {
+COUPE.INIT();
+COUPE.SYSTEM
+} catch (pExp) {};
+
+
+</script>
+</body>

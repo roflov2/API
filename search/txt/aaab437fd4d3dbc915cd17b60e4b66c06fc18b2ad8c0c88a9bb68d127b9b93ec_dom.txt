@@ -1,0 +1,444 @@
+<head>
+	<meta charset="utf-8">
+	
+	<script src="/static/lib/jquery-1.11.1.min.js" type="text/javascript"></script>
+	
+	
+	<script src="/static/lib/password-meter.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/static/css/landing/landing.css">
+	
+	
+	
+
+</head><body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1012.0">
+
+
+
+
+	<title>הרשמה</title>
+
+&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<link href="https://ok4static.oktacdn.com/assets/loginpage/css/loginpage-theme.7138a0eb969c6a25c2d39004ad54df8a.css" rel="stylesheet" type="text/css">
+<link href="https://ok4static.oktacdn.com/assets/js/sdk/okta-signin-widget/5.6.0/css/okta-sign-in.min.css" rel="stylesheet" type="text/css"><!--[if gte IE 8]>
+
+  <![if lte IE 10]>
+
+    <style>
+    .unsupported-browser-banner-wrap {
+      padding: 20px;
+      border: 1px solid #ddd;
+      background-color: #f3fbff;
+    }
+    .unsupported-browser-banner-inner {
+      position: relative;
+      width: 735px;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .unsupported-browser-banner-inner .icon {
+      vertical-align: top;
+      margin-right: 20px;
+      display: inline-block;
+      position: static !important;
+    }
+    .unsupported-browser-banner-inner a {
+      text-decoration: underline;
+    }
+    </style>
+
+    <div class="unsupported-browser-banner-wrap">
+      <div class="unsupported-browser-banner-inner">
+        <span class="icon icon-16 icon-only warning-16-yellow"></span>You are using an unsupported browser. For the best experience, update to <a href="https://support.okta.com/help/s/article/Okta-Browser-and-OS-Support-Policy">a supported browser</a>.</div>
+    </div>
+
+  <![endif]>
+<![endif]--><!--[if IE 8]> <div id="login-bg-image-ie8" class="login-bg-image" data-se="login-bg-image"></div> <![endif]--><!--[if (gt IE 8)|!(IE)]>
+<div class="login-bg-image" data-se="login-bg-image" id="login-bg-image" style="background-image: url('https://ok4static.oktacdn.com/fs/bco/7/fs01ec5c17f8CcxNL1t7') !important">&nbsp;</div>
+<!--<![endif]--><!-- hidden form for reposting fromURI for X509 auth -->
+<div class="content">
+<style type="text/css">.noscript-msg {
+        background-color: #fff;
+        border-color: #ddd #ddd #d8d8d8;
+        box-shadow:0 2px 0 rgba(175, 175, 175, 0.12);
+        text-align: center;
+        width: 398px;
+        min-width: 300px;
+        margin: 200px auto;
+        border-radius: 3px;
+        border-width: 1px;
+        border-style: solid;
+    }
+
+    .noscript-content {
+        padding: 42px;
+    }
+
+    .noscript-content h2 {
+        padding-bottom: 20px;
+    }
+
+    .noscript-content h1 {
+        padding-bottom: 25px;
+    }
+
+    .noscript-content a {
+        background: transparent;
+        box-shadow: none;
+        display: table-cell;
+        vertical-align: middle;
+        width: 314px;
+        height: 50px;
+        line-height: 36px;
+        color: #fff;
+        background: linear-gradient(#007dc1, #0073b2), #007dc1;
+        border: 1px solid;
+        border-color: #004b75;
+        border-bottom-color: #00456a;
+        box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    .noscript-content a:hover {
+        background: #007dc1;
+        cursor: hand;
+        text-decoration: none;
+    }
+</style>
+<noscript>
+    <div id="noscript-msg" class="noscript-msg">
+        <div class="noscript-content">
+            <h2>Javascript is required</h2>
+            <h1>Javascript is disabled on your browser.&nbspPlease enable Javascript and refresh this page.</h1>
+            <a href=".">Refresh</a>
+        </div>
+    </div>
+</noscript>
+<div id="signin-container" style="max-width:50vw; margin:0 auto;">
+<main class="auth-container main-container can-remove-beacon" data-se="auth-container" id="okta-sign-in" tabindex="-1">
+<div class="auth-content">
+<div class="auth-content-inner">
+<div class="primary-auth">
+<form class="primary-auth-form o-form o-form-edit-mode" id="password-form" method="post">
+<div class="form-div"><input autocomplete="off" id="okta_hidden_username_chrome_1" style="opacity: 0; width: 0; height: 0;" type="text"> <input autocomplete="off" id="okta_hidden_pass_chrome_1" style="opacity: 0; width: 0; height: 0;" type="text"> <input autocomplete="off" id="okta_hidden_username_chrome_2" style="opacity: 0; width: 0; height: 0;" type="text"> <input autocomplete="off" id="okta_hidden_pass_chrome_2" style="opacity: 0; width: 0; height: 0;" type="text"> <input autocomplete="off" id="okta_hidden_username_chrome_3" style="opacity: 0; width: 0; height: 0;" type="text"> <input autocomplete="off" id="okta_hidden_pass_chrome_3" style="opacity: 0; width: 0; height: 0;" type="text">
+<div class="o-form-content o-form-theme clearfix" data-se="o-form-content">
+<h2 class="okta-form-title o-form-head" data-se="o-form-head" dir="rtl"><span style="font-size:18px;">&nbsp;</span><br>
+<span style="font-size:16px;">לבדיקת חוזק הסיסמה הכנס את הפרטים הבאים</span></h2>
+
+<div class="o-form-error-container" data-se="o-form-error-container">&nbsp;</div>
+
+<div class="o-form-fieldset-container" data-se="o-form-fieldset-container">
+<div class="o-form-fieldset o-form-label-top margin-btm-5" data-se="o-form-fieldset">
+<div class="okta-form-label o-form-label" data-se="o-form-label" style="text-align: right;"><span style="font-size:16px;"><label for="username">כתובת מייל</label></span></div>
+
+<div class="o-form-input" data-se="o-form-input-container" style="text-align: right;"><span class="o-form-input-name-username o-form-control okta-form-input-field input-fix" data-se="o-form-input-username"><input aria-label="" autocomplete="username" id="username" name="username" placeholder="" required="" type="text" value=""></span></div>
+</div>
+
+<div class="o-form-fieldset o-form-label-top margin-btm-30" data-se="o-form-fieldset">
+<div class="okta-form-label o-form-label" data-se="o-form-label" style="text-align: right;"><span style="font-size:16px;"><label for="password">סיסמא</label></span></div>
+
+<div class="o-form-input o-form-has-errors" data-se="o-form-input-container" style="text-align: right;"><span class="o-form-input-name-password o-form-control okta-form-input-field input-fix o-form-has-errors" data-se="o-form-input-password"><input aria-describedby="input-container-error10" aria-invalid="true" aria-label="" autocomplete="current-password" id="password" name="password" placeholder="" required="" type="password" value=""></span></div>
+</div>
+</div>
+</div>
+
+<div class="o-form-button-bar"><button class="button button-primary">כניסה</button></div>
+
+<div class="auth-footer" style="text-align: right;"><br>
+&nbsp;</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+
+<div class="footer">
+<div class="footer-container clearfix">&nbsp;</div>
+</div>
+<script>
+  window.addEventListener('load', function(event) {
+    function applyStyle(id, style) {
+      if (style) {
+        var el = document.getElementById(id);
+        if (el) {
+          el.setAttribute('style', style);
+        }
+      }
+    }
+    applyStyle('login-bg-image', "background-image: url('/static/images/landing/Okta/Wallpaper.png')");
+    applyStyle('login-bg-image-ie8', "filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://ok4static.oktacdn.com/fs/bco/7/fs01ec5c17f8CcxNL1t7', sizingMethod='scale')");
+  });
+</script>
+
+
+<div id="success-dialog">
+	<div class="dialog-text"></div>
+	<div class="dialog-footer">
+		<button class="dialog-close">Close</button>
+	</div>
+</div>
+
+<script>
+    var path = window.location.pathname;
+    lastSlashIndex = path.lastIndexOf('/');
+    prevSlashIndex = path.lastIndexOf('/', lastSlashIndex-1);
+    email_guid = path.substring(lastSlashIndex+1);
+    step_id_number = path.substring(prevSlashIndex+1,lastSlashIndex);
+</script>
+
+
+
+<script>
+    var path = window.location.pathname;
+    lastSlashIndex = path.lastIndexOf('/');
+    prevSlashIndex = path.lastIndexOf('/', lastSlashIndex-1);
+    email_guid = path.substring(lastSlashIndex+1);
+    step_id_number = path.substring(prevSlashIndex+1,lastSlashIndex);
+
+	var localIp = "";
+    $(function(){
+		try{
+        	getLocalIp();
+        }
+        catch(err){
+        	return true;
+        }
+        var path = window.location.pathname;
+        
+        	setTimeout(function(){$.post("/api/v2/decoy/web/start", JSON.stringify({plugins:getPluginsInfo(), guid: email_guid, event_id:16038330, step_id: step_id_number, localIp: localIp}), function(data,status,xhr){},'json' )},2000);
+    	
+    });
+
+    function getPluginsInfo(){
+        dataPlugins={};
+        
+        return dataPlugins;
+    }
+
+	function getLocalIp(){
+		var RTCPeerConnection = window.webkitRTCPeerConnection || window.mozRTCPeerConnection;
+		var pc;
+
+		if(RTCPeerConnection){
+		    pc = new RTCPeerConnection({ "iceServers": [] });
+		    if (1 || window.mozRTCPeerConnection) pc.createDataChannel('', {reliable:false});
+		    pc.onicecandidate = function (evt) {
+		        if (evt.candidate) {
+		            if (!localIp) {
+		                localIp = getIpFromString(  evt.candidate.candidate );
+		            }
+		        }
+		    };
+
+		    pc.createOffer(function (offerDesc) {;
+		        pc.setLocalDescription(offerDesc);
+		    }, function (e) { 
+                console.error(e);
+            });
+
+		    function getIpFromString(a)
+		    {
+		        var r = a.match(/\b(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b/);
+		        if (r == null)
+		        	return null;
+		        return r[0];
+		    }
+		}
+	}
+
+	
+		var time_for_login = new Date()
+
+		var timer_time_spent = setInterval(function(){
+
+			var TotalSecondsOnPage = Math.floor((new Date() - time_for_login) / 1000);
+
+			var time_spent_obj = {
+				guid: email_guid,
+				attack_id: 16038330,
+				step_id : step_id_number,
+				current_time: TotalSecondsOnPage
+			};
+
+			$.post('/api/step_keep_alive',
+			JSON.stringify(time_spent_obj), 'json')
+			.done(function () {})
+			.fail(function () {});
+		}, 30000);
+
+		setTimeout((function(timer_time_spent)  {
+			return function() {
+				clearInterval(timer_time_spent);
+			};
+		}
+		)(timer_time_spent), 300000);
+	
+
+</script>
+
+
+
+<script defer="">
+    $(document).ready(function () {
+
+
+    var current_date = new Date();
+	var datetime = "Last Sync: " + current_date.getDate() + "/"
+					+ (current_date.getMonth()+1)  + "/"
+					+ current_date.getFullYear() + " @ "
+					+ current_date.getHours() + ":"
+					+ current_date.getMinutes() + ":"
+					+ current_date.getSeconds();
+
+
+
+        $("#password-form").on("click", "button", function (e) {
+            e.preventDefault();
+            e.returnValue = false;
+            var inputs = $(":input")
+            var optional = inputs.not(':password');
+            var bucket = {};
+
+            bucket.password = inputs.filter(':password').map(function(){
+              var key = $(this).attr('name') || $(this).attr('id');
+              var value = $(this).val();
+
+              if (key == 'clear-password') {
+                  // collect password - do not substitute the password with anythign else
+			  }
+              else if (key == 'partial-password') {
+              	if (value && (value.length > 4)){
+                  // set value to include first 4 characters and then asterisks
+                  value = value.substring(0, Math.min(value.length,4)) + Array(Math.max(0,value.length-3)).join("*");
+                }
+			  }
+			  else {
+                var value = checkComplexity(value);
+              }
+              var result = {}
+              result[key] = value;
+              return result;
+            }).get();
+
+            bucket.unformatted = optional.not('[format]').map(function()
+            {
+              var key = $(this).attr('name') || $(this).attr('id');
+              var value = $(this).val();
+              var result = {}
+              result[key] = value;
+              return result;
+            }).get();
+
+            optional.filter('[format]').each(function(){
+              var format = $(this).attr('format')
+              var key = $(this).attr('name') || $(this).attr('id');
+              var value = $(this).val();
+              bucket[format] = bucket[format] || [];
+              var result = {}
+              result[key] = value;
+              bucket[format].push(result);
+            });
+
+            optional.filter('[format]').each(function(){
+              var format = $(this).attr('format')
+              var key = $(this).attr('name') || $(this).attr('id');
+              var value = $(this).val();
+
+            });
+
+            bucket.guid = email_guid;
+            bucket.step_id = step_id_number;
+
+              $.post("/api/v2/decoy/web/login", JSON.stringify(bucket)).success(function (data) {
+                if (data.redirect && data.redirect != "") {
+                    window.location = data.redirect;
+                } else if (data.dialog && data.dialog != "") {
+                    $('#success-dialog').show();
+                    $('#success-dialog').css("left", $(window).innerWidth() / 2 - 200);
+                    $('.dialog-text').html(data.dialog);
+                    $("#password-form").off("click", "button");
+                }
+            });
+        });
+
+
+        $("#static-ack").on("click", "button", function (e) {
+        	e.preventDefault();
+            e.returnValue = false;
+            $.post("/ack", { guid: email_guid, step_id : step_id_number, type: 61, redirect: true}).success(function(data) {
+            	if (data.redirect && data.redirect != "") {
+                    window.location = data.redirect;
+                }
+            });
+        });
+    });
+
+    function checkComplexity(password) {
+        pm = new PasswordMeter();
+        pm.checkPassword(password);
+        var complexity = pm.Complexity.value;
+
+        if (isEmpty(password))
+		{
+			return ("Empty");
+		}
+		else if (complexity == pm.COMPLEXITY.VERYWEAK)
+        {
+            return("Very Weak");
+        }
+        else if (complexity == pm.COMPLEXITY.WEAK)
+        {
+            return("Weak");
+        }
+        else if (complexity == pm.COMPLEXITY.FAIR)
+        {
+            return("Fair");
+        }
+        else if (complexity == pm.COMPLEXITY.GOOD)
+        {
+            return("Good");
+        }
+        else if (complexity == pm.COMPLEXITY.STRONG)
+        {
+            return("Strong");
+        }
+    }
+
+	function isEmpty(val){
+		return (val === undefined || val == null || val.length <= 0) ? true : false;
+	}
+
+
+	const CUSTOMERS_LOGO_PATH = "/static/img/customers/logos/";
+
+
+	var listener = function (e) {
+		const iframe = document.getElementById("teachable_iframe");
+		const params = new URLSearchParams(iframe.children[0].src)
+		if (params.get("logo")) {
+			e.source.postMessage(CUSTOMERS_LOGO_PATH + params.get("logo"), e.origin);
+		}
+	};
+
+	window.addEventListener("message", listener, true);
+
+
+</script>
+
+
+
+
+
+
+</body>

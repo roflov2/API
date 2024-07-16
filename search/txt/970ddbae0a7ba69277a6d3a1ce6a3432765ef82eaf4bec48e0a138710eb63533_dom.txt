@@ -1,0 +1,2140 @@
+<head>
+  <meta charset="UTF-8">
+  <title>OXVA vape store - OXVA Romania</title>
+  <meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+  <meta name="keywords" content="oxva vape flavours, oxva romania, oxva vape review, oxva flavours">
+  <meta name="description" content="Mai multă putere cu încărcare rapidă: OXVA flavours, OXVA e cig, și OXVA xlim se.">
+  <meta name="author" content="Oxvaromania">
+  <meta name="generator" content="Oxvaromania">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+<link rel="icon" href="includes/templates/oxvaromania/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="includes/templates/oxvaromania/images/favicon.ico" type="image/x-icon">
+
+
+  <base href="https://www.oxvaromania.com/">
+  <link rel="canonical" href="https://www.oxvaromania.com/">
+  <link rel="alternate" hreflang="ro-RO" href="https://www.oxvaromania.com/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href="includes/templates/oxvaromania/css/style_plugins.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/oxvaromania/css/style_zo.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/oxvaromania/css/style_zp.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/oxvaromania/css/stylesheet.css">
+
+
+
+</head><body id="indexHomeBody">
+
+<!-- Page Loader -->
+        <!-- End Page Loader -->
+
+<div id="sBBLNm" class="KHoBtSf">
+
+
+<div class="top-bar">
+    <div class="container-none">
+        <div class="scrollBar">
+            <div class="notices col-12 d-flex justify-content-center align-items-center">
+                <div class="notice">Transport gratuit</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Header-->
+<header id="header" class="header QNcGQuVGAQ">
+    <div class="container-none p-0">
+        <div class="header-into d-flex">
+            <div class="col-6 col-lg-4 align-self-center justify-content-start d-flex">
+                <!--Mobile Toggle-->
+                <button type="button" class="btn--link site-header__menu js-mobile-nav-toggle mobile-nav--open d-lg-none d-flex align-items-center ps-0">
+                    <i class="icon an an-times-l"></i><i class="icon an an-bars-l"></i>
+                </button>
+
+                <!--Logo / Menu Toggle-->
+                <div class="logo align-self-center si-none">
+                    <a href="https://www.oxvaromania.com/"><img src="includes/templates/oxvaromania/images/logo.svg" alt="Oxvaromania" title="Oxvaromania" width="300" height="44" class="logo-img"><span class="logo-txt d-none">Oxvaromania</span></a>                </div>
+
+            </div>
+
+            <div class="col-4 col-lg-4 align-self-center justify-content-center d-flex s-none">
+                <!--Logo / Menu Toggle-->
+                <div class="logo">
+                    <a href="https://www.oxvaromania.com/"><img src="includes/templates/oxvaromania/images/logo.svg" alt="Oxvaromania" title="Oxvaromania" width="300" height="44" class="logo-img"><span class="logo-txt d-none">Oxvaromania</span></a>                </div>
+
+            </div>
+
+
+            <div class="col-6 col-lg-4 align-self-center justify-content-end d-flex">
+
+                <!--Search-->
+                <div class="site-search iconset si-none"><i class="icon an an-search-l"></i><span class="tooltip-label">Cauta</span></div>
+
+
+                <!--Minicart Drawer-->
+                <div class="header-cart iconset si-none pe-0">
+                    <a href="#" class="site-header__cart btn-minicart" data-bs-toggle="modal" data-bs-target="#HRjmQdDpgpC">
+                        <i class="icon an an-cart-l"></i>
+                        <span class="tooltip-label">Cos de cumparaturi</span>
+                        <span class="site-cart-count counter ai-none">0</span>
+                    </a>
+                </div>
+
+
+                <!--Setting Dropdown-->
+                <div class="setting-link iconset ai-none"><i class="icon an an-right-bar-s"></i><span class="tooltip-label">Setări</span></div>
+                <div id="abSbiUG">
+                    <div class="currency-picker">
+                        <span class="ttl">Selectați Moneda</span>
+                        <ul id="currencies" class="cnrLangList">
+                            &nbsp;&nbsp;<li><a href="https://www.oxvaromania.com/index.html?currency=USD">USD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=EUR">EUR</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=GBP">GBP</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=CAD">CAD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=AUD">AUD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=NZD">NZD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=ZAR">ZAR</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=DKK">DKK</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=NOK">NOK</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=SEK">SEK</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=CHF">CHF</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=BRL">BRL</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=ARS">ARS</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=COP">COP</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=UYU">UYU</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=PEN">PEN</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=CLP">CLP</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=MXN">MXN</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=PLN">PLN</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=CZK">CZK</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=RSD">RSD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=TRY">TRY</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=HUF">HUF</a></li><li class="selected"><a class="active" href="https://www.oxvaromania.com/index.html?currency=RON">RON</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=BGN">BGN</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=ILS">ILS</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=AED">AED</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=KWD">KWD</a></li><li><a href="https://www.oxvaromania.com/index.html?currency=JPY">JPY</a></li>                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="navbar-link d-flex s-none">
+            <!--Main Navigation Desktop-->
+            <nav class="grid__item s-none" id="yYeTAXNq">
+                <ul id="siteNav" class="site-nav medium left hidearrow"><li class="lvl1 parent yktfk">
+<a class="site-nav" href="https://www.oxvaromania.com/de-unic%C4%83-folosin%C8%9B%C4%83-c-1/">de unică folosință<i class="an an-angle-down-l"></i></a><div class="yktfk style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oxbar-4500-c-1_6/">oxbar 4500</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/">oxbar g8000</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oxbar-m20k-c-1_2/">oxbar m20k</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oxbar-maze-pro-10000-c-1_5/">oxbar maze pro 10000</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oxbar-mini-1200-c-1_3/">oxbar mini 1200</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/">suc de vape</a></div></div></div></li><li class="lvl1 parent yktfk">
+<a class="site-nav" href="https://www.oxvaromania.com/re%C3%AEnc%C4%83rcabil-c-8/">reîncărcabil<i class="an an-angle-down-l"></i></a><div class="yktfk style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/%C3%AEnlocuire-c-8_17/">înlocuire</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/cartu%C5%9F-c-8_17_18/">cartuş</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/uni-c-8_17_19/">uni</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/labirint-magic-c-8_22/">labirint magic</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/">kit xlim pro</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/">xlim se kit</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/oneo-c-8_15/">oneo</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/trusa-de-pod-c-8_15_16/">trusa de pod</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/xlim-c-8_9/">xlim</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/dute-kit-c-8_9_25/">du-te kit</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-pro-c-8_9_10/">kit pro</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-sq-pro-c-8_9_12/">kit sq pro</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/se-2-kit-c-8_9_13/">se 2 kit</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/trusa-de-pod-c-8_9_14/">trusa de pod</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/v3-c-8_9_11/">v3</a></li></ul></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.oxvaromania.com/xso-c-8_20/">xso</a><ul class="subLinks"><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/">kit de pod artio</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-xlim-pod-c-8_20_26/">kit xlim pod</a></li><li>
+<a class="site-nav lvl-2" href="https://www.oxvaromania.com/kit-xlim-sq-c-8_20_27/">kit xlim sq</a></li></ul></div></div></div></li></ul>            </nav>
+
+            <div class="function d-flex align-items-center s-none">
+
+                <!--Search-->
+                <div class="site-search iconset "><i class="icon an an-search-l"></i><span class="tooltip-label">Cauta</span></div>
+
+                <!--UserLink-->
+                <div class="user-link iconset">
+                    <i class="icon an an-user-2"></i>
+                    <span class="tooltip-label">Contul meu</span>
+                    <div id="userLinks">
+                        <ul class="user-links">
+                                                                <li><a href="https://www.oxvaromania.com/index.php?main_page=login">Iesire din cont</a></li>
+                                                        </ul>
+                    </div>
+                </div>
+
+                <!--Wishlist-->
+                <div class="wishlist-link iconset">
+                    <a href="https://www.oxvaromania.com/index.php?main_page=wishlist">
+                        <i class="icon an an-heart-l"></i>
+                        <span class="tooltip-label">Lista de dorințe</span>
+                                            </a>
+                </div>
+
+                <!--Minicart Drawer-->
+                <div class="header-cart iconset pe-0">
+                    <a href="#" class="site-header__cart btn-minicart" data-bs-toggle="modal" data-bs-target="#HRjmQdDpgpC">
+                        <i class="icon an an-cart-l"></i>
+                        <span class="tooltip-label">Cos de cumparaturi</span>
+                        <span class="site-cart-count counter ai-none">0</span>
+                    </a>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+    <!--Search Popup-->
+    <div id="aKssQD" class="search-drawer">
+        <div class="container">
+            <span class="closeSearch an an-times-l"></span>
+            <form name="quick_find_header" action="https://www.oxvaromania.com/index.php?main_page=advanced_search_result" method="get" id="header-search" class="form minisearch"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1">                <label class="label"><span>Cauta</span></label>
+                <div class="control">
+                    <div class="searchField">
+                        <div class="input-box">
+                            <button type="submit" title="Cauta" class="action search"><i class="icon an an-search-l"></i></button>
+                            <input type="text" name="keyword" value="" placeholder="Introduceti cuvintele aici" class="input-text">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+<!--End Header-->
+
+<!--Mobile Menu-->
+<div class="ebKuZhhBMa" role="navigation">
+    <div class="ZZJDo"><i class="icon an an-times-l pull-right"></i></div>
+    <ul id="uECERQW" class="mobile-nav"><li class="lvl1 parent yktfk">
+<a href="https://www.oxvaromania.com/de-unic%C4%83-folosin%C8%9B%C4%83-c-1/">de unică folosință<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oxbar-4500-c-1_6/">oxbar 4500</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/">oxbar g8000</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oxbar-m20k-c-1_2/">oxbar m20k</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oxbar-maze-pro-10000-c-1_5/">oxbar maze pro 10000</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oxbar-mini-1200-c-1_3/">oxbar mini 1200</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/">suc de vape</a></li></ul></li><li class="lvl1 parent yktfk">
+<a href="https://www.oxvaromania.com/re%C3%AEnc%C4%83rcabil-c-8/">reîncărcabil<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/%C3%AEnlocuire-c-8_17/">înlocuire<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/cartu%C5%9F-c-8_17_18/">cartuş</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/uni-c-8_17_19/">uni</a></li></ul></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/labirint-magic-c-8_22/">labirint magic<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/">kit xlim pro</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/">xlim se kit</a></li></ul></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/oneo-c-8_15/">oneo<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/trusa-de-pod-c-8_15_16/">trusa de pod</a></li></ul></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/xlim-c-8_9/">xlim<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/dute-kit-c-8_9_25/">du-te kit</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-pro-c-8_9_10/">kit pro</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-sq-pro-c-8_9_12/">kit sq pro</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/se-2-kit-c-8_9_13/">se 2 kit</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/trusa-de-pod-c-8_9_14/">trusa de pod</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/v3-c-8_9_11/">v3</a></li></ul></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/xso-c-8_20/">xso<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/">kit de pod artio</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-xlim-pod-c-8_20_26/">kit xlim pod</a></li><li>
+<a class="site-nav" href="https://www.oxvaromania.com/kit-xlim-sq-c-8_20_27/">kit xlim sq</a></li></ul></li></ul></li><li class="acLink"></li><li class="lvl1 bottom-link"><a href="https://www.oxvaromania.com/index.php?main_page=login">Iesire din cont</a></li><li class="lvl1 bottom-link"><a href="https://www.oxvaromania.com/index.php?main_page=create_account">Inregistreaza-te</a></li><li class="lvl1 bottom-link"><a href="https://www.oxvaromania.com/index.php?main_page=wishlist">Lista de dorințe</a></li></ul></div>
+<!--End Mobile Menu-->
+<!--Body Container-->
+<div id="page-content">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+
+
+    
+
+<section class="slideshow slide-style1">
+    <div class="Yyvv container slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 6000px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" role="tabpanel" id="slick-slide00" style="width: 1500px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.oxvaromania.com/oxbar-maze-pro-10000-c-1_5/" tabindex="0">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner1d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner1m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/oxvaromania/images/oxva/banner1d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide01" style="width: 1500px; position: relative; left: -1500px; top: 0px; z-index: 998; opacity: 0;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.oxvaromania.com/re%C3%AEnc%C4%83rcabil-c-8/" tabindex="-1">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner5d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner5m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/oxvaromania/images/oxva/banner5d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide02" style="width: 1500px; position: relative; left: -3000px; top: 0px; z-index: 998; opacity: 0;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.oxvaromania.com/xlim-c-8_9/" tabindex="-1">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner8d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner8m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/oxvaromania/images/oxva/banner8d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide03" style="width: 1500px; position: relative; left: -4500px; top: 0px; z-index: 998; opacity: 0;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.oxvaromania.com/kit-pro-c-8_9_10/" tabindex="-1">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner6d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner6m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/oxvaromania/images/oxva/banner6d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 4" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 4" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 4" tabindex="-1">3</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control03" aria-controls="slick-slide03" aria-label="4 of 4" tabindex="-1">4</button></li></ul></div>
+</section>
+
+<section class="product-modular product-style1 mt-spacing">
+    <div class="container">
+        <div class="modular-title">
+            <h3 class="main-title">Produsele noastre</h3>
+            <div class="main-links">
+                <a href="https://www.oxvaromania.com/v3-c-8_9_11/">
+                    <span>Mai mult</span>
+                </a>
+            </div>
+        </div>
+        
+                                            
+<!-- bof: whats_new -->
+<section class="zfbf">
+
+
+<div class="productSlider qPtJobMGGxc slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 10724px; transform: translate3d(-1532px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=123" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=123" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1">OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=128" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=128" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1">OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg" alt="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" title="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=129" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=129" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1">OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" title="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=120" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=120" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1">OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-flavours-violet-82zvp122-oxva-xso-artio-trusa-de-pod-p-121.html" tabindex="0"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_flavours_Violet_82ZVP122_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod" title="OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_flavours_Violet_82ZVP122_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=121" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=121" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-flavours-violet-82zvp122-oxva-xso-artio-trusa-de-pod-p-121.html" tabindex="0">OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-flavours-cyan-lucios-82zvp127-oxva-magic-maze-xlim-pro-trusa-p-126.html" tabindex="0"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_flavours_cyan_lucios_82ZVP127_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_flavours_cyan_lucios_82ZVP127_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=126" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=126" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-flavours-cyan-lucios-82zvp127-oxva-magic-maze-xlim-pro-trusa-p-126.html" tabindex="0">OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-bucharest-negru-ro%C8%99u-82zvp131-oxva-magic-maze-xlim-trusa-de-pod-p-130.html" tabindex="0"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_bucharest_negru_ro_u_82ZVP131_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg" alt="OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod" title="OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_bucharest_negru_ro_u_82ZVP131_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=130" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=130" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-bucharest-negru-ro%C8%99u-82zvp131-oxva-magic-maze-xlim-trusa-de-pod-p-130.html" tabindex="0">OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-romania-ro%C8%99u-82zvp123-oxva-xso-artio-trusa-de-pod-p-122.html" tabindex="0"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_Romania_ro_u_82ZVP123_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod" title="OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_Romania_ro_u_82ZVP123_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=122" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=122" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-romania-ro%C8%99u-82zvp123-oxva-xso-artio-trusa-de-pod-p-122.html" tabindex="0">OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-vape-store-negru-cf-82zvp125-oxva-magic-maze-xlim-se-trusa-p-124.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_vape_store_negru_cf_82ZVP125_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_vape_store_negru_cf_82ZVP125_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=124" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=124" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-vape-store-negru-cf-82zvp125-oxva-magic-maze-xlim-se-trusa-p-124.html" tabindex="-1">OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-e-cig-albastru-%C3%AEnchis-cf-82zvp126-oxva-magic-maze-xlim-se-trusa-p-125.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_e_cig_albastru_nchis_cf_82ZVP126_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_e_cig_albastru_nchis_cf_82ZVP126_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=125" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=125" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-e-cig-albastru-%C3%AEnchis-cf-82zvp126-oxva-magic-maze-xlim-se-trusa-p-125.html" tabindex="-1">OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-price-ro%C8%99u-str%C4%83lucitor-82zvp128-oxva-magic-maze-xlim-pro-trusa-p-127.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_price_ro_u_str_lucitor_82ZVP128_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_price_ro_u_str_lucitor_82ZVP128_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=127" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=127" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-price-ro%C8%99u-str%C4%83lucitor-82zvp128-oxva-magic-maze-xlim-pro-trusa-p-127.html" tabindex="-1">OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-review-negru-82zvp120-oxva-xso-artio-trusa-de-pod-p-119.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_review_negru_82ZVP120_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod" title="OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_review_negru_82ZVP120_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=119" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=119" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-review-negru-82zvp120-oxva-xso-artio-trusa-de-pod-p-119.html" tabindex="-1">OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=123" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=123" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1">OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=128" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=128" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1">OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg" alt="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" title="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=129" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=129" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1">OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" title="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=120" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=120" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1">OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-flavours-violet-82zvp122-oxva-xso-artio-trusa-de-pod-p-121.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_flavours_Violet_82ZVP122_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod" title="OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_flavours_Violet_82ZVP122_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=121" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=121" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-flavours-violet-82zvp122-oxva-xso-artio-trusa-de-pod-p-121.html" tabindex="-1">OXVA vape flavours - Violet 82ZVP122 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-flavours-cyan-lucios-82zvp127-oxva-magic-maze-xlim-pro-trusa-p-126.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_flavours_cyan_lucios_82ZVP127_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_flavours_cyan_lucios_82ZVP127_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=126" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=126" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-flavours-cyan-lucios-82zvp127-oxva-magic-maze-xlim-pro-trusa-p-126.html" tabindex="-1">OXVA flavours - cyan lucios 82ZVP127 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-bucharest-negru-ro%C8%99u-82zvp131-oxva-magic-maze-xlim-trusa-de-pod-p-130.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_bucharest_negru_ro_u_82ZVP131_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg" alt="OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod" title="OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_bucharest_negru_ro_u_82ZVP131_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=130" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=130" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-bucharest-negru-ro%C8%99u-82zvp131-oxva-magic-maze-xlim-trusa-de-pod-p-130.html" tabindex="-1">OXVA bucharest - negru roșu 82ZVP131 OXVA MAGIC MAZE XLIM trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-romania-ro%C8%99u-82zvp123-oxva-xso-artio-trusa-de-pod-p-122.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_Romania_ro_u_82ZVP123_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod" title="OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_Romania_ro_u_82ZVP123_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=122" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=122" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-romania-ro%C8%99u-82zvp123-oxva-xso-artio-trusa-de-pod-p-122.html" tabindex="-1">OXVA vape Romania - roșu 82ZVP123 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-vape-store-negru-cf-82zvp125-oxva-magic-maze-xlim-se-trusa-p-124.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_vape_store_negru_cf_82ZVP125_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_vape_store_negru_cf_82ZVP125_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=124" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=124" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-vape-store-negru-cf-82zvp125-oxva-magic-maze-xlim-se-trusa-p-124.html" tabindex="-1">OXVA vape store - negru cf 82ZVP125 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-e-cig-albastru-%C3%AEnchis-cf-82zvp126-oxva-magic-maze-xlim-se-trusa-p-125.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_e_cig_albastru_nchis_cf_82ZVP126_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_e_cig_albastru_nchis_cf_82ZVP126_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=125" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=125" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-e-cig-albastru-%C3%AEnchis-cf-82zvp126-oxva-magic-maze-xlim-se-trusa-p-125.html" tabindex="-1">OXVA e cig - albastru închis cf 82ZVP126 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="18" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-price-ro%C8%99u-str%C4%83lucitor-82zvp128-oxva-magic-maze-xlim-pro-trusa-p-127.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_price_ro_u_str_lucitor_82ZVP128_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_price_ro_u_str_lucitor_82ZVP128_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=127" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=127" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-price-ro%C8%99u-str%C4%83lucitor-82zvp128-oxva-magic-maze-xlim-pro-trusa-p-127.html" tabindex="-1">OXVA price - roșu strălucitor 82ZVP128 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="19" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-review-negru-82zvp120-oxva-xso-artio-trusa-de-pod-p-119.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_review_negru_82ZVP120_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod" title="OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_vape_review_negru_82ZVP120_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=119" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=119" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-vape-review-negru-82zvp120-oxva-xso-artio-trusa-de-pod-p-119.html" tabindex="-1">OXVA vape review - negru 82ZVP120 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="20" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg" alt="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" title="OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/xlim-se-kit/OXVA_Romania_portocaliu_cf_82ZVP124_OXVA_MAGIC_MAZE_XLIM_SE_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=123" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=123" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/xlim-se-kit-c-8_22_23/oxva-romania-portocaliu-cf-82zvp124-oxva-magic-maze-xlim-se-trusa-p-123.html" tabindex="-1">OXVA Romania - portocaliu cf 82ZVP124 OXVA MAGIC MAZE XLIM SE trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="21" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg" alt="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" title="OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_price_albastru_lucios_82ZVP129_OXVA_MAGIC_MAZE_XLIM_PRO_trusa.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=128" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=128" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-price-albastru-lucios-82zvp129-oxva-magic-maze-xlim-pro-trusa-p-128.html" tabindex="-1">OXVA vape price - albastru lucios 82ZVP129 OXVA MAGIC MAZE XLIM PRO trusa</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="22" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1"><img src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg" alt="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" title="OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/labirint-magic/kit-xlim-pro/OXVA_vape_review_ghea_arctic_82ZVP130_OXVA_MAGIC_MAZE_XLIM_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=129" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=129" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-xlim-pro-c-8_22_24/oxva-vape-review-ghea%C8%9B%C4%83-arctic%C4%83-82zvp130-oxva-magic-maze-xlim-trusa-de-pod-p-129.html" tabindex="-1">OXVA vape review - gheață arctică 82ZVP130 OXVA MAGIC MAZE XLIM trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="23" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1"><img src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg" alt="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" title="OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod" width="200" height="200" class="primary blur-up lazyload" data-src="images/reincarcabil/xso/kit-de-pod-artio/OXVA_bucharest_verde_82ZVP121_OXVA_XSO_ARTIO_trusa_de_pod.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=120" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=120" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/kit-de-pod-artio-c-8_20_21/oxva-bucharest-verde-82zvp121-oxva-xso-artio-trusa-de-pod-p-120.html" tabindex="-1">OXVA bucharest - verde 82ZVP121 OXVA XSO ARTIO trusa de pod</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: whats_new -->
+            
+            
+            
+            
+            
+            
+            
+                </div>
+</section>
+
+
+
+<section class="slideshow slide-style2 mt-spacing">
+    <div class="container">
+        <div class="slide-content">
+            <a href="https://www.oxvaromania.com/%C3%AEnlocuire-c-8_17/">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner2d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/oxvaromania/images/oxva/banner2m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/oxvaromania/images/oxva/banner2d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="product-modular product-style2 mt-spacing">
+    <div class="container">
+        <div class="modular-title">
+            <h3 class="main-title">Cele mai vandute</h3>
+        </div>
+        
+            
+            
+            
+            
+                                            
+<!-- bof: specials -->
+<section class="zfbf">
+
+
+<div class="productSlider qPtJobMGGxc slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8426px; transform: translate3d(-1532px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg" alt="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" title="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=43" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=43" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1">OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" title="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=50" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=50" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1">OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg" alt="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" title="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=45" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=45" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1">OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" title="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=51" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=51" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1">OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-price-ment%C4%83-extrem%C4%83-82zvp48-oxva-oxbar-30-ml-sare-nic-p-48.html" tabindex="0"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_price_ment_extrem_82ZVP48_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic" title="OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_price_ment_extrem_82ZVP48_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=48" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=48" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-price-ment%C4%83-extrem%C4%83-82zvp48-oxva-oxbar-30-ml-sare-nic-p-48.html" tabindex="0">OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-price-gb-82zvp47-oxva-oxbar-g8000-p-47.html" tabindex="0"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_price_gb_82ZVP47_OXVA_OXBAR_G8000.jpg" alt="OXVA price - gb 82ZVP47 OXVA OXBAR G8000" title="OXVA price - gb 82ZVP47 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_price_gb_82ZVP47_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=47" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=47" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-price-gb-82zvp47-oxva-oxbar-g8000-p-47.html" tabindex="0">OXVA price - gb 82ZVP47 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-flavours-congelarea-bananelor-82zvp46-oxva-oxbar-g8000-p-46.html" tabindex="0"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_flavours_congelarea_bananelor_82ZVP46_OXVA_OXBAR_G8000.jpg" alt="OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000" title="OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_flavours_congelarea_bananelor_82ZVP46_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=46" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=46" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-flavours-congelarea-bananelor-82zvp46-oxva-oxbar-g8000-p-46.html" tabindex="0">OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-review-cire%C8%99-lime-clasic-82zvp49-oxva-oxbar-30-ml-sare-nic-p-49.html" tabindex="0"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_review_cire_lime_clasic_82ZVP49_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic" title="OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_review_cire_lime_clasic_82ZVP49_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=49" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=49" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-review-cire%C8%99-lime-clasic-82zvp49-oxva-oxbar-30-ml-sare-nic-p-49.html" tabindex="0">OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-vape-store-cire%C8%99-lime-clasic-82zvp44-oxva-oxbar-g8000-p-44.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_vape_store_cire_lime_clasic_82ZVP44_OXVA_OXBAR_G8000.jpg" alt="OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000" title="OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_vape_store_cire_lime_clasic_82ZVP44_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=44" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=44" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-vape-store-cire%C8%99-lime-clasic-82zvp44-oxva-oxbar-g8000-p-44.html" tabindex="-1">OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg" alt="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" title="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=43" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=43" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1">OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" title="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=50" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=50" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1">OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg" alt="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" title="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=45" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=45" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1">OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" title="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=51" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=51" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1">OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-price-ment%C4%83-extrem%C4%83-82zvp48-oxva-oxbar-30-ml-sare-nic-p-48.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_price_ment_extrem_82ZVP48_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic" title="OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_price_ment_extrem_82ZVP48_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=48" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=48" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-price-ment%C4%83-extrem%C4%83-82zvp48-oxva-oxbar-30-ml-sare-nic-p-48.html" tabindex="-1">OXVA vape price - mentă extremă 82ZVP48 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-price-gb-82zvp47-oxva-oxbar-g8000-p-47.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_price_gb_82ZVP47_OXVA_OXBAR_G8000.jpg" alt="OXVA price - gb 82ZVP47 OXVA OXBAR G8000" title="OXVA price - gb 82ZVP47 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_price_gb_82ZVP47_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=47" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=47" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-price-gb-82zvp47-oxva-oxbar-g8000-p-47.html" tabindex="-1">OXVA price - gb 82ZVP47 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-flavours-congelarea-bananelor-82zvp46-oxva-oxbar-g8000-p-46.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_flavours_congelarea_bananelor_82ZVP46_OXVA_OXBAR_G8000.jpg" alt="OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000" title="OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_flavours_congelarea_bananelor_82ZVP46_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=46" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=46" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-flavours-congelarea-bananelor-82zvp46-oxva-oxbar-g8000-p-46.html" tabindex="-1">OXVA flavours - congelarea bananelor 82ZVP46 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-review-cire%C8%99-lime-clasic-82zvp49-oxva-oxbar-30-ml-sare-nic-p-49.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_review_cire_lime_clasic_82ZVP49_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic" title="OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_review_cire_lime_clasic_82ZVP49_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=49" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=49" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-review-cire%C8%99-lime-clasic-82zvp49-oxva-oxbar-30-ml-sare-nic-p-49.html" tabindex="-1">OXVA vape review - cireș lime clasic 82ZVP49 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-vape-store-cire%C8%99-lime-clasic-82zvp44-oxva-oxbar-g8000-p-44.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_vape_store_cire_lime_clasic_82ZVP44_OXVA_OXBAR_G8000.jpg" alt="OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000" title="OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_vape_store_cire_lime_clasic_82ZVP44_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=44" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=44" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-vape-store-cire%C8%99-lime-clasic-82zvp44-oxva-oxbar-g8000-p-44.html" tabindex="-1">OXVA vape store - cireș lime clasic 82ZVP44 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg" alt="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" title="OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_Romania_rou_extrem_82ZVP43_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=43" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=43" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-romania-rou%C4%83-extrem%C4%83-82zvp43-oxva-oxbar-g8000-p-43.html" tabindex="-1">OXVA Romania - rouă extremă 82ZVP43 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" title="OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_bucharest_vanilie_clasic_82ZVP50_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=50" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=50" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-bucharest-vanilie-clasic%C4%83-82zvp50-oxva-oxbar-30-ml-sare-nic-p-50.html" tabindex="-1">OXVA bucharest - vanilie clasică 82ZVP50 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1"><img src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg" alt="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" title="OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000" width="173" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/oxbar-g8000/OXVA_e_cig_canada_d_82ZVP45_OXVA_OXBAR_G8000.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=45" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=45" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/oxbar-g8000-c-1_4/oxva-e-cig-canada-d-82zvp45-oxva-oxbar-g8000-p-45.html" tabindex="-1">OXVA e cig - canada d 82ZVP45 OXVA OXBAR G8000</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 353px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="eknfRDYi">
+
+    <a class="sHwUxFghYog" href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1"><img src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg" alt="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" title="OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic" width="200" height="200" class="primary blur-up lazyload" data-src="images/de-unica-folosin-a/suc-de-vape/OXVA_vape_flavours_m_r_r_sucit_82ZVP51_OXVA_OXBAR_30_ml_sare_nic.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.oxvaromania.com/index.html?action=buy_now&amp;products_id=51" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.oxvaromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=51" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="GkVMdd text-left">
+
+    <div class="oiGc">
+
+        <a href="https://www.oxvaromania.com/suc-de-vape-c-1_7/oxva-vape-flavours-m%C4%83r-r%C4%83sucit-82zvp51-oxva-oxbar-30-ml-sare-nic-p-51.html" tabindex="-1">OXVA vape flavours - măr răsucit 82ZVP51 OXVA OXBAR 30 ml sare nic</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: specials -->
+            
+            
+            
+                </div>
+</section>
+
+<div id="indexDefaultMainContent" class="container"><a href="http://www.lulu.com/content/466605"><img src="images/large/e-start-book.gif" alt="get your manual today" title="Have you got yours yet? Join the 1000�s of Zen Cart users that have bought the only comprehensive owners manual !"></a>
+<p>This file is located in<code> /languages/english/html_includes/classic/</code></p>
+<p><strong>NOTE: Always backup the files in<code> /languages/english/html_includes/your_template</code></strong></p>
+</div>
+                
+            </div>
+            <!--End Body Container-->
+
+
+
+
+
+<footer class="footer footer-8 mt-spacing">
+    <div class="DfEwG clearfix bg-transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">Să rămânem în legătură</h4>
+                    <p class="p-contact">Ne vedem pe interweb-uri.</p>
+                    <ul class="list-inline social-icons mt-3 pt-1">
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Facebook" aria-label="Facebook">
+                                <i class="an an-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Instagram" aria-label="Instagram">
+                                <i class="an an-pinterest-p"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-instagram"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="TikTok" aria-label="TikTok">
+                                <i class="an an-tiktok"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Whatsapp" aria-label="Whatsapp">
+                                <i class="an an-whatsapp"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="h4 text-transform-title">Informatii</h4>
+                    <ul class="p-0">
+                          <li><a rel="nofollow" href="https://www.oxvaromania.com/contact_us.html">Contactați-ne</a></li>
+  <li><a rel="nofollow" href="https://www.oxvaromania.com/politica-de-confiden%C8%9Bialitate-ezp-2.html">Politica de confidențialitate</a></li>
+  <li><a rel="nofollow" href="https://www.oxvaromania.com/termeni-de-utilizare-ezp-3.html">Termeni de utilizare</a></li>
+  <li><a rel="nofollow" href="https://www.oxvaromania.com/cheltuieli-de-expedi%C8%9Bie-ezp-4.html">Cheltuieli de expediție</a></li>
+  <li><a rel="nofollow" href="https://www.oxvaromania.com/politica-de-garan%C8%9Bie-%C8%99i-retur-ezp-5.html">Politica de garanție și retur</a></li>
+  <li><a rel="nofollow" href="https://www.oxvaromania.com/politica-de-v%C3%A2rst%C4%83-ezp-6.html">Politica de vârstă</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">Buletin informativ</h4>
+                    <p class="p-news">Obțineți actualizări instantanee despre noile noastre produse și promoții speciale!</p>
+                    <div class="email-input d-flex">
+                        <input class="input-box" type="text" placeholder="Email Address">
+                        <button class="input-but ai-none" type="button"><span>Abonati-va</span></button>
+                        <button class="input-but" type="button"><i class="an input_icon"></i></button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="footerBox" class="CPDo clearfix bg-transparent">
+        <div class="container">
+            <div class="d-flex-center flex-column justify-content-md-between flex-md-row-reverse">
+                <img src="images/payment.png" alt="Paypal Visa Payments">
+                <div class="copy-white copytext text-uppercase">Copyright © 2024 <a href="/" target="_blank">Oxvaromania</a>.</div>
+            </div>
+        </div>
+    </div>
+    <div id="footerBox" class="CPDo clearfix bg-transparent">
+        <div class="container">
+            <div class="d-flex-center flex-column justify-content-md-between flex-md-row-reverse">
+                <div class="copy-white copytext text-uppercase">AVERTISMENT: Produsele vândute peCopyright © 2024 <a href="/" target="_blank">Oxvaromania</a>.poate conține nicotină, o substanță chimică care creează dependență. Produsele oferite pe site nu sunt destinate utilizării de către minori cu vârsta sub 18 ani, femei însărcinate sau care alăptează, persoane cu probleme cardiovasculare, persoane cu tulburări convulsive sau oricine ar trebui să evite utilizarea produselor din tutun sau nicotină din motive medicale. Nu lăsați întotdeauna țigările electronice la îndemâna copiilor.</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+            <!--Scoll Top-->
+            <span id="ERvbFrvV" class="rounded-2"><i class="icon an an-arw-up"></i></span> 
+            <!--End Scoll Top-->
+
+            <!--MiniCart Drawer-->
+<div class="minicart-right-drawer modal right fade" id="HRjmQdDpgpC">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div id="cart-drawer" class="block block-cart">
+                            <div class="minicart-header">
+                                <a href="javascript:void(0);" class="close-cart" data-bs-dismiss="modal" aria-label="Close"><i class="an an-times-r" aria-hidden="true" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Close" aria-label="Close"></i></a>
+                                <h4 class="fs-6 text-black">Coșul tău (0 Articole)</h4>
+                            </div>
+                            <div class="minicart-content">
+                                <ul class="m-0 clearfix">
+                                                                        
+                                </ul>
+                            </div>
+                            <div class="minicart-bottom text-black">
+                                <div class="subtotal">
+                                    <span>Subtotal:</span>
+                                    <span class="product-price">0.00lei</span>
+                                </div>
+                                <a href="https://www.oxvaromania.com/index.php?main_page=checkout_shipping" class="w-100 p-2 my-2 btn rounded proceed-to-checkout">Checkout</a>
+                                <a href="https://www.oxvaromania.com/shopping_cart.html" class="w-100 btn btn-outline-primary rounded cart-btn">Vizualizare coș</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End MiniCart Drawer-->            <div class="modalOverly"></div>
+
+      
+
+</div>
+
+
+  <script type="text/javascript" src="includes/templates/oxvaromania/jscript/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="includes/templates/template_default/jscript/jquery.min.js"%3E%3C/script%3E'));</script>
+
+<script type="text/javascript" src="includes/templates/oxvaromania/jscript/jscript_cookies.js"></script>
+<script type="text/javascript" src="includes/templates/oxvaromania/jscript/jscript_extend.js"></script>
+<script type="text/javascript" src="includes/templates/oxvaromania/jscript/jscript_plugins.js"></script>
+<script type="text/javascript" src="includes/templates/oxvaromania/jscript/jscript_zmain.js"></script>
+
+
+
+</body>

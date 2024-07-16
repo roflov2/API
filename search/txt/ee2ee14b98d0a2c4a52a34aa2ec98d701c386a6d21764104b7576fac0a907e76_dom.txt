@@ -1,0 +1,866 @@
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<title>Mobile Legends Hack Diamonds Cheat Generator - How to Generate Unlimited Diamonds, Battle Points (BP) and Tickets to your account</title>
+	<meta name="description" content="This is our new Mobile Legends Hack Diamonds Cheat Generator ! Our hack works for iOS, Android and PC! Successfully tested and working on all game platforms. No Survey is required, Without Human Verification !">
+	<meta name="keywords" content="Mobile Legends Hack, Mobile Legends Hack Diamonds, Mobile Legends Hack Generator, Mobile Legends Hack 2024, Mobile Legends Cheats, Mobile Legends Hack Unlimited Diamonds, Battle Points (BP) and Tickets ">
+	<meta name="robots" content="index, follow">	
+	<link href="https://mobilelegends.cheatdvi.com" rel="canonical">
+<meta property="og:title" content="Mobile Legends Hack Points Cheat Generator - Unlimited Diamonds, Battle Points (BP) and Tickets">
+<meta property="og:image" content="https://mobilelegends.cheatdvi.com/img/Mobile-Legends-Hack-2024-Diamonds-Generator-BP-Cheat-Tickets.jpg">
+<meta property="og:url" content="https://mobilelegends.cheatdvi.com">
+<meta property="og:site_name" content="Mobile Legends Hack Points Cheat Generator - Unlimited Diamonds, Battle Points (BP) and Tickets">
+<meta property="og:description" content="This is our new Mobile Legends Hack Points Cheat Generator ! Our hack works for iOS, Android and PC! Successfully tested and working on all game platforms. No Survey is required, Without Human Verification !">
+<meta name="twitter:title" content="Mobile Legends Hack Points Cheat Generator - How to Generate Unlimited Diamonds, Battle Points (BP) and Tickets">
+
+<meta name="twitter:image" content="https://mobilelegends.cheatdvi.com/img/Mobile-Legends-Hack-2024-Diamonds-Generator-BP-Cheat-Tickets.jpg">
+<meta name="twitter:url" content="https://mobilelegends.cheatdvi.com">
+<meta name="twitter:card" content="summary">
+<meta content="en_US" property="og:locale">
+	<meta content="website" property="og:type">
+	<meta content="Mobile Legends Hack Points Cheat Generator - How to Generate Unlimited Diamonds, Battle Points (BP) and Tickets" property="og:site_name">
+	<meta name="author" content="">
+        <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">	
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-switch.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/chat.css">
+	<link rel="stylesheet" type="text/css" href="css/fbcm.css">	
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700" rel="stylesheet"> 
+	<meta name="theme-color" content="#E2231A">
+	<meta name="msapplication-navbutton-color" content="#E2231A">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#E2231A">
+	<meta name="referrer" content="never">
+	<meta name="referrer" content="no-referrer">
+</head><body style="display: block;">
+	<div class="logo"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+
+				<div class="main step-1">
+					<div class="title-bar">Mobile Legends Hack</div>
+					<div class="content-main">
+						<div class="platform">
+							<p class="text-grey">Select Your Platform</p>
+
+							<div id="platformCarousel" class="carousel slide" data-interval="false">
+
+							  <!-- Wrapper for slides -->
+							  <div class="carousel-inner">
+							    <div class="item active" data-name="apple">
+							      <ul class="platforms">
+							      	<li class="select-platform"><i class="fa fa-apple"></i><br>iOS</li>
+							      </ul>
+							    </div>
+
+							    <div class="item" data-name="android">
+							      <ul class="platforms">
+							      	<li class="select-platform"><i class="fa fa-android"></i><br>Android</li>
+							      </ul>
+							    </div>
+
+							    <div class="item" data-name="windows">
+							      <ul class="platforms">
+							      	<li class="select-platform"><i class="fa fa-windows"></i><br>Windows</li>
+							      </ul>
+							    </div>
+
+							  </div>
+
+							  <!-- Left and right controls -->
+							  <a class="left carousel-control" href="#platformCarousel" data-slide="prev">
+							  	<img src="img/left.png" class=" carousel-arrows-new">
+							  </a>
+							  <a class="right carousel-control" href="#platformCarousel" data-slide="next">
+							    <img src="img/right.png" class=" carousel-arrows-new">
+							  </a>
+							</div>
+						</div>
+						<div class="ban-protection">
+							<i class="fa fa-shield"></i> ANTI BAN PROTECTION MODE <span class="ban-switch">ON</span>
+						</div>
+						<div class="tool-input">
+							<div class="alert usernameAlert alert-danger">
+							  <strong>Warning !</strong> You have to enter your Username !
+							</div>
+
+							<div class="form-group">
+								<span class="form-label"><i class="fa fa-user-circle"></i> Username</span>
+								<input type="text" class="t-input usernameInput form-control" placeholder="Player Username/E-mail/Game ID">
+							</div>
+
+							<button type="button" class="btnFirst new-btn">Next <i class="fa fa-chevron-right"></i></button>
+						</div>
+
+						<div class="activity-box">
+							<div class="last-update">
+								<i class="fa fa-refresh"></i> Last Updated: <font color="green"><span class="update-date">05/03/2024</span></font>
+							</div>
+
+							<div class="last-update">
+								<i class="text-green fa fa-users"></i> <span class="num-online-usrs">579</span> users online now
+							</div>							
+						</div>
+					</div>
+				</div>
+
+				<div class="main step-2">
+					<div class="title-bar">Mobile Legends Hack</div>
+					<div class="content-main">
+						<div class="tool-input">
+							<p class="text-green"><img src="img/1.png" alt=""> Diamonds Amount</p>
+							<div class="input-group">
+								<span class="input-group-btn">
+									<button type="button" class="btn minus-diamonds btn-danger" data-type="minus" data-field="num"><span class="glyphicon glyphicon-minus"></span></button>
+								</span>
+								<input type="text" name="num" class="form-control disabledJS diamonds-input text-green" value="2500">
+								<span class="input-group-btn">
+									<button type="button" class="btn plus-diamonds btn-success" data-type="plus" data-field="num"><span class="glyphicon glyphicon-plus"></span></button>
+								</span>
+							</div>
+							<p class="text-brown"><img src="img/2.png" alt=""> Battle Points (BP) Amount</p>
+							<div class="input-group">
+								<span class="input-group-btn">
+									<button type="button" class="btn minus-gold btn-danger" data-type="minus" data-field="num"><span class="glyphicon glyphicon-minus"></span></button>
+								</span>
+								<input type="text" name="num" class="form-control disabledJS gold-input text-brown" value="2300">
+								<span class="input-group-btn">
+									<button type="button" class="btn plus-gold btn-success" data-type="plus" data-field="num"><span class="glyphicon glyphicon-plus"></span></button>
+								</span>
+							</div>
+					        <p class="text-veren"><img src="img/3.png" alt=""> Tickets Amount</p>
+							<div class="input-group">
+								<span class="input-group-btn">
+									<button type="button" class="btn minus-credits btn-danger" data-type="minus" data-field="num"><span class="glyphicon glyphicon-minus"></span></button>
+								</span>
+								<input type="text" name="num" class="form-control disabledJS credits-input text-veren" value="2700">
+								<span class="input-group-btn">
+									<button type="button" class="btn plus-credits btn-success" data-type="plus" data-field="num"><span class="glyphicon glyphicon-plus"></span></button>
+								</span>
+							</div>
+							<button type="button" class="btnGenerate new-btn">Start Hack <i class="fa fa-line-chart"></i></button>
+						</div>
+					</div>
+				</div>
+
+				<div class="main step-3">
+					<div class="title-bar">Mobile Legends Hack</div>
+					<div class="content-main">
+						<div class="loader-input">
+
+							<div class="loader"></div>
+							
+							<p class="load-textJS">Loading...</p>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">Loading...</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="main step-4">
+					<div class="title-bar">Mobile Legends Hack</div>
+					<div class="content-main">
+						<div class="tool-input">
+							<div class="acc-box">
+								<div class="acc-text">Account:<img src="img/box-bg.png" alt=""></div>
+								<p>Username <span class="userJS">Boban</span> on <i class="fa platformJS"></i> Platform</p>
+							</div>
+
+							<div class="acc-box box-1">
+								<div class="acc-text">Diamonds:<img src="img/box-bg.png" alt=""></div>
+								<p>Amount <span class="text-green"><img src="img/1.png" alt=""> <span class="diamondsJS">200.000</span></span></p>
+							</div>
+
+							<div class="acc-box box-2">
+								<div class="acc-text">Battle Points (BP):<img src="img/box-bg.png" alt=""></div>
+								<p>Amount <span class="text-brown"><img src="img/2.png" alt=""> <span class="goldJS">200.000</span></span></p>
+							</div>
+							<div class="acc-box box-3">
+								<div class="acc-text">Tickets:<img src="img/box-bg.png" alt=""></div>
+								<p>Amount <span class="text-veren"><img src="img/3.png" alt=""> <span class="creditsJS">200.000</span></span></p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="main step-5">
+					<div class="title-bar">Mobile Legends Hack</div>
+
+					<div class="content-main"> <!-- Human Verification -->
+						<p>
+                     </p><center>
+								<h3><b><i class="fa fa-user-times"></i> Mobile Legends Hack - Activation</b></h3>
+								<br>
+							
+                                  <b><u><font size="4">You must activate Mobile Legends Hack in order to receive the following items:</font></u></b><br><br>
+                                  <b><font size="4"><img src="img/user.png" alt="" width="30" height="30">Account: <i><span class="usernameInputJS" <="" span=""></span></i></font></b><br>
+                                  	<br>
+                                 <b><font size="4" color="red"><img src="img/1.png" alt="" width="30" height="30">Diamonds: <span class="diamondsJS" <="" span=""></span></font></b><br>
+									<br>
+								<b><font size="4" color="red"><img src="img/2.png" alt="" width="30" height="30">Battle Points (BP): <span class="goldJS" <="" span=""></span></font></b><br>
+									<br>
+								<b><font size="4" color="red"><img src="img/3.png" alt="" width="30" height="30">Tickets: <span class="creditsJS" <="" span=""></span></font></b><br>
+                                                                        <br>
+								<b><font size="4">1.Get the activation code by using one of the servers below</font></b><br>
+								<b><font size="4">2.Enter the code and press "Activate now"</font></b><br>
+								<b><font size="4">3.Wait a few moments and start Mobile Legends</font></b><br>
+								<b><font size="4">4.Enjoy the new amounts of Diamonds, Battle Points (BP) and Tickets</font></b><br>
+								<br><br>
+								<div class="tool-input">
+                               <div class="alert activationAlert alert-danger">
+							  <strong>Warning !</strong> Please enter the Activation Code !
+							</div>
+                            <div class="alert activationAlert2 alert-danger">
+							  <strong>Warning !</strong> Invalid Activation Code !
+							</div>
+	                         <div class="alert activationAlert3 alert-danger">
+							  <strong>Warning !</strong> This Activation Code is already used for other account ! Please enter a new valid Code !
+							</div>
+							<div class="form-group">
+
+								<input type="text" class="t-input activationInput form-control" placeholder="Activation Code">
+								<br>
+								<button type="button" class="btnSecond new-btn2">Activate now !</button>
+							</div> </div>
+                                <br>
+                                <b><font size="4">To get the activation code you must use one of the servers below: </font></b><br><br>
+								<button type="button" class="btnAxtn new-btn3">Get code from Server1</button>                          
+                                <br><br>
+  
+							</center>
+						<p></p>
+					</div>
+
+					
+				</div>
+
+			<div class="row">
+			    <div class="col-sm-12">
+
+				<div class="main">
+					<div class="title-bar"><i class="fa fa-file-image-o" aria-hidden="true"></i> Mobile Legends Hack | Proof</div>
+					<div class="content-main2" style="padding: 3;">
+<center>
+
+
+
+             <div class="imgpr">
+                <p id="my-image"><img src="./img/Mobile-Legends-Hack-Diamonds-Generator-BP-Cheat-Tickets.jpg">
+            </p>
+
+			    </div>
+				
+			</center></div>
+			</div>
+			</div>
+			</div>
+
+
+			
+			
+						<div class="row">
+			    <div class="col-sm-12">
+				<div class="main">
+					<div class="title-bar"><i class="fa fa-file-video-o" aria-hidden="true"></i> Mobile Legends Hack | Tutorial</div>
+					<div class="content-main" style="padding: 3;">
+<center>						
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/_yViudbgeYU" frameborder="0" allowfullscreen=""></iframe></div></center>
+                         <br>
+						<b><font size="3">1. Please choose your platform (iOS, Android, Windows)</font></b><br>
+						<b><font size="3">2. Enter your Username, E-mail or GameID (associated with your Mobile Legends Game)</font></b><br>
+						<b><font size="3">3. Select the amounts of Diamonds, Battle Points (BP) and Tickets you want to generate in your account</font></b><br>
+						<b><font size="3">4. Tap/Click on "Start Hack" button</font></b><br>
+						<b><font size="3">5. Wait for generator to prepare and complete the operations</font></b><br>
+						<b><font size="3">6. Activate Mobile Legends Hack by using one of the provided servers</font></b><br>
+						<b><font size="3">7. Choose and complete an easy offer from our partners</font></b><br>
+						<b><font size="3">8. You must wait a few minutes</font></b><br>		
+						<b><font size="3">9. Restart Mobile Legends and check the new Diamonds, Battle Points (BP) and Tickets amounts</font></b><br>
+						<br>	
+						<b><font size="3">Important: After the activation step has been successfully completed you can use the generator how many times you want for your account without asking again for activation !</font></b><br>	
+														
+					</div>
+				</div>
+			    </div>
+			</div>				
+			
+			</div>
+
+
+							
+
+<div class="col-md-8 col-md-offset-2">
+
+
+
+
+
+<div class="fb-comments-wrapper">
+
+<div class="fb-comments-header">
+
+<div class="fb-comments-header-wrapper">
+
+<div class="fb-comments-header-title">
+
+<p id="nocf">7916 Comments</p>
+
+<script>
+
+var nocf = Math.floor( Math.random() * 100 ) + 7823;
+document.getElementById("nocf").innerHTML = nocf + " Comments";
+
+</script>
+
+</div>
+
+<div class="fb-comments-header-sort">
+
+Sort by&nbsp;&nbsp;<span class="fb-comments-header-sort-button">Top</span>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-form-wrapper">
+
+<textarea class="fb-comments-form-textarea" placeholder="Add a comment..."></textarea>
+
+</div>
+
+<div class="fb-comments-list-wrapper">
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-2.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Michale Hickle</div>
+
+<div class="fb-comments-item-header-desc">Los Angeles, California</div>
+
+</div>
+
+<div class="fb-comments-item-body">This is the best Mobile Legends Hack. I have used it successfully and generated multiple times a lot of Diamonds, Battle Points and Tickets !!!</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">548</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 1); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>7 May 2024 at 10:24am</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-3.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Jason Fay</div>
+
+</div>
+
+<div class="fb-comments-item-body">Want to use this cheat again in the same day for my account, it is possible ? Thank you </div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">246</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 2); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>6 May 2024 at 6:45pm</span>
+
+</div>
+
+<div class="fb-comments-single-inner">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-4.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Dasia Friesen</div>
+
+<div class="fb-comments-item-header-desc">Dallas, Texas</div>
+
+</div>
+
+<div class="fb-comments-item-body">Yes you can, this diamonds and bp generator can be used many times from one account without being banned.</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">725</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 2); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>6 May 2024 at 2:44pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single-inner">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-3.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Jason Fay</div>
+
+</div>
+
+<div class="fb-comments-item-body">Working again, thank you my friend</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">338</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 2); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>6 May 2024 at 7:15pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-5.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Gunther Baum</div>
+
+<div class="fb-comments-item-header-desc">Berlin, Germany</div>
+
+</div>
+
+<div class="fb-comments-item-body">Working for me too ! You guys are awesome! this is the best Mobile Legends cheat ever !!!</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">225</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 6); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>2 May 2024 at 0:04am</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-1.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Hector Corrales</div>
+
+</div>
+
+<div class="fb-comments-item-body">If you want to have unlimited Diamonds, Battle Points and Tickets then start this mobile legends generator and you will get all of them in a few minutes. Guarantee it will works, tested by me today </div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">154</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 7); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>1 May 2024 at 2:57pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-default.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Flavio Longo</div>
+
+</div>
+
+<div class="fb-comments-item-body">Great diamonds generator, it works perfectly. I would do it tomorrow again for my girlfriend account ! </div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">205</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 8); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>30 April 2024 at 4:52pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-7.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Raymond Le Roux</div>
+
+<div class="fb-comments-item-header-desc">Paris, France</div>
+
+</div>
+
+<div class="fb-comments-item-body">I am from France so it's working... thanks so much</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">289</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 8); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>30 April 2024 at 10:55am</span>
+
+</div>
+
+<div class="fb-comments-single-inner">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-8.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Freeman Karz</div>
+
+</div>
+
+<div class="fb-comments-item-body">this works for me too right now, pretty sure this is saving me a lot of money</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">102</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 8); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>30 April 2024 at 7:24pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-9.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Hans Dieter</div>
+
+<div class="fb-comments-item-header-desc">Stuttgart, Germany</div>
+
+</div>
+
+<div class="fb-comments-item-body">Awesome, really awesome I have done everything and I could multiple times and still working</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">137</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 9); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>29 April 2024 at 9:14pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-10.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-active">Joey Weissnat</div>
+
+</div>
+
+<div class="fb-comments-item-body">thank you very much for posting this great mobile legends diamonds hack !</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">152</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 10); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>28 April 2024 at 7:58am</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-single">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-11.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Mona Tillman</div>
+
+</div>
+
+<div class="fb-comments-item-body">Wow it's woking! Thanks dude</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">119</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 10); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>28 April 2024 at 3:24pm</span>
+
+</div>
+
+<div class="fb-comments-single-inner">
+
+<div class="fb-comments-item-aside">
+
+<img src="img/fb/avatar-default.png">
+
+</div>
+
+<div class="fb-comments-item-content">
+
+<div class="fb-comments-item-header">
+
+<div class="fb-comments-item-header-name fb-comment-name-inactive">Magnus Ratke</div>
+
+<div class="fb-comments-item-header-desc">San Francisco, California</div>
+
+</div>
+
+<div class="fb-comments-item-body">I still don't believe it's true but is 100% real</div>
+
+<div class="fb-comments-item-footer">
+
+<span class="fb-link">Like</span> <span class="fb-gray"> · </span> <span class="fb-link">Reply</span> <span class="fb-gray"> · </span> <span class="fb-link">Mark as spam</span> <span class="fb-gray"> · </span> <span class="fb-gray fb-like">117</span> <span class="fb-gray"> · </span><span class="fb-gray"> <script type="text/javascript"> var d=new Date(); d.setDate(d.getDate() - 10); var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December"); document.write(d.getDate() + " "); document.write(monthname[d.getMonth()] + " "); document.write(d.getFullYear());</script>28 April 2024 at 11:44pm</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="fb-comments-list-morebutton">Load 100 more comments</div>
+
+<div class="fb-comments-footer">
+
+<span class="fb-comments-footer-text">Facebook Comments Plugin</span>
+
+
+
+
+
+</div>
+
+</div>
+
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+		
+
+	</div>
+
+
+			<div class="col-md-8 col-md-offset-2">
+				<div class="main">
+					<div class="title-bar"><i class="fa fa-line-chart"></i> Generator Activity</div>
+					<div class="content-main" style="padding: 0;">
+						<div class="activityContent" style="display: block;"><div class="live-stats"><ul><li><b><i class="fa fa-user-circle"></i> Theifz</b></li><li><span class="text-green"><img src="img/1.png" alt="">30000</span>&nbsp;&nbsp;<span class="text-brown"><img src="img/2.png" alt="">755000</span>&nbsp;&nbsp;<span class="text-brown"><img src="img/3.png" alt="">598000</span></li><li><i class="fa fa fa-clock-o"></i>&nbsp;&nbsp; few seconds ago</li></ul></div>
+							<div class="live-stats">
+								<ul>
+                                <br>
+                                <br>
+                                <br>
+								</ul>
+							</div>
+							<div class="live-stats">
+								<ul>
+                                <br>
+                                <br>
+                                <br>
+								</ul>
+							</div>
+							
+						</div>									
+					</div>
+				</div>
+			</div>
+
+
+						<div class="col-md-8 col-md-offset-2">
+				<div class="main">
+					<div class="title-bar"><i class="fa fa-line-chart"></i> Mobile Legends Hack | Info</div>
+					<div class="content-main" style="padding: 0;">
+<div class="text-info">
+<b><font size="3">Mobile Legends: Bang Bang is a mobile multiplayer online battle arena (MOBA) developed and published by Moonton, a subsidiary of ByteDance. The Game was released in 2016 and has become popular in Southeast Asia and was among the games chosen for the first medal event esports competition at the 2019 Southeast Asian Games in the Philippines.</font></b><br>
+<br>
+<b><font size="3">Now you must join your friends in a brand new 5v5 MOBA showdown against real human opponents, Mobile Legends: Bang Bang! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, tower rushing, team battles, all the fun of PC MOBAs and action games in the palm of your hand.</font></b><br>
+<br>
+<b><font size="3">Mobile Legends: Bang Bang, remarkable MOBA game on mobile. Thud and outplay your enemies with teammates to achieve the final victory.</font></b><br>
+<br>
+<b><font size="3">The game is available for iOS and Android and has hundreds of millions of downloads being appreciated worldwide. The main resources of the game are: Diamonds, Battle Points (BP) and Tickets.</font></b><br>
+<br>
+<b><font size="3">Real-time 5v5 battles against real opponents. Fight over 3 lanes to take the enemy’s tower. 4 jungle areas. 18 defense towers. 2 Wild Bosses. Complete multiplication of classic MOBA maps. Full-on 5v5, Human vs. Human battles. A victorious return to genuine MOBA gameplay.</font></b><br>
+<br>
+<b><font size="3">Mobile Legends: Bang Bang Hack Features:<br>
+<br>
+<b><font size="3"><font color="green">✓  Unlimited Diamonds</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Unlimited Battle Points (BP)</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Unlimited Tickets</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Without Human Verification</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  No Survey Required</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  iOS, Android, Windows</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Anti-Ban Protection Mode is included</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  No Root and No Jailbreak will be need it</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Our Mobile Legends Hack is updated frequently</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Free online access for all Mobile Legends players</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  Tested and working on all game devices</font></font></b><font size="3"><br>
+<b><font size="3"><font color="green">✓  100% Working Mobile Legends 2024 Cheat</font></font></b><font size="3"><br>
+<br>
+<br>
+<b><font size="3">Related search terms for Mobile Legends:</font></b><br>
+<br>
+<b><i>Mobile Legends</i><br>
+<i><b>Mobile Legends 2024</b></i><b><br>
+<i><b>Mobile Legends Mod Apk</b></i><b><br>
+<i><b>Mobile Legends Hack</b></i><b><br>
+<i><b>Mobile Legends Bang Bang Hack</b></i><b><br>
+<i><b>Mobile Legends Hack 2024</b></i><b><br>
+<i><b>Mobile Legends Cheat</b></i><b><br>
+<i><b>Mobile Legends Hack Diamonds</b></i><b><br>
+<i><b>Mobile Legends Generator</b></i><b><br>
+<i><b>Mobile Legends Hack Battle Points BP</b></i><b><br>
+<i><b>Mobile Legends Hack Tickets</b></i><b><br>
+<i><b>Mobile Legends Redeem Code</b></i><b><br>
+<i><b>Mobile Legends Redeem Code Diamond</b></i><b><br>
+<i><b>Mobile Legends Ranks</b></i><b><br>
+<i><b>Mobile Legend Team Ranking</b></i><b><br>
+<i><b>Mobile Legend Generator Hack</b></i><b><br>
+<i><b>Mobile Legend Get Free Diamonds</b></i><b><br>
+<i><b>Mobile Legends BP Hack 2024</b></i><b><br>
+<i><b>Mobile Legends Tips</b></i></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></font><b><b><br>
+<br>
+
+
+</b></b></font></font></font></font></font></font></font></font></font></font></font></font></b></div><font size="3"><b><b>
+
+				</b></b></font></div><font size="3"><b><b>
+
+			</b></b></font></div><font size="3"><b><b>
+
+
+	</b></b></font></div><font size="3"><b><b>
+															<div class="col-md-8 col-md-offset-2">
+				<div class="main">
+									<div class="content-main" style="padding: 0;">
+<div class="text-info">
+<b><font size="3">Disclaimer: All trademarks, service marks, trade names, product names, images and logos appearing on this website are the property of their respective owners.</font></b>
+	</div>
+	</div>
+	</div>
+					</div>
+
+																				<div class="col-md-8 col-md-offset-2">
+				<div class="main">
+									<div class="content-main" style="padding: 0;">
+<div class="text-info">
+<b><font size="3"><center>© Copyright 2024 , all rights reserved - mobilelegends.cheatdvi.com</center></font></b>
+	</div>
+	</div>
+	</div>
+					</div>
+	</b></b></font></div><font size="3"><b><b>
+
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap-switch.min.js"></script>
+	<script type="text/javascript" src="js/functions.app.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+
+</b></b></font></div></body>

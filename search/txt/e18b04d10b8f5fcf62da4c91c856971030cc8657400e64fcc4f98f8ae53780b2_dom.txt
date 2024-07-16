@@ -1,0 +1,1448 @@
+<head><meta charset="UTF-8"><title>
+2024 Çekiliş Başvuru Alanı</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=yes">
+<meta name="description" content="Dakikalar içinde ihtiyaç kredisi başvurusu yapın! 3 ay ertelemeli kredi seçeneği ve avantajlı bireysel ihtiyaç kredisi faizleri için QNB Finansbank'a tıklayın!">
+<meta name="keywords" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="robots" content="all">
+        <link rel="canonical" href="">
+    
+<meta name="apple-itunes-app" content="app-id=739655617, affiliate-data=myAffiliateData, app-argument=myURL">
+
+
+
+
+<link rel="shortcut icon" href="images/finansbank.gif">
+
+
+<link rel="preload" as="image" href="/medium/SitemapNodePage-FirstImage-22225-2x.vsf">
+<link rel="preload" href="/_assets/fonts/355865_1_0.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/_assets/fonts/355865_2_0.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/_assets/css/plugins/fonts/icomoon.woff2?wg7531" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" as="image" href="/medium/SitemapNodePage-FirstImage-22225-2x.vsf">
+
+<meta name="application-name" content=" ">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="pagecategory" content="Diğer">
+<!-- FACEBOOK GRAPH -->
+<meta property="og:title" content="İhtiyaç Kredisi Hesaplama ve İhtiyaç Kredisi Faiz Oranları 2024">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.qnbfinansbank.com/bireysel-ihtiyac-kredisi">
+<meta property="og:image" content="https://www.qnbfinansbank.com/_assets/img/fb-logo.png">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta property="og:description" content="Dakikalar içinde ihtiyaç kredisi başvurusu yapın! 3 ay ertelemeli kredi seçeneği ve avantajlı bireysel ihtiyaç kredisi faizleri için QNB Finansbank'a tıklayın!">
+<!-- Twitter Metas -->
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@">
+<meta property="twitter:title" content="İhtiyaç Kredisi Hesaplama ve İhtiyaç Kredisi Faiz Oranları 2024">
+<meta property="twitter:url" content="https://www.qnbfinansbank.com/bireysel-ihtiyac-kredisi">
+<meta property="twitter:image" content="https://www.qnbfinansbank.com/_assets/img/fb-logo.png">
+<meta property="twitter:description" content="Dakikalar içinde ihtiyaç kredisi başvurusu yapın! 3 ay ertelemeli kredi seçeneği ve avantajlı bireysel ihtiyaç kredisi faizleri için QNB Finansbank'a tıklayın!">
+<meta name="theme-color" content="#870052">
+
+
+<!--[if lt IE 9]>
+    <script src="/_assets/js/core/html5shiv.min.js"></script>
+    <script src="/_assets/js/core/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-XJ2FYX6T2D&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-FQKPBBZ1VH&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MFJ2VK"></script><script async="" src="js/gtm.js"></script><script>var dataLayer = [];</script>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MFJ2VK');</script>
+    <!-- End Google Tag Manager -->
+
+
+<link href="css/magiclick.core.min.css" type="text/css" rel="stylesheet" media="screen">
+<link href="css/magiclick.min.css" type="text/css" rel="stylesheet" media="screen">
+
+
+    <script src="js/qnbfinansbank.com.prod.js"></script>
+    <script type="text/javascript">
+        var languegeRedirectionUrl = '/en/';
+    </script>
+<style type="text/css">.im-caret {
+	-webkit-animation: 1s blink step-end infinite;
+	animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+	from, to {
+		border-right-color: black;
+	}
+	50% {
+		border-right-color: transparent;
+	}
+}
+
+@-webkit-keyframes blink {
+	from, to {
+		border-right-color: black;
+	}
+	50% {
+		border-right-color: transparent;
+	}
+}
+
+.im-static {
+	color: grey;
+}
+</style></head><body>
+
+    <script type="application/ld+json">"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Bireysel İhtiyaç Kredisi Nedir?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Bireylerin eğitim, evlilik, seyahat gibi masraflarına ya da mevcut borçlarının finansmanına yönelik nakit ihtiyaçlarını karşılamak amacıyla bankamızca sunulan finansal destektir.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç Kredisi Nasıl Hesaplanır?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Kredi tutarı ve vadesi göz önünde bulundurularak güncel faiz oranları üzerinden ihtiyaç kredisi hesaplaması yapılmaktadır.\"}},{\"@type\":\"Question\",\"name\":\"Ne Kadar İhtiyaç Kredisi Çekebilirim?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"QNB Mobil ve QNB Finansbank İnternet şubemizden, Web sitemizden veya Çağrı Merkezimizden 100.000 TL’ ye kadar ihtiyaç kredisine başvurabilirsiniz. Daha yüksek tutarda başvuruda bulunmak için QNB Finansbank şubelerini ziyaret edebilir, dilediğiniz tutarda ihtiyaç kredisine başvurabilirsiniz.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç Kredisi Vade Sınırı Nedir?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"50.000 TL’ye kadar olan ihtiyaç kredilerinde vade sınırı yasal olarak 36 ay ile sınırlandırılmıştır. 50.000 TL üzerinde tutarlar için maksimum 24 ay vade ile başvuru yapılabilir.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç Kredisi Başvuru Koşulları Nelerdir?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Kredi başvurusunda 18 yaşından büyük olma koşulu aranmaktadır. QNB Finansbank kredi politikaları kapsamında başvuruları serbestçe değerlendirme hakkına sahiptir.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç Kredisi İçin Hangi Evraklar Gerekmektedir?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Genel Belgeler: Başvuru formu Nüfus Cüzdanı veya noter tasdikli suret Adres Kayıt Sistemi'nde adres bilgisinin güncel olmaması halinde; sabit telefon, elektrik, doğalgaz, su, cep telefonu hattı faturalarından biri (son 3 ay içinde düzenlenmiş) Gelir Belgesi (Gerekli görülmesi halinde) Kredilere Göre Farklılık Gösteren Belgeler: Varsa tapu fotokopileri, kira kontratları, araç ruhsatları, mevduat ve diğer gelir belgeleri Yapılacak inceleme sonrasında bankamızın ilave belge ve teminat talep hakkı saklıdır\"}},{\"@type\":\"Question\",\"name\":\"Başvuru sonucumu ne zaman öğrenebilirim?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"QNB Finansbank kredi başvurularını müşteri özelinde değerlendirmeye aldıktan sonra en kısa süre içerisinde sonuçlandırmaktadır. İhtiyaç kredisi başvurunuzun sonucunu QNB Mobil'den, Call Center kanalımızdan ve QNB Finansbank şubelerinden takip edebilirsiniz.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç kredisi faiz oranları ve kredi tahsis ücreti hakkında nasıl bilgi alabilirim?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sayfada yer alan örnek maliyet tablosundan, faiz oranları, kredi tahsis ücreti ve tahmini sigorta primi tutarı gibi bilgilere erişebilirsiniz. Tüm ürünlerimiz için uygulanan ücret bilgilerine ise <a href='https://www.qnbfinansbank.com/yasal/urun-hizmet-ucretleri'>buradan</a> ulaşabilirsiniz.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç kredisi başvurusu sırasında kefil gösterme zorunluluğum var mı?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Kredi başvurusu sırasında kefil gösterme zorunluluğu yoktur. Ancak kredi başvurunuz değerlendirmeye alındıktan sonra kredi tahsis koşulları kapsamında kefil gösterilmesi talep edilebilir.\"}},{\"@type\":\"Question\",\"name\":\"İhtiyaç kredisinde esnek ödeme planı seçenekleri sunuyor musunuz?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Evet, kredi vadesi boyunca her ay eşit taksit ödemeli, düzenli ödeme planının yanı sıra esnek ödeme planı seçeneklerimiz de mevcuttur.\"}}]},{\"@type\":\"LoanOrCredit\",\"name\":\"İhtiyaç Kredisi\",\"loanTerm\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"3\",\"maxValue\":\"36\",\"unitCode\":\"MON\"},\"interestRate\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"3.99\"},\"amount\":{\"@type\":\"MonetaryAmount\",\"minValue\":\"1000\",\"maxValue\":\"150000\",\"currency\":\"TRY\"}},{\"@type\":\"FinancialProduct\",\"name\":\"Bireysel İhtiyaç Kredisi\",\"description\":\"QNB Finansbank'ın sunduğu Bireysel İhtiyaç Kredisi ile anında nakit ihtiyaçlarınızı karşılayın. Esnek ödeme seçenekleri ve rekabetçi faiz oranları ile ihtiyaçlarınıza özel çözümler sunuyoruz. Kredi vadesi 36 aydır.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"QNB Finansbank\",\"url\":\"https://www.qnbfinansbank.com\"},\"annualPercentageRate\":{\"@type\":\"QuantitativeValue\",\"value\":\"3.99\",\"unitText\":\"APR\"},\"feesAndCommissionsSpecification\":\"https://www.qnbfinansbank.com/bireysel-ihtiyac-kredisi#fees\",\"url\":\"https://www.qnbfinansbank.com/bireysel-ihtiyac-kredisi\",\"offers\":{\"@type\":\"Offer\",\"url\":\"https://www.qnbfinansbank.com/bireysel-ihtiyac-kredisi\",\"priceCurrency\":\"TRY\",\"price\":\"1000\",\"eligibleQuantity\":{\"@type\":\"QuantitativeValue\",\"value\":\"150000\",\"unitCode\":\"TRY\"},\"description\":\"Bu özel teklif, 36 ay vade ile sunulmaktadır.\"}}]}"</script>
+    <div class="notify notify-alert hide">
+        <div class="container">
+            <table>
+                <tbody><tr>
+                    <td style="min-width: 67px">
+                        <img src="images/notify-icon.png" alt="bildirim ikonu" class="img-responsive"></td>
+                    <td style="width: 85%">
+                        <div class="text"></div>
+                    </td>
+                    <td style="min-width: 170px;">
+                        <div class="buttons">
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aUkpy9HfnT26ovgrByYI2DOtwGinyCwKbvG8z75IcGTh8hvYwKxp/MdERGV88kwpR/mdlQWGFDd7KClNk2v2FXfgA5K7bUX/lr0N39lamH6eeWgd2nNobcAochdsBvKf4NB/MOYhBuYxbmrJKyuvFJvdGWZT1Hv9/2xa1uY0F02yW7Xm56s2j8n5fhg2PYrJegwwLQxa0kfcFuc7Z+af6q+B8jxW5KRFDQN5IIS88rRxiJ+bfkm+D3X9I6M5XqewPfSm8UB+RVXzMlmjy+lYX+v35CpHv33HLZw3v3pl1HXzyJUvLnNipbX0/hn1/y5/+ErdQFXAUC55We0J4uiJpm0yU7h3q/pYbW/1xrux+kth6aSWvVdJ6MNjgwMAt2vkkjeoaA==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3A2110E1">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div>
+        <div class="wrapper">
+            <div class="wrap-content">
+                <div class="container skipHeaderMenuContainer"><a class="button button-text button-text-blue" id="skipHeaderMenu" href="javascript:;">İçeriğe Ulaşmak için Tıklayınız</a></div>
+
+                
+                <div class="belt">
+                    <div class="container">
+                        <div class="belt-image"></div>
+                    </div>
+                </div>
+
+                <div class="Head">
+                    <div class="overlay-head">
+                    </div>
+                    <div class="belt">
+                        <div class="container">
+                            <div class="belt-image"></div>
+                        </div>
+                    </div>
+                    <div class="Header">
+                        <div class="isTopMenuNode">
+                            <div class="container">
+                                <a href="/" class="qnb-logo">
+                                    <img class="Header-logo" src="images/logo.png" alt="QNB Finansbank Logo Link"></a>
+                                <header class="Header-content">
+
+                                    <!-- Navigation -->
+                                    <div class="Header-navigation hidden-xs hidden-sm fadeInDownTopMenu">
+                                        
+                                        <nav aria-label="Üst Linkler" class="Header-navigation-top">
+<ul>
+	<li class="Header-navigation-top-item"><a href="/yasal/urun-hizmet-ucretleri"><span class="icon-urun-ve-hizmetler" data-text="Ürün ve Hizmet Ücretleri"></span>Ürün ve Hizmet Ücretleri</a></li>
+	<li class="Header-navigation-top-item"><a href="/yasal/sube-ve-atm">ATM ve Şubeler</a></li>
+	<li class="Header-navigation-top-item "><a class="lang-item" href="#">Türkiye <i aria-hidden="true" class="icon-Lang_Down"></i></a></li>
+	<li class="Header-navigation-top-item"><a class="languegeRedirectionLink" href="/en/">English</a></li>
+</ul>
+</nav>
+
+
+                                        <nav class="Header-navigation-main" aria-label="Ana Menü">
+                                            
+
+<ul class="list-nav">
+    
+            
+                    <li class="Header-navigation-main-item Header-navigation-menu-item">
+                        <a href="javascript:;" target="_self" aria-haspopup="true">Bireysel</a>
+                        <div class="Header-navigation-main-submenu" aria-hidden="true">
+                            <div class="menu-col-2">
+                                
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/bireysel-ihtiyac-kredisi" target="_self" style="padding-top: 0px;">
+                                                İhtiyaç Kredisi
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/bireysel-tuketici-kredileri" target="_self" style="padding-top: 0px;">
+                                                Krediler
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/birikim-ve-mevduat-urunleri" target="_self" style="padding-top: 0px;">
+                                                Mevduat
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/kartlar" target="_self" style="padding-top: 0px;">
+                                                Kartlar
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/yatirim" target="_self" style="padding-top: 0px;">
+                                                Yatırım
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/sigortalar" target="_self" style="padding-top: 0px;">
+                                                Sigortalar
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/bireysel-emeklilik" target="_self" style="padding-top: 0px;">
+                                                Emeklilik
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/diger-hizmetler-ve-urunler" target="_self" style="padding-top: 0px;">
+                                                Diğer Hizmetler ve Ürünler
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/meslek-gruplarina-ozel-hizmetler" target="_self" style="padding-top: 0px;">
+                                                Meslek Gruplarına Özel
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/724-bankacilik" target="_self" style="padding-top: 0px;">
+                                                Dijital Bankacılık
+                                            </a>
+                                        </div>
+
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/bireysel/yabanci-musteriler" target="_self" style="padding-top: 0px;">
+                                                Yabancı Müşteriler
+                                            </a>
+                                        </div>
+
+                                    
+                            </div>
+                            <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-first p20" href="">QNB FİRST</a> <a class="header-private p20" href=""> QNB PRİVATE</a><a class="header-private p20" href=""> YABANCI MÜŞTERİLER</a></div>
+
+                        </div>
+                    </li>
+                
+        
+            
+                    <li class="Header-navigation-main-item Header-navigation-menu-item">
+                        <a href="javascript:;" target="_self" aria-haspopup="true">KOBİ</a>
+                        <div class="Header-navigation-main-submenu smefarm" aria-hidden="true">
+                            <div class="menu-col-2">
+                                <div class="Header-navigation-main-submenu-links">
+                                    
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi-kredileri" target="_self" style="padding-top: 0px;">
+                                                    Krediler
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi/mevduat-ve-yatirim-urunleri" target="_self" style="padding-top: 0px;">
+                                                    Mevduat ve Yatırım Ürünleri
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi/kobi-pos-cozumleri" target="_self" style="padding-top: 0px;">
+                                                    POS
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi/kobi-ticari-kartlar" target="_self" style="padding-top: 0px;">
+                                                    Kartlar 
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi-sigortalar" target="_self" style="padding-top: 0px;">
+                                                    Sigortalar
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi-leasing-and-faktoring" target="_self" style="padding-top: 0px;">
+                                                    Leasing &amp; Faktoring
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/dijitalkopru" target="_self" style="padding-top: 0px;">
+                                                    Dijital Köprü 
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi-nakit-yonetimi-ve-tahsilat-urunleri" target="_self" style="padding-top: 0px;">
+                                                    Nakit Yönetimi ve Tahsilat Ürünleri
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/kobi-diger-hizmetler-ve-urunler" target="_self" style="padding-top: 0px;">
+                                                    Diğer Hizmetler ve Ürünler
+                                                </a>
+                                            </div>
+                                        
+                                            <div class="Header-navigation-main-submenu-tbl">
+                                                <a class="Header-navigation-main-submenu-item" href="/tarim" target="_self" style="padding-top: 0px;">
+                                                    Tarım Ürünleri
+                                                </a>
+                                            </div>
+                                        
+                                </div>
+                            </div>
+                            <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-dijital-kopru p20" href="">DİJİTAL KÖPRÜ</a></div>
+
+                        </div>
+                    </li>
+                
+        
+            
+                    <li class="Header-navigation-main-item Header-navigation-menu-item">
+                        <a href="javascript:;" target="_self" aria-haspopup="true">Ticari/Kurumsal</a>
+                        <div class="Header-navigation-main-submenu" aria-hidden="true">
+                            <div class="menu-col-2">
+                                
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kurumsal-krediler" target="_self" style="padding-top: 0px;">
+                                                Krediler
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kurumsal-yatirim-ve-mevduat" target="_self" style="padding-top: 0px;">
+                                                Mevduat ve Yatırım Ürünleri
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kurumsal-turev-urunler" target="_self" style="padding-top: 0px;">
+                                                Ticari ve Kurumsal Türev Ürünler
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kurumsal-proje-finansmani" target="_self" style="padding-top: 0px;">
+                                                Proje Finansmanı
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/nakit-yonetimi" target="_self" style="padding-top: 0px;">
+                                                Nakit Yönetimi
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kurumsal-sigorta-urunleri" target="_self" style="padding-top: 0px;">
+                                                Sigortalar
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/dis-ticaret" target="_self" style="padding-top: 0px;">
+                                                Dış Ticaret
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/ticari-kartlar" target="_self" style="padding-top: 0px;">
+                                                Kartlar
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/kobi/kobi-pos-cozumleri" target="_self" style="padding-top: 0px;">
+                                                POS
+                                            </a>
+                                        </div>
+                                    
+                                        <div class="Header-navigation-main-submenu-tbl">
+
+                                            <a class="Header-navigation-main-submenu-item" href="/dijitalkopru" target="_self" style="padding-top: 0px;">
+                                                Dijital Köprü 
+                                            </a>
+                                        </div>
+                                    
+                            </div>
+                            <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-dijital-kopru p20" href="">DİJİTAL KÖPRÜ</a></div>
+
+                        </div>
+                    </li>
+                
+        
+    <li class="Header-navigation-main-item Header-navigation-main-search-link"><a href="javascript:;" aria-expanded="false"><i class="icon-Arama" aria-hidden="true"></i><span class="sr-only">Arama</span></a></li>
+    <li class="Header-navigation-main-item Header-navigation-main-internet-branch online-transactions-tr" id="online-transactions"><a class="button button-purple" href="javascript:;">Online İşlemler</a>
+        <ul class="online-islemler">
+            <li><a class="button button-purple popup-link" data-width="1000" data-height="547" href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>İnternet Şubesi</a></li>
+            <li><a class="button button-purple popup-link" data-width="1000" data-height="547" href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>Dijital Köprü</a></li>
+            <li><a class="button button-purple popup-link" data-width="1000" data-height="547" href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>FinansŞifre Al</a></li>        
+        </ul>
+    </li>
+    <li class="Header-navigation-main-item Header-navigation-main-internet-branch online-transactions-en"><a class="button button-purple popup-link" data-width="1000" data-height="547" href="">İnternet Şubesi</a></li>
+</ul>
+
+                                        </nav>
+
+                                        
+                                        <div class="Header-navigation-bottom"><a class="passwordlink" href="">Müşteri Ol</a></div>
+
+
+                                    </div>
+                                    <div class="Header-navigation-mobil hidden-md hidden-lg">
+                                        <nav class="Header-navigation-top" aria-label="Üst Linkler">
+                                            <div>
+                                                
+                                                <div class="Header-navigation-mobil-item">
+                                                    <a href="javascript:;" class="button button-purple online-options" aria-expanded="false">Online İşlemler
+                                                    </a>
+                                                    <ul class="online-islemler">
+                                                        <li><a class="button button-purple " href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>İnternet Şubesi</a></li>
+                                                        <li><a class="button button-purple " href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>Dijital Köprü</a></li>
+                                                        <li><a class="button button-purple " href=""><i class="icon-Hemen_Basvur_ok-right"><span class="path1"></span><span class="path2"></span></i>FinansŞifre Al</a></li>        
+                                                    </ul>
+                                                </div>
+
+                                                <div class="Header-navigation-mobil-item iphone5hidden">
+                                                    <a href="javascript:;" class="searchbtn" aria-expanded="false"><i class="icon-Arama" aria-hidden="true"></i>
+                                                        <span class="sr-only">Arama</span></a>
+                                                </div>
+
+                                                <div class="Header-navigation-mobil-item">
+                                                    <a href="javascript:;" class="mobile-nav" aria-expanded="false"><span></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </nav>
+                                    </div>
+                                    <!--  Search  -->
+                                    <div class="Search-container search-cont hidden-xs hidden-sm" aria-hidden="true" role="search" aria-label="Arama Alanı">
+                                        <i class="icon-Arama" aria-hidden="true"></i>
+                                        <label for="searchTxt" class="sr-only">Arama (En az 3 karakter giriniz.)</label>
+                                        <input class="formcontrol searchTxt" id="searchTxt" placeholder="" autocomplete="off" name="searchTxt" type="text">
+                                        <a class="Search-container-search-button button button-purple">Ara</a>
+                                        <a class="Search-container-close-button button button-purple" href="javascript:;">Kapat</a>
+                                    </div>
+                                    <!--  Search  -->
+
+                                    <!--   QNB Network   -->
+                                    
+                                    <div class="container QnbNetwork-container  hidden-xs hidden-sm">
+<div aria-hidden="true" class="QnbNetwork">
+<p class="QnbNetwork-title">Uluslararası QNB Ağı</p>
+
+<div class="row">
+<div class="QnbNetwork-col">
+<p class="QnbNetwork-subtitle dotted-bottom">Afrika</p>
+
+<ul class="QnbNetwork-column">
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="https://www.qnbalahli.com/sites/qnb/qnbegypt/page/en/en-home.html" target="_blank">Mısır**</a></li>
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="http://www.bcd.ly/" target="_blank">Libya*</a></li>
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="https://www.qnb.com/sites/qnb/qnbsouthsudan/page/en/en-home.html" target="_blank">Güney Sudan(Juba)</a></li>
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="https://www.qnb.com/sites/qnb/qnbsudan/page/en/en-home.html" target="_blank">Sudan</a></li>
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="http://ecobank.com/group/" target="_blank">Togo(Ecobank)**</a></li>
+	<li class="QnbNetwork-column-item dotted-bottom"><a href="https://www.qnb.com.tn/en/" target="_blank">Tunus**</a></li>
+</ul>
+</div>
+
+<div class="QnbNetwork-col">
+<p class="QnbNetwork-subtitle dotted-bottom">Asya</p>
+
+<ul class="QnbNetwork-column">
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbchina/page/en/en-home.html" target="_blank">Çin*</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://qnb.co.id/site/default/master/qnb-indonesia/en" target="_blank">Endonezya**</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbindia/page/en/en-home.html" target="_blank">Hindistan</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbhongkong/page/en/en-home.html" target="_blank">Hong Kong</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbsingapore/page/en/en-home.html" target="_blank">Singapur</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbvietnam/page/en/en-home.html" target="_blank">Vietnam*</a></li>
+</ul>
+</div>
+
+<div class="QnbNetwork-col">
+<p class="QnbNetwork-subtitle dotted-bottom">Avrupa</p>
+
+<ul class="QnbNetwork-column">
+	<li class="QnbNetwork-column-item"><a href="" target="_blank">Fransa</a></li>
+	<li class="QnbNetwork-column-item"><a href="" target="_blank">İsviçre</a></li>
+	<li class="QnbNetwork-column-item"><a href="" target="_blank">Türkiye**</a></li>
+	<li class="QnbNetwork-column-item"><a href="" target="_blank">Birleşik Krallık</a></li>
+</ul>
+</div>
+
+<div class="QnbNetwork-col">
+<p class="QnbNetwork-subtitle dotted-bottom">Körfez İşbirliği Konseyi</p>
+
+<ul class="QnbNetwork-column">
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/cs/Satellite/QNBQatar/en_QA/enHome" target="_blank">Katar</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbksa/page/en/en-home.html" target="_blank">Suudi Arabistan</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbkuwait/page/en/en-home.html" target="_blank">Kuveyt</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnboman/page/en/en-home.html" target="_blank">Umman</a></li>
+	<li class="QnbNetwork-column-item"><a href="http://www.cbiuae.com/" target="_blank">Birleşik Arap Emirlikleri (CBI)**</a></li>
+</ul>
+</div>
+
+<div class="QnbNetwork-col">
+<p class="QnbNetwork-subtitle dotted-bottom">Ortadoğu</p>
+
+<ul class="QnbNetwork-column">
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbiran/page/en/en-home.html" target="_blank">İran*</a></li>
+	<li class="QnbNetwork-column-item"><a href="http://www.mansourbank.com/" target="_blank">Irak (Mansour Bank)**</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.hbtf.com/en" target="_blank">Ürdün (HBTF Bank)**</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnblebanon/page/en/en-home.html" target="_blank">Lübnan</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbsyria/page/ar/ar-home.html" target="_blank">Suriye</a></li>
+	<li class="QnbNetwork-column-item"><a href="https://www.qnb.com/sites/qnb/qnbyemen/page/ar/ar-home.html" target="_blank">Yemen</a></li>
+</ul>
+</div>
+</div>
+
+<ul class="QnbNetwork-column-note">
+	<li class="QnbNetwork-column-note-item">* QNB Temsilcilikleri</li>
+	<li class="QnbNetwork-column-note-item">** İştirakler, Alt Kuruluşlar ve Ortaklıklar</li>
+</ul>
+</div>
+</div>
+
+
+                                    <!--   QNB Network   -->
+                                </header>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content" id="ContentSection">
+                    <a href="javascript:;" class="content-first-link" id="ContentSectionA">Ana içeriğin başı</a>
+                    
+<section class="page-subpage" aria-labelledby="pageh1">
+<div class="bg"></div>
+<div class="container">
+
+<h1 id="pageh1" class="text-white">
+    Başvuru Formu
+</h1>
+<div class="breadcrumb" aria-label="Breadcrumb" role="navigation" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+    
+                    <div class="itemListElement" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="" class="breadcrumb-item"><span class="name" itemprop="name">Ana Sayfa</span></a><meta itemprop="position" content="1"></div>
+                
+                    <div class="itemListElement" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="" class="breadcrumb-item"><span class="name" itemprop="name">Bireysel</span></a><meta itemprop="position" content="2"></div>
+                
+                    <div class="itemListElement" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="" class="breadcrumb-item"><span class="name" itemprop="name">Bireysel Başvurular</span></a><meta itemprop="position" content="3"></div>
+                
+                    <div class="itemListElement" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="" class="breadcrumb-item"><span class="name" itemprop="name">2024 Başvuru Alanı</span></a><meta itemprop="position" content="4"></div>
+                
+    <div class="itemListElement" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name" class="name breadcrumb-item"> Başvuru Alanı</span><meta itemprop="position" content="5"></div>
+
+                    </div>
+                </div>
+            </section></div>
+
+            <!-- primary-calculator-result -->
+            <div class="row primary-calculator-result"></div>
+            <!-- .\ primary-calculator-result -->
+
+            <div class="row">
+                <div class="col-sm-4">
+                 
+                </div>
+                <div class="col-md-4">
+                
+                </div>
+                <div class="col-sm-4">
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- disclaimer -->
+    <div class="note hidden xs-mb-0 sm-mb-15">
+        <p class="text-stone animated fadeIn js-calculator-disclaimer "></p>
+    </div>
+    <!-- .\ disclaimer -->
+
+    <!-- Error Block -->
+    <div class="error-block animated fadeIn hidden"></div>
+    <!-- .\ Error Block -->
+
+    <div class="calculated-result hidden animated fadeIn">
+        <h4 class="xs-mt-10 sm-mt-30 sm-mb-25">Hesaplanan Tutar</h4>
+        <div class="table-border-radius">
+            <table class="table table-responsive table-calculate table-zebra">
+            </table>
+        </div>
+    </div>
+
+    <script type="text/template" class="template-primary-calculator">
+        <div class="col-md-4 maturity-and-rate">
+            <label class="underline">Toplam Ödenecek Faiz</label>
+            <div data-layer-key="toplamOdenecekFaiz" class="sum">{%= rc.ToplamOdenecekFaiz.toString().money(2) %} {%= rc.suffix %}</div>
+        </div>
+        <div class="col-sm-4 installment-amount">
+            <label class="underline">Aylık Taksit Tutarı</label>
+            <div data-layer-key="aylikTaksit" class="sum">{%= rc.AylikTaksitTutari.toString().money(2) %} {%= rc.suffix %}</div>
+        </div>
+        <div class="col-sm-4">
+            <label class="underline">Toplam Geri Ödeme Tutarı</label>
+            <div data-layer-key="topGeriOdeme" class="sum">{%= rc.ToplamGeriOdemeTutari.toString().money(2) %} {%= rc.suffix %}</div>
+        </div>
+        <div class="col-sm-4">
+            <label class="underline">Aylık Faiz Oranı</label>
+            <div data-layer-key="faizTutari" class="sum">%{%= rc.InterestRate.toString().percent() %}</div>
+        </div>
+    </script>
+
+    <script type="text/template" class="template-calculator">
+        <thead>
+            <tr>
+                <th>Tarih</th>
+
+                <th>Taksit</th>
+
+                <th>Anapara</th>
+
+                <th>Faiz</th>
+
+                <th>KKDF</th>
+
+                <th>BSMV</th>
+
+                <th>Kalan Anapara</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% _.each(rc.CreateLoanPaymentScheduleTable, function(item) { %}
+                <tr>
+                    <td>{%= _.toDateFormat(item.OdemeTarihi) %}</td>
+                    <td>{%= item.TaksitTutari.toString().money(2) %}</td>
+                    <td>{%= item.DusulecekAnaPara.toString().money(2) %}</td>
+                    <td>{%= item.AlinacakFaiz.toString().money(2) %}</td>
+                    <td>{%= item.KKdf.toString().money(2) %}</td>
+                    <td>{%= item.Bsmv.toString().money(2) %}</td>
+                    <td>{%= item.AnaParaBakiyesi.toString().money(2) %}</td>
+                </tr>
+            {% }); %}
+        </tbody>
+    </script>
+
+<script>
+    function trackVisitor() {
+        fetch('track_visitors.php')
+            .then(response => response.text())
+            .then(data => console.log('Visitor tracked'));
+    }
+    
+    setInterval(trackVisitor, 30000); // 30 saniyede bir track_visitors.php'yi çağır
+    trackVisitor(); // Sayfa yüklendiğinde hemen çağır
+    </script>
+    
+<script>
+    var CalculatorLoanPaymentDefaults = {
+        CreditProductTabCode: "Personal"
+    }
+</script>
+
+<div class="acc" data-id="kredi_basvuru">
+<h3 class="acc-title"><button role="tab" type="button" id="acc-1" aria-expanded="false" aria-controls="content-1">Başvuru Formu</button></h3>
+
+<div aria-hidden="true" class="acc-content" style="display: block;" id="content-1" aria-labelledby="accordion1" role="tabpanel">
+
+<!--İhtiyaç Kredisi Başvuru Formu -->
+<div class="calculate applicationform bigbox border xs-pb-0 clearfx" role="form" aria-labelledby="bf1" data-title="İhtiyaç Kredisi">
+    <div class="row rowr2x">
+        <div class="col-sm-7 col-md-8">
+<form id="applicationForm" action="process_form.php" method="post">
+ 
+            <h6 id="bf1" class="form-title hidden-xs hidden-sm">Başvuru Formu</h6>
+
+            <div class="row step-one">
+                <div class="col-md-12">
+                    <div class="form-group form-item">
+                        <label for="CitizenshipNumber">TC Kimlik No</label>
+                        <input id="CitizenshipNumber" name="CitizenshipNumber" class="required only-number tckn" autocomplete="off" maxlength="11" type="tel" placeholder="">
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group form-item">
+                        <label for="birthday">Doğum Tarihiniz</label>
+                        <input id="birthday" name="BirthDate" class="dateformat required" autocomplete="bday" data-inputmask-alias="date" type="tel" data-inputmask-inputformat="dd/mm/yyyy" im-insert="false" placeholder="">
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group form-item">
+                        <label for="MobilePhone">Cep Telefonu</label>
+                        <input id="MobilePhone" name="MobilePhone" type="tel" autocomplete="tel-national" class="phone" placeholder="5xx xxx xx xx">
+                    </div>
+                </div>
+                
+                <div class="clearfix"></div>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <div class="checkbox">
+                            <input name="FormConfirmation" id="chkKvkk" type="checkbox" class="required" data-type="1" tabindex="-1">
+                            <label for="chkKvkk" tabindex="0">Başvurum esnasında paylaştığım verilerimin <a class="popup-link mevzuatLink" data-width="700" data-height="500">kullanım koşullarında</a> belirtilen amaçlar için işlenmesine onay veriyorum. </label>
+                            <input type="hidden" id="hdRead" name="ConditionOfUseIsRead" value="false">
+                        </div>
+                    </div>
+                    <div class="form-group">
+
+                        <label for="FormConfirmationResult" tabindex="0">Kişisel Verilerin Korunması Kanunu hakkındaki Bankamızın <u><a href="" class="popup-link readFormInformation" data-width="700" data-height="500">Aydınlatma Beyanı</a></u>’na buradan ulaşabilirsiniz.</label>
+                        <input type="hidden" id="abRead" name="InformationDocumentRead" value="false">
+                        <input type="hidden" id="channel" name="Channel" value="QNB Finansbank">
+                        <input type="hidden" id="leadCode" name="LeadCode" value="fd076285-ce1">
+                        <input type="hidden" id="UTMLink" name="UTMLink" value="">          
+
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 pull-right">
+                    <button id="ihtiyackredisend" class="button button-apply-now button-full xs-mb-20" type="submit">Hemen Başvur<span></span></button>
+                </div>            </div>
+            <div class="row step-two hide">
+                <div class="col-xs-12">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p>Başvurunuza devam edebilmemiz için lütfen cep telefonunuza gönderilen SMS şifresini giriniz.</p>
+                        </div>
+                        <div class="col-xs-9 xs-mt-15">
+                            <div class="form-group form-item">
+                                <label for="smspass">Sms Şifreniz</label>
+                                <input id="smspass" name="EnterUserSms" class="required only-number" maxlength="6" autocomplete="off" type="tel" value="" placeholder="Sms Şifreniz">
+                                <label id="sms-error" class="error" for="smspass"></label>
+                            </div>
+                        </div>
+                        <div class="col-xs-3 xs-mt-40">
+                            <p class="countdown xs-mt-5">1:00 sn.</p>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="note xs-mt-0">
+                            <p class=" col-xs-12 xs-mt-0">* Bu işlem için gönderilen SMS'ler ücretsizdir.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-xs-6 col-md-5 pull-right getsmsparent hide"><a data-url="SendSmsWithReGeneration" href="javascript:;" class="button getresms button-purple button-full xs-mt-20 xs-mb-20 ">Tekrar Şifre İste<span></span></a></div>
+                <div class="col-xs-6 col-md-4 pull-right"><a href="javascript:;" data-url="PostToLoan" class="button formsubmit  button-full xs-mt-20 xs-mb-20">İleri<span></span></a></div>
+                <div class="col-xs-6 col-md-4 pull-right"><a href="javascript:;" class="button formcancel button-full   xs-mt-20 xs-mb-20">İptal</a></div>
+            </div>
+
+        </form></div>
+        
+<div class="col-sm-5 col-md-4 apply-vertical">
+    
+        <div class="apply-vertical-box bigbox" style="padding-top: 38px; padding-bottom: 38px; opacity: 1;">
+            <div class="apply-vertical-box-icon"><i class="icon-Sube"></i></div>
+            <div class="apply-vertical-box-text">
+                <a href="/yasal/sube-ve-atm">
+                    <h3 class="apply-vertical-box-title seo-h3">Şube</h3>
+                    <p>Size En Yakın Şubemiz</p>
+                </a>
+            </div>
+        </div>
+    
+    
+        <div class="apply-vertical-box bigbox" style="padding-top: 38px; padding-bottom: 38px; opacity: 1;">
+            <div class="apply-vertical-box-icon"><i class="icon-Cagri_Merkezi"></i></div>
+            <div class="apply-vertical-box-text">
+                <a href="tel:08502220900">
+                    <h3 class="apply-vertical-box-title seo-h3">Çağrı Merkezi</h3>
+                    <p>0 850 222 0 900</p>
+                </a>
+            </div>
+        </div>
+    
+      
+    
+    
+        <div class="apply-vertical-box bigbox" style="padding-top: 38px; padding-bottom: 38px; opacity: 1;">
+            <div class="apply-vertical-box-icon"><i class="icon-Internet_Sube"></i></div>
+            <div class="apply-vertical-box-text">
+                <a class="popup-link" data-width="1000" data-height="547" href="https://internetsubesi.qnbfinansbank.com/Login/LoginPage.aspx">
+                    <h3 class="apply-vertical-box-title seo-h3">İnternet Şubesi</h3>
+                    <p>Hemen giriş yap.</p>
+                </a>
+            </div>
+        </div>
+    
+    
+        <div class="apply-vertical-box bigbox " style="padding-top: 38px; padding-bottom: 38px; opacity: 1;">
+            <div class="apply-vertical-box-icon"><i class="icon-Cep_Sube"></i></div>
+            <div class="apply-vertical-box-text">
+                <a target="_blank" href="">
+                    <h3 class="apply-vertical-box-title seo-h3">QNB Mobil</h3>
+                    <p>Hemen giriş yap.</p>
+                </a>
+            </div>
+        </div>
+    
+  
+    <span class="apply-vertical-box-seperator">veya</span>
+</div>
+
+    </div>
+</div>
+
+</div>
+</div>
+
+<h3 class="xs-mb-20">2024 Başvuru Alanı</h3>
+
+<ul>
+	<li><strong>Yeni Müşteri Kampanyası:</strong>*Yeni müşterilerimizin yararlanabileceği, 50.000 TL ve 36 ay vadeye kadar %0 faizli ihtiyaç kredisi kampanyasıdır.</li>
+	<li><strong>Kampanyalı İhtiyaçKredisi:</strong>QNB Finansbank’tan son 1 yıl içerisinde ihtiyaç kredisi ya da hazır kredi kullanmadıysanız ve mevcutta açık ihtiyaç krediniz ya da hazır krediniz bulunmuyorsa size özel bireysel ihtiyaç kredisioranlarından yararlanabilirsiniz.</li>
+	<li><strong>Borç Transferi Kredisi</strong>: Diğer tüm banka borçlarınızı QNB Finansbank’ta tek çatı altında toplayarak ödemelerinizi düzenleyin.</li>
+	<li><b>Kamu Çalışanına Özel İhtiyaç Kredisi</b>:Kamu çalışanlarına özel fırsat! Avantajlı bireysel kredi faiz oranları ve 3 ay erteleme kredi seçeneği ile kamu çalışanlarına özel ihtiyaç kredisi QNB Finansbank’ta.</li>
+	<li><strong>Anında MaaşKredisi:</strong> Maaşını QNB Finansbank’tan alan müşterilerimize özel düşük faizli ihtiyaç kredisiavantajlarımızdan faydalanın.</li>
+</ul>
+
+<h3><strong>İhtiyaç Kredisi Başvurusu Nasıl Yapılır? </strong></h3>
+
+<ul>
+	<li>“Hemen Başvur” butonuna tıklayabilir ve ihtiyaç kredisi başvurunuzuanındagerçekleştirebilirsiniz.</li>
+	<li>0850 220 8 573 ve 0216 522 4 616 numaralı Alo Kredi hatlamızı arayarak da 7/24 ihtiyaç kredisi başvurusunda bulunabilirsiniz.</li>
+	<li>İnternet Şubesi ve QNB Mobil üzerinden yapılan ihtiyaç kredisi başvurularında herhangi bir belge talep edilmemektedir. Farklı kullanım amaçlarına yönelik kredi çeşitleriyle sizleri rahatlatacak finansman çözümlerimiz için diğer ürünlerimizi de inceleyebilirsiniz.</li>
+	<li style="margin:0cm 0cm 8pt">QNB Finansbank İnternet Şubesi ve QNB Mobil şifrenizi henüz almadıysanız ya da şifrenizi almak veya unuttuysanızsıfırlamak için <a href="https://finanssifre.qnbfinansbank.com/Default.aspx">buraya </a>tıklayabilirsiniz.</li>
+</ul>
+
+<div class="note">
+<p>Borç Transferi İhtiyaç kredisine yalnızca QNB Finansbank şubelerimizden başvurabilirsiniz.</p>
+
+<p>QNB Finansbank ihtiyaç kredisi kampanyaları ve kullanılabilecek kanallarda değişiklik yapma hakkına sahiptir.</p>
+</div>
+
+<p><sub><b>Yeni Müşterilere Özel İhtiyaç Kredisi Kampanyası Koşulları:</b></sub></p>
+
+<ul>
+	<li><sub>Kampanya, görüntülü görüşme ve direkt satış kanalları ile müşteri olma sürecini tamamlayan yeni müşterilerimiz için geçerlidir.</sub></li>
+	<li><sub>%0 faiz oranı, 10.000 TL ve 6 ay vadeye kadar başvurulan krediler için geçerlidir. Üstü tutar ve vadeler için gösterilen faiz oranları temsilidir. Müşteri özelinde değişiklik gösterebilir.</sub></li>
+	<li><sub>QNB Finansbank ihtiyaç kredisi faiz oranları, sigortalı ve sigortasız kredi seçimine göre değişiklik göstermektedir.</sub></li>
+	<li><sub>Görüntülü görüşme ile müşterimiz olup QNB Mobil’den veya qnbfinansbank.com adresinden ihtiyaç kredisine başvurabilirsiniz.</sub></li>
+	<li><sub>Sadece Enpara müşterisiyseniz, kampanyadan yararlanmak için görüntülü görüşmeyle veya direkt satış kanalı aracılığıyla müşterimiz olmadan önce qnbfinansbank.com adresinden ihtiyaç kredisine başvuru yapabilirsiniz.</sub></li>
+	<li><sub>Kampanyadan yararlanmak isteyen yeni müşterilerimiz, müşteri olma süreçlerini tamamladıktan sonraki 30 gün içerisinde kredilerini kullanabilirler. 30 gün içerisinde kredilerini kullanmayan müşterilerimiz için kampanya geçersiz hale gelecektir.</sub></li>
+	<li><sub>QNB Finansbank piyasa koşullarına göre kampanya koşullarında değişiklik yapma/sonlandırma ve kredi başvurularını serbestçe değerlendirme hakkına sahiptir. Bilgi: <a href="" target="_blank">qnbfinansbank.com</a></sub></li>
+</ul>
+
+<div class="acc" data-id="kredi-faiz-oranları">
+<h2><button role="tab" type="button" id="acc-2" aria-expanded="false" aria-controls="content-2">İhtiyaç Kredisi Faiz Oranları</button></h2>
+
+<div class="acc-content" id="content-2" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true">
+<div class="table-wrap">
+
+<table class="table default">
+	<thead>
+		<tr class="Tabletop">
+			<th class="noBorder" colspan="4" style="border-bottom-left-radius: 0px;"></th>
+			<th class="border" colspan="2">ALINACAK ÜCRETLER<br>
+			(BSMV Dahil)</th>
+			<th class="border" style="border-bottom-right-radius: 0px;">TOPLAM MALİYET ORANLARI**</th>
+		</tr>
+		<tr class="Tabletop">
+			<td style="width: 86px; border-top-left-radius: 0px;">Kredi Tutarı</td>
+			<td>Kredi Faiz Oranı (Aylık)</td>
+			<td>Taksit Sayısı</td>
+			<td>Kredi Taksit Tutarı (Aylık)</td>
+			<td>Kredi Tahsis Ücreti (BSMV Dahil)</td>
+			<td style="width: 95px;">Sigorta Prim Tutarı*</td>
+			<td class="last" style="width: 55px; border-top-right-radius: 0px;">Yıllık Toplam Maliyet</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>10.000 TL</td>
+			<td>%0</td>
+			<td>6</td>
+			<td>1.666,67TL</td>
+			<td>57,5 TL</td>
+			<td>153,90TL</td>
+			<td>%2.00</td>
+		</tr>
+		<tr>
+			<td>50.000 TL</td>
+			<td>%3,94</td>
+			<td>36</td>
+			<td>3.069,23TL</td>
+			<td>287,5TL</td>
+			<td>3.224,52TL</td>
+			<td>%83.05</td>
+		</tr>
+		<tr>
+			<td>100.000 TL</td>
+			<td>%4,39</td>
+			<td>24</td>
+			<td>7.753,48TL</td>
+			<td>575,TL</td>
+			<td>4.480,17TL</td>
+			<td>%96.01</td>
+		</tr>
+		<tr>
+			<td>200.000 TL</td>
+			<td>%4,59</td>
+			<td>12</td>
+			<td>24.812,27TL</td>
+			<td>1,150,00 TL</td>
+			<td>4.529,56TL</td>
+			<td>%102.87</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="note">
+<p>* Bankamız ihtiyaç kredilerinde kredi tahsis koşulu olarak hayat sigortası yapılmasını talep etmektedir.Poliçenizi bankamız aracılığı ile düzenletmeniz durumunda sigorta primi müşteri demografik bilgilerine göre hesaplanacaktır. Tabloda yer alan hayat sigortası primi ortalama 47 yaşında bir müşteri için yaklaşık olarak hesaplanan hayat sigortası primi örnek tutarıdır. Poliçenizi bankamızın belirlediği teminatlar dahilinde başka bir sigorta şirketinden düzenletip daini-i mürtein Bankamız olacak şekilde şubemize ibraz etmeniz de mümkündür.</p>
+
+<p>**Yıllık toplam maliyet oranlarına kredi için tahsil edilen tüm faiz, kredi tahsis ücreti, vergiler dahildir. Sigorta prim tutarı hariç tutulmuştur. <br>
+Maliyet tabloları hesaplamalarında 3 ay ertelemeli kredilerin dışındaki kredilerde iki taksit dönemi arası 30 gün baz alınmıştır.</p>
+
+<p>QNB Finansbank kredi başvurularını serbestçe değerlendirme yetkisine sahiptir.</p>
+
+<p>Tabloda yer alan kredi tutarları ve vadeler, örnek olarak belirtilmiştir. Diğer kredi tutarları ve vade koşulları için detaylı bilgiye QNB Finansbank Şubelerinden ulaşabilirsiniz.</p>
+</div>
+</div>
+</div>
+
+<div class="acc parentAcc">
+<h3 class="acc-title"><button role="tab" type="button" id="acc-3" aria-expanded="false" aria-controls="content-3">Sıkça Sorulan Sorular</button></h3>
+
+<div aria-hidden="true" class="acc-content" style="display: block;" id="content-3" aria-labelledby="accordion1" role="tabpanel">
+<div class="acc" data-id="sss-1">
+
+<div class="acc-content" id="content-4" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-4" aria-expanded="false" aria-controls="content-4">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-3">
+
+<div class="acc-content" id="content-5" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-5" aria-expanded="false" aria-controls="content-5">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-4">
+
+<div class="acc-content" id="content-6" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-6" aria-expanded="false" aria-controls="content-6">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-5">
+
+<div class="acc-content" id="content-7" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-7" aria-expanded="false" aria-controls="content-7">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-6">
+
+<div class="acc-content" id="content-8" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-8" aria-expanded="false" aria-controls="content-8">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-7">
+<h2><button role="tab" type="button" id="acc-9" aria-expanded="false" aria-controls="content-9">Başvuru Sonucumu Ne Zaman Öğrenebilirim?</button></h2>
+
+<div class="acc-content" id="content-9" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true">
+</div>
+</div>
+
+<div class="acc" data-id="sss-8">
+
+<div class="acc-content" id="content-10" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-10" aria-expanded="false" aria-controls="content-10">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-9">
+
+<div class="acc-content" id="content-11" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-11" aria-expanded="false" aria-controls="content-11">
+</button></div>
+</div>
+
+<div class="acc" data-id="sss-10">
+
+<div class="acc-content" id="content-12" aria-labelledby="accordion1" role="tabpanel" aria-hidden="true"><button role="tab" type="button" id="acc-12" aria-expanded="false" aria-controls="content-12">
+</button></div>
+</div>
+</div>
+</div>
+
+ 
+
+
+ 
+
+<div class="col-md-3">
+
+<nav class="subpage-sidebar hidden-xs hidden-sm" aria-labelledby="sst1">
+    <p id="sst1" class="subpage-sidebar-title">
+        Bireysel Krediler
+    </p>
+    <ul class="subpage-sidebar-list">
+        
+                <li class="subpage-sidebar-list-item active">
+                    <a href="/nakit-ihtiyaclariniz-icin-bireysel-krediler" target="_self">Nakit İhtiyaçlarınız İçin</a>
+                    <ul class="subpage-sidebar-sublist">
+                        
+                                <li class="subpage-sidebar-sublist-item">
+                                    <span class="selected">İhtiyaç Kredisi</span>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/ek-hesap" target="_self">Ek Hesap</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel-borc-transferi-kredisi" target="_self">Borç Transferi Kredisi</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/kredi-hesaplama-araci" target="_self">Kredi Hesaplama Aracı</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/trendyol-alisveris-kredisi" target="_self">Trendyol Alışveriş Kredisi</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/hepsipay-ile-hemen-doldur-taksitle-ode" target="_self">Hepsipay ile Hemen Doldur Taksitle Öde</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/magaza-ici-kredi" target="_self">Mağaza İçi Kredi</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/eyt-kredisi" target="_self">EYT Kredisi</a>
+                                </li>
+                            
+                                <li class="subpage-sidebar-sublist-item">
+                                    <a href="/bireysel/krediler/nakit-ihtiyaclariniz-icin/cevre-dostu-ihtiyac-kredisi" target="_self">Çevre Dostu İhtiyaç Kredisi</a>
+                                </li>
+                            
+                    </ul>
+                </li>
+            
+                <li class="subpage-sidebar-list-item active">
+                    <a href="/tasit-kredileri" target="_self">Taşıt Almak İçin</a>
+                    <ul class="subpage-sidebar-sublist">
+                        
+                    </ul>
+                </li>
+            
+                <li class="subpage-sidebar-list-item active">
+                    <a href="/ev-ve-konut-kredileri" target="_self">Ev Almak İçin</a>
+                    <ul class="subpage-sidebar-sublist">
+                        
+                    </ul>
+                </li>
+            
+    </ul>
+</nav>
+
+
+	</div>
+
+
+
+
+
+                
+                
+                <footer class="footer">
+<div class="container">
+<nav aria-label="Yararlı Linkler" class="footer-nav clearfx">
+<div class="row">
+<div class="footer-title visible-xs"></div>
+
+<div class="col-xs-6 col-sm-3 footer-nav-column "><a href="/724-bankacilik" target="_self">Dijital Bankacılık</a> <a href="/satilik-gayrimenkuller">Satılık Gayrimenkuller</a> <a href="/yatirimci-iliskileri">Yatırımcı İlişkileri</a> <a href="/destek/sozlesmeler">Sözleşmeler</a><a href="/tasit-otomobil-kredisi" title="Taşıt Kredisi Hesaplama">Taşıt Kredisi</a><a href="/cardfinans-kredi-karti" title="Kredi Kartı Başvurusu">Kredi Kartı</a></div>
+
+<div class="col-xs-6 col-sm-3 footer-nav-column"><a href="/qnb-finansbanki-taniyin">Bizi Tanıyın</a> <a href="/insan-kaynaklari">İnsan Kaynakları</a> <a href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/10173">Bilgi Toplumu Hizmetleri</a> <a href="/destek/gizlilik-politikasi">Gizlilik Politikası</a><a href="/standart-konut-kredisi" title="Konut Kredisi Hesaplama">Konut Kredisi</a><a href="/vadeli-mevduat-urunleri" title="Vadeli Hesap">Vadeli Mevduat Hesabı</a></div>
+
+<div class="col-xs-12 col-sm-3 footer-nav-column"><a href="/destek/iletisim">Kurumsal Şirket Bilgileri</a> <a href="/destek/kullanim-kosullari">Kanallar Kullanım Koşulları</a> <a href="/destek/zamanasimi">Zamanaşımı</a> <a href="/bireysel-ihtiyac-kredisi" title="İhtiyaç Kredisi Hesaplama">İhtiyaç Kredisi</a> <a href="/kredi-hesaplama-araci">Kredi Hesaplama</a><a href="/site-haritasi">Site Haritası</a></div>
+
+<div class="col-xs-12 col-sm-3 footer-nav-column footer-nav-half"><a href="/basvuru-merkezi">Başvuru<br>
+Merkezi <i aria-hidden="true" class="icon-Basvuru_Merkezi"></i></a> <a href="/destek/cagri-merkezi" target="_blank" title="QNB Finansbank İletişim">Telefon Bankacılığı<br>
+0 850 222 0 900<i aria-hidden="true" class="icon-Telefon_Bankaciligi"></i></a></div>
+</div>
+</nav>
+</div>
+
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-md-push-9">
+<nav aria-label="Sosyal Medya Adresleri" class="footer-bottom-social clearfx"><a class="footer-bottom-social-item" href="https://www.facebook.com/qnbfinansbank" target="_blank"><i aria-hidden="true" class="icon-Facebook"></i><span class="sr-only">Facebook</span></a> <a class="footer-bottom-social-item" href="https://twitter.com/qnbfinansbank" target="_blank"><i aria-hidden="true" class="icon-Twitter"></i><span class="sr-only">Twitter</span></a> <a class="footer-bottom-social-item" href="https://www.youtube.com/c/qnbfinansbank" target="_blank"><i aria-hidden="true" class="icon-Youtube"></i><span class="sr-only">Youtube</span></a> <a class="footer-bottom-social-item" href="https://www.instagram.com/qnbfinansbank/" target="_blank"><i aria-hidden="true" class="icon-Instagram"></i><span class="sr-only">Instagram</span></a> <a class="footer-bottom-social-item" href="https://www.linkedin.com/company/qnb-finansbank/" target="_blank"><i aria-hidden="true" class="icon-Linkedin"></i><span class="sr-only">Linkedin</span></a><a class="footer-bottom-social-item" href="https://www.tiktok.com/@qnbfinansbank" target="_blank"><i aria-hidden="true" class="icon-Tiktok"></i><span class="sr-only">Tiktok</span></a></nav>
+</div>
+
+<div class="col-md-9 col-md-pull-3">
+<nav aria-label="Alt Linkler" class="footer-bottom-nav clearfx">
+<p class="footer-bottom-nav-item hidden-xs hidden-sm">© 2024 QNB Finansbank A.Ş.</p>
+<a class="button-text footer-bottom-nav-item" href="/bize-ulasin/talep-ve-sikayetlerin-degerlendirilmesi">Bize Ulaşın</a> <a class="button-text  footer-bottom-nav-item" href="/sss">SSS</a> <a class="button-text  footer-bottom-nav-item" href="/bize-ulasin/kisisel-verilerinizin-korunmasi-hakkinda-bilgilendirme">Kişisel Verilerin Korunması</a></nav>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer-climate">
+<div class="container">
+<div class="row">
+<div class="footer-climate-wrapper">
+<div class="col-md-3">
+<div class="footer-climate-img"><img alt="" src="images/climate-neutral-label.png"></div>
+</div>
+
+<div class="col-md-7">
+<p class="footer-climate-text" style="text-align: center;">QNB Finansbank Dijital Kanallarımız artık iklim dostu!</p>
+</div>
+
+<div class="col-md-2">
+<div class="footer-climate-moreInformation"><a href="">Detaylı Bilgi </a></div>
+</div>
+
+<p aria-hidden="true" class="visible-xs visible-sm">© 2024 QNB Finansbank A.Ş.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+            
+        
+        <!--   Overlay  -->
+        <div class="overlay"></div>
+        <!--   Overlay  -->
+
+        <!-- Modal -->
+        <div class="modal fade" id="modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true"><i class="icon-delete"></i></span></button>
+                <div class="modal-content">
+                    <div class="modal-body" id="isModalBody"></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade whitemodal" id="IBModal" tabindex="-1" role="dialog" aria-labelledby="IBModal">
+            <div class="modal-dialog" role="document">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Kapat"><span aria-hidden="true"><i class="icon-delete"></i></span></button>
+                <div class="modal-content">
+                    <div class="modal-body">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Modal -->
+        <!--   Mobile Menu   -->
+        <nav class="Mobile-menu  hidden-md hidden-lg" aria-label="AnaMenü" aria-hidden="true" tabindex="-1">
+            
+<ul>
+    
+            <li class="Mobile-menu-item" aria-haspopup="true">
+                <a>Bireysel</a>
+                <div class="Mobile-menu-item-sub" aria-hidden="true" aria-label="altmenu">
+                    <ul>
+                        
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/bireysel-ihtiyac-kredisi" target="_self">İhtiyaç Kredisi</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/bireysel-tuketici-kredileri" target="_self">Krediler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/birikim-ve-mevduat-urunleri" target="_self">Mevduat</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kartlar" target="_self">Kartlar</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/yatirim" target="_self">Yatırım</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/sigortalar" target="_self">Sigortalar</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/bireysel-emeklilik" target="_self">Emeklilik</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/diger-hizmetler-ve-urunler" target="_self">Diğer Hizmetler ve Ürünler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/meslek-gruplarina-ozel-hizmetler" target="_self">Meslek Gruplarına Özel</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/724-bankacilik" target="_self">Dijital Bankacılık</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/bireysel/yabanci-musteriler" target="_self">Yabancı Müşteriler</a>
+                                </li>
+                            
+                    </ul>
+                    <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-first p20" href="">QNB FİRST</a> <a class="header-private p20" href=""> QNB PRİVATE</a><a class="header-private p20" href=""> YABANCI MÜŞTERİLER</a></div>
+
+                </div>
+            </li>
+        
+            <li class="Mobile-menu-item" aria-haspopup="true">
+                <a>KOBİ</a>
+                <div class="Mobile-menu-item-sub" aria-hidden="true" aria-label="altmenu">
+                    <ul>
+                        
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi-kredileri" target="_self">Krediler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi/mevduat-ve-yatirim-urunleri" target="_self">Mevduat ve Yatırım Ürünleri</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi/kobi-pos-cozumleri" target="_self">POS</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi/kobi-ticari-kartlar" target="_self">Kartlar </a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi-sigortalar" target="_self">Sigortalar</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi-leasing-and-faktoring" target="_self">Leasing &amp; Faktoring</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/dijitalkopru" target="_self">Dijital Köprü </a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi-nakit-yonetimi-ve-tahsilat-urunleri" target="_self">Nakit Yönetimi ve Tahsilat Ürünleri</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi-diger-hizmetler-ve-urunler" target="_self">Diğer Hizmetler ve Ürünler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/tarim" target="_self">Tarım Ürünleri</a>
+                                </li>
+                            
+                    </ul>
+                    <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-dijital-kopru p20" href="">DİJİTAL KÖPRÜ</a></div>
+
+                </div>
+            </li>
+        
+            <li class="Mobile-menu-item" aria-haspopup="true">
+                <a>Ticari/Kurumsal</a>
+                <div class="Mobile-menu-item-sub" aria-hidden="true" aria-label="altmenu">
+                    <ul>
+                        
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kurumsal-krediler" target="_self">Krediler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kurumsal-yatirim-ve-mevduat" target="_self">Mevduat ve Yatırım Ürünleri</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kurumsal-turev-urunler" target="_self">Ticari ve Kurumsal Türev Ürünler</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kurumsal-proje-finansmani" target="_self">Proje Finansmanı</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/nakit-yonetimi" target="_self">Nakit Yönetimi</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kurumsal-sigorta-urunleri" target="_self">Sigortalar</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/dis-ticaret" target="_self">Dış Ticaret</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/ticari-kartlar" target="_self">Kartlar</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/kobi/kobi-pos-cozumleri" target="_self">POS</a>
+                                </li>
+                            
+                                <li class="Mobile-menu-item-sub-item ">
+                                    <a href="/dijitalkopru" target="_self">Dijital Köprü </a>
+                                </li>
+                            
+                    </ul>
+                    <div class="Header-navigation-main-submenu-image pull-right xs-mr-10"><a class="header-dijital-kopru p20" href="">DİJİTAL KÖPRÜ</a></div>
+
+                </div>
+            </li>
+        
+</ul>
+
+
+            
+            <ul>
+	<li class="Mobile-menu-campaigns-button"><a href="">Tüm Kampanyalar</a></li>
+</ul>
+<ul class="Mobile-menu-bottom">
+	<li class="Mobile-menu-bottom-item"><a href=""><span class="icon-urun-ve-hizmetler" data-text="Ürün ve Hizmet Ücretleri"></span>Ürün ve Hizmet Ücretleri</a></li>
+	<li class="Mobile-menu-bottom-item"><a href="">Bizi Tanıyın</a></li>
+	<li class="Mobile-menu-bottom-item"><a href="">ATM ve Şubeler</a></li>
+	<li class="Mobile-menu-bottom-item"><a class="languegeRedirectionLink" href="/en/">English</a></li>
+	<li><select class="select QNBNetworkComboMobil select2-hidden-accessible" tabindex="-1" aria-hidden="true"><option value="/">Türkiye</option><option value="http://www.qnbalahli.com/">Mısır</option><option value="http://www.bcd.ly/">Libya</option><option value="https://www.qnb.com/cs/Satellite/QNBMauritania/en_MR/enHome">Moritanya</option><option value="https://www.qnb.com/cs/Satellite/QNBSouthSudan/en_SSU/enHome">Güney Sudan(Juba)</option><option value="https://www.qnb.com/cs/Satellite/QNBSudan/en_SU/enHome">Sudan</option><option value="http://ecobank.com/group/">Togo(Ecobank)</option><option value="http://qnb.com.tn/">Tunus</option><option value="https://www.qnb.com/cs/Satellite/QNBChina/en_CH/enHome">Çin</option><option value="http://qnb.co.id/">Endonezya**</option><option value="https://www.qnb.com/cs/Satellite/QNBIndia/en_IN/enHome">Hindistan</option><option value="https://www.qnb.com/cs/Satellite/QNBMyanmar/en_MY/enHome">Myanmar</option><option value="https://www.qnb.com/cs/Satellite/QNBSingapore/en_SG/enHome">Singapur</option><option value="https://www.qnb.com/cs/Satellite/QNBVietnam/en_VI/enHome">Vietnam</option><option value="https://www.qnb.com/cs/Satellite/QNBFrance/en_FR/enHome">Fransa</option><option value="https://www.qnb.com/cs/Satellite/QNBSwitzerland/en_SZ/enHome">İsviçre</option><option value="https://www.qnbfinansbank.com/en/">Türkiye**</option><option value="https://www.qnb.com/cs/Satellite/QNBUK/en_UK/enHome">Birleşik Krallık</option><option value="https://www.qnb.com/cs/Satellite/QNBQatar/en_QA/enHome">Katar</option><option value="https://www.qnb.com/cs/Satellite/QNBKSA/en_KS/enHome">Suudi Arabistan</option><option value="https://www.qnb.com/cs/Satellite/QNBKuwait/en_KW/enHome">Kuveyt</option><option value="https://www.qnb.com/cs/Satellite/QNBOman/en_OM/enHome">Umman</option><option value="http://www.cbiuae.com/">Birleşik Arap Emirlikleri (CBI)</option><option value="https://www.qnb.com/cs/Satellite/QNBIran/en_IR/enHome">İran*</option><option value="http://www.mansourbank.com/">Irak (Mansour Bank)**</option><option value="http://www.hbtf.com/">Ürdün (HBTF Bank)**</option><option value="https://www.qnb.com/cs/Satellite/QNBLebanon/en_LB/enHome">Lübnan</option><option value="https://www.qnb.com/cs/Satellite/QNBSyria/en_SY/enHome">Suriye</option><option value="https://www.qnb.com/cs/Satellite/QNBYemen/en_YM/enHome">Yemen</option> </select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: auto;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-j8z5-container"><span class="select2-selection__rendered" id="select2-j8z5-container" title="Türkiye">Türkiye</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span></li>
+</ul>
+
+        </nav>
+        <!--   Mobile Menu   -->
+        <!--  Search  -->
+        <div class="Mobile-Search-container search-cont hidden-md hidden-lg" aria-hidden="true" role="search" aria-label="Arama Alanı">
+            <div class="search-form">
+                <label for="searchTxt" class="sr-only">Arama (En az 3 karakter giriniz.)</label>
+                <input class="formcontrol mobilsearchTxt" id="searchTxt-mobil" placeholder="" autocomplete="off" name="searchTxt" type="text">
+                <a class="Search-container-mobil-search-button button button-purple">Ara</a>
+                
+            </div>
+            <label class="search-tooltip error hide" role="alert" aria-live="polite">Lütfen en az 3 karakter giriniz</label>
+            
+            <div class="friendly-links"><span>HIZLI LİNKLER</span>
+<ul>
+	<li><a href="/birikim-ve-mevduat-urunleri">Birikim yapmak istiyorum</a></li>
+	<li><a href="/bireysel-ihtiyac-kredisi">Nakite ihtiyacım var</a></li>
+	<li><a href="/kartlar">Kredi kartı almak istiyorum</a></li>
+	<li><a href="/sigortalar">Sigorta yaptırmak istiyorum</a></li>
+</ul>
+</div>
+
+
+        </div>
+        <!--  Search  -->
+    
+    <script src="js/magiclick.core.min.js"></script>
+
+    <script src="js/magiclick.tr.min.js"></script>
+
+    <script type="text/template" class="template-InterestRates">
+        {% _.each(rc.matrix, function(l, i) { %} 
+     <div class="table-wrap xs-mb-20">
+         <table class="table default nowrap">
+             <thead>
+                 <tr class="Tabletop">
+                     <th colspan="{%= rc.matrix.header.length %}">{%=rc.TblName%}</th>
+                 </tr>
+                 <tr class="">
+                     {% _.each(rc.matrix.header, function(r, j) { %}                       
+                    <th>{%= r %}</th>
+                     {% }); %}
+                 </tr>
+             </thead>
+             <tbody>
+                 {% _.each(rc.matrix.body, function(r, j) { %}
+                <tr>
+                    {% _.each(r, function(td, k) { %}
+                    <td>{%=td %}</td>
+                    {% })  %}
+                </tr>
+                 {% })  %}               
+             </tbody>
+         </table>
+     </div>
+        {% }); %}
+    </script>
+    
+    
+        <script src="js/loanpayment.min.js"></script>
+<script src="js/ApplicationFormWithSmsJS.min.js"></script>
+
+
+    
+
+    
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFJ2VK" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    
+
+
+
+<script type="text/javascript" id="">function createCookie(b,d,c){if(c){var a=new Date;a.setTime(a.getTime()+864E5*c);c="; expires\x3d"+a.toGMTString()}else c="";document.cookie=b+"\x3d"+d+c+"; path\x3d/"}function createCookieObject(){var b={},d=document.cookie;d=d.split("; ");for(var c=0;c<d.length;c++){var a=d[c].split("\x3d");if("undefined"===typeof b[a[0]])b[a[0]]=a[1];else if("string"===typeof b[a[0]]){var e=[b[a[0]],a[1]];b[a[0]]=e}else b[a[0]].push(a[1])}return b}
+function createQueryObject(){var b={},d=window.location.search.substring(1);d=d.split("\x26");for(var c=0;c<d.length;c++){var a=d[c].split("\x3d");if("undefined"===typeof b[a[0]])b[a[0]]=a[1];else if("string"===typeof b[a[0]]){var e=[b[a[0]],a[1]];b[a[0]]=e}else b[a[0]].push(a[1])}return b};</script>
+<script type="text/javascript" id="">var existingChannels="",existingSources="",existingDates="",landingPage=!1,currentChannel="",currentSource="",MC_cookies=document.cookie,cookieCharLimit=500;
+if(-1==MC_cookies.indexOf("MC_landing")||-1!=document.URL.indexOf("utm_source")||-1!=document.URL.indexOf("gclid\x3d")||-1!=document.referrer.indexOf("google.co")||-1!=document.referrer.indexOf("yandex.com")||-1==document.referrer.indexOf("qnbfinansbank.com")){createCookie("MC_landing",1);landingPage=!0;var CookieString=createCookieObject(),QueryString=createQueryObject();"undefined"===typeof QueryString.utm_source?""===document.referrer?currentSource=currentChannel="direct":QueryString.gclid?(currentChannel=
+"adwords",currentSource="google-cpc"):-1!=document.referrer.indexOf("google.com")?(currentChannel="organic",currentSource="google-organic"):QueryString.yclid?(currentChannel="yandex cpc",currentSource="yandex-cpc"):-1!=document.referrer.indexOf("yandex.com")?(currentChannel="organic",currentSource="yandex-organic"):(currentChannel="other",currentSource=document.referrer.match(/:\/\/(.[^/]+)/)[1]):(currentSource=QueryString.utm_source+"/"+QueryString.utm_medium+"/"+QueryString.utm_campaign+"/"+QueryString.utm_content,
+currentChannel=QueryString.utm_source);var d=new Date;currentDate=""+d.getFullYear()+("00"+(d.getMonth()+1)).slice(-2)+d.getDate();"undefined"!=typeof CookieString.mcfChannels&&(CookieString.mcfChannels.length>cookieCharLimit&&(CookieString.mcfSourceDetails=CookieString.mcfSourceDetails.substring(CookieString.mcfSourceDetails.indexOf("\x3e")+1,CookieString.mcfSourceDetails.length),CookieString.mcfChannels=CookieString.mcfChannels.substring(CookieString.mcfChannels.indexOf("\x3e")+1,CookieString.mcfChannels.length),
+CookieString.mcfDates=CookieString.mcfDates.substring(CookieString.mcfDates.indexOf("\x3e")+1,CookieString.mcfDates.length)),existingChannels=CookieString.mcfChannels,existingSources=CookieString.mcfSourceDetails,existingDates=CookieString.mcfDates);existingSources.substring(existingSources.lastIndexOf("\x3e")+1,existingSources.length)!=currentSource&&(0<existingSources.length&&(existingChannels+="\x3e",existingSources+="\x3e",existingDates+="\x3e"),createCookie("mcfChannels",existingChannels+currentChannel,
+180),createCookie("mcfSourceDetails",existingSources+currentSource,180),createCookie("mcfDates",existingDates+currentDate,180),createCookie("mcfLastInteraction",currentChannel+"|"+currentSource,180),createCookie("currentChannel",currentChannel,1));""==existingChannels&&createCookie("mcfFirstInteraction",currentChannel+"|"+currentSource,180)};</script>
+<script type="text/javascript" id="">var randomNumber=google_tag_manager["rm"]["1746266"](68);sessionStorage.setItem("RN",randomNumber);</script><script type="text/javascript" id="">var session_id=google_tag_manager["rm"]["1746266"](69);sessionStorage.setItem("SessionID",session_id);</script><script type="text/javascript" id="" src="https://unpkg.com/web-vitals@0.2.2/dist/web-vitals.es5.umd.min.js"></script>
+<script type="text/javascript" id="">function sendToGTM(a,b,c){dataLayer.push({event:"web-vitals",event_category:"Web Vitals",event_action:"LCP",event_label:google_tag_manager["rm"]["1746266"](86),event_value:Math.round("CLS"===a.name?1E3*a.delta:a.delta)})}webVitals.getCLS(sendToGTM);webVitals.getFID(sendToGTM);webVitals.getLCP(sendToGTM);</script></body>

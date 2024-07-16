@@ -1,0 +1,21 @@
+<head>
+<title>Bulletproof</title>
+</head><body style="text-align: center;">
+<br><h1>This Domain parked to security center , but you still able to use it . </h1><br>
+<div>
+<img src="https://cdn.dribbble.com/users/684196/screenshots/16545794/media/8b7db5dcd801f48ea974b65e5dea4712.jpg" ?auto="webp&amp;fit=crop&amp;" height="700" &="" width="1400" style="background-image: blu;" alt="img">
+</div>
+
+   <style>
+      body {
+         background-color: RGB(240,230,140);
+      }
+   </style>
+
+
+
+
+
+
+
+</body>

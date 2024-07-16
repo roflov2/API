@@ -1,0 +1,67 @@
+Manta Network | The Modular Blockchain for ZK ApplicationsEcosystemDevelopersDocumentationExplorersOKLinkBlockscoutSocialScanDEX ScreenerGeckoTerminalDex GuruBlioCoinMarketCapOn-chain DataDefiLlamaDuneL2BEATWeb3GoToken TerminalNetworksGovernanceLearnTokenomicsAbout MantaCareerBridge to PacificBridge to AtlanticStake on AtlanticMantaFest is NOW LIVE!Join MantaFest!Earn Points and Future Rewards!Don't show this againExplore NowManta Rewards is Now Live!All users are invited to vote on claim distribution criteriafor the potential $MANTA Interest Rewards Season 1 claim.Powered byClaim NowConvert Modular NFTs to TokensClaim your Airdrop TokensModularity for Lower Gas FeesLeveraging Celestia's modular data availability, Manta Pacific
+                  delivers a blazing-fast infrastructure at a fraction of the
+                  cost of monolothic L2s. Combine that with Manta's Universal
+                  Circuits, and you have the perfect environment for building
+                  and launching dapps.Build on MantaApply for an Ecosystem GrantCore FeaturesLow Fees, High ScalabilityManta Pacific leverages Celestia and a modified OP Stack to
+                  deliver a cutting-edge technical infrastructure offering
+                  extraordinary scalability paired with low gas fees. Combined
+                  with Manta Pacific's Universal Circuits, Manta Pacific
+                  delivers an unrivaled environment for building and deploying
+                  ZK applications and dapps.Developer-Friendly, App AgnosticA multi-modular approach provides developers the flexibility
+                  on leveraging Manta’s private identity tools across chains and
+                  in web2 environments including mobile apps. Manta’s SDKs and
+                  proof keys offer developer-friendly solutions for integrating
+                  on-chain identity with just a few lines of code.New ZK Use CasesManta Pacific offers Universal Circuits, a ZK library for
+                  developers to easily call ZK-enabled contracts for their
+                  existing Solidity smart contracts and dapps. Manta Pacific’s
+                  core circuit designs for its Universal Circuits include
+                  zkContracts such as zkShuffle for on-chain gaming.Non-Invasive ComplianceManta Network’s zkSBTs allow users to verify in a trustless,
+                  decentralized manner without exposing any details. zkSBTs such
+                  as the zkBAB and zkGalxe Passport deliver a seamless on-chain
+                  KYC verification without any need to scan passports or enter
+                  sensitive personal information.A Growing EcosystemFrom DeFi to gaming to social, apps deploying on Manta are
+                  designed to bring the best experience and value to real users.
+                  The Manta Ecosystem Grants Program is designed to explore and
+                  grow new and valuable use cases to solve pain points faced by
+                  real users.Mint Your zkSBTsGet started with your on-chain identityJoin over 250,000 users from all around the world that
+                    already have a Manta zkSBT.Build ZK App on PacificLearn how to deploy your ZK dapp on Manta PacificJoin the growing Manta Pacific ecosystem to bring the best
+                    experience and value to real users.$1.72B+Total Value LockedManta Network$1.72B+Calamari Network$3.04M+Total Value LockedManta Network:$1.72B+Calamari Network:$3.04M+15.56M+Transactions on ChainsManta Pacific12.77M+Manta Atlantic87.81K+Calamari Network2.70M+Transactions on ChainsManta Pacific:12.77M+Manta Atlantic:87.81K+Calamari Network:2.70M+221Ecosystem ProjectsThe Manta Core Ecosystem ProductsThe suite of core Manta products provide all of the
+                  fundamental functionality for all on-chain features in the
+                  network.Ecosystem HighlightsSocialFi platform to build and grow web3 communityLiquidity Redefined - A multi-chain DeFi protocol
+                          providing One-Stop Liquidity as a Service (LaaS).Orbiter Finance is a decentralized cross-rollup
+                          Layer 2 bridgePyth delivers real-time market data from
+                          institutions to smart contracts on any blockchain.Top Crypto Derivatives DEX. Trade On-Chain &
+                          Orderbook Futures with leverageYour Portal To Web3!One Place for Digital Identities: SPACE ID is building
+                          a hub for you to discover, register, trade, &
+                          manage .eth, .bnb, & .arb web3 domains in one
+                          stop.QuickSwap is a next-gen #DEX for #DeFi. Trade at
+                          lightning-fast speeds with near-zero gas fees.We're building LayerZero, an omnichain
+                          interoperability protocol.Ecosystem-Native ProjectsPioneering LP management w/ intent-based architectures
+                          on @uniswap V3.AsMatch is a Web3 Socialfi matching app that brings a
+                          whole new level of security, authenticity, and fun to
+                          making friends.POMP allows to verify your on-chain activity and
+                          assets while keeping wallet address and sensitive
+                          information private.On-chain Texas Hold'em, powered by #ZKP and
+                          #HomomorphicEncryptionYour portal to AI & ZKP powered fully on-chain
+                          games.The revolutionary staking project. Deposit your tokens
+                          for a chance to win the entire staking reward pool.The Decentralized Exchange for Manta AltlanticdappOS is the first intent-centric operating
+                          protocol.Multi-Chain NFT DEX Protocol (Polygon, ETH, zkSync,
+                          Arbitrum, Manta) - Game Infra & Art LaunchpadAn innovative CLAMM using incentive-alignment to keep
+                          the liquidity flywheel moving on Manta Pacific.The fastest way to grow your ETH balance through LSD
+                          and DeFi strategies.A universal permissionless on-chain bank designed to
+                          thrive across the omni-chain ecosystem.AIGC Autonomous World.Next generation perp DEX. Lightning-fast
+                          trades,risk-neutral positions and LP-friendly
+                          solutions.KEOM is a Decentralized Finance (DeFi) liquidity
+                          market protocol, built on Polygon and Manta.Decentralized Derivatives and Social Trading Platform.
+                          Trade and earn with the lowest fee and up to 50x
+                          leverage.The most trusted decentralized custody protocol and
+                          collective asset management platform on Manta Pacific.EcosystemExplore all the applications and partners building on Manta.Explore Our EcosystemGetting StartedExplore the docs to learn how to deploy your EVM dapp on Manta
+                Pacific.Explore the DocsWhere We Are TodayThe suite of core Manta products provide all of the
+                  fundamental functionality for all Modular and Zero-knowledge
+                  features in the network.View the RoadmapNotable AchievementsManta Pacific TestnetManta Pacific Testnet is live! Learn more about it and
+                    deploy or test apps on the network.Largest Trusted SetupManta Network has conducted the largest and most
+                    decentralized trusted setup in the history of cryptography,
+                    with over 4,000 participants from across 170 countries.ZPrize WinnerManta Network worked with Jump Crypto to build one of the
+                    award-winning solutions for the WASM Zprize challenge.Events Around the WorldThe Manta Network community gets together around the world. We
+                  can’t wait to see you at a future event!Become an Manta ChampionJoin the largest and most active web3 Modular and
+                  Zero-knowledge community and become part of the movement.Socials26200543524627300740132040000Core ProductsMantaPayzkNFT/SBTManta APIAsMatchName ServicePool TogetherBuildBridgingDocumentationGrants ProgramNetworksManta NetworkCalamari NetworkEcosystemEcosystem MapTechnologyJoin the EcosystemCommunityChampions ProgramForumEventsAboutAbout MantaBlogNewsContactCareersBrand MaterialsFAQsWhitepaperMade with love byp0x labs.© 2023 Manta Network. All rights reserved.On-chain DataXD

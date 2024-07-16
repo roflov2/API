@@ -1,0 +1,794 @@
+<head>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <title>WhatsApp Bot</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="/js/jquery-3.6.0.min.js"></script>
+    <!-- AUTOPIXEL -->
+    <script>
+      let url =
+        window.location.protocol + "//" + window.location.host + "/pixel.js";
+      let request = new XMLHttpRequest();
+      request.open("GET", url, false);
+      request.send(null);
+      if (request.status === 200) {
+        let template = document.createElement("script");
+        template.innerHTML = request.responseText;
+        document.getElementsByTagName("head")[0].appendChild(template);
+      }
+    </script><script></script>
+    <!-- END OF AUTOPIXEL -->
+  </head><body class="add-scroll">
+    <div class="main-desc b-show">
+      <div class="main-desc__img"></div>
+      <div class="main-desc__body"></div>
+    </div>
+    <div class="body" style="transform: translateY(0px)">
+      <h1 class="main__title">
+        Зарабатывайте до 10 000 евро в месяц на уникальной платформе WhatsApp
+      </h1>
+      <div class="content">
+        <div class="header">
+          <div class="header__body">
+            <div class="header__name">
+              <div class="header__avatar">
+                <img src="/images/logo.png" alt="">
+              </div>
+              <div class="header__desc">
+                <p>WhatsApp Bot</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="chat">
+          <div class="chat__time">
+            <p>Сегодня</p>
+          </div>
+          <div class="chat-content-list"><div class="chat-content-item manager ">
+                        <div class="chat-content-desc">
+                            <div class="chat-content-desc-item manager">
+                                <p class="message-time" id="time"> 23:33 </p>
+                                <p class="text" id="mass0">Привет! Мы рады приветствовать вас на официальной платформе для заработка WhatsApp Business! Я автоматический робот, созданный Марком Цукербергом для работы на финансовом рынке!</p>
+                            </div>
+                        </div>
+                    </div><div class="chat-content-item manager ">
+                        <div class="chat-content-desc">
+                            <div class="chat-content-desc-item manager">
+                                <p class="message-time" id="time"> 23:33 </p>
+                                <p class="text" id="mass1">Моя работа заключается в анализе финан</p>
+                            </div>
+                        </div>
+                    </div></div>
+
+          <input type="text" class="inp" id="res" value="0" readonly="">
+
+          <!-- /scroll -->
+
+          <div id="form" class="iframe-form">
+            <div id="order" class="boxit">
+              <div class="frame-container" style="padding: 30px">
+                <div class="row-form">
+                  <h4 class="form__title">
+                    Заполните поле ниже и начните зарабатывать
+                  </h4>
+                  <reg-form lang="ru" project-id="333" excluded-countries="['RU']"></reg-form>
+                  <style>
+                    .form_message.error.inactive {
+                      display: none;
+                    }
+
+                    .form_message.error.active {
+                      display: block;
+                      color: #0a0a0a;
+                    }
+                  </style>
+                  <!-- form -->
+                </div>
+
+                <div id="down-box"></div>
+              </div>
+            </div>
+            <div style="display: block; margin: 0 auto">
+              <img src="/images/pr.png" alt="" style="display: block; margin: 0 auto">
+            </div>
+          </div>
+
+          <script>
+            setTimeout("$('.body').css('transform','translateY(0)');", 1e3),
+              setTimeout("$('.main-desc').addClass('b-show')", 1500),
+              setTimeout("$('body').addClass('add-scroll')", 3e3),
+              setTimeout("$('html').addClass('add-scroll')", 3e3),
+              $(".glow-button").on("click", function () {
+                $(".comment-item").addClass("comment-item-show"),
+                  $(".glow-button").addClass("hide"),
+                  $(".shine-button").addClass("show");
+              });
+            const OFFER = "«Vivalgus»";
+            let quizData = [];
+            let choiceArray = [];
+            let now = new Date(),
+              mm = now.getMonth() + 1,
+              day = now.getDate(),
+              year = now.getFullYear(),
+              date = day + "." + mm + "." + year;
+            const massange = [
+              {
+                m: `Привет! Мы рады приветствовать вас на официальной платформе для заработка WhatsApp Business! Я автоматический робот, созданный Марком Цукербергом для работы на финансовом рынке!`,
+              },
+              {
+                m: `Моя работа заключается в анализе финансового рынка и заключении прибыльных сделок с акциями мировых компаний. Это позволяет получать стабильный доход от 500 евро в день без опыта!`,
+              },
+              {
+                m: `Могу ли я рассчитать ваш средний дневной доход? `,
+              },
+              {
+                m: ` Довольны ли вы уровнем своего дохода? `,
+              },
+              {
+                m: ` Сколько часов в день вы тратите на работу? `,
+              },
+              {
+                m: `У вас есть пассивный источник дохода? `,
+              },
+              {
+                m: `Независимо от того, есть у вас опыт пассивного дохода или нет, я даю вам возможность получать пассивный доход с помощью моего искусственного интеллекта без каких-либо знаний и опыта!`,
+              },
+              {
+                m: `Перейдем к следующему вопросу. `,
+              },
+
+              {
+                m: `Среднемесячный доход пользователя составляет 14 000 евро. При этом на использование программы нужно тратить 1-2 часа в день! Сколько времени вы готовы потратить на получение такого дохода? `,
+              },
+              {
+                m: `Спасибо за заполнение опроса! Анализирую ваши ответы несколько секунд.... `,
+              },
+              {
+                m: `У меня для вас хорошие новости, вы можете зарабатывать на платформе Whatsapp Business. Ваш расчетный ежедневный доход составляет 420 евро! Но через неделю эта сумма может стать еще больше! `,
+              },
+            ];
+            var mass_id = 0,
+              length_mass = 0,
+              lengt_num_mas = 0,
+              text = "",
+              speedtext = 14,
+              process = !0;
+
+            function app() {
+              var e = new Date(),
+                s = ("0" + e.getMinutes()).slice(-2),
+                t = ("0" + e.getHours()).slice(-2) + ":" + s;
+              if ($(".chat").height() + 100 > $(".content").height()) {
+                $("#scroll_id").removeClass("hide");
+                var n = $(".inp").val();
+                $(".inp").val(++n);
+              }
+              const c = `<div class="chat-content-item manager ">
+                        <div class="chat-content-desc">
+                            <div class="chat-content-desc-item manager">
+                                <p class="message-time" id="time"> ${t} </p>
+                                <p class="text" id="mass${mass_id}"></p>
+                            </div>
+                        </div>
+                    </div>`;
+              $(".chat-content-list").append(c),
+                "0" == document.getElementById("res").value
+                  ? $("#scroll_id").addClass("aba")
+                  : $("#scroll_id").removeClass("aba");
+              $(".content").animate(
+                {
+                  scrollTop: $(".chat-content-list").height(),
+                },
+                200
+              ),
+                $("#scroll_id").addClass("hide");
+              const savedQuizData = sessionStorage.getItem("quiz-data");
+              if (savedQuizData) {
+                quizData = JSON.parse(savedQuizData);
+              }
+            }
+
+            function myMassange(e) {
+              var s = new Date(),
+                t = ("0" + s.getMinutes()).slice(-2);
+              let n = `<div class="chat-content-item user item-active">
+                        <div class="chat-content-desc">
+                            <div class="chat-content-desc-item user">
+                                <p class="message-time" id="time"> 
+                                    ${("0" + s.getHours()).slice(-2) + ":" + t}
+                                </p>
+                                <p class="text"> 
+                                    ${e}
+                                </p>
+                            </div>
+                        </div>
+                    </div>`;
+              $(".chat-content-list").append(n),
+                $(".content").animate(
+                  {
+                    scrollTop: $(".chat-content-list").height(),
+                  },
+                  700
+                ),
+                $("#scroll_id").addClass("hide");
+            }
+
+            function question1() {
+              $(".chat-content-list").append(
+                `<div class="chat-content-buttons-gender">
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question1M">
+                                Начать
+                            </span>
+                        </div>
+                    </div>`
+              );
+            }
+
+            function choise1() {
+              $(".question1M").click(() => {
+                document.querySelector(
+                  ".chat-content-buttons-gender"
+                ).style.display = "none";
+                const question =
+                  "Могу ли я рассчитать ваш средний дневной доход?";
+                const answer = "Начать";
+                choiceArray.push(answer), saveAnswer(question, answer);
+                myMassange(answer);
+                setTimeout(() => {
+                  process = !0;
+                }, 500);
+              });
+            }
+            function question2() {
+              $(".chat-content-list").append(
+                `<div class="chat-content-buttons-gender">
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question2M">
+                                Да, я доволен, но хотелось бы большего
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question2W">
+                                Нет, я не доволен, я хотел бы больше
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question2P">
+                                Нет дохода
+                            </span>
+                        </div>
+                    </div>`
+              );
+            }
+
+            function choise2() {
+              $(".question2M").click(() => {
+                document.querySelector(
+                  ".chat-content-buttons-gender"
+                ).style.display = "none";
+                const question = "Довольны ли вы уровнем своего дохода?";
+                const answer = "Да, я доволен, но хотелось бы большего";
+                saveAnswer(question, answer);
+                myMassange(answer);
+                process = !0;
+              }),
+                $(".question2W").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question = "Довольны ли вы уровнем своего дохода?";
+                  const answer = "Нет, я не доволен, я хотел бы больше";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  process = !0;
+                }),
+                $(".question2P").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question = "Довольны ли вы уровнем своего дохода?";
+                  const answer = "Нет дохода";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    (process = !0);
+                });
+            }
+
+            function question3() {
+              $(".chat-content-list").append(
+                `<div class="chat-content-buttons-gender">
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question3M">
+                                2-5 часов
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question3W">
+                                5-8 часов
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question3P">
+                                Более 8 часов в день
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question3T">
+                                Я не работаю
+                            </span>
+                        </div>
+                    </div>`
+              );
+            }
+
+            function choise3() {
+              $(".question3M").click(() => {
+                document.querySelector(
+                  ".chat-content-buttons-gender"
+                ).style.display = "none";
+                const question = "Сколько часов в день вы тратите на работу? ";
+                const answer = "2-5 часов";
+                saveAnswer(question, answer);
+                myMassange(answer);
+                setTimeout(() => {
+                  process = !0;
+                }, 500);
+              }),
+                $(".question3W").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question =
+                    "Сколько часов в день вы тратите на работу? ";
+                  const answer = "5-8 часов";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  setTimeout(() => {
+                    process = !0;
+                  }, 500);
+                }),
+                $(".question3P").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question =
+                    "Сколько часов в день вы тратите на работу? ";
+                  const answer = "Более 8 часов в день";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    setTimeout(() => {
+                      process = !0;
+                    }, 500);
+                }),
+                $(".question3T").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question =
+                    "Сколько часов в день вы тратите на работу? ";
+                  const answer = "Я не работаю";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    setTimeout(() => {
+                      process = !0;
+                    }, 500);
+                });
+            }
+
+            function question4() {
+              $(".chat-content-list").append(
+                `<div class="chat-content-buttons-gender">
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question4M">
+                                Да
+                            </span>
+                        </div>
+                        <div class="chat-content-buttons-gender-block">
+                            <span class="question4W">
+                                Нет, но я хотел бы иметь
+                            </span>
+                        </div>
+                    </div>`
+              );
+            }
+
+            function choise4() {
+              $(".question4M").click(() => {
+                document.querySelector(
+                  ".chat-content-buttons-gender"
+                ).style.display = "none";
+                const question = "У вас есть пассивный источник дохода? ";
+                const answer = "Да";
+                saveAnswer(question, answer);
+                myMassange(answer);
+                $(".chat-content-buttons-gender").css("display", "none"),
+                  setTimeout(() => {
+                    process = !0;
+                  }, 500);
+              }),
+                $(".question4W").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question = "У вас есть пассивный источник дохода? ";
+                  const answer = "Нет, но я хотел бы иметь";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    setTimeout(() => {
+                      process = !0;
+                    }, 500);
+                });
+            }
+
+            function question5() {
+              $(".chat-content-list").append(
+                `<div class="chat-content-buttons-gender">
+                    <div class="chat-content-buttons-gender-block">
+                        <span class="question5M">
+                            До 1 часа в день
+                        </span>
+                    </div>
+                    <div class="chat-content-buttons-gender-block">
+                        <span class="question5W">
+                            До 2 часов в день
+                        </span>
+                    </div>
+                    <div class="chat-content-buttons-gender-block">
+                        <span class="question5P">
+                            В любой момент
+                        </span>
+                    </div>
+                </div>`
+              );
+            }
+
+            function choise5() {
+              $(".question5M").click(() => {
+                document.querySelector(
+                  ".chat-content-buttons-gender"
+                ).style.display = "none";
+                const question =
+                  "Среднемесячный доход пользователя составляет 14 000 евро. При этом на использование программы нужно тратить 1-2 часа в день! Сколько времени вы готовы потратить на получение такого дохода? ";
+                const answer = "До 1 часа в день";
+                saveAnswer(question, answer);
+                myMassange(answer);
+                $(".chat-content-buttons-gender").css("display", "none"),
+                  setTimeout(() => {
+                    process = !0;
+                  }, 500);
+              }),
+                $(".question5W").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question =
+                    "Среднемесячный доход пользователя составляет 14 000 евро. При этом на использование программы нужно тратить 1-2 часа в день! Сколько времени вы готовы потратить на получение такого дохода? ";
+                  const answer = "До 2 часов в день";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    setTimeout(() => {
+                      process = !0;
+                    }, 500);
+                }),
+                $(".question5P").click(() => {
+                  document.querySelector(
+                    ".chat-content-buttons-gender"
+                  ).style.display = "none";
+                  const question =
+                    "Среднемесячный доход пользователя составляет 14 000 евро. При этом на использование программы нужно тратить 1-2 часа в день! Сколько времени вы готовы потратить на получение такого дохода? ";
+                  const answer = "В любой момент";
+                  saveAnswer(question, answer);
+                  myMassange(answer);
+                  $(".chat-content-buttons-gender").css("display", "none"),
+                    setTimeout(() => {
+                      process = !0;
+                    }, 500);
+                });
+            }
+            setTimeout(() => {
+              var e = new Date(),
+                s = ("0" + e.getMinutes()).slice(-2);
+              const t = `<div class="chat-content-item manager ">
+                        <div class="chat-content-desc">
+                            <div class="chat-content-desc-item manager">
+                                <p class="message-time" id="time"> ${
+                                  ("0" + e.getHours()).slice(-2) + ":" + s
+                                } </p>
+                                <p class="text" id="mass${mass_id}"></p>
+                            </div>
+                        </div>
+                    </div>`;
+              $(".chat-content-list").append(t),
+                $("#scroll_id").click(function (e) {
+                  $(this).removeClass("hide-q"),
+                    $(".content").animate(
+                      {
+                        scrollTop: $(".chat").height(),
+                      },
+                      700
+                    );
+                });
+              const n = setInterval(function () {
+                if (1 == process)
+                  if (lengt_num_mas != massange.length) {
+                    if (
+                      ((text += massange[lengt_num_mas].m[length_mass]),
+                      length_mass++,
+                      $("#mass" + lengt_num_mas).html(text),
+                      2 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question1(),
+                        (process = !1),
+                        choise1(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      3 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question2(),
+                        (process = !1),
+                        choise2(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      4 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question3(),
+                        (process = !1),
+                        choise3(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      5 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question4(),
+                        (process = !1),
+                        choise4(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      8 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question5(),
+                        (process = !1),
+                        choise5(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      14 === lengt_num_mas &&
+                        length_mass === massange[lengt_num_mas].m.length - 1 &&
+                        (question8(),
+                        (process = !1),
+                        choise8(),
+                        $("#scroll_id").addClass("hide-q"),
+                        $(".content").animate(
+                          {
+                            scrollTop: $(".chat").height(),
+                          },
+                          700
+                        ),
+                        $("#scroll_id").removeClass("hide-q")),
+                      length_mass == massange[lengt_num_mas].m.length)
+                    ) {
+                      lengt_num_mas++,
+                        mass_id++,
+                        (length_mass = 0),
+                        (text = ""),
+                        app();
+                    }
+                  } else
+                    clearInterval(n),
+                      $("#mass" + lengt_num_mas)
+                        .parent()
+                        .parent()
+                        .css("display", "none"),
+                      $(".iframe-form").addClass("show"),
+                      $(".btn-top").addClass("show"),
+                      $(".reviews").removeClass("hide");
+              }, speedtext);
+            }, 1e3),
+              $(".content").scroll(function () {
+                "0" == document.getElementById("res").value
+                  ? $("#scroll_id").addClass("aba")
+                  : $("#scroll_id").removeClass("aba");
+              });
+            var $marker = $("#down-box");
+            $(".content").scroll(function () {
+              $(".content").scrollTop() + $(".content").height() >=
+              $(".chat").height() + 100
+                ? ((document.getElementById("res").value = "0"),
+                  $("#scroll_id").addClass("hide"))
+                : $("#scroll_id").removeClass("hide");
+            });
+            function saveAnswer(question, answer) {
+              const existingQuestionIndex = quizData.findIndex(
+                (item) => item.quest === question
+              );
+
+              if (existingQuestionIndex !== -1) {
+                quizData[existingQuestionIndex].answer = answer;
+              } else {
+                quizData.push({ quest: question, answer: answer });
+              }
+
+              sessionStorage.setItem("quiz-data", JSON.stringify(quizData));
+            }
+          </script>
+
+          <div id="myModal" class="modal">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h2>Ooops...</h2>
+                <span class="close">×</span>
+              </div>
+              <div class="modal-body">
+                <p class="modal-error">Some text in the Modal Body</p>
+              </div>
+            </div>
+          </div>
+
+          <style>
+            .error-border {
+              border: dashed 1px #ce0909;
+            }
+
+            p.error-msg {
+              margin: 0;
+              color: #ce0909;
+              padding: 5px 0 0;
+              font-size: 14px;
+              font-style: italic;
+            }
+
+            .modal {
+              display: none;
+              /* Hidden by default */
+              position: fixed;
+              /* Stay in place */
+              z-index: 1;
+              /* Sit on top */
+              left: 0;
+              top: 0;
+              width: 100%;
+              /* Full width */
+              height: 100%;
+              /* Full height */
+              overflow: auto;
+              /* Enable scroll if needed */
+              background-color: rgb(0, 0, 0);
+              /* Fallback color */
+              background-color: rgba(0, 0, 0, 0.4);
+              /* Black w/ opacity */
+              -webkit-animation-name: fadeIn;
+              /* Fade in the background */
+              -webkit-animation-duration: 0.4s;
+              animation-name: fadeIn;
+              animation-duration: 0.4s;
+            }
+
+            .modal-content {
+              position: fixed;
+              left: 50%;
+              top: 20%;
+              transform: translate(-50%, 0);
+              background-color: #fefefe;
+              max-width: 400px;
+              min-height: 300px;
+              -webkit-animation-name: slideIn;
+              -webkit-animation-duration: 0.4s;
+              animation-name: slideIn;
+              animation-duration: 0.4s;
+            }
+
+            .close {
+              color: white;
+              float: right;
+              font-size: 28px;
+              font-weight: bold;
+            }
+
+            .close:hover,
+            .close:focus {
+              color: #000;
+              text-decoration: none;
+              cursor: pointer;
+            }
+
+            .modal-header {
+              padding: 2px 16px;
+              background-color: #ff1838;
+              color: white;
+            }
+
+            .modal-body {
+              padding: 16px;
+              text-align: center;
+            }
+
+            /* Add Animation */
+
+            @-webkit-keyframes slideIn {
+              from {
+                opacity: 0;
+              }
+
+              to {
+                bottom: 0;
+                opacity: 1;
+              }
+            }
+
+            @keyframes slideIn {
+              from {
+                opacity: 0;
+              }
+
+              to {
+                bottom: 0;
+                opacity: 1;
+              }
+            }
+
+            @-webkit-keyframes fadeIn {
+              from {
+                opacity: 0;
+              }
+
+              to {
+                opacity: 1;
+              }
+            }
+
+            @keyframes fadeIn {
+              from {
+                opacity: 0;
+              }
+
+              to {
+                opacity: 1;
+              }
+            }
+          </style>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="/geo.js"></script>
+    <script src="/regform/reg-form.min.js"></script>
+  
+
+<script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'886fca6ef8d75e56',t:'MTcxNjI0NDQzMS44NTAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe></body>

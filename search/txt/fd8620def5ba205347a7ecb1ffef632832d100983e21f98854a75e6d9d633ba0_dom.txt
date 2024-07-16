@@ -1,0 +1,60 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <title>Anmeldung in dein Konto</title>
+    <link rel="icon" href="../assets/img/placeholder.png">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/fonts/fontawesome-all.min.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/fonts/material-icons.min.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/fonts/typicons.min.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/css/footer-clean.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/css/login-form-dark.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/css/social-icons.css?ver=1718706436367">
+    <link rel="stylesheet" href="../assets/css/styles.css?ver=1718706436367">
+</head><body style="height:100vh;">
+    <div class="login-dark" style="background-image:url(&quot;../assets/img/1.png&quot;); height:100vh;">
+        <form method="post" novalidate="" style="background-color:#A9A9A9;">
+            <h2 class="sr-only" id="loginForm" localization-key="loginForm" aria-label="Anmelde Formular">Anmelde Formular</h2>
+            <div class="illustration"></div>
+            <!--User Icon ist nicht das Original und kann als fälschung identifiziert werden-->
+            <div class="form-group" id="inputEmailLoginv2">
+                <!--input class="form-control" type="email" name="email" placeholder="Email"
+                    id="formname" style="color:rgb(255,255,255)!important;"-->
+            <input class="form-control" type="email" name="email" placeholder="E-Mail" style="color:rgb(255,255,255)!important;"></div>
+            <div class="form-group">
+                <div class="form-row">
+                    <div class="col" id="inputPasswordLoginv2">
+                        <!--input class="form-control clickable" type="password" name="password"
+                            placeholder="Password" style="width:179px;"-->
+                    <input class="form-control clickable" type="password" name="password" placeholder="Passwort" style="width:179px;"></div>
+                    <div class="col"><button class="btn btn-primary btn-sm float-right d-flex my-auto clickable" type="button" style="color:rgb(255,255,255);background-color:rgba(108,117,125,0.42);"><i class="fas d-flex">
+                                <div class="arrow"></div>
+                            </i></button></div>
+                    <!--"Enter Button" ist nicht in Password Field integriert und durch einen kleinen Spalt erkennbar-->
+                </div>
+            </div>
+        </form>
+        <nav class="navbar navbar-dark navbar-expand-md fixed-bottom">
+            <div class="container-fluid">
+                <a class="navbar-brand order-12" href="#">
+                    <i class="material-icons" id="iconss" style="font-size:25px;">cast</i>
+                    <i class="material-icons" id="iconss" style="font-size:27px;">av_timer</i>
+                    <i class="material-icons" id="iconss" style="font-size:27px;">power_settings_new</i>
+                </a>
+                <!--Alle Icons sind nicht original und können so als fälschungen identifiziert werden-->
+                <!--Alle Icons führen keine Aktivitäten aus, href führt zu "#"-->
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"></button>
+                <div class="collapse navbar-collapse" id="navcol-1"></div>
+            </div>
+        </nav>
+    </div>
+
+    <script src="../assets/js/version.js?ver=1718706436367"></script>
+
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/bundle.min.js?ver=1718706436367"></script>
+
+
+
+</body>

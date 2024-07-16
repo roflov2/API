@@ -1,0 +1,520 @@
+<head>
+<title>Veja Trainers Ireland - Veja Sale - Veja Ireland - Veja Shoes Ireland</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Veja Trainers,Ireland,Veja Sale,Veja Ireland,Veja Shoes Ireland">
+<meta name="description" content="Veja Campo Trainers Ireland Official Website. Veja Trainers Ireland - Veja Sale - Veja Ireland - Veja Shoes Ireland. New Collection On Sale. New Daily Arrivals. Free 30-day Returns.">
+
+<base href="https://www.veja-ie.com/">
+
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/vejaireland/css/print_stylesheetwB2cR.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheet2GoMX.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheet2RpWk.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheet70OuJ.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetInlg9.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetMpG1R.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetQU0RV.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetWfcyq.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetZrlJW.css">
+<link rel="stylesheet" type="text/css" href="//www.veja-ie.com/includes/templates/vejaireland/css/stylesheetur0zl.css">
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_1.11.1.min.js"></script>
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_2.2.0.min.js"></script>
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_jquery.js"></script>
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_jquery_kinSlideshow.js"></script>
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_lightbox.js"></script>
+<script type="text/javascript" src="//www.veja-ie.com/includes/templates/vejaireland/jscript/jscript_slick.js"></script>
+</head><body id="indexHomeBody"><nav id="menu" class="mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0"><div class="mm-list-search"><form name="quick_find_header" action="/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="hidden" name="zenid" value="lr4ftl98qtu7novv7nh51gsqa2"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="oPrZGYmBT" type="submit" title="Submit search"><i class="material-icons">search</i></button></form></div><li><a class="mm-subopen" href="#mm-1"></a><a href="/kids-c-0.html?&amp;gender=Kids">Kids</a></li><li><a class="mm-subopen" href="#mm-4"></a><a href="/men-c-0.html?&amp;gender=Men">Men</a></li><li><a class="mm-subopen" href="#mm-9"></a><a href="/women-c-0.html?&amp;gender=Women">Women</a></li><li><a href="https://www.veja-ie.com/login.html">Log In</a></li><li><a href="/create_account.html">Register</a></li><li><a href="/contact_us.html" rel="nofollow">Contact Us</a></li><li><a href="/shippinginfo.html" rel="nofollow">Shipping &amp; Returns</a></li><li><a href="https://www.veja-ie.com/shopping_cart.html">Shopping Cart&nbsp;(0)</a></li><li></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Kids</a></li><li><a class="mm-subopen" href="#mm-2"></a><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Kids">Vegan Shoes</a></li><li><a class="mm-subopen" href="#mm-3"></a><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Kids">Trainers</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Vegan Shoes</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-arcade-c-1_2.html?&amp;gender=Kids">Arcade</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Kids">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-mid-c-1_8.html?&amp;gender=Kids">V-10 Mid</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Trainers</a></li><li><a href="https://www.veja-ie.com/trainers-canary-c-3_4.html?&amp;gender=Kids">Canary</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Kids">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-mid-c-3_6.html?&amp;gender=Kids">Esplar Mid</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Kids">V-12</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Men</a></li><li><a class="mm-subopen" href="#mm-5"></a><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Men">Trainers</a></li><li><a class="mm-subopen" href="#mm-6"></a><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Men">Vegan Shoes</a></li><li><a class="mm-subopen" href="#mm-7"></a><a href="https://www.veja-ie.com/running-shoes-c-22.html?&amp;gender=Men">Running Shoes</a></li><li><a class="mm-subopen" href="#mm-8"></a><a href="https://www.veja-ie.com/laces-c-24.html?&amp;gender=Men">laces</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-4">Trainers</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Men">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Men">V-12</a></li><li><a href="https://www.veja-ie.com/trainers-campo-c-3_10.html?&amp;gender=Men">Campo</a></li><li><a href="https://www.veja-ie.com/trainers-rio-branco-c-3_15.html?&amp;gender=Men">Rio Branco</a></li><li><a href="https://www.veja-ie.com/trainers-roraima-c-3_16.html?&amp;gender=Men">Roraima</a></li><li><a href="https://www.veja-ie.com/trainers-vlock-c-3_20.html?&amp;gender=Men">V-Lock</a></li><li><a href="https://www.veja-ie.com/trainers-venturi-c-3_21.html?&amp;gender=Men">Venturi</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-4">Vegan Shoes</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Men">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-2-c-1_11.html?&amp;gender=Men">Condor 2</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-c-1_12.html?&amp;gender=Men">Condor</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-esplar-c-1_13.html?&amp;gender=Men">Esplar</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-nova-c-1_14.html?&amp;gender=Men">Nova</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-sdu-c-1_17.html?&amp;gender=Men">Sdu</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-urca-c-1_18.html?&amp;gender=Men">Urca</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v12-c-1_19.html?&amp;gender=Men">V-12</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-4">Running Shoes</a></li><li><a href="https://www.veja-ie.com/running-shoes-x-rick-owens-c-22_23.html?&amp;gender=Men">X Rick Owens</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-4">laces</a></li><li><a href="https://www.veja-ie.com/laces-laces-c-24_25.html?&amp;gender=Men">laces</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Women</a></li><li><a class="mm-subopen" href="#mm-10"></a><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Women">Trainers</a></li><li><a class="mm-subopen" href="#mm-11"></a><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Women">Vegan Shoes</a></li><li><a class="mm-subopen" href="#mm-12"></a><a href="https://www.veja-ie.com/running-shoes-c-22.html?&amp;gender=Women">Running Shoes</a></li><li><a class="mm-subopen" href="#mm-13"></a><a href="https://www.veja-ie.com/laces-c-24.html?&amp;gender=Women">laces</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Trainers</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Women">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Women">V-12</a></li><li><a href="https://www.veja-ie.com/trainers-campo-c-3_10.html?&amp;gender=Women">Campo</a></li><li><a href="https://www.veja-ie.com/trainers-rio-branco-c-3_15.html?&amp;gender=Women">Rio Branco</a></li><li><a href="https://www.veja-ie.com/trainers-roraima-c-3_16.html?&amp;gender=Women">Roraima</a></li><li><a href="https://www.veja-ie.com/trainers-vlock-c-3_20.html?&amp;gender=Women">V-Lock</a></li><li><a href="https://www.veja-ie.com/trainers-venturi-c-3_21.html?&amp;gender=Women">Venturi</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-11"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Vegan Shoes</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Women">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-2-c-1_11.html?&amp;gender=Women">Condor 2</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-c-1_12.html?&amp;gender=Women">Condor</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-esplar-c-1_13.html?&amp;gender=Women">Esplar</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-nova-c-1_14.html?&amp;gender=Women">Nova</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-sdu-c-1_17.html?&amp;gender=Women">Sdu</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-urca-c-1_18.html?&amp;gender=Women">Urca</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v12-c-1_19.html?&amp;gender=Women">V-12</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-12"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Running Shoes</a></li><li><a href="https://www.veja-ie.com/running-shoes-x-rick-owens-c-22_23.html?&amp;gender=Women">X Rick Owens</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-13"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">laces</a></li><li><a href="https://www.veja-ie.com/laces-laces-c-24_25.html?&amp;gender=Women">laces</a></li></ul></nav>
+
+<!--bof-header logo and navigation display-->
+<div class="mm-page mm-slideout"><div id="wfTXhsBix">
+<div id="O5wBOktVQ">
+	<div class="HSFdZm1NH">
+                    <div id="oqioxpDCV"> 
+  <section class="lazy slider slick-initialized slick-slider" data-sizes="50vw"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2800px; transform: translate3d(-800px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">card_giftcard</i> Lowest Price Guarantee <i class="material-icons">card_giftcard</i></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Free delivery from NZ$150 <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Days Money Back Guarantee <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">card_giftcard</i> Lowest Price Guarantee <i class="material-icons">card_giftcard</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Free delivery from NZ$150 <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Days Money Back Guarantee <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">card_giftcard</i> Lowest Price Guarantee <i class="material-icons">card_giftcard</i></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">arrow_right</i></button></section>
+</div>
+
+	<div id="ep3rc8kxT">
+
+
+	<div class="zQFhGRfrd">
+	 <img src="includes/templates/vejaireland/images/flag/EUR.gif" title="EUR" alt="EUR">
+    </div>
+	 <div class="Cloq9h6y5">
+        <!-- ========== CURRENCIES ========= -->
+    <div id="Content" class="currenccontent"><form name="currencies_form" action="https://www.veja-ie.com/" method="get"><select name="currency" onchange="this.form.submit();">
+  <option value="USD">USD</option>
+  <option value="EUR" selected="selected">EUR</option>
+  <option value="GBP">GBP</option>
+  <option value="CAD">CAD</option>
+  <option value="AUD">AUD</option>
+  <option value="CNY">CNY</option>
+  <option value="CHF">CHF</option>
+  <option value="SEK">SEK</option>
+  <option value="MXN">MXN</option>
+  <option value="DKK">DKK</option>
+  <option value="PLN">PLN</option>
+  <option value="TRY">TRY</option>
+  <option value="RON">RON</option>
+  <option value="JPY">JPY</option>
+  <option value="NOK">NOK</option>
+  <option value="HUF">HUF</option>
+  <option value="ARS">ARS</option>
+  <option value="NZD">NZD</option>
+  <option value="CZK">CZK</option>
+  <option value="INR">INR</option>
+</select>
+<input type="hidden" name="main_page" value="index"><input type="hidden" name="size"><input type="hidden" name="color"><input type="hidden" name="pfrom"><input type="hidden" name="pto"><input type="hidden" name="coll"><input type="hidden" name="gender"><input type="hidden" name="zenid" value="lr4ftl98qtu7novv7nh51gsqa2"></form></div>                            <!-- ====================================== -->
+      </div>
+	</div>
+	<!-- logininf -->
+
+	<div id="I7Ahj9CNc">
+
+               <a href="https://www.veja-ie.com/login.html" rel="nofollow" id="login"><i class="material-icons">person</i><span>&nbsp;Log In</span></a><a rel="nofollow" class="OksX7MRn8" href="/create_account.html"><i class="material-icons">person_add_alt_1</i> <span>Register</span></a>
+		<a href="https://www.veja-ie.com/shopping_cart.html" id="PfSCpxHOa" rel="nofollow"><i class="material-icons">shopping_cart</i><span>&nbsp;(0)</span></a>
+						</div>
+<div class="clear"></div>
+</div>
+<!-- logininf -->
+    </div>
+	<div id="SZXDtEVoT"><a href="https://www.veja-ie.com/"><img title="Veja At veja-ie.com" src="includes/templates/vejaireland/images/logo.png"></a></div>
+	<div id="DW5SvyzML">
+	<div id="GTNz3ORDZ" class="">
+		<div id="menu-head">
+<ul class="level1"><li class="submenu"><a href="/kids-c-0.html?&amp;gender=Kids">Kids</a><ul class="level2"><div class="ulByVcAHw"><li class="submenu"><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Kids">Vegan Shoes</a><ul class="level3"><li><a href="https://www.veja-ie.com/vegan-shoes-arcade-c-1_2.html?&amp;gender=Kids">Arcade</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Kids">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v10-mid-c-1_8.html?&amp;gender=Kids">V-10 Mid</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Kids">Trainers</a><ul class="level3"><li><a href="https://www.veja-ie.com/trainers-canary-c-3_4.html?&amp;gender=Kids">Canary</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Kids">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-esplar-mid-c-3_6.html?&amp;gender=Kids">Esplar Mid</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Kids">V-12</a></li></ul></li><img src="images/Veja_Kids.jpg"><div class="clear"></div><div class="clear"></div></div></ul></li><li class="submenu"><a href="/men-c-0.html?&amp;gender=Men">Men</a><ul class="level2"><div class="ulByVcAHw"><li class="submenu"><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Men">Trainers</a><ul class="level3"><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Men">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Men">V-12</a></li><li><a href="https://www.veja-ie.com/trainers-campo-c-3_10.html?&amp;gender=Men">Campo</a></li><li><a href="https://www.veja-ie.com/trainers-rio-branco-c-3_15.html?&amp;gender=Men">Rio Branco</a></li><li><a href="https://www.veja-ie.com/trainers-roraima-c-3_16.html?&amp;gender=Men">Roraima</a></li><li><a href="https://www.veja-ie.com/trainers-vlock-c-3_20.html?&amp;gender=Men">V-Lock</a></li><li><a href="https://www.veja-ie.com/trainers-venturi-c-3_21.html?&amp;gender=Men">Venturi</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Men">Vegan Shoes</a><ul class="level3"><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Men">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-2-c-1_11.html?&amp;gender=Men">Condor 2</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-c-1_12.html?&amp;gender=Men">Condor</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-esplar-c-1_13.html?&amp;gender=Men">Esplar</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-nova-c-1_14.html?&amp;gender=Men">Nova</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-sdu-c-1_17.html?&amp;gender=Men">Sdu</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-urca-c-1_18.html?&amp;gender=Men">Urca</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v12-c-1_19.html?&amp;gender=Men">V-12</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/running-shoes-c-22.html?&amp;gender=Men">Running Shoes</a><ul class="level3"><li><a href="https://www.veja-ie.com/running-shoes-x-rick-owens-c-22_23.html?&amp;gender=Men">X Rick Owens</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/laces-c-24.html?&amp;gender=Men">laces</a><ul class="level3"><li><a href="https://www.veja-ie.com/laces-laces-c-24_25.html?&amp;gender=Men">laces</a></li></ul></li><img src="images/Veja_Mens.jpg"><div class="clear"></div><div class="clear"></div></div></ul></li><li class="submenu"><a href="/women-c-0.html?&amp;gender=Women">Women</a><ul class="level2"><div class="ulByVcAHw"><li class="submenu"><a href="https://www.veja-ie.com/trainers-c-3.html?&amp;gender=Women">Trainers</a><ul class="level3"><li><a href="https://www.veja-ie.com/trainers-esplar-c-3_5.html?&amp;gender=Women">Esplar</a></li><li><a href="https://www.veja-ie.com/trainers-v12-c-3_9.html?&amp;gender=Women">V-12</a></li><li><a href="https://www.veja-ie.com/trainers-campo-c-3_10.html?&amp;gender=Women">Campo</a></li><li><a href="https://www.veja-ie.com/trainers-rio-branco-c-3_15.html?&amp;gender=Women">Rio Branco</a></li><li><a href="https://www.veja-ie.com/trainers-roraima-c-3_16.html?&amp;gender=Women">Roraima</a></li><li><a href="https://www.veja-ie.com/trainers-vlock-c-3_20.html?&amp;gender=Women">V-Lock</a></li><li><a href="https://www.veja-ie.com/trainers-venturi-c-3_21.html?&amp;gender=Women">Venturi</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/vegan-shoes-c-1.html?&amp;gender=Women">Vegan Shoes</a><ul class="level3"><li><a href="https://www.veja-ie.com/vegan-shoes-v10-c-1_7.html?&amp;gender=Women">V-10</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-2-c-1_11.html?&amp;gender=Women">Condor 2</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-condor-c-1_12.html?&amp;gender=Women">Condor</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-esplar-c-1_13.html?&amp;gender=Women">Esplar</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-nova-c-1_14.html?&amp;gender=Women">Nova</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-sdu-c-1_17.html?&amp;gender=Women">Sdu</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-urca-c-1_18.html?&amp;gender=Women">Urca</a></li><li><a href="https://www.veja-ie.com/vegan-shoes-v12-c-1_19.html?&amp;gender=Women">V-12</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/running-shoes-c-22.html?&amp;gender=Women">Running Shoes</a><ul class="level3"><li><a href="https://www.veja-ie.com/running-shoes-x-rick-owens-c-22_23.html?&amp;gender=Women">X Rick Owens</a></li></ul></li><li class="submenu"><a href="https://www.veja-ie.com/laces-c-24.html?&amp;gender=Women">laces</a><ul class="level3"><li><a href="https://www.veja-ie.com/laces-laces-c-24_25.html?&amp;gender=Women">laces</a></li></ul></li><img src="images/Veja_Womens.jpg"><div class="clear"></div><div class="clear"></div></div></ul></li><li></li></ul><div class="clear"></div>
+</div>
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+</script>
+
+<div class="header">
+	<a href="#menu"></a>
+</div>
+
+	
+          	</div>
+	<div class="search">
+	<form name="quick_find_header" action="https://www.veja-ie.com/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="hidden" name="zenid" value="lr4ftl98qtu7novv7nh51gsqa2"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="oPrZGYmBT" type="submit" title="Submit search"><i class="material-icons">search</i></button></form>	</div>
+	<div class="clear"></div>
+	</div>
+
+<script type="text/javascript"> 
+    function showsearch(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+     
+      if(obj_parent.className=="search-none")
+      {
+        obj_parent.className="search-block";
+      }
+      else
+      {
+        obj_parent.className="search-none";
+      }
+     
+    }
+</script>
+</div><div id="PkyYtjh9b">
+<!--banner_1-->
+<div id="U81PTYH5m">
+<a href="men-veja-v10-leather-vegan-shoes-vegan-shoes-whitered-ireland-ie2861qx-p-174.html"><img title="Veja Trainers Ireland" src="includes/templates/vejaireland/images/banner.jpg" alt="Veja Trainers Ireland"></a>
+</div>
+<div id="aeClvAuVN">
+<a href="vegan shoes-c-1.html" class="Vegan Shoes" title="Vegan Shoes"><img src="images/Vegan Shoes.jpg"><span>Vegan Shoes</span></a><a href="trainers-c-3.html" class="Trainers" title="Trainers"><img src="images/Trainers.jpg"><span>Trainers</span></a><a href="running shoes-c-22.html" class="Running Shoes" title="Running Shoes"><img src="images/Running Shoes.jpg"><span>Running Shoes</span></a><a href="laces-c-24.html" class="laces" title="laces"><img src="images/laces.jpg"><span>laces</span></a><div class="clear"></div></div>
+
+
+
+<div class="cLXcHtyG0">
+<div id="dXYOD6WAH">
+<div class="V1SLZgdK4">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+<!-- content -->
+
+<div class="centerColumn2" id="indexDefault">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<!-- bof: centerinfo products  -->
+<div id="NhMZzEjxa">
+<div id="of1lW3Mp6">Veja Trainers Ireland</div>
+<div id="kX2Wl9Zgd">
+<section class="regular slider slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8400px; transform: translate3d(-1400px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-x-rick-owens-vknit-mid-vegan-shoes-running-shoes-beige-ireland-ie8254un-p-200.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN 200_ZOOM.jpg" alt="Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN" title=" Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN " width="800" height="918">
+   </a>
+   </div>
+   <p class="productname">Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN</p><div class="sShtqM4NL">€83</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-esplar-chromefree-trainers-whitegrey-ireland-ie3725zl-p-250.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Esplar Chromefree Trainers White Grey ireland IE-3725ZL 250_ZOOM.jpg" alt="Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL" title=" Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL</p><div class="sShtqM4NL">€60</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-sdu-rec-alveomesh-vegan-shoes-vegan-shoes-purpleblackpink-ireland-ie9418uf-p-300.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple Black Pink ireland IE-9418UF 300_ZOOM.jpg" alt="Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF" title=" Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF</p><div class="sShtqM4NL">€56</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-v10-leather-vegan-shoes-vegan-shoes-whitegold-ireland-ie1065mo-p-330.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja V-10 Leather Vegan Shoes Vegan Shoes White Gold ireland IE-1065MO 330_ZOOM.jpg" alt="Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO" title=" Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO</p><div class="sShtqM4NL">€64</div>
+   </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" role="tabpanel" id="slick-slide00" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-esplar-mid-velcro-leather-trainers-brown-ireland-ie6159wv-p-10.html" tabindex="0"> 
+	 <img src="images/large/Vejaie/Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV 10_ZOOM.jpg" alt="Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV" title=" Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV</p><div class="sShtqM4NL">€55</div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" role="tabpanel" id="slick-slide01" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-esplar-velcro-chromefree-trainers-whitesilver-ireland-ie1238xo-p-30.html" tabindex="0"> 
+	 <img src="images/large/Vejaie/Kids Veja Esplar Velcro Chromefree Trainers White Silver ireland IE-1238XO 30_ZOOM.jpg" alt="Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO" title=" Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO</p><div class="sShtqM4NL">€50</div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" role="tabpanel" id="slick-slide02" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-v10-lace-cwl-vegan-shoes-vegan-shoes-whitered-ireland-ie8659tu-p-50.html" tabindex="0"> 
+	 <img src="images/large/Vejaie/Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White Red ireland IE-8659TU 50_ZOOM.jpg" alt="Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU" title=" Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU</p><div class="sShtqM4NL">€55</div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" role="tabpanel" id="slick-slide03" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-esplar-leather-trainers-whitered-ireland-ie6732ht-p-100.html" tabindex="0"> 
+	 <img src="images/large/Vejaie/Men Veja Esplar Leather Trainers White Red ireland IE-6732HT 100_ZOOM.jpg" alt="Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT" title=" Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT</p><div class="sShtqM4NL">€56</div>
+   </div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide04" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-roraima-leather-trainers-black-ireland-ie1096pa-p-130.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja Roraima Leather Trainers Black ireland IE-1096PA 130_ZOOM.jpg" alt="Men Veja Roraima Leather Trainers Black ireland IE-1096PA" title=" Men Veja Roraima Leather Trainers Black ireland IE-1096PA " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja Roraima Leather Trainers Black ireland IE-1096PA</p><div class="sShtqM4NL">€66</div>
+   </div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide05" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-v10-cwl-vegan-shoes-vegan-shoes-whitebeige-ireland-ie8301sv-p-160.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja V-10 CWL Vegan Shoes Vegan Shoes White Beige ireland IE-8301SV 160_ZOOM.jpg" alt="Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV" title=" Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV</p><div class="sShtqM4NL">€64</div>
+   </div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide06" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-x-rick-owens-vknit-mid-vegan-shoes-running-shoes-beige-ireland-ie8254un-p-200.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN 200_ZOOM.jpg" alt="Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN" title=" Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN " width="800" height="918">
+   </a>
+   </div>
+   <p class="productname">Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN</p><div class="sShtqM4NL">€83</div>
+   </div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide07" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-esplar-chromefree-trainers-whitegrey-ireland-ie3725zl-p-250.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Esplar Chromefree Trainers White Grey ireland IE-3725ZL 250_ZOOM.jpg" alt="Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL" title=" Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL</p><div class="sShtqM4NL">€60</div>
+   </div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide08" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-sdu-rec-alveomesh-vegan-shoes-vegan-shoes-purpleblackpink-ireland-ie9418uf-p-300.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple Black Pink ireland IE-9418UF 300_ZOOM.jpg" alt="Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF" title=" Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF</p><div class="sShtqM4NL">€56</div>
+   </div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide09" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-v10-leather-vegan-shoes-vegan-shoes-whitegold-ireland-ie1065mo-p-330.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja V-10 Leather Vegan Shoes Vegan Shoes White Gold ireland IE-1065MO 330_ZOOM.jpg" alt="Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO" title=" Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO</p><div class="sShtqM4NL">€64</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-esplar-mid-velcro-leather-trainers-brown-ireland-ie6159wv-p-10.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV 10_ZOOM.jpg" alt="Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV" title=" Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja Esplar Mid Velcro Leather Trainers Brown ireland IE-6159WV</p><div class="sShtqM4NL">€55</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-esplar-velcro-chromefree-trainers-whitesilver-ireland-ie1238xo-p-30.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Kids Veja Esplar Velcro Chromefree Trainers White Silver ireland IE-1238XO 30_ZOOM.jpg" alt="Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO" title=" Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja Esplar Velcro Chromefree Trainers White/Silver ireland IE-1238XO</p><div class="sShtqM4NL">€50</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/kids-veja-v10-lace-cwl-vegan-shoes-vegan-shoes-whitered-ireland-ie8659tu-p-50.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White Red ireland IE-8659TU 50_ZOOM.jpg" alt="Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU" title=" Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Kids Veja V-10 Lace CWL Vegan Shoes Vegan Shoes White/Red ireland IE-8659TU</p><div class="sShtqM4NL">€55</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-esplar-leather-trainers-whitered-ireland-ie6732ht-p-100.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja Esplar Leather Trainers White Red ireland IE-6732HT 100_ZOOM.jpg" alt="Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT" title=" Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja Esplar Leather Trainers White/Red ireland IE-6732HT</p><div class="sShtqM4NL">€56</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-roraima-leather-trainers-black-ireland-ie1096pa-p-130.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja Roraima Leather Trainers Black ireland IE-1096PA 130_ZOOM.jpg" alt="Men Veja Roraima Leather Trainers Black ireland IE-1096PA" title=" Men Veja Roraima Leather Trainers Black ireland IE-1096PA " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja Roraima Leather Trainers Black ireland IE-1096PA</p><div class="sShtqM4NL">€66</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-v10-cwl-vegan-shoes-vegan-shoes-whitebeige-ireland-ie8301sv-p-160.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja V-10 CWL Vegan Shoes Vegan Shoes White Beige ireland IE-8301SV 160_ZOOM.jpg" alt="Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV" title=" Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Men Veja V-10 CWL Vegan Shoes Vegan Shoes White/Beige ireland IE-8301SV</p><div class="sShtqM4NL">€64</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/men-veja-x-rick-owens-vknit-mid-vegan-shoes-running-shoes-beige-ireland-ie8254un-p-200.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN 200_ZOOM.jpg" alt="Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN" title=" Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN " width="800" height="918">
+   </a>
+   </div>
+   <p class="productname">Men Veja X Rick Owens V-Knit Mid Vegan Shoes Running Shoes Beige ireland IE-8254UN</p><div class="sShtqM4NL">€83</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-esplar-chromefree-trainers-whitegrey-ireland-ie3725zl-p-250.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Esplar Chromefree Trainers White Grey ireland IE-3725ZL 250_ZOOM.jpg" alt="Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL" title=" Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Esplar Chromefree Trainers White/Grey ireland IE-3725ZL</p><div class="sShtqM4NL">€60</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="18" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-sdu-rec-alveomesh-vegan-shoes-vegan-shoes-purpleblackpink-ireland-ie9418uf-p-300.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple Black Pink ireland IE-9418UF 300_ZOOM.jpg" alt="Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF" title=" Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja Sdu Rec Alveomesh Vegan Shoes Vegan Shoes Purple/Black/Pink ireland IE-9418UF</p><div class="sShtqM4NL">€56</div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="19" aria-hidden="true" tabindex="-1" style="width: 350px;"><div><div class="XTCblrZdZ" style="width: 100%; display: inline-block;"> 
+   <div class="wfBhu8A2m">
+   <a href=" https://www.veja-ie.com/women-veja-v10-leather-vegan-shoes-vegan-shoes-whitegold-ireland-ie1065mo-p-330.html" tabindex="-1"> 
+	 <img src="images/large/Vejaie/Women Veja V-10 Leather Vegan Shoes Vegan Shoes White Gold ireland IE-1065MO 330_ZOOM.jpg" alt="Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO" title=" Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO " width="800" height="917">
+   </a>
+   </div>
+   <p class="productname">Women Veja V-10 Leather Vegan Shoes Vegan Shoes White/Gold ireland IE-1065MO</p><div class="sShtqM4NL">€64</div>
+   </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">arrow_right</i></button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide04" aria-label="2 of 3" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide08" aria-label="3 of 3" tabindex="-1">3</button></li></ul></section>
+</div>
+</div>
+<!-- eof: Related products  -->
+<!-- eof: centerinfo products  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- content -->
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div><div class="lqffootimg">
+	        <div class="lqffoot1">
+                <div class="lqffoot2">
+<div class="lqffoot3">
+<div class="lqffoot4">
+	<img src="includes/templates/vejaireland/images/send-img.jpg">
+		</div></div></div><div class="section1-txt">
+                     <p class="title">Free Shipping</p>
+                    <p>All Orders</p>
+                </div>
+            </div>
+            <div class="lqffoot1">
+                <div class="lqffoot2">
+<div class="lqffoot3">
+<div class="lqffoot4">
+	<img src="includes/templates/vejaireland/images/buy-img.jpg">
+		</div></div></div><div class="section1-txt">
+                    <p class="title">Safe Shopping</p>
+                    <p>Purchase is 100% Secure</p>
+                </div>
+            </div>
+            <div class="lqffoot1">
+                <div class="lqffoot2">
+<div class="lqffoot3">
+<div class="lqffoot4">
+	<img src="includes/templates/vejaireland/images/devolution-img.jpg">
+		</div></div></div><div class="section1-txt">
+                    <p class="title">Returns</p>
+                    <p>30 Days After Your Purchase</p>
+                </div>
+            </div>
+            
+          
+            <div class="lqffoot1">
+                <div class="lqffoot2">
+<div class="lqffoot3">
+<div class="lqffoot4">
+	<img src="includes/templates/vejaireland/images/service-img.jpg">
+		</div></div></div><div class="section1-txt">
+                    <p class="title">Support</p>
+                    <p>We Can Help You</p>
+                </div>
+            </div>
+	    </div><div id="BhwUgWS1C">
+<div id="kVKjcZrSa">
+		<div id="lPE2VWHkA">
+		<div id="tBYFuZM2Q">
+                        <h5>Customer service</h5>
+<ul>
+<!--<li><a href="https://www.veja-ie.com/">Home</a></li>-->
+<li><a href="https://www.veja-ie.com/shippinginfo.html" rel="nofollow" style="border:none;">Shipping &amp; Returns</a></li>
+<li><a href="https://www.veja-ie.com/privacy.html" rel="nofollow">Privacy Notice</a></li>
+<li><a href="https://www.veja-ie.com/contact_us.html" rel="nofollow">Contact Us</a></li>
+<li><a href="https://www.veja-ie.com/site_map.html">Site Map</a></li>
+<li><a href="https://www.veja-ie.com/outlet.html" style="background:none;">
+Outlet</a></li>
+</ul>            			</div>
+            <div class="seachtems"><div id="footer-seach"><h5>QUICK LINKS</h5><a href="/advanced_search_result.html?keyword=Veja Campo">Veja Campo</a><a href="/advanced_search_result.html?keyword=Veja Condor">Veja Condor</a><a href="/advanced_search_result.html?keyword=Veja Esplar">Veja Esplar</a><a href="/advanced_search_result.html?keyword=Veja Nova">Veja Nova</a><a href="/advanced_search_result.html?keyword=Veja Rick Owens">Veja Rick Owens</a><a href="/advanced_search_result.html?keyword=Veja Rio Branco">Veja Rio Branco</a><a href="/advanced_search_result.html?keyword=Veja V-10">Veja V-10</a><a href="/advanced_search_result.html?keyword=Veja V-12">Veja V-12</a><a href="/advanced_search_result.html?keyword=Veja Roraima">Veja Roraima</a><a href="/advanced_search_result.html?keyword=Veja SDU">Veja SDU</a><a href="/advanced_search_result.html?keyword=Veja Urca">Veja Urca</a><a href="/advanced_search_result.html?keyword=Veja Venturi">Veja Venturi</a><a href="/advanced_search_result.html?keyword=Veja V-Lock">Veja V-Lock</a><a href="/advanced_search_result.html?keyword=Veja Condor 2">Veja Condor 2</a><a href="/advanced_search_result.html?keyword=Veja Velcro">Veja Velcro</a><a href="/advanced_search_result.html?keyword=Veja Trainers Ireland">Veja Trainers Ireland</a></div> </div>
+			<div id="ZpwYR8Sn3"><h5>FOLLOW US</h5><a href="https://www.facebook.com/sharer/sharer.php?u=http://veja-ie.com/">
+<svg class="t7YwxoLkQ" viewBox="0 0 30 30">
+<g transform="scale(0.02888 0.02888)">
+<path d="M928 0h-832c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h416v-448h-128v-128h128v-64c0-105.8 86.2-192 192-192h128v128h-128c-35.2 0-64 28.8-64 64v64h192l-32 128h-160v448h288c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96z"></path>
+</g></svg>
+</a>
+<a href="https://twitter.com/intent/tweet/?url=http://veja-ie.com/">
+<svg class="t7YwxoLkQ" viewBox="0 0 30 30">
+<g transform="scale(0.02888 0.02888)">
+<path d="M1024 226.4c-37.6 16.8-78.2 28-120.6 33 43.4-26 76.6-67.2 92.4-116.2-40.6 24-85.6 41.6-133.4 51-38.4-40.8-93-66.2-153.4-66.2-116 0-210 94-210 210 0 16.4 1.8 32.4 5.4 47.8-174.6-8.8-329.4-92.4-433-219.6-18 31-28.4 67.2-28.4 105.6 0 72.8 37 137.2 93.4 174.8-34.4-1-66.8-10.6-95.2-26.2 0 0.8 0 1.8 0 2.6 0 101.8 72.4 186.8 168.6 206-17.6 4.8-36.2 7.4-55.4 7.4-13.6 0-26.6-1.4-39.6-3.8 26.8 83.4 104.4 144.2 196.2 146-72 56.4-162.4 90-261 90-17 0-33.6-1-50.2-3 93.2 59.8 203.6 94.4 322.2 94.4 386.4 0 597.8-320.2 597.8-597.8 0-9.2-0.2-18.2-0.6-27.2 41-29.4 76.6-66.4 104.8-108.6z"></path>
+</g></svg>
+</a>
+<a href="https://www.pinterest.com/pin/create/button/?url=http://veja-ie.com/">
+<svg class="t7YwxoLkQ" viewBox="0 0 30 30">
+<g transform="scale(0.02888 0.02888)"><path d="M512 68.4c-245 0-443.6 198.6-443.6 443.6 0 188 117 348.4 282 413-3.8-35-7.4-89 1.6-127.2 8-34.6 52-220.4 52-220.4s-13.2-26.6-13.2-65.8c0-61.6 35.8-107.8 80.2-107.8 37.8 0 56.2 28.4 56.2 62.4 0 38-24.2 95-36.8 147.6-10.6 44.2 22 80.2 65.6 80.2 78.8 0 139.4-83.2 139.4-203.2 0-106.2-76.4-180.4-185.2-180.4-126.2 0-200.2 94.6-200.2 192.6 0 38.2 14.6 79 33 101.2 3.6 4.4 4.2 8.2 3 12.8-3.4 14-10.8 44.2-12.4 50.4-2 8.2-6.4 9.8-14.8 6-55.4-25.8-90-106.8-90-171.8 0-140 101.6-268.4 293-268.4 153.8 0 273.4 109.6 273.4 256.2 0 152.8-96.4 276-230.2 276-45 0-87.2-23.4-101.6-51 0 0-22.2 84.6-27.6 105.4-10 38.6-37 86.8-55.2 116.2 41.6 12.8 85.6 19.8 131.4 19.8 245 0 443.6-198.6 443.6-443.6 0-245.2-198.6-443.8-443.6-443.8z"></path></g></svg>
+</a>
+<a href="http://www.tumblr.com/share/link?url=http://veja-ie.com/">
+<svg class="t7YwxoLkQ" viewBox="0 0 30 30">
+<g transform="scale(0.02888 0.02888)"><path d="M576.032 448l-0.002 234.184c0 59.418-0.77 93.656 5.53 110.5 6.25 16.754 21.918 34.146 38.99 44.202 22.684 13.588 48.542 20.376 77.708 20.376 51.854 0 82.478-6.848 133.742-40.54v153.944c-43.7 20.552-81.866 32.594-117.324 40.922-35.5 8.242-73.86 12.406-115.064 12.406-46.828 0-74.456-5.886-110.41-17.656-35.958-11.868-66.66-28.806-92.020-50.54-25.45-21.922-43.022-45.208-52.848-69.832-9.826-24.636-14.716-60.414-14.716-107.244v-359.1h-137.426v-145.006c40.208-13.042 85.164-31.788 113.78-56.152 28.754-24.45 51.766-53.706 69.106-87.944 17.392-34.146 29.348-77.712 35.872-130.516h165.084l-0.002 255.996h255.968v192h-255.968z"></path>
+</g></svg>
+</a>
+<a style="margin-right:0px;" href="https://plus.google.com/share?url=http://veja-ie.com/">
+<svg class="t7YwxoLkQ" viewBox="0 0 30 30">
+<g transform="scale(0.02888 0.02888)"><path d="M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512 512-229.2 512-512-229.2-512-512-512zM384 768c-141.6 0-256-114.4-256-256s114.4-256 256-256c69.2 0 127 25.2 171.6 67l-69.6 66.8c-19-18.2-52.2-39.4-102-39.4-87.4 0-158.8 72.4-158.8 161.6s71.4 161.6 158.8 161.6c101.4 0 139.4-72.8 145.2-110.4h-145.2v-87.8h241.8c2.2 12.8 4 25.6 4 42.4 0 146.4-98 250.2-245.8 250.2zM832 512v64h-64v-64h-64v-64h64v-64h64v64h64v64h-64z"></path></g></svg>
+</a>
+<div class="clear"></div></div>
+           
+		<div class="clearBoth"></div>
+		</div>
+        
+		<div class="v8NbLahlQ">
+			Copyright © 2024 <a href="https://www.veja-ie.com/">veja-ie</a> Powered by <a href="https://www.veja-ie.com/">veja-ie.com</a>
+			
+			<a href="https://www.sauconycanadaoutlets.com/" style="color:#FFF">Saucony Canada</a>
+<a href="https://www.sauconysverigeoutlets.com/" style="color:#FFF">Saucony Sverige</a>
+<a href="https://www.sauconyturkeyshop.com/" style="color:#FFF">Saucony Türkiye</a>
+<a href="https://www.veja-portugal.pt/" style="color:#FFF">Veja Portugal</a>
+<a href="https://www.salomonfactoryoutletus.com/" style="color:#FFF">Salomon Outlet</a>
+<a href="https://www.keenfactoryoutletonline.com/" style="color:#FFF">Keen Outlet</a>
+<a href="https://www.skechersoutlet-factory.com/" style="color:#FFF">Skechers Outlet</a>
+<a href="https://www.columbiaoutletusfactory.com/" style="color:#FFF">Columbia Factory Outlet </a>
+<a href="https://www.skechersusafactoryoutlet.com/" style="color:#FFF">Skechers USA </a>
+<a href="https://www.sorelbootsretailers.com/" style="color:#FFF">Sorel Boots Sale</a>
+<a href="https://www.kenzo-singapore.com/" style="color:#FFF">Kenzo Singapore</a>
+<a href="https://www.kenzoukoutlet.com/" style="color:#FFF">Kenzo UK</a>
+<a href="https://www.aetrexoutletfactory.com/" style="color:#FFF">Aetrex Outlet</a>
+<a href="https://www.reebokgreeceoutlet.com/" style="color:#FFF">Reebok Greece</a>
+<a href="https://www.tevaussite.com/" style="color:#FFF">Teva US</a>
+<a href="https://www.vivobarefoot-us.com/" style="color:#FFF">Vivobarefoot US</a>
+<a href="https://www.hunter-us.com/" style="color:#FFF">Hunter US</a>
+<a href="https://www.veja-us.com/" style="color:#FFF">Veja US</a>
+<a href="https://www.merrell-us.com/" style="color:#FFF">Merrell US</a>
+<a href="https://www.skechersusawebsite.com/" style="color:#FFF">Skechers USA</a>
+<a href="https://www.vejasaleblackfriday.com/" style="color:#FFF">Veja Sale</a>
+<a href="https://www.skecherssaleblackfriday.com/" style="color:#FFF">Skechers Sale</a>
+<a href="https://www.columbiafactoryoutlets.com/" style="color:#FFF">Columbia Factory Outlet</a>
+<a href="https://www.vejairelandstockists.com/" style="color:#FFF">Veja Ireland</a>
+<a href="https://www.sauconymalaysiastores.com/" style="color:#FFF">Saucony Malaysia</a>
+<a href="https://www.vejamalaysiastore.com/" style="color:#FFF">Veja Malaysia</a>
+<a href="https://www.timberlandirelandie.com/" style="color:#FFF">Timberland Ireland</a>
+			<div class="clear"></div>
+		</div>
+		</div>
+</div></div>
+	<!-- bof  breadcrumb -->
+	
+<!-- eof breadcrumb -->
+
+
+
+
+        
+        
+
+
+
+
+  <script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/slick_new.js" type="text/javascript" charset="utf-8"></script>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+
+
+	<script src="js/jquery.jxa.js"></script>
+	<script src="js/jquery.jxb.js"></script>
+	<script>
+		$(function(){
+			$('#navToggle').on('click',function(){
+				$('.m_nav').addClass('open');
+			})
+			$('.m_nav .top .closed').on('click',function(){
+				$('.m_nav').removeClass('open');
+			})
+
+		})
+	</script>
+	<script type="text/javascript">
+	  $.noConflict();
+	</script>
+
+<div id="mm-blocker" class="mm-slideout"></div></body>

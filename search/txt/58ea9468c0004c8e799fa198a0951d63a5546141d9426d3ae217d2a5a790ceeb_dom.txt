@@ -1,0 +1,1508 @@
+<head>
+
+    <meta name="csrf-token" content="c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N">
+    <meta name="app-url" content="//eade.store/">
+    <meta name="file-base-url" content="//eade.store/public/">
+
+    <title>eWorldTrade | Global B2B Marketplace for Worldwide Manufacturers and Whole Suppliers | International Portal for Export &amp; Import to Trade Online – eWorldTrade</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="eWorldTrade">
+    <meta name="keywords" content="eWorldTrade">
+
+    
+            <!-- Schema.org markup for Google+ -->
+        <meta itemprop="name" content="eWorldTrade">
+        <meta itemprop="description" content="eWorldTrade">
+        <meta itemprop="image" content="https://eade.store/public/uploads/all/G2ZuTjBvHHgZyBEKyAljyGqA9bD3R5Lre71cOvXR.png">
+
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" content="product">
+        <meta name="twitter:site" content="@publisher_handle">
+        <meta name="twitter:title" content="eWorldTrade">
+        <meta name="twitter:description" content="eWorldTrade">
+        <meta name="twitter:creator" content="@author_handle">
+        <meta name="twitter:image" content="https://eade.store/public/uploads/all/G2ZuTjBvHHgZyBEKyAljyGqA9bD3R5Lre71cOvXR.png">
+
+        <!-- Open Graph data -->
+        <meta property="og:title" content="eWorldTrade">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://eade.store">
+        <meta property="og:image" content="https://eade.store/public/uploads/all/G2ZuTjBvHHgZyBEKyAljyGqA9bD3R5Lre71cOvXR.png">
+        <meta property="og:description" content="eWorldTrade">
+        <meta property="og:site_name" content="eWorldTrade">
+        <meta property="fb:app_id" content="">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="https://eade.store/public/uploads/all/J5kAwoGk7aMwF1IaBcGIGnHgkAIRQEMKY1QEM0Ao.png">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;display=swap" rel="stylesheet">
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="https://eade.store/public/assets/css/vendors.css">
+        <link rel="stylesheet" href="https://eade.store/public/assets/css/aiz-core.css">
+    <link rel="stylesheet" href="https://eade.store/public/assets/css/custom-style.css">
+    <link href="https://unpkg.com/ionicons@4.5.5/dist/css/ionicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://eade.store/public/bootstrap-table-4.0/dist/bootstrap-table.min.css">
+
+
+    <script>
+        var AIZ = AIZ || {};
+        AIZ.local = {
+            nothing_selected: '未選擇任何內容',
+            nothing_found: '什麼都沒找到',
+            choose_file: '選擇文件',
+            file_selected: '已選擇文件',
+            files_selected: '選定的文件',
+            add_more_files: '新增更多文件',
+            adding_more_files: '新增更多文件',
+            drop_files_here_paste_or: '將文件拖曳到此處、貼上或',
+            browse: '瀏覽',
+            upload_complete: '上傳完成',
+            upload_paused: '上傳已暫停',
+            resume_upload: '繼續上傳',
+            pause_upload: '暫停上傳',
+            retry_upload: '重試上傳',
+            cancel_upload: '取消上傳',
+            uploading: '上傳中',
+            processing: '加工',
+            complete: '完全的',
+            file: '文件',
+            files: '文件',
+        }
+    </script>
+
+    <style>
+        body{
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 400;
+        }
+        :root{
+            --primary: #E61D25;
+            --hov-primary: #E61D25;
+            --soft-primary: rgba(230,29,37,0.15);
+        }
+
+        #map{
+            width: 100%;
+            height: 250px;
+        }
+        #edit_map{
+            width: 100%;
+            height: 250px;
+        }
+
+        .pac-container { z-index: 100000; }
+
+
+    </style>
+
+
+
+
+</head><body>
+    <!-- aiz-main-wrapper -->
+    <div class="aiz-main-wrapper d-flex flex-column">
+
+        <!-- Header -->
+        <!-- Top Bar -->
+<div class="top-navbar bg-white border-bottom border-soft-secondary z-1035">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col">
+                <ul class="list-inline d-flex justify-content-between justify-content-lg-start mb-0">
+                                        <li class="list-inline-item dropdown mr-3" id="lang-change">
+                                                <a href="javascript:void(0)" class="dropdown-toggle text-reset py-2" data-toggle="dropdown" data-display="static">
+                            <img src="https://eade.store/public/assets/img/flags/tw.png" data-src="https://eade.store/public/assets/img/flags/tw.png" class="mr-2 lazyloaded" alt="繁體中文" height="11">
+                            <span class="opacity-60">繁體中文</span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-left">
+                                                            <li>
+                                    <a href="javascript:void(0)" data-flag="en" class="dropdown-item ">
+                                        <img src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/assets/img/flags/en.png" class="mr-1 lazyload" alt="English" height="11">
+                                        <span class="language">English</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="javascript:void(0)" data-flag="cn" class="dropdown-item ">
+                                        <img src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/assets/img/flags/cn.png" class="mr-1 lazyload" alt="简体中文" height="11">
+                                        <span class="language">简体中文</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="javascript:void(0)" data-flag="jp" class="dropdown-item ">
+                                        <img src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/assets/img/flags/jp.png" class="mr-1 lazyload" alt="日本語" height="11">
+                                        <span class="language">日本語</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="javascript:void(0)" data-flag="th" class="dropdown-item ">
+                                        <img src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/assets/img/flags/th.png" class="mr-1 lazyload" alt="泰国" height="11">
+                                        <span class="language">泰国</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="javascript:void(0)" data-flag="tw" class="dropdown-item ">
+                                        <img src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/assets/img/flags/tw.png" class="mr-1 lazyload" alt="繁體中文" height="11">
+                                        <span class="language">繁體中文</span>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </li>
+                    
+                    
+
+                </ul>
+            </div>
+
+            <div class="col-5 text-right d-none d-lg-block">
+
+
+                <ul class="list-inline mb-0 h-100 d-flex justify-content-end align-items-center">
+                                                                <li class="list-inline-item mr-3  border-left-0 pr-3 pl-0">
+                            <a href="https://eade.store/users/login" class="text-reset d-inline-block opacity-60 py-2">登入</a>
+                        </li>
+                        
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END Top Bar -->
+<header class=" sticky-top  z-1020 bg-white border-bottom shadow-sm">
+    <div class="position-relative logo-bar-area z-1">
+        <div class="container">
+            <div class="d-flex align-items-center">
+
+                <div class="col-auto col-xl-3 pl-0 pr-3 d-flex align-items-center">
+                    <a class="d-block py-20px mr-3 ml-0" href="https://eade.store">
+                                                                        <img src="https://eade.store/public/uploads/all/G2ZuTjBvHHgZyBEKyAljyGqA9bD3R5Lre71cOvXR.png" alt="eWorldTrade" class="mw-100 h-30px h-md-40px" height="40">
+                                            </a>
+
+                                    </div>
+                <div class="d-lg-none ml-auto mr-0">
+                    <a class="p-2 d-block text-reset" href="javascript:void(0);" data-toggle="class-toggle" data-target=".front-header-search">
+                        <i class="las la-search la-flip-horizontal la-2x"></i>
+                    </a>
+                </div>
+
+                <div class="flex-grow-1 front-header-search d-flex align-items-center bg-white">
+                    <div class="position-relative flex-grow-1">
+                        <form action="https://eade.store/search" method="GET" class="stop-propagation">
+                            <div class="d-flex position-relative align-items-center">
+                                <div class="d-lg-none" data-toggle="class-toggle" data-target=".front-header-search">
+                                    <button class="btn px-2" type="button"><i class="la la-2x la-long-arrow-left"></i></button>
+                                </div>
+                                <div class="input-group">
+                                    <input type="text" class="border-0 border-lg form-control" id="search" name="keyword" placeholder="我是來買什麼的..." autocomplete="off">
+                                    <div class="input-group-append d-none d-lg-block">
+                                        <button class="btn btn-primary" type="submit">
+                                            <i class="la la-search la-flip-horizontal fs-18"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="typed-search-box stop-propagation document-click-d-none d-none bg-white rounded shadow-lg position-absolute left-0 top-100 w-100" style="min-height: 200px">
+                            <div class="search-preloader absolute-top-center">
+                                <div class="dot-loader">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                            <div class="search-nothing d-none p-3 text-center fs-16">
+
+                            </div>
+                            <div id="search-content" class="text-left">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-none d-lg-none ml-3 mr-0">
+                    <div class="nav-search-box">
+                        <a href="#" class="nav-box-link">
+                            <i class="la la-search la-flip-horizontal d-inline-block nav-box-icon"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="d-none d-lg-block ml-3 mr-0">
+                    <div class="" id="compare" hidden="">
+                        <a href="https://eade.store/compare" class="d-flex align-items-center text-reset">
+    <i class="la la-refresh la-2x opacity-80"></i>
+    <span class="flex-grow-1 ml-1">
+                    <span class="badge badge-primary badge-inline badge-pill">0</span>
+                <span class="nav-box-text d-none d-xl-block opacity-70">比較</span>
+    </span>
+</a>                    </div>
+                </div>
+
+                <div class="d-none d-lg-block ml-3 mr-0">
+                    <div class="" id="wishlist">
+                        <a href="https://eade.store/wishlists" class="d-flex align-items-center text-reset">
+    <i class="la la-heart-o la-2x opacity-80"></i>
+    <span class="flex-grow-1 ml-1">
+                    <span class="badge badge-primary badge-inline badge-pill">0</span>
+                <span class="nav-box-text d-none d-xl-block opacity-70">願望清單</span>
+    </span>
+</a>
+                    </div>
+                </div>
+
+                <div class="d-none d-lg-block  align-self-stretch ml-3 mr-0" data-hover="dropdown">
+                    <div class="nav-cart-box dropdown h-100" id="cart_items">
+                        <a href="javascript:void(0)" class="d-flex align-items-center text-reset h-100" data-toggle="dropdown" data-display="static">
+    <i class="la la-shopping-cart la-2x opacity-80"></i>
+    <span class="flex-grow-1 ml-1">
+                <span class="badge badge-primary badge-inline badge-pill cart-count">0</span>
+                <span class="nav-box-text d-none d-xl-block opacity-70">購物車</span>
+    </span>
+</a>
+<div class="dropdown-menu dropdown-menu-right dropdown-menu-lg p-0 stop-propagation">
+
+        <div class="text-center p-3">
+        <i class="las la-frown la-3x opacity-60 mb-3"></i>
+        <h3 class="h6 fw-700">您的購物車是空的</h3>
+    </div>
+    
+</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+            </div>
+    </header>
+
+
+<div class="modal fade" id="order_details" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+            <div id="order-details-modal-body">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            
+    <div class="home-banner-area mb-4 pt-3">
+        <div class="container">
+            <div class="row gutters-10 position-relative">
+                <div class="col-lg-3 position-static d-none d-lg-block">
+                    <div class="aiz-category-menu bg-white rounded  shadow-sm">
+    <div class="p-3 bg-soft-primary d-none d-lg-block rounded-top all-category position-relative text-left">
+        <span class="fw-600 fs-16 mr-3">類別</span>
+        <a href="https://eade.store/categories" class="text-reset" hidden="">
+            <span class="d-none d-lg-inline-block">看全部 &gt;</span>
+        </a>
+    </div>
+    <ul class="list-unstyled categories no-scrollbar py-2 mb-0 text-left">
+                    <li class="category-nav-element" data-id="16">
+                <a href="https://eade.store/category/-94k0s" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/4zUUk76az3qDGJYGAqEbTcmpYw2DppvdkP0MTGJR.jpg" data-src="https://eade.store/public/uploads/all/4zUUk76az3qDGJYGAqEbTcmpYw2DppvdkP0MTGJR.jpg" width="16" alt="女裝與時尚" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">女裝與時尚</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="17">
+                <a href="https://eade.store/category/-2vlwn" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/zSrmi4HnzebBk83yuecMjx1V3VMdNufOGG3Mebxd.jpg" data-src="https://eade.store/public/uploads/all/zSrmi4HnzebBk83yuecMjx1V3VMdNufOGG3Mebxd.jpg" width="16" alt="男裝與時尚" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">男裝與時尚</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="18">
+                <a href="https://eade.store/category/-o2ibr" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/qENIdEIvDnOAbMAjgbbVx0zFTPDint7nl4wEwPpY.jpg" data-src="https://eade.store/public/uploads/all/qENIdEIvDnOAbMAjgbbVx0zFTPDint7nl4wEwPpY.jpg" width="16" alt="電腦及配件" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">電腦及配件</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="19">
+                <a href="https://eade.store/category/-b2kns" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/cARzBY9otR8ushGSNA3welRBCYmmVRaUWwcnSuuO.jpg" data-src="https://eade.store/public/uploads/all/cARzBY9otR8ushGSNA3welRBCYmmVRaUWwcnSuuO.jpg" width="16" alt="運動與戶外" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">運動與戶外</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="20">
+                <a href="https://eade.store/category/-fkrxb" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/9jRnZVgJlRXNjkzubC8qgWtjQgbbhygHwqTPn5KT.jpg" data-src="https://eade.store/public/uploads/all/9jRnZVgJlRXNjkzubC8qgWtjQgbbhygHwqTPn5KT.jpg" width="16" alt="珠寶和手錶" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">珠寶和手錶</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="21">
+                <a href="https://eade.store/category/-ff9wa" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/IImH75TYRGe24dyG8meZfXuJI6rrqd0u43QP92j6.jpg" data-src="https://eade.store/public/uploads/all/IImH75TYRGe24dyG8meZfXuJI6rrqd0u43QP92j6.jpg" width="16" alt="美容及個人護理" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">美容及個人護理</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="22">
+                <a href="https://eade.store/category/-ubmxb" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/3lFoEnxZcwK1gxm3WKKgVwZ3tAhTwygVwgCYHOV6.jpg" data-src="https://eade.store/public/uploads/all/3lFoEnxZcwK1gxm3WKKgVwZ3tAhTwygVwgCYHOV6.jpg" width="16" alt="家居裝修和工具" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">家居裝修和工具</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="23">
+                <a href="https://eade.store/category/-ezeqb" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/F4LcAEldbeavrXpJmtfzfCpn33ZpJyPDAi4x7thh.jpg" data-src="https://eade.store/public/uploads/all/F4LcAEldbeavrXpJmtfzfCpn33ZpJyPDAi4x7thh.jpg" width="16" alt="家居裝飾及家電" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">家居裝飾及家電</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="24">
+                <a href="https://eade.store/category/-dycmj" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/ZG2LNkTKHWwdeEL1xZ2eSwNTrhgCU5Lr936C4uP9.png" data-src="https://eade.store/public/uploads/all/ZG2LNkTKHWwdeEL1xZ2eSwNTrhgCU5Lr936C4uP9.png" width="16" alt="手機3C及配件" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">手機3C及配件</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="25">
+                <a href="https://eade.store/category/-hf9h8" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/PZ2l9und4BM6AcNDRzeHeXlqmz8pmZ7somJS5Mnk.png" data-src="https://eade.store/public/uploads/all/PZ2l9und4BM6AcNDRzeHeXlqmz8pmZ7somJS5Mnk.png" width="16" alt="食品及雜貨" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">食品及雜貨</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="26">
+                <a href="https://eade.store/category/-kjkrq" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/Xn2182WLk4XXGh7MzSsek9wVYBUTWCeKfrAPOMYr.png" data-src="https://eade.store/public/uploads/all/Xn2182WLk4XXGh7MzSsek9wVYBUTWCeKfrAPOMYr.png" width="16" alt="醫療保健" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">醫療保健</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="27">
+                <a href="https://eade.store/category/-5vlpb" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/hVTy10s9SoxbWRZ7LgESRkYQ7KQtsWtGcpbN4qxP.jpg" data-src="https://eade.store/public/uploads/all/hVTy10s9SoxbWRZ7LgESRkYQ7KQtsWtGcpbN4qxP.jpg" width="16" alt="母嬰及玩具區" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">母嬰及玩具區</span>
+                </a>
+                            </li>
+                    <li class="category-nav-element" data-id="28">
+                <a href="https://eade.store/category/vip-d8bux" class="text-truncate text-reset py-2 px-3 d-block">
+                    <img class="cat-image mr-2 opacity-60 lazyloaded" src="https://eade.store/public/uploads/all/lISH46kUmeXMFykKO8X8RmAPEcZfe33vLN8ZAQcz.jpg" data-src="https://eade.store/public/uploads/all/lISH46kUmeXMFykKO8X8RmAPEcZfe33vLN8ZAQcz.jpg" width="16" alt="VIP【優質商家】" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+                    <span class="cat-name">VIP【優質商家】</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+                </div>
+
+                
+                <div class=" col-lg-9 ">
+                                            <div class="aiz-carousel dots-inside-bottom mobile-img-auto-height slick-initialized slick-slider slick-dotted" data-arrows="true" data-dots="true" data-autoplay="true"><button type="button" class="slick-prev slick-arrow slick-disabled" aria-disabled="true" style=""><i class="las la-angle-left"></i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2046px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1023px;" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                    <a href="https://eade.store/users/login" tabindex="0">
+                                        <img class="d-block mw-100 img-fit rounded shadow-sm overflow-hidden" src="https://eade.store/public/uploads/all/WTsl3LN4VJLU7YxA4FHvJE7ZUWZEutFw1RVmrkhB.png" alt="eWorldTrade promo" height="457" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder-rect.jpg';">
+                                    </a>
+                                </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" style="width: 1023px;" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                    <a href="https://eade.store/category/-94k0s" tabindex="-1">
+                                        <img class="d-block mw-100 img-fit rounded shadow-sm overflow-hidden" src="https://eade.store/public/uploads/all/eqWPxXvS0fQ6NPL9KfjHtSiG6IL2e65JgsiTWc3T.png" alt="eWorldTrade promo" height="457" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder-rect.jpg';">
+                                    </a>
+                                </div></div></div></div></div><button type="button" class="slick-next slick-arrow" style="" aria-disabled="false"><i class="las la-angle-right"></i></button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2" tabindex="-1">2</button></li></ul></div>
+                                    </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+
+
+
+
+    <div id="section_newest">
+                    <section class="mb-4">
+                <div class="container">
+                    <div class="px-2 py-4 px-md-4 py-md-3 bg-white shadow-sm rounded">
+                        <div class="d-flex mb-3 align-items-baseline border-bottom">
+                            <h3 class="h5 fw-700 mb-0">
+                                <span class="border-bottom border-primary border-width-2 pb-3 d-inline-block">
+                                    新產品
+                                </span>
+                            </h3>
+                        </div>
+                        <div class="aiz-carousel gutters-10 half-outside-arrow slick-initialized slick-slider" data-items="6" data-xl-items="5" data-lg-items="4" data-md-items="3" data-sm-items="2" data-xs-items="2" data-arrows="true"><button type="button" class="slick-prev slick-arrow slick-disabled" aria-disabled="true" style=""><i class="las la-angle-left"></i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2688px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/iytZ27-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/Bo3rH8Cef6xwI4jJ8frac99PkxMtg6BkgQYV3BOP.jpg" data-src="https://eade.store/public/uploads/all/Bo3rH8Cef6xwI4jJ8frac99PkxMtg6BkgQYV3BOP.jpg" alt="三星 65 吋級 QN85C Neo QLED 4K 智慧電視 QN65QN85CAFXZA 2023" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(27)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(27)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$6,544.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/iytZ27-6" class="d-block text-reset" tabindex="0">三星 65 吋級 QN85C Neo QLED 4K 智慧電視 QN65QN85CAFXZA 2023</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/xyggay-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/amz0e8hnbY3OK1Jr0zJK2pZTahbcXU9nePWYWoT2.jpg" data-src="https://eade.store/public/uploads/all/amz0e8hnbY3OK1Jr0zJK2pZTahbcXU9nePWYWoT2.jpg" alt="SIMILAC® Advance®* 嬰兒配方奶粉，含鐵、DHA、葉黃素，12.4 盎司罐裝，6 包" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(26)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(26)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$80.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/xyggay-6" class="d-block text-reset" tabindex="0">SIMILAC® Advance®* 嬰兒配方奶粉，含鐵、DHA、葉黃素，12.4 盎司罐裝，6 包</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/xyggay-4" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/amz0e8hnbY3OK1Jr0zJK2pZTahbcXU9nePWYWoT2.jpg" data-src="https://eade.store/public/uploads/all/amz0e8hnbY3OK1Jr0zJK2pZTahbcXU9nePWYWoT2.jpg" alt="SIMILAC® Advance®* 嬰兒配方奶粉，含鐵、DHA、葉黃素，12.4 盎司罐裝，6 包" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(25)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(25)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$107.64</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/xyggay-4" class="d-block text-reset" tabindex="0">SIMILAC® Advance®* 嬰兒配方奶粉，含鐵、DHA、葉黃素，12.4 盎司罐裝，6 包</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/cDNFwj-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/86XFbG52ABd7VBTaZtFaZf7rpKOAKbdt4PjTIYG3.jpg" data-src="https://eade.store/public/uploads/all/86XFbG52ABd7VBTaZtFaZf7rpKOAKbdt4PjTIYG3.jpg" alt="Linawe 女士時尚紫金圈形耳環，立方氧化鋯紫水晶耳環耳環，螺旋可愛小袖圈，大耳環，耳屏安全別針軟骨" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(22)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(22)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$10.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/cDNFwj-6" class="d-block text-reset" tabindex="0">Linawe 女士時尚紫金圈形耳環，立方氧化鋯紫水晶耳環耳環，螺旋可愛小袖圈，大耳環，耳屏安全別針軟骨</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/uePwGP-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/gi9sYTkjteeXzP5r2e4MnnT86nP1I1rezLpYZhX3.jpg" data-src="https://eade.store/public/uploads/all/gi9sYTkjteeXzP5r2e4MnnT86nP1I1rezLpYZhX3.jpg" alt="超級堆疊器分隔收納盒，6 個部分，10.38&amp;quot; X 14.25&amp;quot; X 6.5&amp;quot;，透明/藍色" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(15)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(15)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$24.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/uePwGP-6" class="d-block text-reset" tabindex="0">超級堆疊器分隔收納盒，6 個部分，10.38&amp;quot; X 14.25&amp;quot; X 6.5&amp;quot;，透明/藍色</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/digkc5-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/mBNxZSRD8icgF2X8O4YXhZzPF48Fer0Dk8VOkE67.jpg" data-src="https://eade.store/public/uploads/all/mBNxZSRD8icgF2X8O4YXhZzPF48Fer0Dk8VOkE67.jpg" alt="Apple iPhone 15 Pro Max A2849 256GB 黑色鈦金屬（美國型號）- 工廠無鎖版手機" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(13)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(13)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$50.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/digkc5-6" class="d-block text-reset" tabindex="0">Apple iPhone 15 Pro Max A2849 256GB 黑色鈦金屬（美國型號）- 工廠無鎖版手機</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/K18Kur-6" class="d-block" tabindex="-1">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" data-src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" alt="Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(12)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(12)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$9.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/K18Kur-6" class="d-block text-reset" tabindex="-1">Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/FHNoBo-6" class="d-block" tabindex="-1">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/RSK5OSWwzqm63vVHJlzH5LNDhNnndFiGhJvLswfd.jpg" data-src="https://eade.store/public/uploads/all/RSK5OSWwzqm63vVHJlzH5LNDhNnndFiGhJvLswfd.jpg" alt="Aleve 萘普生鈉止痛膠囊，200 片" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(11)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(11)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$50.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/FHNoBo-6" class="d-block text-reset" tabindex="-1">Aleve 萘普生鈉止痛膠囊，200 片</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/IVdLtO-6" class="d-block" tabindex="-1">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/UFx31VgSIDOyfB3CgdwdRsKT3mOZM5GUWEUFQzjo.jpg" data-src="https://eade.store/public/uploads/all/UFx31VgSIDOyfB3CgdwdRsKT3mOZM5GUWEUFQzjo.jpg" alt="Mucinex Fast-Max 日間感冒和流感藥物以及夜間感冒和流感藥物，非處方止咳藥，24 粒液體凝膠" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(10)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(10)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$50.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/IVdLtO-6" class="d-block text-reset" tabindex="-1">Mucinex Fast-Max 日間感冒和流感藥物以及夜間感冒和流感藥物，非處方止咳藥，24 粒液體凝膠</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/08keUS-4" class="d-block" tabindex="-1">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/jJ7lUjseeFdqwuratSG4UejLOWnXqegLseMkk0JB.jpg" data-src="https://eade.store/public/uploads/all/jJ7lUjseeFdqwuratSG4UejLOWnXqegLseMkk0JB.jpg" alt="Mucinex DM 12 小時最大強度祛痰止咳藥，緩解多餘黏液，FSA，42 片" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(8)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(8)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$60.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/08keUS-4" class="d-block text-reset" tabindex="-1">Mucinex DM 12 小時最大強度祛痰止咳藥，緩解多餘黏液，FSA，42 片</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/PM4Z1F-4" class="d-block" tabindex="-1">
+            <img class="img-fit lazyload mx-auto h-140px h-md-210px" src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/uploads/all/m5Xyfz18C6MrHiLhVLe2Yyjy30OZosS2nz8ovpve.jpg" alt="Vicks DayQuil 和 NyQuil 嚴重感冒和流感液體藥物，非處方藥，2x12 液量盎司" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(7)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(7)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$100.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/PM4Z1F-4" class="d-block text-reset" tabindex="-1">Vicks DayQuil 和 NyQuil 嚴重感冒和流感液體藥物，非處方藥，2x12 液量盎司</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" style="width: 224px;" tabindex="-1"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                                <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/RH48N5-4" class="d-block" tabindex="-1">
+            <img class="img-fit lazyload mx-auto h-140px h-md-210px" src="https://eade.store/public/assets/img/placeholder.jpg" data-src="https://eade.store/public/uploads/all/Dg5WVpnYh6QF0gv4NWztJvtH1zhaRU2qARGju1w8.jpg" alt="Advil 止痛退燒包衣片，200 毫克布洛芬，300 片" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(6)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="-1">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(6)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="-1">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$100.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/RH48N5-4" class="d-block text-reset" tabindex="-1">Advil 止痛退燒包衣片，200 毫克布洛芬，300 片</a>
+        </h3>
+
+    </div>
+</div>
+                            </div></div></div></div></div><button type="button" class="slick-next slick-arrow" style="" aria-disabled="false"><i class="las la-angle-right"></i></button></div>
+                    </div>
+                </div>
+            </section>
+            </div>
+
+    
+    <div id="section_featured"><section class="mb-4">
+        <div class="container">
+            <div class="px-2 py-4 px-md-4 py-md-3 bg-white shadow-sm rounded">
+                <div class="d-flex mb-3 align-items-baseline border-bottom">
+                    <h3 class="h5 fw-700 mb-0">
+                        <span class="border-bottom border-primary border-width-2 pb-3 d-inline-block">特色產品</span>
+                    </h3>
+                </div>
+                <div class="aiz-carousel gutters-10 half-outside-arrow slick-initialized slick-slider" data-items="6" data-xl-items="5" data-lg-items="4" data-md-items="3" data-sm-items="2" data-xs-items="2" data-arrows="true"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 224px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                        <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/K18Kur-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" data-src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" alt="Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(12)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(12)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$9.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/K18Kur-6" class="d-block text-reset" tabindex="0">Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司</a>
+        </h3>
+
+    </div>
+</div>
+                    </div></div></div></div></div></div>
+            </div>
+        </div>
+    </section>
+</div>
+
+    
+    <div id="section_best_selling"><section class="mb-4">
+        <div class="container">
+            <div class="px-2 py-4 px-md-4 py-md-3 bg-white shadow-sm rounded">
+                <div class="d-flex mb-3 align-items-baseline border-bottom">
+                    <h3 class="h5 fw-700 mb-0">
+                        <span class="border-bottom border-primary border-width-2 pb-3 d-inline-block">最暢銷</span>
+                    </h3>
+                    <a href="javascript:void(0)" class="ml-auto mr-0 btn btn-primary btn-sm shadow-md">前20名</a>
+                </div>
+                <div class="aiz-carousel gutters-10 half-outside-arrow slick-initialized slick-slider" data-items="6" data-xl-items="5" data-lg-items="4" data-md-items="3" data-sm-items="2" data-xs-items="2" data-arrows="true" data-infinite="true"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 896px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                            <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/K18Kur-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" data-src="https://eade.store/public/uploads/all/ZHpS91MXH7QlpW442malAsWopRs7wdXtMI8Dt93D.jpg" alt="Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(12)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(12)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$9.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/K18Kur-6" class="d-block text-reset" tabindex="0">Orajel 3X 藥用牙痛和牙齦止痛凝膠，立即緩解疼痛，超強度，0.42 盎司</a>
+        </h3>
+
+    </div>
+</div>
+                        </div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                            <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/FHNoBo-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/RSK5OSWwzqm63vVHJlzH5LNDhNnndFiGhJvLswfd.jpg" data-src="https://eade.store/public/uploads/all/RSK5OSWwzqm63vVHJlzH5LNDhNnndFiGhJvLswfd.jpg" alt="Aleve 萘普生鈉止痛膠囊，200 片" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(11)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(11)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$50.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/FHNoBo-6" class="d-block text-reset" tabindex="0">Aleve 萘普生鈉止痛膠囊，200 片</a>
+        </h3>
+
+    </div>
+</div>
+                        </div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                            <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/cDNFwj-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px ls-is-cached lazyloaded" src="https://eade.store/public/uploads/all/86XFbG52ABd7VBTaZtFaZf7rpKOAKbdt4PjTIYG3.jpg" data-src="https://eade.store/public/uploads/all/86XFbG52ABd7VBTaZtFaZf7rpKOAKbdt4PjTIYG3.jpg" alt="Linawe 女士時尚紫金圈形耳環，立方氧化鋯紫水晶耳環耳環，螺旋可愛小袖圈，大耳環，耳屏安全別針軟骨" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(22)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(22)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$10.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/cDNFwj-6" class="d-block text-reset" tabindex="0">Linawe 女士時尚紫金圈形耳環，立方氧化鋯紫水晶耳環耳環，螺旋可愛小袖圈，大耳環，耳屏安全別針軟骨</a>
+        </h3>
+
+    </div>
+</div>
+                        </div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 224px;"><div><div class="carousel-box" style="width: 100%; display: inline-block;">
+                            <div class="aiz-card-box border border-light rounded hov-shadow-md mt-1 mb-2 has-transition bg-white">
+    <div class="position-relative">
+        <a href="https://eade.store/seller/product/digkc5-6" class="d-block" tabindex="0">
+            <img class="img-fit mx-auto h-140px h-md-210px lazyloaded" src="https://eade.store/public/uploads/all/mBNxZSRD8icgF2X8O4YXhZzPF48Fer0Dk8VOkE67.jpg" data-src="https://eade.store/public/uploads/all/mBNxZSRD8icgF2X8O4YXhZzPF48Fer0Dk8VOkE67.jpg" alt="Apple iPhone 15 Pro Max A2849 256GB 黑色鈦金屬（美國型號）- 工廠無鎖版手機" onerror="this.onerror=null;this.src='https://eade.store/public/assets/img/placeholder.jpg';">
+        </a>
+
+        <div class="absolute-top-right aiz-p-hov-icon">
+            <a href="javascript:void(0)" onclick="addToWishList(13)" data-toggle="tooltip" data-title="加入願望清單" data-placement="left" tabindex="0">
+                <i class="la la-heart-o"></i>
+            </a>
+
+            <a href="javascript:void(0)" onclick="showAddToCartModal(13)" data-toggle="tooltip" data-title="加入購物車" data-placement="left" tabindex="0">
+                <i class="las la-shopping-cart"></i>
+            </a>
+        </div>
+    </div>
+    <div class="p-md-3 p-2 text-left">
+        <div class="fs-15">
+
+            <span class="fw-700 text-primary">$50.00</span>
+        </div>
+        <h3 class="fw-600 fs-13 text-truncate-2 lh-1-4 mb-0 h-35px">
+            <a href="https://eade.store/seller/product/digkc5-6" class="d-block text-reset" tabindex="0">Apple iPhone 15 Pro Max A2849 256GB 黑色鈦金屬（美國型號）- 工廠無鎖版手機</a>
+        </h3>
+
+    </div>
+</div>
+                        </div></div></div></div></div></div>
+            </div>
+        </div>
+    </section>
+</div>
+
+    <!-- Auction Product -->
+    
+    
+
+    
+    
+
+
+   
+    
+    
+    
+    
+    <!--<div id="section_best_sellers">-->
+
+    </div>
+
+    
+    
+
+        <section class="bg-dark py-5 text-light footer-widget">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-xl-4 text-center text-md-left">
+                <div class="mt-4">
+                    <a href="https://eade.store" class="d-block">
+                                                    <img class=" lazyloaded" src="https://eade.store/public/uploads/all/Ff7PIKJkYFahLxtmWVzNQ1tx7zDcViusLKm0d8zw.png" data-src="https://eade.store/public/uploads/all/Ff7PIKJkYFahLxtmWVzNQ1tx7zDcViusLKm0d8zw.png" alt="eWorldTrade" height="44">
+                                            </a>
+                    <div class="my-3">
+                        eWorldTrade 是一家全球 B2B 電子商務平台，致力於幫助商家和買家在全球範圍內進行貿易交易。提供一個包括各種行業和產品的線上市場，為使用者提供全面的貿易服務，包括採購、銷售、供應鏈管理、離線支付等。 eWorldTrade 致力於促進國際貿易和幫助企業拓展海外市場，是一個專業的全球貿易平台。
+                    </div>
+                    
+                    <div class="w-300px mw-100 mx-auto mx-md-0">
+                                                                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 ml-xl-auto col-md-4 mr-0">
+                <div class="text-center text-md-left mt-4">
+                    <h4 class="fs-13 text-uppercase fw-600 border-bottom border-gray-900 pb-2 mb-4">
+                        聯絡方式
+                    </h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                           <span class="d-block opacity-30">地址:</span>
+                           <span class="d-block opacity-70">620 Capitol St, Houston, TX 77002United States</span>
+                        </li>
+                        <li class="mb-2">
+                           <span class="d-block opacity-30">電話:</span>
+                           <span class="d-block opacity-70">+1 4094574620</span>
+                        </li>
+                        <li class="mb-2" hidden="">
+                           <span class="d-block opacity-30">電子郵件:</span>
+                           <span class="d-block opacity-70">
+                               <a href="mailto:" class="text-reset"></a>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4">
+                <div class="text-center text-md-left mt-4">
+                    <h4 class="fs-13 text-uppercase fw-600 border-bottom border-gray-900 pb-2 mb-4">
+                        
+                    </h4>
+                    <ul class="list-unstyled">
+                                            </ul>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-2">
+                <div class="text-center text-md-left mt-4">
+                    <h4 class="fs-13 text-uppercase fw-600 border-bottom border-gray-900 pb-2 mb-4">
+                        我的帳戶
+                    </h4>
+                    <ul class="list-unstyled">
+                                                    <li class="mb-2">
+                                <a class="opacity-50 hov-opacity-100 text-reset" href="https://eade.store/users/login">
+                                    登入
+                                </a>
+                            </li>
+                                                <li class="mb-2">
+                            <a class="opacity-50 hov-opacity-100 text-reset" href="https://eade.store/purchase_history">
+                                訂單歷史
+                            </a>
+                        </li>
+                        <li class="mb-2">
+                            <a class="opacity-50 hov-opacity-100 text-reset" href="https://eade.store/wishlists">
+                                我的收藏
+                            </a>
+                        </li>
+                        <li class="mb-2" hidden="">
+                            <a class="opacity-50 hov-opacity-100 text-reset" href="https://eade.store/track-your-order">
+                                追蹤訂單
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="pt-3 pb-7 pb-xl-3 bg-black text-light">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="text-center text-md-left" current-verison="5.5.7">
+                    Copyright © 2023
+                </div>
+            </div>
+            <div class="col-lg-4">
+                            </div>
+            <div class="col-lg-4">
+                <div class="text-center text-md-right">
+                    <ul class="list-inline mb-0">
+                                                                                    <li class="list-inline-item">
+                                    <img src="https://eade.store/public/uploads/all/AFkoLCP3Fa0cbCQL6B4fFh3RcMJioo6DJO8AEytG.png" height="30" class="mw-100 h-auto" style="max-height: 30px">
+                                </li>
+                                                                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<div class="aiz-mobile-bottom-nav d-xl-none fixed-bottom bg-white shadow-lg border-top rounded-top" style="box-shadow: 0px -1px 10px rgb(0 0 0 / 15%)!important; ">
+    <div class="row align-items-center gutters-5">
+        <div class="col">
+            <a href="https://eade.store" class="text-reset d-block text-center pb-2 pt-3">
+                <i class="las la-home fs-20 opacity-60 opacity-100 text-primary"></i>
+                <span class="d-block fs-10 fw-600 opacity-60 opacity-100 fw-600">首頁</span>
+            </a>
+        </div>
+        <div class="col">
+            <a href="https://eade.store/categories" class="text-reset d-block text-center pb-2 pt-3">
+                <i class="las la-list-ul fs-20 opacity-60 "></i>
+                <span class="d-block fs-10 fw-600 opacity-60 ">類別</span>
+            </a>
+        </div>
+                <div class="col-auto">
+            <a href="https://eade.store/cart" class="text-reset d-block text-center pb-2 pt-3">
+                <span class="align-items-center bg-primary border border-white border-width-4 d-flex justify-content-center position-relative rounded-circle size-50px" style="margin-top: -33px;box-shadow: 0px -5px 10px rgb(0 0 0 / 15%);border-color: #fff !important;">
+                    <i class="las la-shopping-bag la-2x text-white"></i>
+                </span>
+                <span class="d-block mt-1 fs-10 fw-600 opacity-60 ">
+                    購物車
+                                        (<span class="cart-count">0</span>)
+                </span>
+            </a>
+        </div>
+        <div class="col">
+            <a href="https://eade.store/all-notifications" class="text-reset d-block text-center pb-2 pt-3">
+                <span class="d-inline-block position-relative px-2">
+                    <i class="las la-bell fs-20 opacity-60 "></i>
+                                    </span>
+                <span class="d-block fs-10 fw-600 opacity-60 ">通知</span>
+            </a>
+        </div>
+        <div class="col">
+                    <a href="https://eade.store/users/login" class="text-reset d-block text-center pb-2 pt-3">
+                <span class="d-block mx-auto">
+                    <img src="https://eade.store/public/assets/img/avatar-place.png" class="rounded-circle size-20px">
+                </span>
+                <span class="d-block fs-10 fw-600 opacity-60">帳戶</span>
+            </a>
+                </div>
+    </div>
+</div>
+
+    
+
+    
+    
+    <script>
+    function confirm_modal(delete_url)
+    {
+        jQuery('#confirm-delete').modal('show', {backdrop: 'static'});
+        document.getElementById('delete_link').setAttribute('href' , delete_url);
+    }
+</script>
+
+<div class="modal fade" id="confirm-delete" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                
+                <h4 class="modal-title" id="myModalLabel">確認</h4>
+            </div>
+
+            <div class="modal-body">
+                <p>刪除確認訊息</p>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                <a id="delete_link" class="btn btn-danger btn-ok">刪除</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade" id="addToCart">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-zoom product-modal" id="modal-size" role="document">
+            <div class="modal-content position-relative">
+                <div class="c-preloader text-center p-3">
+                    <i class="las la-spinner la-spin la-3x"></i>
+                </div>
+                <button type="button" class="close absolute-top-right btn-icon close z-1" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true" class="la-2x">×</span>
+                </button>
+                <div id="addToCart-modal-body">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="editUnlistProductModal">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-zoom product-modal" id="modal-size" role="document">
+            <div class="modal-content position-relative">
+                <div class="c-preloader text-center p-3">
+                    <i class="las la-spinner la-spin la-3x"></i>
+                </div>
+                <button type="button" class="close absolute-top-right btn-icon close z-1" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true" class="la-2x">×</span>
+                </button>
+                <div id="editUnlistProduct-modal-body">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- SCRIPTS -->
+    <script src="https://eade.store/public/assets/js/vendors.js"></script>
+    <script src="https://eade.store/public/assets/js/aiz-core.js"></script>
+    <script src="https://eade.store/public/assets/js/custom.js"></script>
+    <script src="//code.tidio.co/yr1dkhxsrjbi1527rlcrnijamaccde13.js" async=""></script>
+
+
+    
+    <script>
+            </script>
+
+    <script>
+
+        $(document).ready(function() {
+            $('.category-nav-element').each(function(i, el) {
+                $(el).on('mouseover', function(){
+                    if(!$(el).find('.sub-cat-menu').hasClass('loaded')){
+                        $.post('https://eade.store/category/nav-element-list', {_token: AIZ.data.csrf, id:$(el).data('id')}, function(data){
+                            $(el).find('.sub-cat-menu').addClass('loaded').html(data);
+                        });
+                    }
+                });
+            });
+            if ($('#lang-change').length > 0) {
+                $('#lang-change .dropdown-menu a').each(function() {
+                    $(this).on('click', function(e){
+                        e.preventDefault();
+                        var $this = $(this);
+                        var locale = $this.data('flag');
+                        $.post('https://eade.store/language',{_token: AIZ.data.csrf, locale:locale}, function(data){
+                            location.reload();
+                        });
+
+                    });
+                });
+            }
+
+            if ($('#currency-change').length > 0) {
+                $('#currency-change .dropdown-menu a').each(function() {
+                    $(this).on('click', function(e){
+                        e.preventDefault();
+                        var $this = $(this);
+                        var currency_code = $this.data('currency');
+                        $.post('https://eade.store/currency',{_token: AIZ.data.csrf, currency_code:currency_code}, function(data){
+                            location.reload();
+                        });
+
+                    });
+                });
+            }
+        });
+
+        $('#search').on('keyup', function(){
+            search();
+        });
+
+        $('#search').on('focus', function(){
+            search();
+        });
+
+        function search(){
+            console.log("work here...");
+            var searchKey = $('#search').val();
+            if(searchKey.length > 0){
+                $('body').addClass("typed-search-box-shown");
+
+                $('.typed-search-box').removeClass('d-none');
+                $('.search-preloader').removeClass('d-none');
+                $.post('https://eade.store/ajax-search', { _token: AIZ.data.csrf, search:searchKey}, function(data){
+                    if(data == '0'){
+                        // $('.typed-search-box').addClass('d-none');
+                        $('#search-content').html(null);
+                        $('.typed-search-box .search-nothing').removeClass('d-none').html('Sorry, nothing found for <strong>"'+searchKey+'"</strong>');
+                        $('.search-preloader').addClass('d-none');
+
+                    }
+                    else{
+                        $('.typed-search-box .search-nothing').addClass('d-none').html(null);
+                        $('#search-content').html(data);
+                        $('.search-preloader').addClass('d-none');
+                    }
+                });
+            }
+            else {
+                $('.typed-search-box').addClass('d-none');
+                $('body').removeClass("typed-search-box-shown");
+            }
+        }
+
+        function updateNavCart(view,count){
+            $('.cart-count').html(count);
+            $('#cart_items').html(view);
+        }
+
+        function removeFromCart(key){
+            $.post('https://eade.store/cart/removeFromCart', {
+                _token  : AIZ.data.csrf,
+                id      :  key
+            }, function(data){
+                updateNavCart(data.nav_cart_view,data.cart_count);
+                $('#cart-summary').html(data.cart_view);
+                AIZ.plugins.notify('success', "商品已從購物車中刪除");
+                $('#cart_items_sidenav').html(parseInt($('#cart_items_sidenav').html())-1);
+            });
+        }
+
+        function addToCompare(id){
+            $.post('https://eade.store/compare/addToCompare', {_token: AIZ.data.csrf, id:id}, function(data){
+
+                $('#compare').html(data);
+                AIZ.plugins.notify('success', "項目已新增至比較列表");
+                $('#compare_items_sidenav').html(parseInt($('#compare_items_sidenav').html())+1);
+            });
+        }
+
+        function addToWishList(id){
+                            AIZ.plugins.notify('warning', "請先登入");
+                    }
+
+        function addToMyShop(id){
+                            AIZ.plugins.notify('warning', "請先登入");
+                    }
+
+        function showAddToCartModal(id){
+            if(!$('#modal-size').hasClass('modal-lg')){
+                $('#modal-size').addClass('modal-lg');
+            }
+            $('#addToCart-modal-body').html(null);
+            $('#addToCart').modal();
+            $('.c-preloader').show();
+            $.post('https://eade.store/cart/show-cart-modal', {_token: AIZ.data.csrf, id:id}, function(data){
+                $('.c-preloader').hide();
+                $('#addToCart-modal-body').html(data);
+                AIZ.plugins.slickCarousel();
+                AIZ.plugins.zoom();
+                AIZ.extra.plusMinus();
+                getVariantPrice();
+            });
+        }
+
+        function showEditSellerProductModal(id){
+            if(!$('#modal-size').hasClass('modal-lg')){
+                $('#modal-size').addClass('modal-lg');
+            }
+            $('#editUnlistProduct-modal-body').html(null);
+            $('#editUnlistProductModal').modal();
+            $('.c-preloader').show();
+
+            $.post('https://eade.store/seller/fetch/unlisted/products', {_token: AIZ.data.csrf, id:id}, function(data){
+                $('.c-preloader').hide();
+                $('#editUnlistProduct-modal-body').html(data);
+                AIZ.plugins.slickCarousel();
+                AIZ.plugins.zoom();
+                //AIZ.extra.plusMinus();
+                //getVariantPrice();
+            });
+
+        }
+
+        $('#option-choice-form input').on('change', function(){
+            console.log("Im here test....")
+            getVariantPrice();
+        });
+
+        function getVariantPrice(){
+            console.log("Im here....")
+            if($('#option-choice-form input[name=quantity]').val() > 0 && checkAddToCartValidity()){
+                $.ajax({
+                   type:"POST",
+                   url: 'https://eade.store/get/seller/product/variant_price',
+                   data: $('#option-choice-form').serializeArray(),
+                   success: function(data){
+                        console.log(data);
+                        $('.product-gallery-thumb .carousel-box').each(function (i) {
+                            if($(this).data('variation') && data.variation == $(this).data('variation')){
+                                $('.product-gallery-thumb').slick('slickGoTo', i);
+                            }
+                        })
+
+                       $('#option-choice-form #chosen_price_div').removeClass('d-none');
+                       $('#option-choice-form #chosen_price_div #chosen_price').html(data.price);
+                       $('#available-quantity').html(data.quantity);
+                       $('.input-number').prop('max', data.max_limit);
+                       if(parseInt(data.in_stock) == 0 && data.digital  == 0){
+                           $('.buy-now').addClass('d-none');
+                           $('.add-to-cart').addClass('d-none');
+                           $('.out-of-stock').removeClass('d-none');
+                       }
+                       else{
+                           $('.buy-now').removeClass('d-none');
+                           $('.add-to-cart').removeClass('d-none');
+                           $('.out-of-stock').addClass('d-none');
+                       }
+                   }
+               });
+            }
+        }
+
+        function checkAddToCartValidity(){
+            var names = {};
+            $('#option-choice-form input:radio').each(function() { // find unique names
+                  names[$(this).attr('name')] = true;
+            });
+            var count = 0;
+            $.each(names, function() { // then count them
+                  count++;
+            });
+
+            if($('#option-choice-form input:radio:checked').length == count){
+                return true;
+            }
+
+            return false;
+        }
+
+        function addToCart(){
+            if(checkAddToCartValidity()) {
+                $('#addToCart').modal();
+                $('.c-preloader').show();
+                $.ajax({
+                    type:"POST",
+                    url: 'https://eade.store/cart/addtocart',
+                    data: $('#option-choice-form').serializeArray(),
+                    success: function(data){
+                        console.log(data)
+                       $('#addToCart-modal-body').html(null);
+                       $('.c-preloader').hide();
+                       $('#modal-size').removeClass('modal-lg');
+                       $('#addToCart-modal-body').html(data.modal_view);
+                       //AIZ.extra.plusMinus();
+                       AIZ.plugins.slickCarousel();
+                       updateNavCart(data.nav_cart_view,data.cart_count);
+                    }
+                });
+            }
+            else{
+                AIZ.plugins.notify('warning', "請選擇所有選項");
+            }
+        }
+
+        function buyNow(){
+            if(checkAddToCartValidity()) {
+                $('#addToCart-modal-body').html(null);
+                $('#addToCart').modal();
+                $('.c-preloader').show();
+                $.ajax({
+                   type:"POST",
+                   url: 'https://eade.store/cart/addtocart',
+                   data: $('#option-choice-form').serializeArray(),
+                   success: function(data){
+                       if(data.status == 1){
+
+                            $('#addToCart-modal-body').html(data.modal_view);
+                            updateNavCart(data.nav_cart_view,data.cart_count);
+
+                            window.location.replace("https://eade.store/cart");
+                       }
+                       else{
+                            $('#addToCart-modal-body').html(null);
+                            $('.c-preloader').hide();
+                            $('#modal-size').removeClass('modal-lg');
+                            $('#addToCart-modal-body').html(data.modal_view);
+                       }
+                   }
+               });
+            }
+            else{
+                AIZ.plugins.notify('warning', "請選擇所有選項");
+            }
+        }
+
+        function show_purchase_history_details(order_id)
+        {
+            $('#order-details-modal-body').html(null);
+
+            if(!$('#modal-size').hasClass('modal-lg')){
+                $('#modal-size').addClass('modal-lg');
+            }
+
+            $.post('https://eade.store/purchase_history/details', { _token : AIZ.data.csrf, order_id : order_id}, function(data){
+                $('#order-details-modal-body').html(data);
+                $('#order_details').modal();
+                $('.c-preloader').hide();
+            });
+        }
+
+
+    </script>
+
+
+    
+    <script>
+        $(document).ready(function(){
+            $.post('https://eade.store/home/section/featured', {_token:'c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N'}, function(data){
+                $('#section_featured').html(data);
+                AIZ.plugins.slickCarousel();
+            });
+            $.post('https://eade.store/home/section/best_selling', {_token:'c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N'}, function(data){
+                $('#section_best_selling').html(data);
+                AIZ.plugins.slickCarousel();
+            });
+            /*
+            $.post('https://eade.store/home/section/auction_products', {_token:'c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N'}, function(data){
+                $('#auction_products').html(data);
+                AIZ.plugins.slickCarousel();
+            });
+            $.post('https://eade.store/home/section/home_categories', {_token:'c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N'}, function(data){
+                $('#section_home_categories').html(data);
+                AIZ.plugins.slickCarousel();
+            });
+            $.post('https://eade.store/home/section/best_sellers', {_token:'c9YfaC7kfFyw5Nt7EXA9tw36Xrkie7HlXZzmmd9N'}, function(data){
+                $('#section_best_sellers').html(data);
+                AIZ.plugins.slickCarousel();
+            });
+            */
+        });
+    </script>
+
+    
+
+
+<iframe id="tidio-chat-code" title="Tidio Chat code" style="display: none;"></iframe><div id="tidio-chat"><iframe title="Tidio Chat" id="tidio-chat-iframe" srcdoc="
+                  <html lang=&quot;en&quot;>
+                  <head>
+                  <meta name=&quot;viewport&quot; content=&quot;width=device-width, user-scalable=no&quot;>
+                    </head>
+                  <body  class=&quot;awesome-iframe&quot;>
+                    <div></div>
+                  </body>
+                  " style="display: block; border: none; position: fixed; inset: auto 9px 35px auto; width: 264px; height: 94px; opacity: 1; color-scheme: none; background: none transparent !important; margin: 0px; max-height: 100%; max-width: 100vw; transform: translateY(0px); transition: none 0s ease 0s !important; visibility: visible; z-index: 999999999 !important; border-radius: 47px 30px 47px 47px;"></iframe></div></body>

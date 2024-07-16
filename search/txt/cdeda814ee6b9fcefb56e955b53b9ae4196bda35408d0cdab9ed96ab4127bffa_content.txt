@@ -1,0 +1,1 @@
+Telegram Web使用 QR 碼登入 Telegram在您的手機上開啟 Telegram前往設定>設備>連接桌面設備將您的手機對準此畫面以確認登入使用手機號碼登入

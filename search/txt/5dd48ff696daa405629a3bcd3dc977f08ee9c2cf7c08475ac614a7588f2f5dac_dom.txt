@@ -1,0 +1,1783 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="templates/Skyline_v2/resources/css/reset.css">
+<link rel="stylesheet" href="templates/Skyline_v2/resources/css/less.build.css">
+<!--[if lte IE 9]>
+        <script src="templates/Skyline_v2/resources/js/html5shiv.js"></script>
+        <script src="templates/Skyline_v2/resources/js/html5shiv-printshiv.js"></script>
+
+        <![endif]-->
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>hogocon</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<style type="text/css" id="styleCSS">
+    /*
+    Some Style Themes enhanced with background textures provided by http://subtlepatterns.com/
+*/
+body {
+    
+    
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
+    background-size: auto;
+}
+
+/* IOS devices 'bgd-att: fixed' solution */
+@media only screen and (max-device-width: 1366px) {
+    .bgd-attachment-fixed {
+        background-image: none;
+    }
+    .bgd-attachment-fixed:after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        
+        background-repeat: repeat;
+        background-position: top left;
+        background-size: auto;
+        z-index: -2;
+    }
+}
+
+.Text_2_Default,
+.yola_heading_container {
+  word-wrap: break-word;
+}
+
+.yola_bg_overlay {
+    display:table;
+    table-layout: fixed;
+    position:absolute;
+    min-height: 100%;
+    min-width: 100%;
+    width:100%;
+    height:100%;
+}
+.yola_outer_content_wrapper {
+    
+    padding-right: 0px;
+    
+    padding-left: 0px;
+}
+.yola_inner_bg_overlay {
+    width:100%;
+    min-height: 100vh;
+    display: table-cell;
+    
+    vertical-align: top;
+}
+.yola_outer_heading_wrap {
+    width:100%;
+    text-align: center;
+}
+.yola_heading_container {
+    margin: 0 auto;
+    
+    	background-color: #ffffff;
+
+}
+.yola_inner_heading_wrap {
+    margin: 0 auto;
+    max-width: 1280px;
+}
+.yola_innermost_heading_wrap {
+    padding-left:0;
+    padding-right:0;
+    margin: 0 auto;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.yola_inner_heading_wrap.top nav,
+.yola_inner_heading_wrap.top div#yola_heading_block,
+.yola_inner_heading_wrap.bottom nav,
+.yola_inner_heading_wrap.bottom div#yola_heading_block {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.yola_inner_heading_wrap.left .yola_innermost_heading_wrap,
+.yola_inner_heading_wrap.right .yola_innermost_heading_wrap {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.yola_inner_heading_wrap h1 {
+    margin: 0;
+}
+#yola_nav_block {
+    height: 100%;
+}
+#yola_nav_block nav {
+    text-align: center;
+    
+}
+#yola_nav_block nav ul{
+    display:inline;
+}
+.yola_inner_heading_wrap.left #yola_heading_block {
+    float:left;
+}
+.yola_inner_heading_wrap.right #yola_heading_block {
+    float:right;
+}
+.yola_inner_heading_wrap.top #yola_nav_block {
+    padding:1rem 0 0 0;
+}
+.yola_inner_heading_wrap.right #yola_nav_block {
+    float:left;
+    padding:1rem 0 0 0;
+}
+.yola_inner_heading_wrap.bottom #yola_nav_block {
+    padding:0 0 1rem 0;
+}
+.yola_inner_heading_wrap.left #yola_nav_block {
+    float:right;
+    padding:1rem 0 0 0;
+}
+.yola_banner_wrap {
+    background-attachment: scroll;
+    text-align: center;
+    margin: 0 auto;
+    
+    display: none;
+    background-position: top left;
+    background-size: auto;
+    background-repeat: repeat-x;
+    
+    
+}
+.yola_inner_banner_wrap {
+    padding-left:0;
+    padding-right:0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+}
+.yola_innermost_banner_wrap {
+    margin: 0 auto;
+    
+}
+.yola_inner_nav_wrap {
+    margin: 0 auto;
+    
+}
+.yola_banner_wrap nav ul.sys_navigation {
+    text-align: center;
+    padding-top:1rem;
+    padding-bottom:1rem;
+}
+.yola_banner_wrap h1 {
+    margin:0;
+    text-align: center;
+}
+.yola_site_tagline {
+    padding-top:0;
+    padding-bottom:0;
+    font-family: 'Roboto';
+    font-size: 4rem;
+    color: #000000;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+    text-align: left;
+    padding-right: 3rem;
+    padding-left: 3rem;
+
+}
+.yola_site_tagline span {
+    display: inline-block;
+    
+    
+    
+    
+    
+}
+ul.sys_navigation {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul.sys_navigation li {
+    display: inline;
+    list-style: none;
+    margin:0 3.2rem 0 0;
+}
+.yola_inner_heading_wrap ul.sys_navigation li:last-child {
+    margin:0;
+}
+ul.sys_navigation li a{
+    text-decoration: none;
+}
+
+div.ys_submenu {
+    margin-top: 8px;
+}
+
+.yola_content_wrap {
+    margin:0 auto;
+    
+    
+}
+.yola_content_column {
+    margin:0 auto;
+    
+}
+
+.yola_inner_content_column {
+    margin:0 auto;
+
+    
+    
+    
+    
+}
+.yola_inner_footer_wrap {
+    padding: 0 20px;
+}
+div[id*='sys_region_'] {
+    padding-left: 0 ! important;
+    padding-right: 0 ! important;
+}
+.yola_site_logo {
+    
+    max-width:100%;
+}
+#sys_heading.yola_hide_logo img {
+    display:none;
+}
+#sys_heading.yola_hide_logo span {
+    display:inline;
+}
+a#sys_heading.yola_show_logo {
+    font-size:14px;
+}
+#sys_heading.yola_show_logo img {
+    display:inline;
+}
+#sys_heading.yola_show_logo span {
+    display:none;
+}
+.yola_footer_wrap {
+    margin:0 auto;
+    
+    	background-color: #292929;
+
+}
+.yola_footer_column {
+    margin:0 auto;
+    
+    display: none;
+}
+footer {
+    padding-top: 2.5rem;
+    padding-right: 3rem;
+    padding-bottom: 2.5rem;
+    padding-left: 3rem;
+    font-family: 'Raleway';
+    font-size: 1.2rem;
+    color: #ffffff;
+    line-height: 1.5em;
+    letter-spacing: 0px;
+    text-transform: none;
+
+}
+span.yola_footer_socialbuttons {
+    display:inline-block;
+    line-height:0;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    position:static;
+    float:left;
+    width:146px;
+    height:20px;
+    display: none;
+}
+.sys_yola_form .submit,
+.sys_yola_form input.text,
+.sys_yola_form input.email,
+.sys_yola_form input.tel,
+.sys_yola_form input.url,
+.sys_yola_form textarea {
+    font-family: 'Roboto';
+    font-size: 1rem;
+    line-height: 1.7em;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+div.sys_yola_form {
+    padding:0 !important;
+}
+div.sys_yola_form form {
+    margin:0 !important;
+    padding:0 !important;
+}
+.sys_layout h2, .sys_txt h2, .sys_layout h3, .sys_txt h3, .sys_layout h4, .sys_txt h4, .sys_layout h5, .sys_txt h5, .sys_layout h6, .sys_txt h6, .sys_layout p, .sys_txt p {
+    margin-top:0;
+}
+div[id*='sys_region_'] {
+    padding:0 !important;
+}
+.sys_layout blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #555555;;
+  font-size: 1.4rem;
+  font-style: italic;
+  color: #363636;
+  
+  line-height: 1.5em;
+  letter-spacing: 0px;
+  text-transform: none;
+}
+.sys_layout blockquote,
+.sys_layout blockquote h1,
+.sys_layout blockquote h2,
+.sys_layout blockquote h3,
+.sys_layout blockquote h4,
+.sys_layout blockquote h5,
+.sys_layout blockquote h6,
+.sys_layout blockquote p {
+    font-family: 'Roboto';
+}
+.sys_layout p,.sys_layout pre {margin:0 0 1.5em 0}
+.sys_layout h2,.sys_layout h3,.sys_layout h4,.sys_layout h5,.sys_layout h6 { margin:0 0 0.5em 0 }
+.sys_layout dl, .sys_layout menu,.sys_layout ol,.sys_layout ul{margin:0 0 1.5em 0}
+
+.mob_menu {
+    display: none;
+}
+
+.new-text-widget img, .old_text_widget img {
+    max-width: 100%;
+}
+
+
+@media only screen and (max-width : 736px) {
+    html {
+        font-size: 80%;
+    }
+
+    body .m_inherit_width {
+        width: inherit;
+    }
+
+    .small_device_hide {
+        opacity: 0;
+    }
+
+    /* Remove display table so that fixefox can understand max-width */
+    .yola_bg_overlay, .yola_inner_bg_overlay {
+       display: block;
+    }
+
+    /* Zero out padding of the heading wrapper */
+    .yola_inner_heading_wrap.top .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.bottom .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.left .yola_innermost_heading_wrap,
+    .yola_inner_heading_wrap.right .yola_innermost_heading_wrap {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Make all image widgets center aligned */
+    .Image_Default img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    /* Center button widgets in column dividers */
+    .column_divider .sys_button {
+        text-align: center;
+    }
+
+    /* Make column dividers snap to one over another */
+    .yola_inner_heading_wrap.left #yola_heading_block, .yola_inner_heading_wrap.right #yola_heading_block {
+        float: none;
+    }
+
+    #sys_heading {
+        word-wrap: break-word;
+        word-break: break-word;
+    }
+
+    body .column_divider .left, body .column_divider .right {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .mob_menu a:visited {
+        color: #fff;
+    }
+
+    .mob_menu {
+        display: block;
+        z-index: 1;
+        ;
+        background: rgba(255,255,255,1.00);;
+        ;
+    }
+
+    .mob_menu.menu_open {
+        position: absolute;
+        min-height: 100%;
+        padding: 1rem 0 0 0;
+        margin: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+
+    .yola_outer_content_wrapper {
+        display: block;
+        padding-top: 0;
+    }
+
+    .mob_menu_overlay {
+        display: none;
+        text-transform: none;
+    }
+
+    .menu_open .mob_menu_overlay  {
+        display: block;
+    }
+
+    .mob_menu_toggle {
+        display: block;
+        padding-top: 5%;
+        padding-bottom: 6%;
+        text-align: center;
+        color: #666;
+        cursor: pointer;
+    }
+    .mob_submenu_toggle {
+        list-style: none;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .new-text-widget img, .old_text_widget img {
+        height: auto;
+    }
+
+    #sys_heading span {
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .sys_navigation {
+        display: none;
+    }
+
+    .mobile_ham {
+        stroke: #595959;
+    }
+
+    .mobile_quit {
+        display: none;
+    }
+
+    .menu_open .mobile_ham {
+        display: none;
+    }
+
+    .menu_open .mobile_quit {
+        display: inline;
+        stroke: #595959;
+    }
+
+    .mob_menu_list {
+        font-family: 'Roboto';
+        font-weight: lighter;
+        margin: 0;
+        font-size: 2.2em;
+        line-height: 2;
+        letter-spacing: 0.1em;
+        list-style: none;
+        text-align: center;
+        padding: 0;
+        -webkit-animation-duration: .2s;
+        -webkit-animation-fill-mode: both;
+        -webkit-animation-name: fadeInUp;
+        -moz-animation-duration: .2s;
+        -moz-animation-fill-mode: both;
+        -moz-animation-name: fadeInUp;
+        -o-animation-duration: .2s;
+        -o-animation-fill-mode: both;
+        -o-animation-name: fadeInUp;
+        animation-duration: .2s;
+        animation-fill-mode: both;
+        animation-name: fadeInUp;
+    }
+
+    .mob_menu_overlay .mob_menu_list a {
+        color: #595959;
+    }
+
+    .mob_more_toggle {
+        display: inline-block;
+        cursor: pointer;
+        background: none;
+        border: none;
+        outline: none;
+        margin-left: 8px;
+        stroke: #595959;
+    }
+
+    .up_arrow {
+        display: none;
+    }
+
+    .sub_menu_open svg .down_arrow {
+        display: none;
+    }
+
+    .sub_menu_open .up_arrow {
+        display: inline;
+    }
+
+    .mob_menu_overlay .mob_menu_list .selected a {
+        color: #171717;
+    }
+
+    .sub_menu_open a {
+        color: #171717;
+    }
+
+    .mob_menu_list .sub_menu_open a {
+        color: #171717;
+    }
+
+    .sub_menu_open .mob_more_toggle {
+        stroke: #171717;
+    }
+
+    .mob_submenu_list {
+        font-family: 'Roboto';
+        font-weight: lighter;
+        list-style: none;
+        text-align: center;
+        padding: 0 0 5% 0;
+        margin: 0;
+        line-height: 1.6;
+        display: none;
+        -webkit-animation-duration: .2s;
+        -webkit-animation-fill-mode: both;
+        -webkit-animation-name: fadeInUp;
+        -moz-animation-duration: .2s;
+        -moz-animation-fill-mode: both;
+        -moz-animation-name: fadeInUp;
+        -o-animation-duration: .2s;
+        -o-animation-fill-mode: both;
+        -o-animation-name: fadeInUp;
+        animation-duration: .2s;
+        animation-fill-mode: both
+        animation-name: fadeInUp;
+    }
+
+    .sub_menu_open .mob_submenu_list{
+        display: block;
+    }
+
+    .mob_submenu_items {
+        font-size: 0.75em;
+    }
+    .mob_menu_list .mob_nav_selected {
+        color: #171717;
+    }
+
+    .menu_open ~ .yola_outer_content_wrapper {
+        display: none;
+    }
+
+    @-webkit-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+      }
+    }
+
+    @-moz-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -moz-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -moz-transform: none;
+        transform: none;
+      }
+    }
+
+    @-o-keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        -o-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        -o-transform: none;
+        transform: none;
+      }
+    }
+
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+      }
+      100% {
+        opacity: 1;
+        transform: none;
+      }
+    }
+}
+
+
+  </style>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.2/webfont.js" type="text/javascript"></script>
+<style type="text/css">
+      @import url("//fonts.googleapis.com/css?family=Roboto%3Aregular%2C300%2C400%2C500|Raleway%3Aregular%2C600|Open+Sans%3Aregular%2C400&subset=latin,latin-ext");
+    </style>
+<style type="text/css" id="styleOverrides">
+    /* ======================
+*
+*  Site Style Settings
+*
+=========================*/
+/* Paragraph text (p) */
+
+.content p, #content p, .HTML_Default p, .Text_Default p, .sys_txt p, .sys_txt a, .sys_layout p, .sys_txt, .sys_layout  {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 1rem;
+    color: #555555;
+    line-height: 1.7em;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+
+/* Navigation */
+.sys_navigation a, .ys_menu_2, div#menu ul, div#menu ul li a, ul.sys_navigation li a, div.sys_navigation ul li.selected a, div.sys_navigation ul li a, #navigation li a, div.ys_menu ul a:link, div.ys_menu ul a:visited, div.ys_nav ul li a, #sys_banner ul li a {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #595959;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+
+/* Navigation:selected */
+div.sys_navigation ul li.selected a, div#menu ul li.selected a, #navigation li.selected a, div.ys_menu ul li.selected a:link, div.ys_menu ul li.selected a:visited, div.ys_nav ul li.selected a, #sys_banner ul li.selected a {
+    color: #171717;
+}
+
+/* Navigation:hover */
+div.sys_navigation ul li a:hover, div#menu ul li a:hover, #navigation li a:hover, div.ys_menu ul a:hover, div.ys_nav ul li a:hover, div.ys_menu ul li a:hover, #sys_banner ul li a:hover {
+    color: #171717;
+}
+
+/* Site Title */
+#sys_heading, a#sys_heading, #sys_banner h1 a, #header h1 a, div#heading h1 a {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 1.47rem;
+    color: #292929;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+/* Hyperlinks (a, a:hover, a:visited) */
+a, .sys_txt a:link, .sys_layout a:link {color: #5ea4d6;}
+a, .sys_txt a:link, .sys_layout a:link {text-decoration: underline;}
+a:visited, .sys_txt a:visited, .sys_layout a:visited {color: #4088ba;}
+a:hover, .sys_txt a:hover, .sys_layout a:hover {color: #1f4661;}
+a:hover, .sys_txt a:hover, .sys_layout a:hover {text-decoration: none;}
+
+/* Headings (h2, h3, h4, h5, h6) */
+.sys_layout h2, .sys_txt h2 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 4.00rem;
+    color: #363636;
+    text-decoration: none;
+    letter-spacing: 0rem;
+    line-height: 1.38em;
+    text-transform: none;
+}
+
+.sys_layout h2 a, .sys_layout h2 a:link, .sys_layout h2 a:hover, .sys_layout h2 a:visited {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 4.00rem;
+    color: #363636;
+    letter-spacing: 0rem;
+    line-height: 1.38em;
+    text-transform: none;
+}
+
+.sys_layout h3, .sys_txt h3 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: #363636;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+.sys_layout h3 a, .sys_layout h3 a:link, .sys_layout h3 a:hover, .sys_layout h3 a:visited {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: #363636;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+.sys_layout h4, .sys_txt h4 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 2rem;
+    color: #363636;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.24em;
+    text-transform: none;
+}
+
+.sys_layout h4 a, .sys_layout h4 a:link, .sys_layout h4 a:hover, .sys_layout h4 a:visited {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 2rem;
+    color: #363636;
+    letter-spacing: 0px;
+    line-height: 1.24em;
+    text-transform: none;
+}
+
+.sys_layout h5, .sys_txt h5 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #363636;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+.sys_layout h5 a, .sys_layout h5 a:link, .sys_layout h5 a:hover, .sys_layout h5 a:visited {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #363636;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+}
+
+.sys_layout h6, .sys_txt h6 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1rem;
+    color: #363636;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+    line-height: 1.5em;
+    text-transform: uppercase;
+}
+
+.sys_layout h6 a, .sys_layout h6 a:link, .sys_layout h6 a:hover, .sys_layout h6 a:visited {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 1rem;
+    color: #363636;
+    letter-spacing: 0.1rem;
+    line-height: 1.5em;
+    text-transform: uppercase;
+}
+
+/*button widget*/
+.sys_layout .sys_button a, .sys_layout .sys_button a:link, .sys_layout .sys_button a:visited {
+    display:inline-block;
+    text-decoration: none;
+}
+.sys_layout .sys_button a:link, .sys_layout .sys_button a:visited {
+    cursor:pointer;
+}
+.sys_layout .sys_button a {
+    cursor:default;
+}
+
+.sys_layout .sys_button.square a, .sys_layout .sys_button.square a:link {
+    border-radius:0px;
+}
+.sys_layout .sys_button.rounded a, .sys_layout .sys_button.rounded a:link {
+    border-radius:3px;
+}
+.sys_layout .sys_button.pill a, .sys_layout .sys_button.pill a:link {
+    border-radius:90px;
+}
+
+/*button sizes*/
+.sys_layout .sys_button.small a, .sys_layout .sys_button.small a:link, .sys_layout .sys_button.small a:visited {font-family: 'Open Sans';font-weight: 400;font-size: 0.9rem;line-height: 1.5em;letter-spacing: 0px;text-transform: none;padding-top:0.5rem;padding-bottom:0.5rem;padding-left:2rem;padding-right:2rem;}
+.sys_layout .sys_button.medium a, .sys_layout .sys_button.medium a:link, .sys_layout .sys_button.medium a:visited {font-family: 'Open Sans';font-weight: 400;font-size: 1rem;line-height: 1.5em;letter-spacing: 0px;text-transform: none;padding-top:0.7rem;padding-bottom:0.7rem;padding-left:4rem;padding-right:4rem;}
+.sys_layout .sys_button.large a, .sys_layout .sys_button.large a:link, .sys_layout .sys_button.large a:visited {font-family: 'Open Sans';font-weight: 400;font-size: 1.1rem;line-height: 1.5em;letter-spacing: 0px;text-transform: none;padding-top:0.8rem;padding-bottom:0.8rem;padding-left:5.5rem;padding-right:5.5rem;}
+
+/*button styles:small*/
+.sys_layout .sys_button.small.outline a, .sys_layout .sys_button.small.outline a:link {
+    border-color:rgba(0,172,230,1.00);
+    color: rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.small.outline a:visited {
+    color: rgba(0,172,230,1.00);
+}
+.sys_layout .sys_button.small.solid a, .sys_layout .sys_button.small.solid a:link {
+    	background-color: #00ace6;
+
+    color: #ffffff;
+    border-color:rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.small.solid a:visited {
+    color: #ffffff;
+}
+.sys_layout .sys_button.small.outline a:hover {
+    background-color: rgba(0,172,230,1.00);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*button styles:medium*/
+.sys_layout .sys_button.medium.outline a, .sys_layout .sys_button.medium.outline a:link {
+    border-color:rgba(0,172,230,1.00);
+    color: rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.medium.outline a:visited {
+    color: rgba(0,172,230,1.00);
+}
+.sys_layout .sys_button.medium.solid a, .sys_layout .sys_button.medium.solid a:link {
+    	background-color: #00ace6;
+
+    color: #ffffff;
+    border-color:rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.medium.solid a:visited {
+    color: #ffffff;
+}
+.sys_layout .sys_button.medium.outline a:hover {
+    background-color: rgba(0,172,230,1.00);
+    color: #ffffff;
+    text-decoration: none;
+}
+/*button styles:large*/
+.sys_layout .sys_button.large.outline a, .sys_layout .sys_button.large.outline a:link {
+    border-color:rgba(0,172,230,1.00);
+    color: rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.large.outline a:visited {
+    color: rgba(0,172,230,1.00);
+}
+.sys_layout .sys_button.large.solid a, .sys_layout .sys_button.large.solid a:link {
+    	background-color: #00ace6;
+
+    color: #ffffff;
+    border-color:rgba(0,172,230,1.00);
+    border-style: solid;
+    border-width: 2px;
+}
+.sys_layout .sys_button.large.solid a:visited {
+    color: #ffffff;
+}
+.sys_layout .sys_button.large.outline a:hover {
+    background-color: rgba(0,172,230,1.00);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.sys_layout .sys_button.solid a:hover {
+    text-decoration: none;
+    opacity: .8;
+}  </style>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="/components/bower_components/jquery/dist/jquery.js"><\/script>')</script>
+<link rel="stylesheet" type="text/css" href="classes/commons/resources/flyoutmenu/flyoutmenu.css?1001107">
+<script type="text/javascript" src="classes/commons/resources/flyoutmenu/flyoutmenu.js?1001107"></script>
+<link rel="stylesheet" type="text/css" href="classes/commons/resources/global/global.css?1001107">
+<script type="text/javascript">
+  var swRegisterManager = {
+    goals: [],
+    add: function(swGoalRegister) {
+      this.goals.push(swGoalRegister);
+    },
+    registerGoals: function() {
+      while(this.goals.length) {
+        this.goals.shift().call();
+      }
+    }
+  };
+
+  window.swPostRegister = swRegisterManager.registerGoals.bind(swRegisterManager);
+</script>
+<link rel="stylesheet" type="text/css" href="classes/components/Image/layouts/Default/Default.css?1001107">
+<script type="text/javascript" async="" src="//analytics.yolacdn.net/tracking.js"></script><script type="text/javascript" src="//pixel.yola.com/LoggingAgent/LoggingAgent?url=//hogocon.yolasite.com/&amp;pagename=index&amp;siteid=4ad0f007b57948f884e5802ce8f1fe82&amp;resolution=1600x1200&amp;colorDepth=24&amp;flash=0&amp;java=0&amp;sitereferer=&amp;visitorId=CACDAC1B-F590-0001-7667-DC3814684FF0&amp;visitId=CACDAC1B-F5A0-0001-E723-1A37117669B0&amp;user_id=7733640d85af488eb3494381e700544f&amp;partner_id=YOLA&amp;LoggingAgentReturnType=script"></script><script type="text/javascript" src="//analytics.sitewit.com/partner/yola/4ad0f007b57948f884e5802ce8f1fe82/sw.js"></script></head><body lang="en" class="bgd-attachment-fixed">
+<div id="sys_background" class="yola_bg_overlay">
+<div class="yola_inner_bg_overlay">
+<div class="yola_outer_content_wrapper">
+<header role="header">
+<div class="yola_outer_heading_wrap">
+<div class="yola_heading_container">
+<div class="yola_inner_heading_wrap left">
+<div class="yola_innermost_heading_wrap">
+<nav class="mob_menu">
+<div class="mob_menu_toggle">
+<svg class="mobile_ham" width="40" height="25">
+<line x1="0" y1="3" x2="40" y2="3" stroke-width="2"></line>
+<line x1="0" y1="13" x2="40" y2="13" stroke-width="2"></line>
+<line x1="0" y1="23" x2="40" y2="23" stroke-width="2"></line>
+</svg>
+<svg class="mobile_quit" width="26" height="50">
+<line x1="0" y1="1" x2="26" y2="25" stroke-width="2"></line>
+<line x1="0" y1="25" x2="26" y2="1" stroke-width="2"></line>
+</svg>
+</div>
+<div class="mob_menu_overlay"> 
+<ul class="mob_menu_list">
+<li class="selected">
+<a href="./" title="Home">Home</a>
+</li>
+<li class="">
+<a href="contact.php" title="Contact">Contact</a>
+</li>
+<li class="">
+<a href="Rosy-Cheeks-Naturally.php" title="Rosy Cheeks Naturally">Rosy Cheeks Naturally</a>
+</li>
+</ul>
+</div>
+</nav>
+<div id="yola_heading_block"> 
+<h1>
+<a id="sys_heading" class="yola_hide_logo" href="./">
+<img class="yola_site_logo" src="" alt="hogocon">
+<span>hogocon</span>
+</a>
+</h1>
+</div>
+<div id="yola_nav_block"> 
+<nav role="navigation">
+<div class="sys_navigation">
+<ul class="sys_navigation">
+<li id="ys_menu_0" class="selected">
+<a href="./" title="Home">Home</a>
+</li>
+<li id="ys_menu_1">
+<a href="contact.php" title="Contact">Contact</a>
+</li>
+<li id="ys_menu_2">
+<a href="Rosy-Cheeks-Naturally.php" title="Rosy Cheeks Naturally">Rosy Cheeks Naturally</a>
+</li>
+</ul>
+<script>
+/* jshint ignore:start */
+$(document).ready(function() {
+    flyoutMenu.initFlyoutMenu(
+        [{"name":"Home","title":"Home","href":".\/","children":[]},{"name":"Contact","title":"Contact","href":"contact.php","children":[]},{"name":"Rosy Cheeks Naturally","title":"Rosy Cheeks Naturally","href":"Rosy-Cheeks-Naturally.php","children":[]}]
+    , 'flyover');
+});
+/* jshint ignore:end */
+</script>
+</div>
+</nav>
+</div>
+<div style="padding:0; height:0; clear:both;">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="sys_banner" class="yola_banner_wrap">
+<div class="yola_inner_banner_wrap">
+<div class="yola_innermost_banner_wrap">
+<h2 class="yola_site_tagline" style="display:none"><span></span></h2>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="yola_content_wrap" role="main">
+<div class="yola_content_column">
+<div class="yola_inner_content_column clearFix">
+<style media="screen">
+  .layout_1-column {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .layout_1-column:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .zone_top {
+    margin: 0;
+    padding: 5px;
+    vertical-align: top;
+    line-height: normal;
+    min-width: 100px;
+  }
+</style>
+<div class="layout_1-column sys_layout">
+<div id="layout_row1">
+<div id="sys_region_1" class="zone_top"><div id="I06423cadfee242a1a57ddba534a1328e" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I06423cadfee242a1a57ddba534a1328e" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I06423cadfee242a1a57ddba534a1328e {
+            max-width: 670px;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I06423cadfee242a1a57ddba534a1328e {
+            display: table;width: 100%;height: 90vh;min-height: 90vh;position:relative;
+        }
+
+        #yola-panel-inner-I06423cadfee242a1a57ddba534a1328e {
+            display: table-cell;vertical-align: middle;padding:5rem 1rem 5rem 1rem;position:relative;
+        }
+
+                    #yola-panel-background-I06423cadfee242a1a57ddba534a1328e {
+                                    background-image:url(//assets.yolacdn.net/template_assets/blank_services_template/resources/hero_unit.jpg);background-size:cover;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I06423cadfee242a1a57ddba534a1328e">
+<div id="yola-panel-background-I06423cadfee242a1a57ddba534a1328e">
+</div>
+<div id="yola-panel-inner-I06423cadfee242a1a57ddba534a1328e">
+<div id="Panel_I06423cadfee242a1a57ddba534a1328e" style="text-align:left; vertical-align:top;"><div id="I14569d06056949c49fc5b99284c549dd" style="display:block;clear: both;margin:0 0 2rem 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I14569d06056949c49fc5b99284c549dd_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h2 style="text-align: center;">This is a Heading</h2>
+<p style="text-align: center;">This is a paragraph. To edit this paragraph, highlight the text and replace it with your own fresh content. Moving this text widget is no problem. Simply drag and drop the widget to your area of choice. Use this space to tell site visitors about your business and story.</p></div></div><div id="Id671572d60a540c5b6b6ee1bdd5bccdc" style="display:block;clear: both;margin:0 0 0 0;" class="Button_Default"><style>
+    .Id671572d60a540c5b6b6ee1bdd5bccdc_sys_button {
+        text-align: center;
+    }
+</style>
+<div id="Id671572d60a540c5b6b6ee1bdd5bccdc_sys_button" systemelement="true" class="Id671572d60a540c5b6b6ee1bdd5bccdc_sys_button sys_button medium rounded solid">
+<a target="_self">
+Learn More
+</a>
+</div></div></div>
+</div>
+</div>
+</div><div id="I561883fc94bb4b859683ea43ee68041e" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I561883fc94bb4b859683ea43ee68041e" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I561883fc94bb4b859683ea43ee68041e {
+            max-width: 770px;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I561883fc94bb4b859683ea43ee68041e {
+            display: table;width: 100%;height: 0vh;min-height: 0vh;
+        }
+
+        #yola-panel-inner-I561883fc94bb4b859683ea43ee68041e {
+            display: table-cell;vertical-align: middle;padding:5rem 1rem 5rem 1rem;
+        }
+
+        
+        
+            </style>
+<div id="yola-panel-I561883fc94bb4b859683ea43ee68041e">
+<div id="yola-panel-inner-I561883fc94bb4b859683ea43ee68041e">
+<div id="Panel_I561883fc94bb4b859683ea43ee68041e" style="text-align:left; vertical-align:top;"><div id="I3fd54fdd8b384cd490d531f572763111" style="display:block;clear: both;margin:0 0 2rem 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I3fd54fdd8b384cd490d531f572763111_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h3 style="text-align: center;">About Us</h3>
+<p style="text-align: center;"><span style="color: #24292e;">This is a paragraph. To edit this paragraph, highlight the text and replace it with your own fresh content. Moving this text widget is no problem. Simply drag and drop the widget to your area of choice. Use this space to tell site visitors about your business and story.</span></p></div></div><div id="I0f76979f1d6d480bb6c69ada8fcc8f54" style="display:block;clear: both;margin:0 0 0 0;" class="Button_Default"><style>
+    .I0f76979f1d6d480bb6c69ada8fcc8f54_sys_button {
+        text-align: center;
+    }
+</style>
+<div id="I0f76979f1d6d480bb6c69ada8fcc8f54_sys_button" systemelement="true" class="I0f76979f1d6d480bb6c69ada8fcc8f54_sys_button sys_button medium rounded solid">
+<a target="_self">
+Learn More
+</a>
+</div></div></div>
+</div>
+</div>
+</div><div id="I0a70e17611554459b179b0d4ac69c919" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I0a70e17611554459b179b0d4ac69c919" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I0a70e17611554459b179b0d4ac69c919 {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        #yola-panel-I0a70e17611554459b179b0d4ac69c919 {
+            min-height: 0vh;position:relative;
+        }
+
+        #yola-panel-inner-I0a70e17611554459b179b0d4ac69c919 {
+            padding:5rem 1rem 1rem 1rem;position:relative;
+        }
+
+                    #yola-panel-background-I0a70e17611554459b179b0d4ac69c919 {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I0a70e17611554459b179b0d4ac69c919">
+<div id="yola-panel-background-I0a70e17611554459b179b0d4ac69c919">
+</div>
+<div id="yola-panel-inner-I0a70e17611554459b179b0d4ac69c919">
+<div id="Panel_I0a70e17611554459b179b0d4ac69c919" style="text-align:left; vertical-align:top;"><div id="I88d1ea3472ea4c55aaf9ab6956b2b6b1" style="display:block;clear: both;margin:0 0 2rem 0;" class="Panel_Default"> <style id="yola-panel-style-I88d1ea3472ea4c55aaf9ab6956b2b6b1" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I88d1ea3472ea4c55aaf9ab6956b2b6b1 {
+            max-width: 770px;
+            margin: 0 auto;
+        }
+        
+        #yola-panel-I88d1ea3472ea4c55aaf9ab6956b2b6b1 {
+            min-height: 0vh;
+        }
+
+        #yola-panel-inner-I88d1ea3472ea4c55aaf9ab6956b2b6b1 {
+            
+        }
+
+        
+        
+            </style>
+<div id="yola-panel-I88d1ea3472ea4c55aaf9ab6956b2b6b1">
+<div id="yola-panel-inner-I88d1ea3472ea4c55aaf9ab6956b2b6b1">
+<div id="Panel_I88d1ea3472ea4c55aaf9ab6956b2b6b1" style="text-align:left; vertical-align:top;"><div id="I0269e5b2711e4d33aaf5934ccc488990" style="display:block;clear: both;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I0269e5b2711e4d33aaf5934ccc488990_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h3 style="text-align: center;">Services</h3>
+<p style="text-align: center;"><span style="color: #24292e;">This is a paragraph. To edit this paragraph, highlight the text and replace it with your own fresh content. Moving this text widget is no problem. Simply drag and drop the widget to your area of choice. Use this space to tell site visitors about your business and story.</span></p></div></div></div>
+</div>
+</div>
+</div><div id="Ic1530e0aae1b4aafa6dff125f9711812" style="display:block;clear: both;margin:0 0 0 0;" class="Layout1_Default"><style>.column_Ic1530e0aae1b4aafa6dff125f9711812 {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_Ic1530e0aae1b4aafa6dff125f9711812:after {content: "";display: table;clear: both;}.column_Ic1530e0aae1b4aafa6dff125f9711812 .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_Ic1530e0aae1b4aafa6dff125f9711812 .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_Ic1530e0aae1b4aafa6dff125f9711812 column_divider"><div id="Left_Ic1530e0aae1b4aafa6dff125f9711812" class="left"><div id="I36207381dd8d4470a40d216404bb0e46" style="display:block;clear: both;" class="Layout1_Default"><style>.column_I36207381dd8d4470a40d216404bb0e46 {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I36207381dd8d4470a40d216404bb0e46:after {content: "";display: table;clear: both;}.column_I36207381dd8d4470a40d216404bb0e46 .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I36207381dd8d4470a40d216404bb0e46 .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_I36207381dd8d4470a40d216404bb0e46 column_divider"><div id="Left_I36207381dd8d4470a40d216404bb0e46" class="left"><div id="Ied81eabc2ff24ac188627f220ad77ab4" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-Ied81eabc2ff24ac188627f220ad77ab4" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Ied81eabc2ff24ac188627f220ad77ab4 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-Ied81eabc2ff24ac188627f220ad77ab4 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-Ied81eabc2ff24ac188627f220ad77ab4 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-Ied81eabc2ff24ac188627f220ad77ab4 {
+                                    background:#eeeeee;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-Ied81eabc2ff24ac188627f220ad77ab4">
+<div id="yola-panel-background-Ied81eabc2ff24ac188627f220ad77ab4">
+</div>
+<div id="yola-panel-inner-Ied81eabc2ff24ac188627f220ad77ab4">
+<div id="Panel_Ied81eabc2ff24ac188627f220ad77ab4" style="text-align:left; vertical-align:top;"><div id="Ie616819935cd488689c46b15e85988a7" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#Ie616819935cd488689c46b15e85988a7_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="Ie616819935cd488689c46b15e85988a7_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div><div id="Id8ac37e67001432f894061139ca2913e" style="display:block;clear: both;margin:1.5rem 0 0 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="Id8ac37e67001432f894061139ca2913e_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h5 style="color: #363636; text-align: center;">This is Heading</h5>
+<p style="color: #555555; text-align: center;">This description of this image</p></div></div></div><div id="Right_I36207381dd8d4470a40d216404bb0e46" class="right"><div id="If7acc3b9abf742b49e69d3546ab3cce1" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-If7acc3b9abf742b49e69d3546ab3cce1" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_If7acc3b9abf742b49e69d3546ab3cce1 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-If7acc3b9abf742b49e69d3546ab3cce1 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-If7acc3b9abf742b49e69d3546ab3cce1 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-If7acc3b9abf742b49e69d3546ab3cce1 {
+                                    background:#eeeeee;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-If7acc3b9abf742b49e69d3546ab3cce1">
+<div id="yola-panel-background-If7acc3b9abf742b49e69d3546ab3cce1">
+</div>
+<div id="yola-panel-inner-If7acc3b9abf742b49e69d3546ab3cce1">
+<div id="Panel_If7acc3b9abf742b49e69d3546ab3cce1" style="text-align:left; vertical-align:top;"><div id="I82d2c1b669eb4f3aa8fbb0f891129f93" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I82d2c1b669eb4f3aa8fbb0f891129f93_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="I82d2c1b669eb4f3aa8fbb0f891129f93_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div><div id="I243295ab54d242259c157a133f54032a" style="display:block;clear: both;margin:1.5rem 0 0 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I243295ab54d242259c157a133f54032a_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h5 style="color: #363636; text-align: center;">This is Heading</h5>
+<p style="color: #555555; text-align: center;">This description of this image</p></div></div></div></div></div></div><div id="Right_Ic1530e0aae1b4aafa6dff125f9711812" class="right"><div id="I495308d4f94548d68fee102eae2b3e25" style="display:block;clear: both;" class="Layout1_Default"><style>.column_I495308d4f94548d68fee102eae2b3e25 {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I495308d4f94548d68fee102eae2b3e25:after {content: "";display: table;clear: both;}.column_I495308d4f94548d68fee102eae2b3e25 .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I495308d4f94548d68fee102eae2b3e25 .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_I495308d4f94548d68fee102eae2b3e25 column_divider"><div id="Left_I495308d4f94548d68fee102eae2b3e25" class="left"><div id="Ic660811bc4d140efa1b311b0ac2feb0a" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-Ic660811bc4d140efa1b311b0ac2feb0a" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Ic660811bc4d140efa1b311b0ac2feb0a {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-Ic660811bc4d140efa1b311b0ac2feb0a {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-Ic660811bc4d140efa1b311b0ac2feb0a {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-Ic660811bc4d140efa1b311b0ac2feb0a {
+                                    background:#eeeeee;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-Ic660811bc4d140efa1b311b0ac2feb0a">
+<div id="yola-panel-background-Ic660811bc4d140efa1b311b0ac2feb0a">
+</div>
+<div id="yola-panel-inner-Ic660811bc4d140efa1b311b0ac2feb0a">
+<div id="Panel_Ic660811bc4d140efa1b311b0ac2feb0a" style="text-align:left; vertical-align:top;"><div id="Ib4b03dcdaa914fb595fd365216444e68" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#Ib4b03dcdaa914fb595fd365216444e68_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="Ib4b03dcdaa914fb595fd365216444e68_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div><div id="I7c94959b54954bd491afbdc1b5589cf0" style="display:block;clear: both;margin:1.5rem 0 0 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I7c94959b54954bd491afbdc1b5589cf0_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h5 style="color: #363636; text-align: center;">This is Heading</h5>
+<p style="color: #555555; text-align: center;">This description of this image</p></div></div></div><div id="Right_I495308d4f94548d68fee102eae2b3e25" class="right"><div id="I42b77562cfb642f9b46f5f254728c066" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I42b77562cfb642f9b46f5f254728c066" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I42b77562cfb642f9b46f5f254728c066 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I42b77562cfb642f9b46f5f254728c066 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-I42b77562cfb642f9b46f5f254728c066 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-I42b77562cfb642f9b46f5f254728c066 {
+                                    background:#eeeeee;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I42b77562cfb642f9b46f5f254728c066">
+<div id="yola-panel-background-I42b77562cfb642f9b46f5f254728c066">
+</div>
+<div id="yola-panel-inner-I42b77562cfb642f9b46f5f254728c066">
+<div id="Panel_I42b77562cfb642f9b46f5f254728c066" style="text-align:left; vertical-align:top;"><div id="I745b3e2ba31c417caf6bbb82b88d45e9" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I745b3e2ba31c417caf6bbb82b88d45e9_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="I745b3e2ba31c417caf6bbb82b88d45e9_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div><div id="I84186e56caec4856b243fb5330f35cc7" style="display:block;clear: both;margin:1.5rem 0 0 0;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I84186e56caec4856b243fb5330f35cc7_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h5 style="color: #363636; text-align: center;">This is Heading</h5>
+<p style="color: #555555; text-align: center;">This description of this image</p></div></div></div></div></div></div></div></div></div>
+</div>
+</div>
+</div><div id="I47ed12d197c742bf8bb51833e9da1e88" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I47ed12d197c742bf8bb51833e9da1e88" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I47ed12d197c742bf8bb51833e9da1e88 {
+            max-width: 1200px;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I47ed12d197c742bf8bb51833e9da1e88 {
+            display: table;width: 100%;height: 0vh;min-height: 0vh;
+        }
+
+        #yola-panel-inner-I47ed12d197c742bf8bb51833e9da1e88 {
+            display: table-cell;vertical-align: middle;padding:5rem 1rem 1rem 1rem;
+        }
+
+        
+        
+            </style>
+<div id="yola-panel-I47ed12d197c742bf8bb51833e9da1e88">
+<div id="yola-panel-inner-I47ed12d197c742bf8bb51833e9da1e88">
+<div id="Panel_I47ed12d197c742bf8bb51833e9da1e88" style="text-align:left; vertical-align:top;"><div id="Ifbbdf138ce8e4341b703d141debbb54b" style="display:block;clear: both;margin:0 0 2rem 0;" class="Panel_Default"> <style id="yola-panel-style-Ifbbdf138ce8e4341b703d141debbb54b" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Ifbbdf138ce8e4341b703d141debbb54b {
+            max-width: 770px;
+            margin: 0 auto;
+        }
+        
+        #yola-panel-Ifbbdf138ce8e4341b703d141debbb54b {
+            min-height: 0vh;
+        }
+
+        #yola-panel-inner-Ifbbdf138ce8e4341b703d141debbb54b {
+            
+        }
+
+        
+        
+            </style>
+<div id="yola-panel-Ifbbdf138ce8e4341b703d141debbb54b">
+<div id="yola-panel-inner-Ifbbdf138ce8e4341b703d141debbb54b">
+<div id="Panel_Ifbbdf138ce8e4341b703d141debbb54b" style="text-align:left; vertical-align:top;"><div id="I2b43abebd28b47acac267b8b5be31a42" style="display:block;clear: both;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I2b43abebd28b47acac267b8b5be31a42_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><h3 style="text-align: center;">Gallery</h3>
+<p style="text-align: center;"><span style="color: #24292e;">This is a paragraph. To edit this paragraph, highlight the text and replace it with your own fresh content. Moving this text widget is no problem. Simply drag and drop the widget to your area of choice. Use this space to tell site visitors about your business and story.</span></p></div></div></div>
+</div>
+</div>
+</div><div id="I8ee63ece6a9845a991317bd5965a054c" style="display:block;clear: both;margin:0 0 2rem 0;" class="Panel_Default"> <style id="yola-panel-style-I8ee63ece6a9845a991317bd5965a054c" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I8ee63ece6a9845a991317bd5965a054c {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I8ee63ece6a9845a991317bd5965a054c {
+            display: table;width: 100%;height: 50vh;min-height: 50vh;position:relative;
+        }
+
+        #yola-panel-inner-I8ee63ece6a9845a991317bd5965a054c {
+            display: table-cell;vertical-align: middle;padding:5rem 1rem 5rem 1rem;position:relative;
+        }
+
+                    #yola-panel-background-I8ee63ece6a9845a991317bd5965a054c {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I8ee63ece6a9845a991317bd5965a054c">
+<div id="yola-panel-background-I8ee63ece6a9845a991317bd5965a054c">
+</div>
+<div id="yola-panel-inner-I8ee63ece6a9845a991317bd5965a054c">
+<div id="Panel_I8ee63ece6a9845a991317bd5965a054c" style="text-align:left; vertical-align:top;"><div id="I93737ae8bded462a8a9542b5b5f1c1ec" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I93737ae8bded462a8a9542b5b5f1c1ec_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 418px;border:none;max-width: 100%;height: auto;}</style><img id="I93737ae8bded462a8a9542b5b5f1c1ec_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div><div id="I9fab56bb3a564660aafdf14b1516a1fe" style="display:block;clear: both;margin:0 0 0 0;" class="Layout1_Default"><style>.column_I9fab56bb3a564660aafdf14b1516a1fe {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I9fab56bb3a564660aafdf14b1516a1fe:after {content: "";display: table;clear: both;}.column_I9fab56bb3a564660aafdf14b1516a1fe .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I9fab56bb3a564660aafdf14b1516a1fe .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_I9fab56bb3a564660aafdf14b1516a1fe column_divider"><div id="Left_I9fab56bb3a564660aafdf14b1516a1fe" class="left"><div id="I1e7599f7d84b43c5b932b04134e468e3" style="display:block;clear: both;" class="Layout1_Default"><style>.column_I1e7599f7d84b43c5b932b04134e468e3 {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I1e7599f7d84b43c5b932b04134e468e3:after {content: "";display: table;clear: both;}.column_I1e7599f7d84b43c5b932b04134e468e3 .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_I1e7599f7d84b43c5b932b04134e468e3 .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_I1e7599f7d84b43c5b932b04134e468e3 column_divider"><div id="Left_I1e7599f7d84b43c5b932b04134e468e3" class="left"><div id="Id80a937ea50b45258340c9d637593161" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-Id80a937ea50b45258340c9d637593161" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Id80a937ea50b45258340c9d637593161 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-Id80a937ea50b45258340c9d637593161 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-Id80a937ea50b45258340c9d637593161 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-Id80a937ea50b45258340c9d637593161 {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-Id80a937ea50b45258340c9d637593161">
+<div id="yola-panel-background-Id80a937ea50b45258340c9d637593161">
+</div>
+<div id="yola-panel-inner-Id80a937ea50b45258340c9d637593161">
+<div id="Panel_Id80a937ea50b45258340c9d637593161" style="text-align:left; vertical-align:top;"><div id="Iade5ab3cb0324f2c8f39a1f1a5f62756" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#Iade5ab3cb0324f2c8f39a1f1a5f62756_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="Iade5ab3cb0324f2c8f39a1f1a5f62756_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div></div><div id="Right_I1e7599f7d84b43c5b932b04134e468e3" class="right"><div id="Id432581fdcc34d32aa61e31cb0829867" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-Id432581fdcc34d32aa61e31cb0829867" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Id432581fdcc34d32aa61e31cb0829867 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-Id432581fdcc34d32aa61e31cb0829867 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-Id432581fdcc34d32aa61e31cb0829867 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-Id432581fdcc34d32aa61e31cb0829867 {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-Id432581fdcc34d32aa61e31cb0829867">
+<div id="yola-panel-background-Id432581fdcc34d32aa61e31cb0829867">
+</div>
+<div id="yola-panel-inner-Id432581fdcc34d32aa61e31cb0829867">
+<div id="Panel_Id432581fdcc34d32aa61e31cb0829867" style="text-align:left; vertical-align:top;"><div id="I89cf4428eb16489b8b488263ed1c9b68" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I89cf4428eb16489b8b488263ed1c9b68_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="I89cf4428eb16489b8b488263ed1c9b68_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div></div></div></div></div><div id="Right_I9fab56bb3a564660aafdf14b1516a1fe" class="right"><div id="Iee1489416d004f12b88b45d3439a4e64" style="display:block;clear: both;" class="Layout1_Default"><style>.column_Iee1489416d004f12b88b45d3439a4e64 {width: 100%;-moz-box-sizing:border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_Iee1489416d004f12b88b45d3439a4e64:after {content: "";display: table;clear: both;}.column_Iee1489416d004f12b88b45d3439a4e64 .left {text-align: left;vertical-align: top;width: 50%;padding: 0 1rem 2rem 0;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing:border-box;}.column_Iee1489416d004f12b88b45d3439a4e64 .right {vertical-align: top;width: 50%;padding: 0 0 0 1rem;float: left;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}</style><div class="column_Iee1489416d004f12b88b45d3439a4e64 column_divider"><div id="Left_Iee1489416d004f12b88b45d3439a4e64" class="left"><div id="I35bc4673c92a4030b84d62b17f9a31c4" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I35bc4673c92a4030b84d62b17f9a31c4" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_I35bc4673c92a4030b84d62b17f9a31c4 {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-I35bc4673c92a4030b84d62b17f9a31c4 {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-I35bc4673c92a4030b84d62b17f9a31c4 {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-I35bc4673c92a4030b84d62b17f9a31c4 {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I35bc4673c92a4030b84d62b17f9a31c4">
+<div id="yola-panel-background-I35bc4673c92a4030b84d62b17f9a31c4">
+</div>
+<div id="yola-panel-inner-I35bc4673c92a4030b84d62b17f9a31c4">
+<div id="Panel_I35bc4673c92a4030b84d62b17f9a31c4" style="text-align:left; vertical-align:top;"><div id="I1acc9673f02e4353a01720cfbdcca814" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I1acc9673f02e4353a01720cfbdcca814_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="I1acc9673f02e4353a01720cfbdcca814_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div></div><div id="Right_Iee1489416d004f12b88b45d3439a4e64" class="right"><div id="Ida0e1f7db1ad43bfb7270f5af2b8cb3c" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-Ida0e1f7db1ad43bfb7270f5af2b8cb3c" type="text/css">
+
+        
+        
+        
+        
+                div#Panel_Ida0e1f7db1ad43bfb7270f5af2b8cb3c {
+            max-width: 100%;
+            margin: 0 auto;;;
+        }
+        
+        #yola-panel-Ida0e1f7db1ad43bfb7270f5af2b8cb3c {
+            display: table;width: 100%;height: 30vh;min-height: 30vh;position:relative;
+        }
+
+        #yola-panel-inner-Ida0e1f7db1ad43bfb7270f5af2b8cb3c {
+            display: table-cell;vertical-align: middle;position:relative;
+        }
+
+                    #yola-panel-background-Ida0e1f7db1ad43bfb7270f5af2b8cb3c {
+                                    background:#f7f7f7;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-Ida0e1f7db1ad43bfb7270f5af2b8cb3c">
+<div id="yola-panel-background-Ida0e1f7db1ad43bfb7270f5af2b8cb3c">
+</div>
+<div id="yola-panel-inner-Ida0e1f7db1ad43bfb7270f5af2b8cb3c">
+<div id="Panel_Ida0e1f7db1ad43bfb7270f5af2b8cb3c" style="text-align:left; vertical-align:top;"><div id="I6867138b84164880a7ef965351f5e854" style="display:block;clear: both;text-align:center;" class="Image_Default"><style>#I6867138b84164880a7ef965351f5e854_img {-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;width: 232px;border:none;max-width: 100%;height: auto;}</style><img id="I6867138b84164880a7ef965351f5e854_img" src="//assets.yolacdn.net/template_assets/blank_services_template/resources/placeholder.png"></div></div>
+</div>
+</div>
+</div></div></div></div></div></div></div></div>
+</div>
+</div>
+</div><div id="I6b509e824cd0401a81e9b4b964ceac8f" style="display:block;clear: both;" class="Panel_Default"> <style id="yola-panel-style-I6b509e824cd0401a81e9b4b964ceac8f" type="text/css">
+
+                div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f p,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt,
+        .content div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f p,
+        #content div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f p,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .HTML_Default p,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .Text_Default p,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt p,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt p a,
+        div#content div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f p{
+            color:#ffffff;
+        }
+        
+                div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h1,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h2,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h3,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h4,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h5,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f h6,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h1,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h2,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h3,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h4,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h5,
+        div#yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f .sys_txt h6{
+            color:#ffffff;
+        }
+        
+        
+        
+                div#Panel_I6b509e824cd0401a81e9b4b964ceac8f {
+            max-width: 100%;
+            margin: 0 auto;
+        }
+        
+        #yola-panel-I6b509e824cd0401a81e9b4b964ceac8f {
+            min-height: 0vh;position:relative;
+        }
+
+        #yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f {
+            padding:2rem 1rem 1rem 1rem;position:relative;
+        }
+
+                    #yola-panel-background-I6b509e824cd0401a81e9b4b964ceac8f {
+                                    background:#303030;background-position:top left;background-repeat:no-repeat;position:absolute;top:0;left:0;right:0;bottom:0;overflow:hidden;pointer-events:none;touch-action:none;
+                            }
+        
+        
+            </style>
+<div id="yola-panel-I6b509e824cd0401a81e9b4b964ceac8f">
+<div id="yola-panel-background-I6b509e824cd0401a81e9b4b964ceac8f">
+</div>
+<div id="yola-panel-inner-I6b509e824cd0401a81e9b4b964ceac8f">
+<div id="Panel_I6b509e824cd0401a81e9b4b964ceac8f" style="text-align:left; vertical-align:top;"><div id="I80334b333e82403f9f0c7a06b9ff53be" style="display:block;clear: both;" class="Text_2_Default"><style type="text/css">
+    div.sys_text_widget img.float-left{float:left;margin:10px 15px 10px 0;}
+    div.sys_text_widget img.float-right{position:relative;margin:10px 0 10px 15px;}
+    div.sys_text_widget img{margin:4px;}
+    div.sys_text_widget {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        color: ;
+        font: ;
+        background-color: ;
+    }
+</style>
+<div id="I80334b333e82403f9f0c7a06b9ff53be_sys_txt" systemelement="true" class="sys_txt sys_text_widget new-text-widget"><p style="text-align: center;">© Copyright hogocon</p></div></div></div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div class="yola_footer_wrap">
+<div class="yola_footer_column">
+<footer id="yola_style_footer">
+<p style="float:right; margin:0;">Jacksonville 114, Jacksonville, Florida 32206, USA</p><div style="clear:both; height:0;"></div>
+</footer>
+</div>
+</div>
+<style type="text/css">
+                    #sys_yolacredit_wrap{text-align:center;}
+                    #sys_yolacredit{text-align:center;line-height:1.2em;margin:2em auto;font-family:Arial;
+                        position:relative;background:#fff url(classes/commons/yola_footer/png/sprites.png?1001107) right 0.3em no-repeat;
+                        background-size:7em;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;
+                        padding:0.5em 2.6em 0.6em 0.4em;color:#222;font-size:0.6rem;display:inline-block;}
+                    #sys_yolacredit p{margin:0;padding:0;line-height:1.2em;}
+                    #sys_yolacredit p a{color:#222;text-decoration:none;}
+                    #sys_yolacredit p a:hover{text-decoration:underline;}
+                    #sys_yolacredit a.yola{font-size:0;position:absolute;top:5px;right:0;display:inline-block;
+                        width:25px;height:16px;float:right;text-decoration:none;color:"#fff";}
+                    #sys_yolacredit a.yola span{display:none;}
+                </style>
+<!--[if lte IE 6]>
+                    <style type="text/css">
+                        #sys_yolacredit{background:#fff url(classes/commons/yola_footer/gif/sprites.gif?1001107) right 2px no-repeat;}
+                    </style>
+                <![endif]-->
+<div id="sys_yolacredit_wrap">
+<div id="sys_yolacredit" style="" title="Visit Yola.com to create your own free website">
+<p>Make a <a href="https://www.yola.com/">free website</a> with <a class="yola" href="https://www.yola.com/"><span>Yola</span></a></p>
+</div>
+</div>
+<script type="text/javascript" id="site_analytics_tracking" data-id="4ad0f007b57948f884e5802ce8f1fe82" data-user="7733640d85af488eb3494381e700544f" data-partner="YOLA" data-url="//analytics.yolacdn.net/tracking.js">
+  var _yts = _yts || [];
+  var tracking_tag = document.getElementById('site_analytics_tracking');
+  _yts.push(["_siteId", tracking_tag.getAttribute('data-id')]);
+  _yts.push(["_userId", tracking_tag.getAttribute('data-user')]);
+  _yts.push(["_partnerId", tracking_tag.getAttribute('data-partner')]);
+  _yts.push(["_trackPageview"]);
+  (function() {
+    var yts = document.createElement("script");
+    yts.type = "text/javascript";
+    yts.async = true;
+    yts.src = document.getElementById('site_analytics_tracking').getAttribute('data-url');
+    (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(yts);
+  })();
+</script>
+
+</div>
+</div> 
+</div> 
+<script src="templates/Skyline_v2/resources/js/browserify.build.js"></script>
+
+</body>

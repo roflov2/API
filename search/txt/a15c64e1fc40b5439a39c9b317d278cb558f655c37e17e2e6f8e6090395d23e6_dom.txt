@@ -1,0 +1,1052 @@
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Steam 커뮤니티 :: 青予</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://gtm.you1.cn/public/shared/css/motiva_sans.css?v=-DH0xTYpnVe2&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/shared/css/buttons.css?v=PUJIfhtcQn7W&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/shared/css/shared_global.css?v=_D2Bg4UEaFxK&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/css/globalv2.css?v=PAcV2zMBzzSV&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/css/skin_1/profilev2.css?v=M_qL4gO2sKII&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/shared/css/motiva_sans.css?v=-DH0xTYpnVe2&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/css/promo/summer2017/stickers.css?v=HA2Yr5oy3FFG&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/shared/css/shared_responsive.css?v=sHIIcMzCffX6&amp;l=koreana" rel="stylesheet" type="text/css">
+<link href="https://gtm.you1.cn/public/css/skin_1/header.css?v=NFoCa4OkAxRb&amp;l=koreana" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Array.prototype.filter;
+	__PrototypePreserve[2] = Array.prototype.flatMap;
+	__PrototypePreserve[3] = Array.prototype.find;
+	__PrototypePreserve[4] = Array.prototype.some;
+	__PrototypePreserve[5] = Function.prototype.bind;
+	__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw"></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Array.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+	Array.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+	Array.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+	Array.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+	Function.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">VALVE_PUBLIC_PATH = "https:\/\/gtm.you1.cn\/public\/";</script><script type="text/javascript" src="https://gtm.you1.cn/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&amp;l=koreana&amp;load=effects,controls,slider,dragdrop"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/global.js?v=nfbU2fXWe6Zr&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/shared/javascript/shared_global.js?v=qC1xSwi0insE&amp;l=koreana"></script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script><script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/gtm.you1.cn\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=koreana\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} );
+		});
+		</script><script type="text/javascript" src="https://gtm.you1.cn/public/javascript/modalContent.js?v=XsuVb2N77UDQ&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/profile.js?v=0drVfJgXuODf&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/promo/stickers.js?v=ajupI18FNHxd&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/reportedcontent.js?v=dAtjbcZMWhSe&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/webui/clientcom.js?v=hUJASaalMwGt&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/shared/javascript/shared_responsive_adapter.js?v=6ERCH2Nxo0Lr&amp;l=koreana"></script>
+
+						<meta name="twitter:card" content="summary">
+					<meta name="Description" content="ːsteammockingː">
+			
+	<meta name="twitter:site" content="@steam">
+
+						<meta property="og:title" content="Steam 커뮤니티 :: 青予">
+					<meta property="twitter:title" content="Steam 커뮤니티 :: 青予">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="ːsteammockingː">
+					<meta property="twitter:description" content="ːsteammockingː">
+			
+	
+			<link rel="image_src" href="https://avatars.akamai.steamstatic.com/1ec2f7d6edcfb19d3ce9a7f3c20ba991d4531624_full.jpg">
+		<meta property="og:image" content="https://avatars.akamai.steamstatic.com/1ec2f7d6edcfb19d3ce9a7f3c20ba991d4531624_full.jpg">
+		<meta name="twitter:image" content="https://avatars.akamai.steamstatic.com/1ec2f7d6edcfb19d3ce9a7f3c20ba991d4531624_full.jpg">
+				
+	
+	
+	
+	
+	<link rel="stylesheet" type="text/css" href="https://gtm.you1.cn/public/css/applications/community/chunk~f036ce556.css?contenthash=65008c72e7e5586e0c2d"><link rel="stylesheet" type="text/css" href="https://gtm.you1.cn/public/css/applications/community/chunk~c18a43282.css?contenthash=9d7a44275c4c08a2c08a"><link rel="stylesheet" type="text/css" href="https://gtm.you1.cn/public/css/applications/community/chunk~642602239.css?contenthash=a4b6cb23cd5e70e8b4be"><link rel="stylesheet" type="text/css" href="https://gtm.you1.cn/public/css/applications/community/profile.css?contenthash=c73a20a00d964eabeb83"></head><body class="flat_page profile_page has_profile_background GameProfileTheme responsive_page ">
+
+
+<div class="responsive_page_frame with_header">
+						<div role="navigation" class="responsive_page_menu_ctn mainmenu" aria-label="모바일 메뉴">
+				<div class="responsive_page_menu" id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana">
+									로그인								</a>
+																				<a class="menuitem supernav" href="https://gtm.you1.cn/storesteam/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					상점				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/">
+							홈													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/explore/">
+							탐색 대기열													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/my/wishlist/">
+							찜 목록													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/points/shop/">
+							포인트 상점													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/news/">
+							뉴스													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/stats/">
+							통계													</a>
+									</div>
+															<a class="menuitem supernav supernav_active" href="https://gtm.you1.cn/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					커뮤니티				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://gtm.you1.cn/">
+							홈													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/discussions/">
+							토론													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/workshop/">
+							창작마당													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/market/">
+							장터													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/?subsection=broadcasts">
+							방송													</a>
+									</div>
+															<a class="menuitem supernav" href="https://gtm.you1.cn/storesteam/about/">
+					정보				</a>
+															<a class="menuitem supernav" href="https://gtm.you1.cn/helpsteam/ko/">
+					지원				</a>
+						
+							<div class="minor_menu_items">
+																								<div class="menuitem change_language_action">
+									언어 변경								</div>
+																																	<a class="menuitem" href="https://gtm.you1.cn/storesteam/mobile" target="_blank" rel="noreferrer">Steam 모바일 앱 다운로드</a>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										PC 웹사이트 보기									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://gtm.you1.cn/public/shared/images/responsive/logo_valve_footer.png"></div>
+								© Valve Corporation. 모든 권리 보유. 모든 상표는 미국 및 기타 국가에서 각각 해당 소유자의 재산입니다.								<span class="mainmenu_valve_links">
+									<a href="https://gtm.you1.cn/storesteam/privacy_agreement/" target="_blank">개인정보 보호정책</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">법적 고지</a>
+									&nbsp;| &nbsp;<a href="https://gtm.you1.cn/storesteam/subscriber_agreement/" target="_blank">Steam 이용 약관</a>
+									&nbsp;| &nbsp;<a href="https://gtm.you1.cn/storesteam/steam_refunds/" target="_blank">환불</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu" id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://gtm.you1.cn/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://gtm.you1.cn/storesteam/">
+															<img src="https://gtm.you1.cn/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div role="banner" id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://gtm.you1.cn/storesteam/" aria-label="Steam 홈페이지 링크">
+						<img src="https://gtm.you1.cn/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44" alt="Steam 홈페이지 링크">
+					</a>
+							</span>
+		</div>
+
+			<div role="navigation" class="supernav_container" aria-label="공통 메뉴">
+													<a class="menuitem supernav" href="https://gtm.you1.cn/storesteam/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					상점				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/">
+							홈													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/explore/">
+							탐색 대기열													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/my/wishlist/">
+							찜 목록													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/points/shop/">
+							포인트 상점													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/news/">
+							뉴스													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/storesteam/stats/">
+							통계													</a>
+									</div>
+															<a class="menuitem supernav supernav_active" href="https://gtm.you1.cn/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					커뮤니티				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://gtm.you1.cn/">
+							홈													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/discussions/">
+							토론													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/workshop/">
+							창작마당													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/market/">
+							장터													</a>
+																	<a class="submenuitem" href="https://gtm.you1.cn/?subsection=broadcasts">
+							방송													</a>
+									</div>
+															<a class="menuitem supernav" href="https://gtm.you1.cn/storesteam/about/">
+					정보				</a>
+															<a class="menuitem supernav" href="https://gtm.you1.cn/helpsteam/ko/">
+					지원				</a>
+							</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-6, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div role="navigation" id="global_action_menu" aria-label="계정 메뉴">
+									<a class="header_installsteam_btn header_installsteam_btn_green" href="https://gtm.you1.cn/storesteam/about/">
+						<div class="header_installsteam_btn_content">
+							Steam 설치						</div>
+					</a>
+				
+				
+									<a class="global_action_link" href="https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana">로그인</a>
+											&nbsp;|&nbsp;
+						<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">언어</span>
+						<div class="popup_block_new" id="language_dropdown" style="display: none;">
+							<div class="popup_body popup_menu">
+																																					<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文(중국어 간체)</a>
+																													<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文(중국어 번체)</a>
+																													<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語(일본어)</a>
+																																							<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย(태국어)</a>
+																													<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български(불가리아어)</a>
+																													<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština(체코어)</a>
+																													<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk(덴마크어)</a>
+																													<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch(독일어)</a>
+																													<a class="popup_menu_item tight" href="?l=english" onclick="ChangeLanguage( 'english' ); return false;">English(영어)</a>
+																													<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España(스페인어 - 스페인)</a>
+																													<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica(스페인어 - 중남미)</a>
+																													<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά(그리스어)</a>
+																													<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français(프랑스어)</a>
+																													<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano(이탈리아어)</a>
+																													<a class="popup_menu_item tight" href="?l=indonesian" onclick="ChangeLanguage( 'indonesian' ); return false;">Bahasa Indonesia(인도네시아어)</a>
+																													<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar(헝가리어)</a>
+																													<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands(네덜란드어)</a>
+																													<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk(노르웨이어)</a>
+																													<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski(폴란드어)</a>
+																													<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português(포르투갈어 - 포르투갈)</a>
+																													<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil(포르투갈어 - 브라질)</a>
+																													<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română(루마니아어)</a>
+																													<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский(러시아어)</a>
+																													<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi(핀란드어)</a>
+																													<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska(스웨덴어)</a>
+																													<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe(튀르키예어)</a>
+																													<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt(베트남어)</a>
+																													<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська(우크라이나어)</a>
+																									<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">번역 관련 문제 보고</a>
+							</div>
+						</div>
+												</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "95c9611e9e3e847c5d8b25bf";
+	g_steamID = false;
+	g_strLanguage = "koreana";
+	g_SNR = '2_100300_DefaultAction_';
+	g_bAllowAppImpressions = true;
+		g_ContentDescriptorPreferences = [1,3,4];
+
+	
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers(( 'https%3A%2F%2Fgtm.you1.cn' ));
+		InitEmoticonHovers();
+		ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/gtm.you1.cn\/public\/css\/skin_1\/economy.css?v=W1lpCYkssBMO&l=koreana", "https:\/\/gtm.you1.cn\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=koreana", "https:\/\/gtm.you1.cn\/public\/javascript\/economy.js?v=NwEdUJV0Uh0K&l=koreana" );});</script>
+	<div id="webui_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;koreana&quot;,&quot;COUNTRY&quot;:&quot;HK&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/gtm.you1.cn\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/storesteam\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/checksteam\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/gtm.you1.cn\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/helpsteam\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/partnersteam\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/apisteam\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/gtm.you1.cn\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1719877482,&quot;PAGE_TIMESTAMP&quot;:1719920794,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/loginsteam\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.akamai.steamstatic.com\/&quot;,&quot;SNR&quot;:&quot;2_100300_DefaultAction_&quot;}" data-userinfo="[]">
+	</div>
+<div id="application_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;koreana&quot;,&quot;COUNTRY&quot;:&quot;HK&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/gtm.you1.cn\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/storesteam\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/checksteam\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/gtm.you1.cn\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/helpsteam\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/partnersteam\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/apisteam\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/gtm.you1.cn\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1719877482,&quot;PAGE_TIMESTAMP&quot;:1719920794,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/gtm.you1.cn\/loginsteam\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.akamai.steamstatic.com\/&quot;,&quot;SNR&quot;:&quot;2_100300_DefaultAction_&quot;}" data-userinfo="[]" data-community="[]" data-loyaltystore="{&quot;webapi_token&quot;:&quot;&quot;}" data-steam_notifications="null"></div><link href="https://gtm.you1.cn/public/css/applications/community/main.css?v=bMmcHJyjU0h4&amp;l=koreana" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/applications/community/manifest.js?v=_ilL8v32CChG&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/applications/community/libraries~b28b7af69.js?v=PnRvHG3Jx3hk&amp;l=koreana"></script>
+<script type="text/javascript" src="https://gtm.you1.cn/public/javascript/applications/community/main.js?v=C9Ubouz1kosw&amp;l=koreana"></script>
+<div data-featuretarget="profile-rewards"><div></div></div>	<div id="application_root"><div class="FullModalOverlay" style="display: none;"><div class="ModalOverlayContent ModalOverlayBackground"></div></div></div>
+
+		<div role="main" class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}">
+
+				<script type="text/javascript">
+		g_rgProfileData = {"url":"https:\/\/gtm.you1.cn\/profiles\/76561199196617738\/","steamid":"76561199196617738","personaname":"青予","summary":"<img src=\"https:\/\/gtm.you1.cn\/economy\/emoticon\/steammocking\" alt=\":steammocking:\" class=\"emoticon\">"};
+		const g_bViewingOwnProfile = 0;
+		$J( function() {
+			window.Responsive_ReparentItemsInResponsiveMode && Responsive_ReparentItemsInResponsiveMode( '.responsive_groupfriends_element', $J('#responsive_groupfriends_element_ctn') );
+			
+			SetupAnimateOnHoverImages();
+		});
+	</script>
+
+	<style>
+        body.GameProfileTheme {
+            --gradient-right: rgba(255, 107, 97, 1);
+            --gradient-left: rgba(191, 175, 162, 1);
+            --gradient-background: rgba(46, 49, 93, 0.6);
+            --gradient-background-right: rgba(255, 107, 97, 1);
+            --gradient-background-left: rgba(191, 175, 162, 1);
+            --color-showcase-header: rgba(79, 150, 94, .4);
+            --gradient-showcase-header-left:  rgba(79, 150, 94, 1);
+            --btn-background:rgba(0, 0, 0, .2);
+            --btn-background-hover:rgb(255, 255, 255, .1);
+            --btn-outline:rgb(255, 255, 255, .1);
+        }
+	</style>
+
+
+<div class="no_header profile_page has_profile_background  full_width_background" style="">
+
+			<div class="profile_animated_background">
+			<video playsinline="" autoplay="" muted="" loop="" poster="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1263950/33efa73e582993f87e544d4774e53424ddcb14fe.jpg">
+									<source src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1263950/9394e4bf0c98d266e30520853a74c084e12293e0.webm" type="video/webm">
+							</video>
+		</div>
+		
+	
+
+<div class="profile_header_bg">
+
+	<div class="profile_header_bg_texture">
+		
+		<div class="profile_header">
+
+			
+			<div class="profile_header_content">
+
+				
+								
+				<div class="profile_header_centered_persona">
+					<div class="persona_name" style="font-size: 24px;">
+						<span class="actual_persona_name">青予</span>
+																			<span class="namehistory_link" onclick="ShowAliasPopup( this );">
+								<img id="getnamehistory_arrow" src="https://gtm.you1.cn/public/images/skin_1/arrowDn9x5.gif" width="9" height="5" border="0">
+							</span>
+												<div id="NamePopup" class="popup_block_new" style="display: none;">
+							<div class="popup_body popup_menu">
+								<div>최근에 사용한 이름:</div>
+								<div id="NamePopupAliases">
+
+								</div>
+								<div style="display:none" id="NamePopupClearAliases">
+																	</div>
+								<div style="clear:both"></div>
+							</div>
+						</div>
+					</div>
+
+										<div class="header_real_name ellipsis">
+						<bdi></bdi>
+																			<img class="profile_flag" src="https://gtm.you1.cn/public/images/countryflags/cn.gif">
+												Guangzhou, Guangdong, China					</div>
+									</div>
+
+				<div class="playerAvatar profile_header_size offline" data-miniprofile="1236352010">
+										<div class="playerAvatarAutoSizeInner">
+													<div class="profile_avatar_frame">
+								<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/2855140/e322e4d4fc9df256d9c9d5166a9e86aa6e47bd03.png">
+							</div>
+												<img src="https://avatars.akamai.steamstatic.com/1ec2f7d6edcfb19d3ce9a7f3c20ba991d4531624_full.jpg">
+					</div>
+				</div>
+
+				<div class="profile_header_badgeinfo">
+					<div class="profile_header_badgeinfo_badge_area">
+																					<a data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="persona_level_btn" href="https://gtm.you1.cn/profiles/76561199196617738/badges">
+																<div class="persona_name persona_level">레벨 <div class="friendPlayerLevel lvl_30"><span class="friendPlayerLevelNum">38</span></div></div>
+															</a>
+															<div class="profile_header_badge">
+																			<a href="https://gtm.you1.cn/profiles/76561199196617738/gamecards/730" class="favorite_badge">
+											<div class="favorite_badge_icon" data-tooltip-html="Global Sentinel<br>
+레벨 5 Counter-Strike 2 배지">
+												<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png" class="badge_icon small">
+											</div>
+											<div class="favorite_badge_description">
+												<div class="name ellipsis">Global Sentinel</div>
+												<div class="xp">500 XP</div>
+											</div>
+										</a>
+																	</div>
+																		</div>
+					<div class="profile_header_actions">
+											</div>
+				</div>
+
+				<div class="profile_header_summary">
+					<div class="persona_name persona_name_spacer" style="font-size: 24px;">
+						<span class="actual_persona_name">&nbsp;</span>
+					</div>
+											<div class="header_real_name_spacer">&nbsp;</div>
+													<div class="profile_summary noexpand">
+								<img src="https://gtm.you1.cn/economy/emoticon/steammocking" alt=":steammocking:" class="emoticon">							</div>
+													<div class="profile_summary_footer" style="display: none;">
+							<span data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="whiteLink">자세한 정보 보기</span>
+						</div>
+						<script type="text/javascript"> $J( function() { InitProfileSummary( g_rgProfileData['summary'] ); } ); </script>
+									</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="profile_content has_profile_background">
+		<div class="profile_content_inner">
+			
+			
+
+			
+			
+
+
+			<div class="profile_rightcol">
+				<div class="responsive_status_info">
+						<div class="profile_in_game persona offline">
+					<div class="profile_in_game_header">현재 오프라인</div>
+					</div>
+									</div>
+
+				<div class="responsive_count_link_area">
+					
+					
+					<div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="profile_awards">
+						<div class="profile_count_link_preview_ctn" data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}">
+																<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/awards/">
+							<span class="count_link_label">프로필 어워드</span>&nbsp;
+							<span class="profile_count_link_total">
+																	23															</span>
+						</a>
+					</div>
+														<div class="profile_count_link_preview">
+																									<div class="profile_badges_badge " data-tooltip-html="이 사용자의 프로필에 '내 포인트 방출' 어워드가 5회 수여되었습니다">
+										<a href="javascript:AddProfileAward( 0, 'https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana%26insideModal%3D0', '76561199196617738', 17 )">
+											<img src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/still/17.png?v=5" class="award_icon small" data-animate-on-hover-src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/animated/17.png?v=5">
+										</a>
+									</div>
+																										<div class="profile_badges_badge " data-tooltip-html="이 사용자의 프로필에 '황금 유니콘' 어워드가 7회 수여되었습니다">
+										<a href="javascript:AddProfileAward( 0, 'https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana%26insideModal%3D0', '76561199196617738', 11 )">
+											<img src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/still/11.png?v=5" class="award_icon small" data-animate-on-hover-src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/animated/11.png?v=5">
+										</a>
+									</div>
+																										<div class="profile_badges_badge " data-tooltip-html="이 사용자의 프로필에 '똑똑한 공룡' 어워드가 5회 수여되었습니다">
+										<a href="javascript:AddProfileAward( 0, 'https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana%26insideModal%3D0', '76561199196617738', 13 )">
+											<img src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/still/13.png?v=5" class="award_icon small" data-animate-on-hover-src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/animated/13.png?v=5">
+										</a>
+									</div>
+																										<div class="profile_badges_badge last" data-tooltip-html="이 사용자의 프로필에 '감동의 물결' 어워드가 4회 수여되었습니다">
+										<a href="javascript:AddProfileAward( 0, 'https://gtm.you1.cn/login/home/?goto=profiles%2F76561199196617738%3Fl%3Dkoreana%26insideModal%3D0', '76561199196617738', 10 )">
+											<img src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/still/10.png?v=5" class="award_icon small" data-animate-on-hover-src="https://store.akamai.steamstatic.com/public/images/loyalty/reactions/animated/10.png?v=5">
+										</a>
+									</div>
+																	<div style="clear: left;"></div>
+							</div>
+						</div>
+					</div>
+					
+					<div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="profile_badges">
+						<div class="profile_count_link_preview_ctn" data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}">
+																<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/badges/">
+							<span class="count_link_label">배지</span>&nbsp;
+							<span class="profile_count_link_total">
+																	23															</span>
+						</a>
+					</div>
+														<div class="profile_count_link_preview">
+																									<div class="profile_badges_badge " data-tooltip-html="커뮤니티의 대표자">
+										<a href="https://gtm.you1.cn/profiles/76561199196617738/badges/2">
+											<img src="https://gtm.you1.cn/public/images/badges/01_community/community03_54.png" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge " data-tooltip-html="비밀 수집 요원<br>
+게임 60개 보유">
+										<a href="https://gtm.you1.cn/profiles/76561199196617738/badges/13">
+											<img src="https://gtm.you1.cn/public/images/badges/13_gamecollector/50_54.png?v=4" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge " data-tooltip-html="Patient Zero<br>
+레벨 1 Left 4 Dead 2 배지">
+										<a href="https://gtm.you1.cn/profiles/76561199196617738/gamecards/550">
+											<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/550/052a70009a898614b2e40d0a4ecd7e18d085a7c0.png" class="badge_icon small">
+										</a>
+									</div>
+																										<div class="profile_badges_badge last" data-tooltip-html="Overture<br>
+레벨 1 Battlefield™ V 배지">
+										<a href="https://gtm.you1.cn/profiles/76561199196617738/gamecards/1238810">
+											<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1238810/b7479150974d3ae6a0fa4d7a2ea00c69a52f3aa7.png" class="badge_icon small">
+										</a>
+									</div>
+																	<div style="clear: left;"></div>
+							</div>
+						</div>
+					</div>
+					
+					<div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" id="responsive_groupfriends_element_ctn">
+					</div>
+
+					<div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="profile_item_links">
+															<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/games/?tab=all">
+							<span class="count_link_label">게임</span>&nbsp;
+							<span class="profile_count_link_total">
+																	60															</span>
+						</a>
+					</div>
+																						<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/inventory/">
+							<span class="count_link_label">보관함</span>&nbsp;
+							<span class="profile_count_link_total">
+																	&nbsp; <!-- so the line spaces like the rest -->
+															</span>
+						</a>
+					</div>
+																						<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/screenshots/">
+							<span class="count_link_label">스크린샷</span>&nbsp;
+							<span class="profile_count_link_total">
+																	18															</span>
+						</a>
+					</div>
+																																																<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/recommended/">
+							<span class="count_link_label">평가</span>&nbsp;
+							<span class="profile_count_link_total">
+																	1															</span>
+						</a>
+					</div>
+																																													<div style="clear: left;"></div>
+					</div>
+				</div>
+
+									<div class="profile_group_links profile_count_link_preview_ctn responsive_groupfriends_element" data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}">
+															<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="profile_count_link ellipsis">
+						<a href="https://gtm.you1.cn/profiles/76561199196617738/groups/">
+							<span class="count_link_label">그룹</span>&nbsp;
+							<span class="profile_count_link_total">
+																	1															</span>
+						</a>
+					</div>
+																			<div class="profile_count_link_preview">
+															<div class="profile_group profile_primary_group">
+									<div class="profile_group_avatar">
+										<a href="https://gtm.you1.cn/groups/archiasf">
+											<img src="https://avatars.akamai.steamstatic.com/7710a3430d08e062cb3d40d7d4a54b0d704ac8d4_medium.jpg">
+										</a>
+									</div>
+									<a class="whiteLink" href="https://gtm.you1.cn/groups/archiasf">
+										Archi's SC Farm									</a>
+									<div class="profile_group_membercount">멤버 4,015,853명</div>
+									<div style="clear: left;"></div>
+								</div>
+																				</div>
+					</div>
+				
+				
+			</div>
+
+
+			<div class="profile_leftcol">
+
+									<div class="profile_customization_area">
+												
+<div class="profile_customization myscreenshots">
+		<div class="profile_customization_header">스크린샷 전시대</div>
+
+	<div class="profile_customization_block">
+		<div class="screenshot_showcase">
+						<div class="screenshot_showcase_primary showcase_slot ">
+									<a class="screenshot_showcase_screenshot modalContentLink ugc" data-appid="381210" data-publishedfileid="3272679296" href="https://gtm.you1.cn/sharedfiles/filedetails/?id=3272679296">
+						<img width="100%" style="max-width: 506px;" src="https://steamuserimages-a.akamaihd.net/ugc/2468616697697595692/EFC230AE8F839FBF7063ABAAD7D42C3BE4D1A4ED/?imw=506&amp;imh=284&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+					</a>
+					<div class="screenshot_showcase_itemname">
+						小猫咪 喜欢					</div>
+					<div class="screenshot_showcase_stats">
+													<span class="screenshot_showcase_stat" title="추천">
+								<img class="screenshot_showcase_staticon" src="https://gtm.you1.cn/public/images/sharedfiles/icons/icon_rate.png"> 1							</span>
+																							</div>
+											</div>
+			<div class="screenshot_showcase_rightcol">
+									<div class="screenshot_showcase_smallscreenshot showcase_slot ">
+													<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://gtm.you1.cn/sharedfiles/filedetails/?id=3272679636" data-appid="381210" data-publishedfileid="3272679636">
+								<img width="100%" style="max-width: 100px;" src="https://steamuserimages-a.akamaihd.net/ugc/2468616697697598056/1E3E546BE41899CD1E11470C04AF6503E6C1422C/?imw=100&amp;imh=56&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+							</a>
+																	</div>
+									<div class="screenshot_showcase_smallscreenshot showcase_slot ">
+													<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://gtm.you1.cn/sharedfiles/filedetails/?id=3255450452" data-appid="381210" data-publishedfileid="3255450452">
+								<img width="100%" style="max-width: 100px;" src="https://steamuserimages-a.akamaihd.net/ugc/2469740067925507950/96C9992B8A86E0CF0E2C2007AFA270CF335C0E0C/?imw=100&amp;imh=56&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+							</a>
+																	</div>
+									<div class="screenshot_showcase_smallscreenshot showcase_slot ">
+													<a class="screenshot_showcase_screenshot modalContentLink ugc" href="https://gtm.you1.cn/sharedfiles/filedetails/?id=3264322060" data-appid="381210" data-publishedfileid="3264322060">
+								<img width="100%" style="max-width: 100px;" src="https://steamuserimages-a.akamaihd.net/ugc/2474245198916562368/A04E52BCA59887C20F3A3196A7F2552068366DCB/?imw=100&amp;imh=56&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+							</a>
+																	</div>
+													<a class="screenshot_showcase_smallscreenshot screenshot_count" href="https://gtm.you1.cn/profiles/76561199196617738/screenshots/">
+						<div class="screenshot_showcase_screenshot">
+							+ 14						</div>
+					</a>
+							</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+</div>
+<div class="profile_customization">
+		<div class="profile_customization_header">
+		창작마당 전시대	</div>
+	<div class="profile_customization_block">
+		<div class="favoritegame_showcase">
+			<div class="showcase_content_bg">
+				<div class="workshop_showcase_item showcase_slot ">
+											<a href="https://gtm.you1.cn/sharedfiles/filedetails/?id=827982449" class="ugc" data-appid="431960" data-publishedfileid="827982449">
+							<img class="workshop_showcase_item_image" src="https://steamuserimages-a.akamaihd.net/ugc/106231296955463040/34EC49F89179795FEBF93D3AD367DEF58C652D06/?imw=160&amp;imh=160&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+						</a>
+						<div class="workshop_showcase_right_col">
+							<div class="workshop_showcase_item_details">
+								<div class="showcase_item_detail_title ellipsis"><a class="whiteLink" href="https://gtm.you1.cn/sharedfiles/filedetails/?id=827982449">Miku-可自定义-雪花散落的冬季 v1.31</a></div>
+								<div class="workshop_showcase_item_description">
+									pixiv id = 7210261 凑热闹做了一个壁纸~ 下雪天中的miku酱，添加了符合背景的雪花飘落效果Ծ‸ Ծ canvas部分的代码是偷懒扒下来的 ( 侵删OAO v0.2:删除了鼠标的跟踪，因为来回切换会很诡异orz v1.0:增加了自定义选项 ——雪花数量 ——雪花降落速度 v1.01:忘记去掉调试用的点击效果，移除了 v1.1:增加了自定义选项 ——自定义壁纸（2k4k屏幕的姥爷可以自己设定壁纸了QAQ） ——还原默认壁纸(如果默认就是选中状态双击一下就会还原了 v1.2:增加了自定义选项 								</div>
+							</div>
+							<div class="workshop_showcase_details_row">
+								<div class="workshop_showcase_details_content">
+									<div class="workshop_showcase_app_details">
+										<div class="workshop_showcase_stars">
+																							<img src="https://gtm.you1.cn/public/images/sharedfiles/5-star.png?v=2">
+																																		33,311명이 평가했습니다.																					</div>
+																					<div class="workshop_showcase_app">
+												<a href="https://gtm.you1.cn/workshop/browse/?appid=431960"><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/431960/72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d.jpg"></a> <a class="whiteLink" href="https://gtm.you1.cn/workshop/browse/?appid=431960">Wallpaper Engine</a>
+											</div>
+																			</div>
+									<div class="workshop_showcase_creator_details ellipsis">
+																															제작자: <a href="https://gtm.you1.cn/profiles/76561198093628433" class="whiteLink" data-miniprofile="133362705">Agni_Shine</a>																			</div>
+								</div>
+							</div>
+						</div>
+														</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="profile_customization">
+		<div class="profile_customization_header">도전 과제 전시대</div>
+	<div class="profile_customization_block">
+		<div class="achievement_showcase">
+						<div class="showcase_content_bg">
+															<div class="showcase_slot showcase_achievement " data-tooltip-html="Apex 레전드™<br>
+Apex 전설<br>
+8가지 다른 레전드로 승리하기">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/1172470/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/b0f02c79abaea0b5be9a953d07d01dbbf0ebc45a.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Apex 레전드™<br>
+더 플레이어<br>
+플레이어 레벨 50 달성하기">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/1172470/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Dead by Daylight<br>
+전설의 살인마<br>
+살인마를 핏빛 I까지 올리세요.">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/57cf3d500c83523614c242610c0d17a408198f22.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Apex 레전드™<br>
+킬 리더<br>
+킬 리더 되기">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/1172470/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Dead by Daylight<br>
+전설의 생존자<br>
+생존자 온라인 등급을 핏빛 I까지 올리세요.">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/8f72f2903663e0891e879b48c141b4a389b6540c.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Apex 레전드™<br>
+Apex 어설트<br>
+어설트 캐릭터로 승리하기">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/1172470/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg">
+								</a>
+																				</div>
+											<div class="showcase_slot showcase_achievement " data-tooltip-html="Apex 레전드™<br>
+팀 플레이어<br>
+팀원 부활시키기">
+															<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/1172470/achievements/">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1172470/03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg">
+								</a>
+																				</div>
+													<div style="clear: left;"></div>
+			</div>
+			<div class="showcase_content_bg showcase_stats_row">
+				<div class="showcase_stat" data-tooltip-text="51개의 게임에서 4,314개의 도전 과제를 획득함.">
+					<div class="value">4,314</div>
+					<div class="label">도전 과제</div>
+				</div>
+									<a class="showcase_stat" href="https://gtm.you1.cn/profiles/76561199196617738/games/?tab=perfect" data-tooltip-text="이 플레이어가 도전 과제를 모두 달성한 게임입니다.">
+						<div class="value">34</div>
+						<div class="label">완전 정복한 게임</div>
+					</a>
+								<div class="showcase_stat" data-tooltip-text="게임당 달성한 도전 과제의 평균 백분율입니다.">
+					<a class="showcase_stat" href="https://gtm.you1.cn/profiles/76561199196617738/games/?tab=all&amp;sort=achievements">
+						<div class="value">77%</div>
+						<div class="label">평균 게임 완료율</div>
+					</a>
+				</div>
+				<div style="clear: left;"></div>
+			</div>
+		</div>
+		<div style="clear: both"></div>
+	</div>
+</div>											</div>
+				
+									<div class="profile_customization">
+						<div class="profile_recentgame_header profile_customization_header">
+							<div>최근 활동</div>
+															<div class="recentgame_quicklinks recentgame_recentplaytime">
+									<div>지난 2주 동안 204.6시간</div>
+								</div>
+													</div>
+						<div class="profile_customization_block">
+
+							<div class="recent_games">
+																	<div class="recent_game">
+										<div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" class="recent_game_content">
+											<div class="game_info">
+												<div class="game_info_cap "><a href="https://gtm.you1.cn/app/381210"><img class="game_capsule" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_184x69.jpg?t=1717785436"></a></div>
+												<div class="game_info_details">
+													기록상 2,387시간<br>
+																																										마지막으로 플레이한 날짜: 2024년 7월 1일																																							</div>
+												<div class="game_name"><a class="whiteLink" href="https://gtm.you1.cn/app/381210">Dead by Daylight</a></div>
+											</div>
+
+												<div class="game_info_stats">
+					<div class="game_info_achievements_badge">
+									<!-- only badge, no achievements -->
+					<div class="game_info_badge_border">
+						<div class="game_info_badge">
+							<div class="game_info_badge_icon">
+								<a href="https://gtm.you1.cn/profiles/76561199196617738/gamecards/381210">
+									<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/381210/3e0d20c38fb17aae6e1dd8bc043e6533dcc0dd33.png" class="badge_icon small">
+								</a>
+							</div>
+							<div class="game_info_badge_description">
+								<div class="name"><a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/gamecards/381210">Screaming</a></div>
+								<div class="xp">500 XP</div>
+							</div>
+						</div>
+					</div>
+													<div class="game_info_achievements">
+						<div class="game_info_achievements_summary_area">
+							<span class="game_info_achievement_summary">
+								<a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">도전 과제 진행률</a>
+								&nbsp; <span class="ellipsis">203/255</span>
+							</span>
+							<div class="achievement_progress_bar_ctn">
+																	<div class="progress_bar" style="width: 79%;">
+
+									</div>
+															</div>
+						</div>
+						<div class="achievement_icons">
+																						<div class="game_info_achievement" data-tooltip-text="난데없이">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/d056e249d6823ad7db349eda0a45c435dcde7922.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="전투 주물사">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/a6d4537a32823e299cf12575760fff8e072df00a.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="소용돌이치는 죽음">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/20a503e0449227c15a12d6d3c405e7f2c3d384a0.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="손-눈 조정력">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/af3a3ede4cbbd30818655d7c0099456ddd2566eb.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="균등한 처벌">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/381210/8d06c7e9ee7b4e631b45e4a36d5dc2758dd5a262.jpg">
+									</a>
+								</div>
+																						<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="game_info_achievement plus_more" onclick="window.location='https://gtm.you1.cn/profiles/76561199196617738/stats/381210/achievements/'">
+									+198								</div>
+													</div>
+					</div>
+								<div style="clear: both;"></div>
+			</div>
+											<div class="game_info_stats_rule"></div>
+						<div class="game_info_stats_publishedfilecounts">
+						<span class="published_file_count_ctn">
+			<span class="published_file_icon screenshot"></span>
+			<a class="published_file_link" href="https://gtm.you1.cn/profiles/76561199196617738/screenshots/?appid=381210">스크린샷 18</a>
+		</span>
+				<span class="published_file_count_ctn">
+			<span class="published_file_icon recommendation"></span>
+			<a class="published_file_link" href="https://gtm.you1.cn/profiles/76561199196617738/recommended/381210/">평가 1</a>
+		</span>
+					</div>
+			</div>
+										</div>
+									</div>
+																	<div class="recent_game">
+										<div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" class="recent_game_content">
+											<div class="game_info">
+												<div class="game_info_cap "><a href="https://gtm.you1.cn/app/493340"><img class="game_capsule" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/capsule_184x69.jpg?t=1709820332"></a></div>
+												<div class="game_info_details">
+													기록상 0.1시간<br>
+																																										마지막으로 플레이한 날짜: 2024년 6월 27일																																							</div>
+												<div class="game_name"><a class="whiteLink" href="https://gtm.you1.cn/app/493340">플래닛 코스터</a></div>
+											</div>
+
+												<div class="game_info_stats">
+					<div class="game_info_achievements_only_ctn">
+													<div class="game_info_achievements">
+						<div class="game_info_achievements_summary_area">
+							<span class="game_info_achievement_summary">
+								<a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/stats/493340/achievements/">도전 과제 진행률</a>
+								&nbsp; <span class="ellipsis">1/32</span>
+							</span>
+							<div class="achievement_progress_bar_ctn">
+																	<div class="progress_bar" style="width: 3%;">
+
+									</div>
+															</div>
+						</div>
+						<div class="achievement_icons">
+																						<div class="game_info_achievement" data-tooltip-text="플래닛 코스터에 오신 것을 환영합니다!">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/493340/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/493340/10f14bbfa70786d7a48fe04a9937ada981eb6ed3.jpg">
+									</a>
+								</div>
+																				</div>
+					</div>
+								<div style="clear: both;"></div>
+			</div>
+					</div>
+										</div>
+									</div>
+																	<div class="recent_game">
+										<div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" class="recent_game_content">
+											<div class="game_info">
+												<div class="game_info_cap "><a href="https://gtm.you1.cn/app/792300"><img class="game_capsule" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/792300/capsule_184x69.jpg?t=1669227434"></a></div>
+												<div class="game_info_details">
+													기록상 1.1시간<br>
+																																										마지막으로 플레이한 날짜: 2024년 6월 9일																																							</div>
+												<div class="game_name"><a class="whiteLink" href="https://gtm.you1.cn/app/792300">The Beast Inside</a></div>
+											</div>
+
+												<div class="game_info_stats">
+					<div class="game_info_achievements_only_ctn">
+													<div class="game_info_achievements">
+						<div class="game_info_achievements_summary_area">
+							<span class="game_info_achievement_summary">
+								<a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">도전 과제 진행률</a>
+								&nbsp; <span class="ellipsis">27/27</span>
+							</span>
+							<div class="achievement_progress_bar_ctn">
+																	<div class="progress_bar" style="width: 100%;">
+
+									</div>
+															</div>
+						</div>
+						<div class="achievement_icons">
+																						<div class="game_info_achievement" data-tooltip-text="Agent H.">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792300/9069b04d956fbc51e6c91bb69ccd0135c7ce8ff3.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="Housekeeping">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792300/258f26d79da3407819313021a4d400b97ace8510.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="Cold Bastard">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792300/d9a3c2e03b84648ed0b34642d292e7ced452c610.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="Breaking with the past">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792300/b1ba8920656b666578d43290bd54ada57e3db3b2.jpg">
+									</a>
+								</div>
+															<div class="game_info_achievement" data-tooltip-text="Eagle Eye">
+									<a href="https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/">
+										<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792300/df525a1fb5cce88d7e2617f49cfcf27366ba3c5b.jpg">
+									</a>
+								</div>
+																						<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="game_info_achievement plus_more" onclick="window.location='https://gtm.you1.cn/profiles/76561199196617738/stats/792300/achievements/'">
+									+22								</div>
+													</div>
+					</div>
+								<div style="clear: both;"></div>
+			</div>
+					</div>
+										</div>
+									</div>
+															</div>
+							<div>
+								<div class="recentgame_quicklinks">
+									보기									<a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/games/">최근에 플레이한 모든 게임</a>
+																			<span class="link_separator">|</span> <a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/wishlist/">찜 목록</a>
+																												<span class="link_separator">|</span> <a class="whiteLink" href="https://gtm.you1.cn/profiles/76561199196617738/recommended/">평가</a>
+																	</div>
+								<div style="clear: right;"></div>
+							</div>
+						</div>
+					</div>
+				
+									<div class="profile_comment_area">
+						<script type="text/javascript">
+	$J( function() {
+		InitializeCommentThread( "Profile", "Profile_76561199196617738", {"feature":"-1","feature2":-1,"owner":"76561199196617738","total_count":1,"start":0,"pagesize":6,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false}, 'https://gtm.you1.cn/comment/Profile/', 40 );
+	} );
+</script>
+<div class="commentthread_area" id="commentthread_Profile_76561199196617738_area">
+	<div class="commentthread_header">
+		<div class="commentthread_header_and_count">
+			<span class="ellipsis commentthread_count_label">
+									<span class="commentthread_header_label">댓글</span>
+							</span>
+			<div class="commentthread_count">
+							</div>
+		</div>
+		<div class="commentthread_paging " id="commentthread_Profile_76561199196617738_pagecontrols" style="display: none;">
+						<div class="commentthread_pagelinks_ctn">
+				<a id="commentthread_Profile_76561199196617738_pagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+				<span id="commentthread_Profile_76561199196617738_pagelinks" class="commentthread_pagelinks"></span>
+				<span id="commentthread_Profile_76561199196617738_pagedropdown" class="commentthread_pagedropdown"><select><option value="0">1</option><option value="0">1</option></select></span>
+				<a id="commentthread_Profile_76561199196617738_pagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+			</div>
+		</div>
+	</div>
+				<!-- 21 -->
+				<div style="" class="commentthread_comment_container" id="commentthread_Profile_76561199196617738_postcontainer">
+			<div class="commentthread_comments" id="commentthread_Profile_76561199196617738_posts">
+						
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_6547745983578081265" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+						<a href="https://gtm.you1.cn/profiles/76561199208136396" data-miniprofile="1247870668">
+									<img src="https://avatars.akamai.steamstatic.com/62cb0fd67a681cc72d073cedef61df294647a062.jpg" srcset="https://avatars.akamai.steamstatic.com/62cb0fd67a681cc72d073cedef61df294647a062.jpg 1x, https://avatars.akamai.steamstatic.com/62cb0fd67a681cc72d073cedef61df294647a062_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link" href="https://gtm.you1.cn/profiles/76561199208136396" data-miniprofile="1247870668">
+					<bdi>鬼面你是一块奶油小饼干</bdi></a>
+
+				
+				
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="2024년 4월 14일 7:35:13 오후 PDT" data-timestamp="1713148513">
+					2024년 4월 14일 오후 7시 35분&nbsp;
+				</span>
+								<div class="commentthread_comment_actions">
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_6547745983578081265">
+				⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢾<br>⠀⠀⠀⠀⠀⡐⢕⠊⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⢳<br>⠀⠀⠀⠀⢰⢕⡇⠀⢀⡞⠙⢆⠀⠀⢀⣀⣀⣠⠶⠛⠉⠀⠀⠀⠙⢦<br>⠀⠀⠀⠀⢸⢕⡇⠀⣸⠀⠀⠀⠉⠒⠚⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳<br>⠀⠀⠀⠀⢸⢕⠗⠉⠏⠀⢀⡀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠔⠁⠀⢀⠃<br>⠀⠀⠀⠀⠸⠁⠀⠀⠀⠀⠀⠈⠁⠤⣆⠪⠸⠀⠒⠂⠜⠒⠀⠀⣠⠞⢷<br>⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸<br>⠀⠀⠀⠀⢣⠀⠀⠀⠀⠀⠚⠲⠶⡤⡤⠔⡈⢧⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣶⣶⣶⡾<br>⠀⠀⠀⠀⠀⠙⠛⠉⠑⠒⠢⠤⣾⡷⠓⢾⡷⠈⢾⣷⠒⠒⢾⣷⠊⠉⠉⠉⠉⠉⠉			</div>
+								</div>
+			</div>
+			</div>
+		</div>
+		<div class="commentthread_footer" id="commentthread_Profile_76561199196617738_fpagecontrols" style="display: none;">
+			<div class="commentthread_paging" id="commentthread_Profile_76561199196617738_fpagecontrols">
+				<a id="commentthread_Profile_76561199196617738_fpagebtn_prev" href="javascript:void(0);" class="pagebtn">&lt;</a>
+				<span id="commentthread_Profile_76561199196617738_fpagelinks" class="commentthread_pagelinks"></span>
+				<span id="commentthread_Profile_76561199196617738_fpagedropdown" class="commentthread_pagedropdown"><select><option value="0">1</option><option value="0">1</option></select></span>
+				<a id="commentthread_Profile_76561199196617738_fpagebtn_next" href="javascript:void(0);" class="pagebtn">&gt;</a>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+	</div>					</div>
+							</div>
+
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+
+</div>
+
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer" class=""></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+					<div class="footer_content">
+				<span id="footerLogo"><img src="https://gtm.you1.cn/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve 로고"></span>
+				<span id="footerText">
+					© Valve Corporation. 모든 권리 보유. 모든 상표는 미국 및 기타 국가에서 각각 해당 소유자의 재산입니다. 이 웹사이트의 일부 지역 정보 데이터는 <a href="https://gtm.you1.cn/linkfilter/?u=http%3A%2F%2Fwww.geonames.org" target="_blank" rel=" noopener">geonames.org</a>에서 제공합니다.					<br>
+											<span class="valve_links">
+							<a href="http://gtm.you1.cn/storesteam/privacy_agreement/" target="_blank">개인정보 보호정책</a>
+							&nbsp; | &nbsp;<a href="https://gtm.you1.cn/storesteam/legal/" target="_blank">법적 고지</a>
+							&nbsp;| &nbsp;<a href="http://gtm.you1.cn/storesteam/subscriber_agreement/" target="_blank">Steam 이용 약관</a>
+                            &nbsp;| &nbsp;<a href="http://gtm.you1.cn/storesteam/account/cookiepreferences/" target="_blank">쿠키</a>
+						</span>
+									</span>
+			</div>
+							<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>모바일 웹사이트 보기</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+
+<div class="miniprofile_hover" style="display: none;"><div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div><div class="miniprofile_hover_inner shadow_content"></div></div></body>

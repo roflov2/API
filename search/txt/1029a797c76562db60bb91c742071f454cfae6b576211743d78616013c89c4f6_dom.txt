@@ -1,0 +1,336 @@
+<head><script async="" src="https://dcmpx.remotevs.com/rcbp/com/googletagmanager/www/SL/gtm.js?id=GTM-WZ9HH4"></script><script type="application/javascript" id="rcbp_adapter" src="https://dcmpx.remotevs.com/dist/master.8nj4c689n.js?ver=1719921206"></script>
+<!-- SP-1 -->
+<!-- SDI001 -->
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta name="description" content="">
+<meta name="keywords" content="dアカウント,docomo ID,docomoid,ドコモ,docomo,デバイスフリー,キャリアフリー,ネットワークフリー">
+<meta name="author" content="NTT DOCOMO">
+<meta name="copyright" content="(c) NTT DOCOMO, Inc. All Rights Reserved.">
+<meta name="robots" content="index,follow">
+<link rel="apple-touch-icon-precomposed" href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/img/icon.png">
+<link rel="shortcut icon" href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/img/favicon.ico">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<link rel="stylesheet" type="text/css" href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/css/auth_layout_v5_style.css">
+<link rel="stylesheet" type="text/css" href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/css/auth_layout_v5_pc.css">
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/nnlappsdk-7.0.2/otherjs/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/js/auth_IDFPS-IJ0002_v8.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/js/auth_validation_v5.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/js/auth_accordion.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/js/beacon.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/js/SDI001.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/common/js/judge_webauthn.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/common/js/auth_webauthn.js?20231013"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/nnlappsdk-7.0.2/js/utils.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/nnlappsdk-7.0.2/js/appsdk.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/com/cloudflare/cdnjs/SL/ajax/libs/UAParser.js/0.7.32/ua-parser.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/common/js/create_terminal_name.js"></script>
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://id.smt.docomo.ne.jp/js/css3-mediaqueries.js" charset="utf-8"></script>
+<![endif]-->
+
+<title>dアカウント - ログイン</title>
+<script>var isReAuthFlg = 0;var bc_flg = 0;var wa_cancel_flg = 0;var req_url_webauth = "https://cfg.smt.docomo.ne.jp/auth/cgi/webauthn";var req_url_webauthdisp = "https://cfg.smt.docomo.ne.jp/auth/cgi/webauthndisp";</script>
+<script>var scrid = "SPSDI001";</script>
+<script>window.addEventListener('DOMContentLoaded', (e) =>  { if (!document.querySelector('a#bioul')) { var ipiaua = /Mozilla\/5\.0 \((iPhone|iPad); CPU (iPhone )?OS .* like Mac OS X\) AppleWebKit\/.* \(KHTML, like Gecko\) Version\/.* Mobile\/.* Safari\/.*/;if (window.navigator.userAgent.match(ipiaua))$('#idreg').hide(); } });</script>
+</head><body onload="focusErr();setImg();JudgeWebAuthn('SDI001');">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WZ9HH4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) { (_rcbp_setattr(w, l, (_rcbp_getattr(w, l)) || []));(_rcbp_getattr(w, l)).push({ 'gtm.start': (_rcbp_new(Date)).getTime(), event: 'gtm.js' });var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';j.async = true;j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WZ9HH4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- unRegWA_forbidJs -->
+<div id="unRegWA_forbidJs" style="display:block;">
+<!-- header -->
+<div class="header__global clearfix">
+
+	<!-- BCP message -->
+	<div id="disp_bcpmes_sp" class="hdr_bcpmes sp_view">
+		<ul class="hdr_bcpmes_list">
+			<li>
+				<a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice_renewal.html" target="_blank" id="notice_sp">ログイン画面のデザインの刷新および<br>一部提供機能の変更をいたします</a>
+			</li>
+		</ul>
+	</div>
+	<!-- /BCP message -->
+
+	<div class="hdr_global_inner clearfix">
+		<h1 class="hdr_h1">ログイン</h1>
+		<a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL" class="hdr_logo"><img src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/img/logo_header.png" alt="dアカウント"></a>
+	</div>
+</div>
+<!-- /header -->
+
+
+
+<!-- main_wrap -->
+<div class="main_wrap">
+
+<!-- 通常画面 -->
+<div id="disp_normal" style="display:block;">
+
+<!-- main -->
+<div class="main main_login main_block">
+
+	<!-- BCP message -->
+	<div id="disp_bcpmes_pc" class="hdr_bcpmes pc_view">
+		<ul class="hdr_bcpmes_list">
+			<li>
+				<a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice_renewal.html" target="_blank" id="notice_pc">ログイン画面のデザインの刷新および<br>一部提供機能の変更をいたします</a>
+			</li>
+		</ul>
+	</div>
+	<!-- /BCP message -->
+
+	
+
+	
+
+	
+
+
+	<!-- main inner -->
+	<div class="main_inner">
+
+
+		<div id="wan_not_available" style="display:block;">
+			
+<form id="DiForm" name="DiForm" autocomplete="off" action="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/auth/cgi/idauth" method="post" onsubmit="return(doBeforeLogin0());">
+<input type="hidden" name="funcid" value="7">
+<input type="hidden" name="arcv" value="eAGNj0FPwzAMhf9Lz6h1nDitd6JdEkCD03bgunXQgbR20gocEP-d2EI9k9Mn5_m951gz25AgrmMKXXDka2Js265lu_amTehT5zsiixTZMGZ1SN64GKyxyLcI6MABgb7vwhSrYnua58t1VVX961Bez3N5nPrpPJXjS_l-qfYf86nqh7equClA1Hdxl9EKmgy1gMtgGiHMhOoKMmOdSWgNiJB7eUskGpKffyejFzlDLauaLfaIMh3HjOQEt-EBQFp5_fna2OP9bvPYbv1z-nxisz8MrA21q1poQ1mxep2S9ldaoqz6ywbpxRqyuDTLxc2iaxZnA3_Cn18xQWfG">
+
+<input type="hidden" name="requrl" value="https://cfg.smt.docomo.ne.jp/auth/cgi/" disabled="disabled">
+
+
+			
+
+				<dl class="form">
+					<dt>dアカウントのID</dt>
+					<dd>
+						<input type="text" name="authid" value="" id="Di_Uid" class="
+" maxlength="257" size="24" style="ime-mode: disabled;" autocomplete="username">
+						<p class="err_mes" style="display:none;"></p>
+					</dd>
+					
+
+				</dl>
+			
+				<input type="submit" name="subForm" value="次へ" class="button_submit nextaction">
+			</form>
+		</div>
+
+		<div id="wan_available" style="display:none;">
+			
+
+<form id="WebAuthnDiForm" name="DiForm" autocomplete="off" action="" method="post">
+	<dl class="form">
+		<dt>dアカウントのID</dt>
+		<dd>
+			<div class="param" id="param_authid">
+				<input type="text" name="authid" value="" id="WebAuthn_Di_Uid" class="
+" maxlength="257" size="24" style="ime-mode: disabled;" autocomplete="username">
+				<p class="err_mes" style="display:none;"></p>
+			</div>
+		</dd>
+		
+
+	</dl>
+	<input type="button" name="subForm" value="次へ" class="button_submit nextaction" onclick="return(nextSDI001());">
+	<div class="param" id="param_funcid"><input type="hidden" name="funcid" value="1"></div>
+	<div class="param" id="param_arcv"><input type="hidden" name="arcv" value="eAGNj0FPwzAMhf9Lz6h1nDitd6JdEkCD03bgunXQgbR20gocEP-d2EI9k9Mn5_m951gz25AgrmMKXXDka2Js265lu_amTehT5zsiixTZMGZ1SN64GKyxyLcI6MABgb7vwhSrYnua58t1VVX961Bez3N5nPrpPJXjS_l-qfYf86nqh7equClA1Hdxl9EKmgy1gMtgGiHMhOoKMmOdSWgNiJB7eUskGpKffyejFzlDLauaLfaIMh3HjOQEt-EBQFp5_fna2OP9bvPYbv1z-nxisz8MrA21q1poQ1mxep2S9ldaoqz6ywbpxRqyuDTLxc2iaxZnA3_Cn18xQWfG">
+</div>
+	<input type="hidden" name="requrl" value="https://cfg.smt.docomo.ne.jp/auth/cgi/" disabled="">
+</form>
+
+
+		</div>
+
+		<div class="form_reauth" name="form_reauth" id="form_reauth" style="display:none;">
+			<form id="reauth" action="https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/auth/cgi/" method="GET" name="f">
+				
+			</form>
+		</div>
+
+		<p class="link_text">
+			<a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/idpw_forget.html" class="sp_view" target="_blank">IDをお忘れの方</a>
+			<a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/idpw_forget.html" class="pc_view" target="_blank">IDをお忘れの方</a>
+		</p>
+
+	</div>
+	<!-- /main inner -->
+
+	
+
+	
+	
+	<div class="main_inner_02">
+		<form action="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/cgi8/id/register" method="POST" target="_blank" id="idreg">
+			<input type="hidden" name="serviceurl" value="https://cfg.smt.docomo.ne.jp/auth/cgi/">
+
+			
+			
+			<input type="submit" name="" value="dアカウントを発行する" class="button_submit remind">
+		</form>
+
+		<div class="link_wrap clearfix">
+			<p class="link_text first sp_view"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/index.html" target="_blank">dアカウントとは？</a></p>
+			<p class="link_text first pc_view"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/index.html" target="_blank">dアカウントとは？</a></p>
+			<p class="link_text last sp_view"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice.html" target="_blank">ご利用上の注意</a></p>
+			<p class="link_text last pc_view"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice.html" target="_blank">ご利用上の注意</a></p>
+		</div>
+
+		<a href="https://dcmpx.remotevs.com/me/onelink/dpoint/SL/roGT?pid=dpc_login&amp;af_dp=dpoint%3A%2F%2Ftop&amp;af_web_dp=https%3A%2F%2Fdpoint.jp%2Fguide%2Fhowto_dpoint%2Fapp%2Findex.html"><img src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/img/banner06.jpg" class="dpoint_banner" alt="ｄポイントクラブアプリ"></a>
+
+	</div>
+
+	<div class="card notice_bottom_wrap pc_view">
+		<div class="notice_bottom">
+			<h2 class="ftr_notice_h2">ご注意</h2>
+			<div class="details">
+				<div class="accordion">
+					<ul class="annotation">
+						<li>
+							一度ログインを行うと次回以降、ニックネーム、dポイント情報、利用履歴等の情報が自動的に表示されます。第三者が使用する可能性があるパソコン・タブレットをご利用の場合には、ご注意ください。
+						</li>
+						<li>
+							お客様がご利用されるサービスに応じて、ログイン状態で表示される情報は異なります。 ご利用のサービスで表示される情報をご確認の上ログイン状態を保持するか否かご検討ください。
+							<p class="link_text txt_right"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice.html#p08" target="_blank">共用のパソコンやタブレットでの利用について</a></p>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+<!-- /main -->
+
+<div class="notice_bottom_wrap sp_view">
+	<div class="notice_bottom">
+		<h2 class="ftr_notice_h2">ご注意</h2>
+		<div class="details">
+			<div class="accordion closed">
+				<ul class="annotation">
+					<li>
+						一度ログインを行うと次回以降、ニックネーム、dポイント情報、利用履歴等の情報が自動的に表示されます。第三者が使用する可能性があるパソコン・タブレットをご利用の場合には、ご注意ください。
+					</li>
+					<li>
+						お客様がご利用されるサービスに応じて、ログイン状態で表示される情報は異なります。 ご利用のサービスで表示される情報をご確認の上ログイン状態を保持するか否かご検討ください。
+						<p class="link_text txt_right"><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/notice.html#p08" target="_blank">共用のパソコンやタブレットでの利用について</a></p>
+					</li>
+				</ul>
+			</div>
+			<div class="btn_showhide_wrap closed">
+				<a href="#" class="btn_showhide" style="display: inline;"><span class="btn_open"><i>+</i>説明を見る</span><span class="btn_close"><i>-</i>閉じる</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<!-- /通常画面 -->
+
+<!-- 再認証画面 -->
+<div id="disp_reauth" style="display:none;">
+<!-- main -->
+<div class="main main_login main_block">
+	<div class="main_inner">
+		<p class="info_mes">パスキー認証が失敗またはキャンセルされました。<br>もう一度お試しいただくか、ほかの手段で認証してください。</p>
+		<a href="javascript:AuthnWebAuthn_ReAuthWebAuthn('2');" class="button_submit nextaction">もう一度パスキー認証する</a>
+		<a href="javascript:AuthnWebAuthn_Cancel('1');" class="button_submit prevaction">ほかの手段で認証する</a>
+		<p class="info_mes indent mt25">※機種変更した場合や、繰り返し失敗してしまう場合は<a href="javascript:AuthnWebAuthn_Cancel('0');">パスキー端末設定</a>メニューから端末の登録を解除し再度設定してください。</p>
+	</div>
+</div>
+<!-- /main -->
+</div>
+<!-- /再認証画面 -->
+
+</div>
+<!-- /main_wrap -->
+
+
+
+
+<!-- footer -->
+<div class="footer__global">
+	<div class="ftr_link sp_view">
+		<ul class="clearfix">
+			<li><a href="https://dcmpx.remotevs.com/jp/co/nttdocomo/www/SL/utility/privacy/" target="_blank">プライバシーポリシー</a></li>
+			<li><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/dlogin/rules.html" target="_blank">ご利用規約/ご注意事項</a></li>
+			<li><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/terms.html" target="_blank">ご利用にあたって</a></li>
+		</ul>
+	</div>
+	<div class="ftr_link pc_view">
+		<ul class="clearfix">
+			<li><a href="https://dcmpx.remotevs.com/jp/co/nttdocomo/www/SL/utility/privacy/" target="_blank">プライバシーポリシー</a></li>
+			<li><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/dlogin/rules.html" target="_blank">ご利用規約/ご注意事項</a></li>
+			<li><a href="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/src/utility/terms.html" target="_blank">ご利用にあたって</a></li>
+		</ul>
+	</div>
+
+	<small class="copyright"><img src="https://dcmpx.remotevs.com/jp/ne/docomo/smt/id/SL/img/footer_copyright.png" width="262" alt="(C) NTT DOCOMO .INC. All Right Reserved."></small>
+</div>
+<!-- /footer -->
+</div>
+<!-- /unRegWA_forbidJs -->
+
+<!-- unRegWA_allowJs -->
+<div id="unRegWA_allowJs" style="display:none">
+<center>
+<br>
+<br>
+<br>
+<br>
+<hr width="80%">
+<br>
+<br>
+<br>
+<br>
+自動的にページが切り替わります。<br>
+しばらくお待ちください。
+<br>
+<br>
+<br>
+<br>
+<hr width="80%">
+</center>
+</div>
+<!-- /unRegWA_allowJs -->
+
+<div id="bcn"></div>
+
+
+<!-- flg1 -->
+
+
+
+
+
+
+<!-- flg4 -->
+
+
+
+
+
+
+
+
+
+
+<!-- flg24 -->
+
+
+
+
+
+
+<iframe src="https://dcmpx.remotevs.com/rcbp/jp/ne/docomo/smt/cfg/SL/nnlappsdk-7.0.2/iframe.html" id="nnl_iframe" name="nnl_iframe" style="display: none;"></iframe></body>

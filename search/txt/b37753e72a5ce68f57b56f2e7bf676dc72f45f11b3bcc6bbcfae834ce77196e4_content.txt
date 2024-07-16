@@ -1,0 +1,3 @@
+Sign in with myGov - myGovError message:ErrorYour sign-in details are wrong.Having trouble signing in?(RFM10)Sign in with myGovUsing your myGov sign in detailsUsername or emailPasswordForgot passwordSign inMot de passe incorrect. Veuillez réessayerCreate a myGov accountif you don't have one already.Enter codeWe sent a code by SMS to your mobile number.CodeIf you don't want to use Digital Identity, you cancall the helpdeskto create a new myGov account.Continue with Digital IdentityNextFooterTerms of usePrivacy and securityCopyrightAccessibilityWe acknowledge the Traditional Custodians of the lands we live on.
+              We pay our respects to all Elders, past and present, of all
+              Aboriginal and Torres Strait Islander nations.

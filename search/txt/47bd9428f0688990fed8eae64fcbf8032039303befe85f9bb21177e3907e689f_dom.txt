@@ -1,0 +1,672 @@
+<head>
+<title>Thursday Boots Reduceri Online - Thursday Boots Romania</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="Thursday Boots Reduceri,Thursday Boots Online,Thursday Boots Romania">
+<meta name="description" content="Thursday Boots Romania Ieftini De Vanzare. Reduceri De Pana La 65%. Reduceri Incaltaminte. Descopera Favoritele Tale Si Cumpara Acum. ">
+<meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+
+<base href="https://www.thursdaybootromania.com/">
+
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/style.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet1.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_all.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_categories_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_header_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_jquery.mmenu.all.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_lightbox.css">
+<link rel="stylesheet" type="text/css" href="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/css/stylesheet_slick.css">
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_1.11.1.min.js"></script>
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_2.2.0.min.js"></script>
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_jquery.js"></script>
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_jquery_kinSlideshow.js"></script>
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_lightbox.js"></script>
+<script type="text/javascript" src="//www.thursdaybootromania.com/includes/templates/thursdaybootromania/jscript/jscript_slick.js"></script>
+<link rel="stylesheet" href="https://www.thursdaybootromania.com/includes/templates/thursdaybootromania/js/theme/default/layer.css?v=3.5.0" id="layuicss-layer"></head><body id="indexHomeBody"><nav id="menu" class="mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0"><div class="mm-list-search"><form name="quick_find_header" action="/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Introduceti cuvintele aici" onfocus="if (this.value == 'Introduceti cuvintele aici') this.value = '';" onblur="if (this.value == '') this.value = 'Introduceti cuvintele aici';"><button class="k0KH8lAJpa" type="submit" title="Submit search"><i class="material-icons">search</i></button></form></div><li><a class="mm-subopen" href="#mm-1"></a><a href="/collections/barbati-c-0.html?&amp;gender=1">Barbati</a></li><li><a class="mm-subopen" href="#mm-7"></a><a href="/collections/dama-c-0.html?&amp;gender=2">Dama</a></li><li><a href="/favourite.html" rel="nofollow">Favourites</a></li><li><a href="/contact_us.html" rel="nofollow">Contact</a></li><li><a href="/shippinginfo.html" rel="nofollow">Transport si livrare</a></li><li><a href="https://www.thursdaybootromania.com/shopping_cart.html">Cantitate&nbsp;(0)</a></li><li></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Barbati</a></li><li><a class="mm-subopen" href="#mm-2"></a><a href="https://www.thursdaybootromania.com/collections/accesorii-c-1.html?&amp;gender=1">Accesorii</a></li><li><a class="mm-subopen" href="#mm-3"></a><a href="https://www.thursdaybootromania.com/collections/adidasi-c-26.html?&amp;gender=1">Adidasi</a></li><li><a class="mm-subopen" href="#mm-4"></a><a href="https://www.thursdaybootromania.com/collections/cizme-c-8.html?&amp;gender=1">Cizme</a></li><li><a class="mm-subopen" href="#mm-5"></a><a href="https://www.thursdaybootromania.com/collections/imbracaminte-c-16.html?&amp;gender=1">Imbracaminte</a></li><li><a class="mm-subopen" href="#mm-6"></a><a href="https://www.thursdaybootromania.com/collections/pantofi-c-22.html?&amp;gender=1">Pantofi</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Accesorii</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html?&amp;gender=1">Curea</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-genti-c-1_2.html?&amp;gender=1">Genti</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-manusi-c-1_4.html?&amp;gender=1">Manusi</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-palarie-c-1_5.html?&amp;gender=1">Palarie</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-portofel-c-1_7.html?&amp;gender=1">Portofel</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html?&amp;gender=1">Sosete</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Adidasi</a></li><li><a href="https://www.thursdaybootromania.com/collections/adidasi-high-top-sneakers-c-26_27.html?&amp;gender=1">High Top Sneakers</a></li><li><a href="https://www.thursdaybootromania.com/collections/adidasi-low-top-sneakers-c-26_28.html?&amp;gender=1">Low Top Sneakers</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Cizme</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html?&amp;gender=1">Ghete Chelsea</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chukka-c-8_11.html?&amp;gender=1">Ghete Chukka</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html?&amp;gender=1">Ghete cu Siret</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html?&amp;gender=1">New Arrivals</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-rugged-resilient-c-8_15.html?&amp;gender=1">Rugged &amp; Resilient</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Imbracaminte</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-camasa-c-16_20.html?&amp;gender=1">Camasa</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-jacheta-c-16_17.html?&amp;gender=1">Jacheta</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-jeans-c-16_18.html?&amp;gender=1">Jeans</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-pantaloni-c-16_19.html?&amp;gender=1">Pantaloni</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Pantofi</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-loafers-c-22_25.html?&amp;gender=1">Loafers</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-mocasini-c-22_23.html?&amp;gender=1">Mocasini</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-pantofi-rochie-c-22_24.html?&amp;gender=1">Pantofi Rochie</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Dama</a></li><li><a class="mm-subopen" href="#mm-8"></a><a href="https://www.thursdaybootromania.com/collections/accesorii-c-1.html?&amp;gender=2">Accesorii</a></li><li><a class="mm-subopen" href="#mm-9"></a><a href="https://www.thursdaybootromania.com/collections/cizme-c-8.html?&amp;gender=2">Cizme</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-7">Accesorii</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html?&amp;gender=2">Curea</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html?&amp;gender=2">Sosete</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-7">Cizme</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-bocanci-c-8_9.html?&amp;gender=2">Bocanci</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html?&amp;gender=2">Ghete Chelsea</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html?&amp;gender=2">Ghete cu Siret</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-high-heels-c-8_12.html?&amp;gender=2">High Heels</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html?&amp;gender=2">New Arrivals</a></li></ul></nav>
+
+
+<div class="mm-page mm-slideout"><div id="kVTiBoaQcc">
+    <section class="lazy slider slick-initialized slick-slider" data-sizes="50vw"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4400px; transform: translate3d(-800px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Cel Mai Mic Pret Garantat <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> 5% Off De La Prima Achiziţie <i class="material-icons">money_off</i></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Livrare Gratuita Peste 482&nbsp;LEI <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Zile Banii Inapoi <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Livrare Rapida <i class="material-icons">flight</i></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Cel Mai Mic Pret Garantat <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> 5% Off De La Prima Achiziţie <i class="material-icons">money_off</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Livrare Gratuita Peste 482&nbsp;LEI <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Zile Banii Inapoi <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Livrare Rapida <i class="material-icons">flight</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Cel Mai Mic Pret Garantat <i class="material-icons">local_shipping</i></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_right</i></button></section>
+</div><div id="otAEHMisdR">
+    <div id="MSyoW8V8CW">
+        <div class="lcwzU4uLsy">
+            <div id="KHqWWvJLux">
+                <div class="te9TOxqDJt">
+                                        <img src="includes/templates/thursdaybootromania/images/flag/ROU.png" title="RON" alt="RON">
+                </div>
+                <div class="a8LmQdeH8q">
+                    <!-- ========== CURRENCIES ========= -->
+                    <div id="Content" class="currenccontent"><form name="currencies_form" action="https://www.thursdaybootromania.com/" method="get"><select name="currency" onchange="this.form.submit();">
+  <option value="USD">USD</option>
+  <option value="EUR">EUR</option>
+  <option value="GBP">GBP</option>
+  <option value="CAD">CAD</option>
+  <option value="AUD">AUD</option>
+  <option value="CHF">CHF</option>
+  <option value="SEK">SEK</option>
+  <option value="MXN">MXN</option>
+  <option value="DKK">DKK</option>
+  <option value="PLN">PLN</option>
+  <option value="TRY">TRY</option>
+  <option value="RON" selected="selected">RON</option>
+  <option value="JPY">JPY</option>
+  <option value="NOK">NOK</option>
+  <option value="HUF">HUF</option>
+  <option value="ARS">ARS</option>
+  <option value="NZD">NZD</option>
+  <option value="CZK">CZK</option>
+  <option value="INR">INR</option>
+  <option value="SGD">SGD</option>
+  <option value="MYR">MYR</option>
+  <option value="PHP">PHP</option>
+  <option value="ZAR">ZAR</option>
+  <option value="ZAS">ZAD</option>
+</select>
+<input type="hidden" name="main_page" value="index"><input type="hidden" name="coll"></form></div>                                                            <!-- ====================================== -->
+                </div>
+            </div>
+            <!-- logininf -->
+            <div id="b0Ri3XmIto">
+                                    <a href="javascript:void(0);" title="Iesire din cont" rel="nofollow" class="login_box WpUIiwmOaS"><i class="material-icons">person</i></a>
+                                        <a rel="nofollow" title="Register" id="registerLogout" class="anpkw6Bkeq" href="javascript:void(0);"><i class="material-icons">person_add_alt_1</i></a>
+                    <a title="Favourites"><i class="material-icons login_box">favorite</i></a>
+                            </div>
+            <div class="search">
+                <form name="quick_find_header" action="https://www.thursdaybootromania.com/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Introduceti cuvintele aici" onfocus="if (this.value == 'Introduceti cuvintele aici') this.value = '';" onblur="if (this.value == '') this.value = 'Introduceti cuvintele aici';"><button class="k0KH8lAJpa" type="submit" title="Submit search"><i class="material-icons">search</i></button></form>            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- logininf -->
+    </div>
+    <div id="HBKLAprs0h"><a href="https://www.thursdaybootromania.com/"><img src="includes/templates/thursdaybootromania/images/logo.png"></a></div>
+    <div id="CwmaNezfjx">
+        <div id="qxam0UG3fv" class="">
+                             
+<div id="menu-head">
+<ul class="level1"><li class="submenu"><a href="/collections/barbati-c-0.html?&amp;gender=1">Barbati</a><ul class="level2"><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/accesorii-c-1.html?&amp;gender=1">Accesorii</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html?&amp;gender=1">Curea</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-genti-c-1_2.html?&amp;gender=1">Genti</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-manusi-c-1_4.html?&amp;gender=1">Manusi</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-palarie-c-1_5.html?&amp;gender=1">Palarie</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-portofel-c-1_7.html?&amp;gender=1">Portofel</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html?&amp;gender=1">Sosete</a></li></ul><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/adidasi-c-26.html?&amp;gender=1">Adidasi</a></li><li><a href="https://www.thursdaybootromania.com/collections/adidasi-high-top-sneakers-c-26_27.html?&amp;gender=1">High Top Sneakers</a></li><li><a href="https://www.thursdaybootromania.com/collections/adidasi-low-top-sneakers-c-26_28.html?&amp;gender=1">Low Top Sneakers</a></li></ul><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/cizme-c-8.html?&amp;gender=1">Cizme</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html?&amp;gender=1">Ghete Chelsea</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chukka-c-8_11.html?&amp;gender=1">Ghete Chukka</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html?&amp;gender=1">Ghete cu Siret</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html?&amp;gender=1">New Arrivals</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-rugged-resilient-c-8_15.html?&amp;gender=1">Rugged &amp; Resilient</a></li></ul><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/imbracaminte-c-16.html?&amp;gender=1">Imbracaminte</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-camasa-c-16_20.html?&amp;gender=1">Camasa</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-jacheta-c-16_17.html?&amp;gender=1">Jacheta</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-jeans-c-16_18.html?&amp;gender=1">Jeans</a></li><li><a href="https://www.thursdaybootromania.com/collections/imbracaminte-pantaloni-c-16_19.html?&amp;gender=1">Pantaloni</a></li></ul><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/pantofi-c-22.html?&amp;gender=1">Pantofi</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-loafers-c-22_25.html?&amp;gender=1">Loafers</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-mocasini-c-22_23.html?&amp;gender=1">Mocasini</a></li><li><a href="https://www.thursdaybootromania.com/collections/pantofi-pantofi-rochie-c-22_24.html?&amp;gender=1">Pantofi Rochie</a></li></ul></ul></li><li class="submenu"><a href="/collections/dama-c-0.html?&amp;gender=2">Dama</a><ul class="level2"><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/accesorii-c-1.html?&amp;gender=2">Accesorii</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html?&amp;gender=2">Curea</a></li><li><a href="https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html?&amp;gender=2">Sosete</a></li></ul><ul><li class="submenu"><a href="https://www.thursdaybootromania.com/collections/cizme-c-8.html?&amp;gender=2">Cizme</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-bocanci-c-8_9.html?&amp;gender=2">Bocanci</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html?&amp;gender=2">Ghete Chelsea</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html?&amp;gender=2">Ghete cu Siret</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-high-heels-c-8_12.html?&amp;gender=2">High Heels</a></li><li><a href="https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html?&amp;gender=2">New Arrivals</a></li></ul></ul></li><li></li></ul><div class="clear"></div>
+</div>
+
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+
+<div class="header">
+	<a href="#menu"></a>
+</div>
+ 
+	
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+</script>
+                    </div>
+        <div class="clear"></div>
+        <div id="carts">
+
+        </div>
+    </div>
+</div><div id="login_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Iesire din cont</div>
+        <form name="login" action="/index.php?main_page=login&amp;action=process" method="post" id="loginForm"><input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<div class="p-3"></div>
+        	<div class="loginInput">
+        	    <input class="form-control" type="email" name="email_address" size="41" maxlength="96" id="login-email-address" autofocus="" placeholder="Adresa de mail:" required="">
+        	</div>
+        
+        	<div class="loginInput">
+        	    <input class="form-control" type="password" name="password" size="41" maxlength="255" id="login-password" autocomplete="off" placeholder="Parola:" required="">
+        	</div>
+        	
+        	<input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<!--
+        	<div id="loginDefault-btn-toolbar" class="btn-toolbar justify-content-between" role="toolbar">
+        	    <a href="http://192.168.1.99/53484-qiuyi004.com-en/index.php?main_page=password_forgotten">Forgot your password?</a>
+        	    <button type="submit" class="btn button_login button_login">Log In</button>
+        	</div>
+        	-->
+    
+    	</form>
+        <!--
+        <div class="loginInput"><input type="text" name="email_address" size="41" maxlength="288" id="login-email-address" placeholder="Email Address:"></div>
+        <div class="loginInput"><input type="password" name="password" size="41" maxlength="120" id="login-password" placeholder="Password:"></div>
+        -->
+        <div class="buttonRow" id="forgotpswd"><span style="cursor: pointer;">Ai uitat parola?</span></div>
+        <div class="loginLayerBtn GRyaf2v0su" id="ajaxLoginBtn"><span style="cursor: pointer;" id="ajaxLogin">Iesire din cont</span></div>
+
+		<div class="loginLayerBtn GRyaf2v0su" id="createAccountLayerBtn"><span style="cursor: pointer;">Register</span></div>
+    </div>
+</div><div id="forgotpswd_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Am Uitat Parola</div>
+        <div class="layerMainFont">Introduceti adresa de email in casuta de mai jos si veti primi un mesaj cu noua parola.</div>
+        <div class="loginInput" style="margin-top:1em;"><input type="text" name="forgot_email_address" size="41" maxlength="288" id="forgot_email_address" placeholder="Adresa de mail:"></div>
+        <div class="loginLayerBtn GRyaf2v0su" id="forgotLayerBtn">trimite</div>
+    </div>
+</div><div id="register_layer" style="display:none;">
+    <div id="registerForm" class="registerForm">
+		<form name="ajaxCreateAccountForm">
+		<input type="hidden" name="action" value="process">
+		<input type="hidden" name="email_pref_html" value="email_format">
+        <div class="loginTitle">Register</div>
+        <div class="loginInput fl"><input type="text" name="firstname" size="41" maxlength="288" id="firstname" placeholder="Nume:"></div>
+        <div class="loginInput fl"><input type="text" name="lastname" size="41" maxlength="288" id="lastname" placeholder="Prenume:"></div>
+        <div class="loginInput fl"><input type="text" name="street_address" size="41" maxlength="288" id="street-address" placeholder="Strada:"></div>
+        <div class="loginInput fl"><input type="text" name="city" size="41" maxlength="288" id="city" placeholder="Localitate:"></div>
+        <div class="loginInput fl">
+            <select name="zone_country_id" class="layerFormSelect" id="select_country" onchange="update_city(this.value);" style="display: none;"></select>
+        </div>
+        <div class="loginInput fl">
+            <select name="zone_id" class="layerFormSelect" id="select_city" style="display: none;"></select>
+        </div>
+        <div class="loginInput fl"><input type="text" name="postcode" size="41" maxlength="288" id="postcode" placeholder="Cod Poștal:"></div>
+        <div class="loginInput fl"><input type="text" name="telephone" size="41" maxlength="288" id="telephone" placeholder="Telefon:"></div>
+        <div class="loginInput fl"><input type="text" name="email_address" size="41" maxlength="288" id="register-email-address" placeholder="Adresa de mail:"></div>
+        <div class="loginInput fl"><input type="password" name="password" size="41" maxlength="120" id="register-password" placeholder="Parola:"></div>
+        <div class="loginInput fl"><input type="password" name="confirmation" size="41" maxlength="120" id="register_password_confirm" placeholder="Confirmare parola:"></div>
+        <div class="loginLayerBtn GRyaf2v0su t8JV7UeSIQ" id="registerLayerBtn">trimite</div>
+	  </form>
+    </div>
+</div><div class="initLayerShade" style="display:none;"></div><div id="IAa5IIdPuV">
+<!--banner_1-->
+<div id="D1inrRtc6p">
+<a href=""><img title="Thursday Boots România" src="includes/templates/thursdaybootromania/images/ThursdayBootsBanner.jpg" alt="Thursday Boots România"></a>
+</div>
+
+<div class="Ve4tFokt4m">
+<div id="wparTeBqJI">
+<div class="nKz9qzfF0D">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+<!-- content -->
+<div id="zjOntm99DV">
+ <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-barbati-thursday-boots-legend-negrii-rovm35914-p-105.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Barbati_Thursday_Boots_Leg-ROVM35914.jpg" alt="Ghete Chelsea Barbati Thursday Boots Legend NeGrii | ROVM35914" title=" Ghete Chelsea Barbati Thursday Boots Legend NeGrii | ROVM35914 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">607&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-barbati-thursday-boots-rogue-masline-verzi-roij21974-p-102.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Barbati_Thursday_Boots_Rog-ROIJ21974.jpg" alt="Ghete Chelsea Barbati Thursday Boots Rogue Masline Verzi | ROIJ21974" title=" Ghete Chelsea Barbati Thursday Boots Rogue Masline Verzi | ROIJ21974 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">615&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/bocanci-dama-thursday-boots-luna-negrii-ronu60428-p-85.html"> 
+	 <img src="images/thursdaybootromania/Bocanci_Dama_Thursday_Boots_Luna_NeGrii_-RONU60428.jpg" alt="Bocanci Dama Thursday Boots Luna NeGrii | RONU60428" title=" Bocanci Dama Thursday Boots Luna NeGrii | RONU60428 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">632&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/rugged-resilient-barbati-thursday-boots-captain-maro-rozf34081-p-361.html"> 
+	 <img src="images/thursdaybootromania/Rugged_Resilient_Barbati_Thursday_Boot-ROZF34081.jpg" alt="Rugged &amp; Resilient Barbati Thursday Boots Captain Maro | ROZF34081" title=" Rugged &amp; Resilient Barbati Thursday Boots Captain Maro | ROZF34081 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">688&nbsp;LEI </span><span class="productSpecialPrice">408&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/manusi-barbati-thursday-boots-original-captusite-goatskin-maro-rocr14769-p-41.html"> 
+	 <img src="images/thursdaybootromania/Manusi_Barbati_Thursday_Boots_Original_C-ROCR14769.jpg" alt="Manusi Barbati Thursday Boots Original Captusite Goatskin Maro | ROCR14769" title=" Manusi Barbati Thursday Boots Original Captusite Goatskin Maro | ROCR14769 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">300&nbsp;LEI </span><span class="productSpecialPrice">225&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-dama-thursday-boots-dreamer-negrii-roib30875-p-148.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Dama_Thursday_Boots_Dreame-ROIB30875.jpg" alt="Ghete Chelsea Dama Thursday Boots Dreamer NeGrii | ROIB30875" title=" Ghete Chelsea Dama Thursday Boots Dreamer NeGrii | ROIB30875 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">615&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-dama-thursday-boots-knockout-masline-verzi-rolz16970-p-128.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Dama_Thursday_Boots_Knocko-ROLZ16970.jpg" alt="Ghete Chelsea Dama Thursday Boots Knockout Masline Verzi | ROLZ16970" title=" Ghete Chelsea Dama Thursday Boots Knockout Masline Verzi | ROLZ16970 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">583&nbsp;LEI </span><span class="productSpecialPrice">384&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-dama-thursday-boots-legend-negrii-rois50934-p-126.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Dama_Thursday_Boots_Legend-ROIS50934.jpg" alt="Ghete Chelsea Dama Thursday Boots Legend NeGrii | ROIS50934" title=" Ghete Chelsea Dama Thursday Boots Legend NeGrii | ROIS50934 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">583&nbsp;LEI </span><span class="productSpecialPrice">384&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-dama-thursday-boots-duchess-gri-rosk07284-p-138.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Dama_Thursday_Boots_Duches-ROSK07284.jpg" alt="Ghete Chelsea Dama Thursday Boots Duchess Gri | ROSK07284" title=" Ghete Chelsea Dama Thursday Boots Duchess Gri | ROSK07284 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">607&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chukka-barbati-thursday-boots-captain-maro-rodi49562-p-169.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chukka_Barbati_Thursday_Boots_Capt-RODI49562.jpg" alt="Ghete Chukka Barbati Thursday Boots Captain Maro | RODI49562" title=" Ghete Chukka Barbati Thursday Boots Captain Maro | RODI49562 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">688&nbsp;LEI </span><span class="productSpecialPrice">408&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-dama-thursday-boots-dreamer-maro-royr90736-p-146.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Dama_Thursday_Boots_Dreame-ROYR90736.jpg" alt="Ghete Chelsea Dama Thursday Boots Dreamer Maro | ROYR90736" title=" Ghete Chelsea Dama Thursday Boots Dreamer Maro | ROYR90736 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">615&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	  <div class="lDsB0gf2Fr"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/products/ghete-chelsea-barbati-thursday-boots-cavalier-maro-rogx28561-p-119.html"> 
+	 <img src="images/thursdaybootromania/Ghete_Chelsea_Barbati_Thursday_Boots_Cav-ROGX28561.jpg" alt="Ghete Chelsea Barbati Thursday Boots Cavalier Maro | ROGX28561" title=" Ghete Chelsea Barbati Thursday Boots Cavalier Maro | ROGX28561 " width="400" height="400">
+   </a>
+   </div>
+   <div class="npxEWHxF8e"><span class="normalprice">615&nbsp;LEI </span><span class="productSpecialPrice">385&nbsp;LEI</span></div>
+   </div>
+	 <div class="clear"></div>
+</div><div class="centerColumn2" id="indexDefault">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="thursdayboots">
+<div id="thursdaybootscompany">
+<a href="search.html?keyword=Thursday+Boots+Pantofi Rochie" class="thursdaydress" title="Thursday Dress Shoes"><img src="images/Dress Shoes.jpg">
+<p>An Essential Cap Toe, Handcrafted With the Highest Quality Materials.</p>
+<span>Dress Shoes</span>
+</a>
+
+<a href="search.html?keyword=Thursday+Boots+Jacheta" class="thursdayjackets" title="Thursday Men's Jackets"><img src="images/Mens Jackets.jpg">
+<p>A Streamlined Leather Jacket, Thoughtfully Made To Let The Quality Of The Materials Do All The Talking.</p>
+<span>Men's Jackets</span>
+</a>
+
+<a href="search.html?keyword=Thursday+Sneakers" class="thursdaysneakers" title="Thursday Men's Sneakers"><img src="images/Mens Sneakers.jpg">
+<p>Clean &amp; Comfortable Sneakers Made With Classic Leathers.</p>
+<span>Men's Sneakers</span>
+</a>
+
+<a href="search.html?keyword=Thursday+Boots+Ghete cu Siret" class="thursdaylaceups" title="Thursday Women's Lace-Ups"><img src="images/Womens lace-ups.jpg">
+<p>A Durable Zip-Up Boot Made with the Highest Quality Materials.</p>
+<span>Women's Lace-Ups</span>
+</a>
+
+<a href="search.html?keyword=Thursday+High+Heels" class="thursdayhighheels" title="Thursday High Heels"><img src="images/High Heels.jpg">
+<p>A Versatile High Heel Chelsea Boot For Wherever the Day Takes You.</p>
+<span>High Heels</span>
+</a>
+
+<div class="clear"></div></div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript" src="js/swiper.min.js"></script>
+<script type="text/javascript">
+
+	window.onload = function() {
+		var swiper = new Swiper('.swiper-container',{
+			autoplay: false,
+			speed: 1000,
+			autoplayDisableOnInteraction: false,
+			loop: true,
+			centeredSlides: true,
+			slidesPerView: 2,
+			pagination: '.swiper-pagination',
+			paginationClickable: true,
+			prevButton: '.swiper-button-prev',
+			nextButton: '.swiper-button-next',
+			onInit: function(swiper) {
+				swiper.slides[2].className = "swiper-slide swiper-slide-active";
+			},
+			breakpoints: {
+				668: {
+					slidesPerView: 1,
+				}
+			}
+		});
+	}
+
+
+</script>
+<!-- bof: centerinfo products  -->
+<div class="whythursday">
+<div class="whythursdays">
+<div class="whythursdayss"><div class="whythursdaysss">
+<h2 class="thursdaysale" style="color:#ffffff;">
+Why 'Thursday'?
+</h2>
+</div><div class="whythursdaydes">
+<span style="color:#ffffff;font-size:18px;">
+<h1>On Thursday we work hard, but it's also the unofficial start of the weekend, and we design our products with that versatility in mind. Your life isn't one-dimensional. Your footwear shouldn't be either.</h1>
+</span>
+</div></div>
+</div>
+</div>
+<div id="vI0O8StOUn">
+<div id="ChKOu1RbAq">
+<section class="regular slider slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5292px; transform: translate3d(-1260px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-rugged-resilient-c-8_15.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Rugged_Resilient_Barbati_Thursday_Boot-ROCR50493_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Rugged &amp; Resilient</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/New_Arrivals_Barbati_Thursday_Boots_Vang-ROBX32871_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">New Arrivals</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Curea_Barbati_Thursday_Boots_Refined_Mar-ROZK67395_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Curea</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-bocanci-c-8_9.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Bocanci_Dama_Thursday_Boots_Luna_Maro_-ROXO26739_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Bocanci</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-chukka-c-8_11.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Ghete_Chukka_Barbati_Thursday_Boots_Scou-ROEL61804_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete Chukka</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" role="tabpanel" id="slick-slide00" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html" tabindex="0"> 
+	 <img src="images/large/thursdaybootromania/Ghete_Chelsea_Barbati_Thursday_Boots_Rog-ROXU83572_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete Chelsea</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" role="tabpanel" id="slick-slide01" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html" tabindex="0"> 
+	 <img src="images/large/thursdaybootromania/Ghete_cu_Siret_Barbati_Thursday_Boots_Wi-ROFO24586_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete cu Siret</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" role="tabpanel" id="slick-slide02" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html" tabindex="0"> 
+	 <img src="images/large/thursdaybootromania/Sosete_Dama_Thursday_Boots_Sodello_South-ROJM87492_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Sosete</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" role="tabpanel" id="slick-slide03" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-rugged-resilient-c-8_15.html" tabindex="0"> 
+	 <img src="images/large/thursdaybootromania/Rugged_Resilient_Barbati_Thursday_Boot-ROCR50493_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Rugged &amp; Resilient</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" role="tabpanel" id="slick-slide04" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html" tabindex="0"> 
+	 <img src="images/large/thursdaybootromania/New_Arrivals_Barbati_Thursday_Boots_Vang-ROBX32871_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">New Arrivals</div>
+   </div>
+   </div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide05" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Curea_Barbati_Thursday_Boots_Refined_Mar-ROZK67395_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Curea</div>
+   </div>
+   </div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide06" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-bocanci-c-8_9.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Bocanci_Dama_Thursday_Boots_Luna_Maro_-ROXO26739_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Bocanci</div>
+   </div>
+   </div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide07" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-chukka-c-8_11.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Ghete_Chukka_Barbati_Thursday_Boots_Scou-ROEL61804_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete Chukka</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-chelsea-c-8_10.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Ghete_Chelsea_Barbati_Thursday_Boots_Rog-ROXU83572_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete Chelsea</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-cu-siret-c-8_13.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Ghete_cu_Siret_Barbati_Thursday_Boots_Wi-ROFO24586_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete cu Siret</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/accesorii-sosete-c-1_6.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Sosete_Dama_Thursday_Boots_Sodello_South-ROJM87492_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Sosete</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-rugged-resilient-c-8_15.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Rugged_Resilient_Barbati_Thursday_Boot-ROCR50493_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Rugged &amp; Resilient</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-new-arrivals-c-8_14.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/New_Arrivals_Barbati_Thursday_Boots_Vang-ROBX32871_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">New Arrivals</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/accesorii-curea-c-1_3.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Curea_Barbati_Thursday_Boots_Refined_Mar-ROZK67395_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Curea</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-bocanci-c-8_9.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Bocanci_Dama_Thursday_Boots_Luna_Maro_-ROXO26739_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Bocanci</div>
+   </div>
+   </div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" aria-hidden="true" tabindex="-1" style="width: 252px;"><div><div class="rgOn9I2jvn" style="width: 100%; display: inline-block;"> 
+   <div class="DiNVGv422G">
+   <a href=" https://www.thursdaybootromania.com/collections/cizme-ghete-chukka-c-8_11.html" tabindex="-1"> 
+	 <img src="images/large/thursdaybootromania/Ghete_Chukka_Barbati_Thursday_Boots_Scou-ROEL61804_ZOOM.jpg" alt="" width="650" height="650">
+   </a><div class="VVI1ReA32q">Ghete Chukka</div>
+   </div>
+   </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_right</i></button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide05" aria-label="2 of 2" tabindex="-1">2</button></li></ul></section>
+</div>
+</div>
+<!-- eof: Related products  -->
+<!-- eof: centerinfo products  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- content -->
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div><div id="box_foot_id" style="display: none">i0VOgPd25H</div><div id="i0VOgPd25H">
+<div id="b9zqXITOQA">
+		<div id="xPyTUckbay">
+		<div id="MB8Xtji88g">
+                        <ul>
+<!--<li><a href="https://www.thursdaybootromania.com/">Acasă</a></li>-->
+<li><a href="https://www.thursdaybootromania.com/about_us.html" rel="nofollow" style="border:none;">despre noi</a></li>
+<li><a href="https://www.thursdaybootromania.com/shippinginfo.html" rel="nofollow" style="border:none;">Transport si livrare</a></li>
+<li><a href="https://www.thursdaybootromania.com/privacy.html" rel="nofollow">Declaratia de Confidentialitate</a></li>
+<li><a href="https://www.thursdaybootromania.com/contact_us.html" rel="nofollow">Contact</a></li>
+<li><a href="https://www.thursdaybootromania.com/return.html" rel="nofollow">returnare</a></li>
+<li><a href="https://www.thursdaybootromania.com/payment_method.html" rel="nofollow">Modalitati de plata</a></li>
+    <li><a href="https://www.thursdaybootromania.com/outlet.html" rel="nofollow">Outlet</a></li>
+    </ul>            			</div>
+			<div id="AonhO28hHj"><a href="https://www.facebook.com/sharer/sharer.php?u=http://thursdaybootromania.com/">
+    <svg class="F9IiecStxW" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M928 0h-832c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h416v-448h-128v-128h128v-64c0-105.8 86.2-192 192-192h128v128h-128c-35.2 0-64 28.8-64 64v64h192l-32 128h-160v448h288c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96z"></path>
+        </g></svg>
+</a>
+<a href="https://twitter.com/intent/tweet/?url=http://thursdaybootromania.com/">
+    <svg class="F9IiecStxW" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M1024 226.4c-37.6 16.8-78.2 28-120.6 33 43.4-26 76.6-67.2 92.4-116.2-40.6 24-85.6 41.6-133.4 51-38.4-40.8-93-66.2-153.4-66.2-116 0-210 94-210 210 0 16.4 1.8 32.4 5.4 47.8-174.6-8.8-329.4-92.4-433-219.6-18 31-28.4 67.2-28.4 105.6 0 72.8 37 137.2 93.4 174.8-34.4-1-66.8-10.6-95.2-26.2 0 0.8 0 1.8 0 2.6 0 101.8 72.4 186.8 168.6 206-17.6 4.8-36.2 7.4-55.4 7.4-13.6 0-26.6-1.4-39.6-3.8 26.8 83.4 104.4 144.2 196.2 146-72 56.4-162.4 90-261 90-17 0-33.6-1-50.2-3 93.2 59.8 203.6 94.4 322.2 94.4 386.4 0 597.8-320.2 597.8-597.8 0-9.2-0.2-18.2-0.6-27.2 41-29.4 76.6-66.4 104.8-108.6z"></path>
+        </g></svg>
+</a>
+<a href="https://www.pinterest.com/pin/create/button/?url=http://thursdaybootromania.com/">
+    <svg class="F9IiecStxW" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 68.4c-245 0-443.6 198.6-443.6 443.6 0 188 117 348.4 282 413-3.8-35-7.4-89 1.6-127.2 8-34.6 52-220.4 52-220.4s-13.2-26.6-13.2-65.8c0-61.6 35.8-107.8 80.2-107.8 37.8 0 56.2 28.4 56.2 62.4 0 38-24.2 95-36.8 147.6-10.6 44.2 22 80.2 65.6 80.2 78.8 0 139.4-83.2 139.4-203.2 0-106.2-76.4-180.4-185.2-180.4-126.2 0-200.2 94.6-200.2 192.6 0 38.2 14.6 79 33 101.2 3.6 4.4 4.2 8.2 3 12.8-3.4 14-10.8 44.2-12.4 50.4-2 8.2-6.4 9.8-14.8 6-55.4-25.8-90-106.8-90-171.8 0-140 101.6-268.4 293-268.4 153.8 0 273.4 109.6 273.4 256.2 0 152.8-96.4 276-230.2 276-45 0-87.2-23.4-101.6-51 0 0-22.2 84.6-27.6 105.4-10 38.6-37 86.8-55.2 116.2 41.6 12.8 85.6 19.8 131.4 19.8 245 0 443.6-198.6 443.6-443.6 0-245.2-198.6-443.8-443.6-443.8z"></path></g></svg>
+</a>
+<a href="http://www.tumblr.com/share/link?url=http://thursdaybootromania.com/">
+    <svg class="F9IiecStxW" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M576.032 448l-0.002 234.184c0 59.418-0.77 93.656 5.53 110.5 6.25 16.754 21.918 34.146 38.99 44.202 22.684 13.588 48.542 20.376 77.708 20.376 51.854 0 82.478-6.848 133.742-40.54v153.944c-43.7 20.552-81.866 32.594-117.324 40.922-35.5 8.242-73.86 12.406-115.064 12.406-46.828 0-74.456-5.886-110.41-17.656-35.958-11.868-66.66-28.806-92.020-50.54-25.45-21.922-43.022-45.208-52.848-69.832-9.826-24.636-14.716-60.414-14.716-107.244v-359.1h-137.426v-145.006c40.208-13.042 85.164-31.788 113.78-56.152 28.754-24.45 51.766-53.706 69.106-87.944 17.392-34.146 29.348-77.712 35.872-130.516h165.084l-0.002 255.996h255.968v192h-255.968z"></path>
+        </g></svg>
+</a>
+<a style="margin-right:0px;" href="https://plus.google.com/share?url=http://thursdaybootromania.com/">
+    <svg class="F9IiecStxW" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512 512-229.2 512-512-229.2-512-512-512zM384 768c-141.6 0-256-114.4-256-256s114.4-256 256-256c69.2 0 127 25.2 171.6 67l-69.6 66.8c-19-18.2-52.2-39.4-102-39.4-87.4 0-158.8 72.4-158.8 161.6s71.4 161.6 158.8 161.6c101.4 0 139.4-72.8 145.2-110.4h-145.2v-87.8h241.8c2.2 12.8 4 25.6 4 42.4 0 146.4-98 250.2-245.8 250.2zM832 512v64h-64v-64h-64v-64h64v-64h64v64h64v64h-64z"></path></g></svg>
+</a>
+<div class="clear"></div></div>
+		<div class="clearBoth"></div>
+		</div>
+		<div class="RxW7RwIXlj">
+			<a href="https://www.thursdaybootromania.com/">
+			Copyright © 2024 </a><a href="https://www.thursdaybootromania.com/">thursdaybootromania</a> Powered by <a href="https://www.thursdaybootromania.com/">thursdaybootromania.com</a>
+			
+			<div class="clear"></div>
+		</div>
+		</div>
+</div></div>
+
+
+<!--BOF Login-->
+
+<!--EOF Login-->
+
+
+
+
+
+
+<script type="text/javascript" src="includes/templates/thursdaybootromania/js/layer.js"></script>
+<script type="text/javascript" src="includes/templates/thursdaybootromania/js/re_login.js"></script>
+
+<script>
+    var before = 0;
+    function throttle(func, wait, mustRun) {
+        var timeout,
+            startTime = new Date();
+
+        return function() {
+            var context = this,
+                args = arguments,
+                curTime = new Date();
+
+            clearTimeout(timeout);
+            // 如果达到了规定的触发时间间隔，触发 handler
+            if(curTime - startTime >= mustRun){
+                func.apply(context,args);
+                startTime = curTime;
+                // 没达到触发间隔，重新设定定时器
+            }else{
+                timeout = setTimeout(func, wait);
+            }
+        };
+    };
+    // 实际想绑定在 scroll 事件上的 handler
+	
+    function realFunc(){
+		var thigh = document.getElementById("kVTiBoaQcc").clientHeight;	
+        var after = $(window).scrollTop();
+        if (before<after && $("#otAEHMisdR").hasClass("toMenuFixed")) {
+            $("#otAEHMisdR").removeClass("toMenuFixed");
+        }
+        else if (before>after) {
+            if(after>thigh && !$("#otAEHMisdR").hasClass("toMenuFixed")){
+                $("#otAEHMisdR").addClass("toMenuFixed");
+            }else if(after<thigh && $("#otAEHMisdR").hasClass("toMenuFixed")){
+                $("#otAEHMisdR").removeClass("toMenuFixed");
+            }
+        };
+        before = after;
+    }
+    // 采用了节流函数
+    window.addEventListener('scroll',throttle(realFunc,300,1000));
+
+    function turnoff(obj){
+        document.getElementById(obj).style.display="none";
+        $("body").css({"height":"auto","overflow":"auto"});
+        $(".initLayerShade").hide();
+        $("#otAEHMisdR").removeClass("toMenuFixed");
+    }
+</script>	<!-- bof  breadcrumb -->
+	
+<!-- eof breadcrumb -->
+
+
+
+
+
+
+
+<script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/slick_new.js" type="text/javascript" charset="utf-8"></script>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+
+
+	<script src="js/jquery.jxa.js"></script>
+	<script src="js/jquery.jxb.js"></script>
+	<script>
+		$(function(){
+			$('#navToggle').on('click',function(){
+				$('.m_nav').addClass('open');
+				$('body').css({"height":"100%","overflow":"hidden"})
+			})
+			$('.m_nav .top .closed').on('click',function(){
+				$('.m_nav').removeClass('open');
+				$('body').css({"height":"auto","overflow":"auto"})
+			})
+
+		})
+	</script>
+	<script type="text/javascript">
+	  $.noConflict();
+	</script>
+
+
+<div id="mm-blocker" class="mm-slideout"></div></body>

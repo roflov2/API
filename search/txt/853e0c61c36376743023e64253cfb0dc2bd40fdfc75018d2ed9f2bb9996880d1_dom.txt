@@ -1,0 +1,26 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>404 page</title>
+	<link rel="stylesheet" href="https://lp.cybeready.net/404/css/styles.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500" media="all">
+</head><body>
+	<main id="main">
+		<section class="section-404">
+			<div class="container-fluid">
+				<figure class="img">
+					<img src="https://lp.cybeready.net/404/images/img-404.svg" alt="#" loading="lazy" class="lazyload lazyloaded">
+				</figure>
+				<h1 data-text="PAGE NOT FOUND">PAGE NOT FOUND</h1>
+				<div class="box">
+					<p>We’re sorry, but the link you clicked on is either broken or expired.</p>
+					<p>Contact your IT department or CISO for assistance.</p>
+				</div>
+			</div>
+		</section><!-- section-404 -->
+	</main>
+	<script src="https://lp.cybeready.net/404/js/plugins.js"></script>
+<script src="https://lp.cybeready.net/404/js/scripts.js"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'89ced6be58dd3648',t:'MTcxOTkyNTQzNy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe>
+
+</body>

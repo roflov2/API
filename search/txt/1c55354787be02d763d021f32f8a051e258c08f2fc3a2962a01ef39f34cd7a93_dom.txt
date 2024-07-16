@@ -1,0 +1,368 @@
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"><meta name="yandex-verification" content="3fc3e4cbe9b38679"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Newces | Online Mağaza | Resmi Newces Sitesi</title><base href="https://yedek.newces.com.tr/"><meta name="description" content="Newces ürünleri arıyorsanız doğru yerdesiniz! Newces erkek, kadın modellerinde uygun fiyatlara sizleri bekliyor! Sizde sahip olmak hemen için tıklayın!"><link href="catalog/view/javascript/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen"><link href="catalog/view/javascript/jquery/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"><!-- icon font --><link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css"><!-- use for vogue --><link href="catalog/view/javascript/plaza-icon/style.css" rel="stylesheet" type="text/css"><link href="catalog/view/javascript/nane-icon/nane-icon.css" rel="stylesheet" type="text/css"><!-- end icon font --><link href="catalog/view/theme/newces/stylesheet/stylesheet.css" rel="stylesheet"><link href="catalog/view/theme/newces/stylesheet/plaza/header/header3.css" rel="stylesheet"><link href="catalog/view/theme/newces/stylesheet/plaza/theme.css" rel="stylesheet"><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-286298213&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4XB9TJ9KZ5&amp;l=dataLayer&amp;cx=c"></script><script src="https://connect.facebook.net/signals/config/1351405765403127?v=2.9.159&amp;r=stable&amp;domain=yedek.newces.com.tr&amp;hme=446fb981c8c3baeb03730fe3cbd404f7f15f64c693f24c7fe75da498bc2c95d8&amp;ex_m=67%2C113%2C100%2C104%2C58%2C3%2C93%2C66%2C15%2C91%2C84%2C49%2C51%2C160%2C163%2C174%2C170%2C171%2C173%2C28%2C94%2C50%2C73%2C172%2C155%2C158%2C167%2C168%2C175%2C122%2C39%2C33%2C134%2C14%2C48%2C180%2C179%2C124%2C17%2C38%2C1%2C41%2C62%2C63%2C64%2C68%2C88%2C16%2C13%2C90%2C87%2C86%2C101%2C103%2C37%2C102%2C29%2C25%2C156%2C159%2C131%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C54%2C59%2C61%2C71%2C95%2C26%2C72%2C8%2C7%2C76%2C46%2C20%2C97%2C96%2C98%2C9%2C19%2C18%2C81%2C53%2C79%2C32%2C70%2C0%2C89%2C31%2C78%2C83%2C45%2C44%2C82%2C36%2C4%2C85%2C77%2C42%2C34%2C80%2C2%2C35%2C60%2C40%2C99%2C43%2C75%2C65%2C105%2C57%2C56%2C30%2C92%2C55%2C52%2C47%2C74%2C69%2C23%2C106%2C186%2C185%2C187%2C192%2C193%2C194%2C190%2C182%2C123%2C125%2C152%2C181%2C183%2C114%2C146%2C136%2C140%2C176%2C120%2C218%2C107%2C118%2C119%2C219%2C154%2C111%2C127%2C115%2C143" async=""></script><script src="https://connect.facebook.net/signals/config/321242293075947?v=2.9.159&amp;r=stable&amp;domain=yedek.newces.com.tr&amp;hme=446fb981c8c3baeb03730fe3cbd404f7f15f64c693f24c7fe75da498bc2c95d8&amp;ex_m=67%2C113%2C100%2C104%2C58%2C3%2C93%2C66%2C15%2C91%2C84%2C49%2C51%2C160%2C163%2C174%2C170%2C171%2C173%2C28%2C94%2C50%2C73%2C172%2C155%2C158%2C167%2C168%2C175%2C122%2C39%2C33%2C134%2C14%2C48%2C180%2C179%2C124%2C17%2C38%2C1%2C41%2C62%2C63%2C64%2C68%2C88%2C16%2C13%2C90%2C87%2C86%2C101%2C103%2C37%2C102%2C29%2C25%2C156%2C159%2C131%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C54%2C59%2C61%2C71%2C95%2C26%2C72%2C8%2C7%2C76%2C46%2C20%2C97%2C96%2C98%2C9%2C19%2C18%2C81%2C53%2C79%2C32%2C70%2C0%2C89%2C31%2C78%2C83%2C45%2C44%2C82%2C36%2C4%2C85%2C77%2C42%2C34%2C80%2C2%2C35%2C60%2C40%2C99%2C43%2C75%2C65%2C105%2C57%2C56%2C30%2C92%2C55%2C52%2C47%2C74%2C69%2C23%2C106" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N78XG89"></script><script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script><script src="catalog/view/javascript/jquery/swiper/js/swiper.min.js"></script><script src="catalog/view/javascript/plaza/ultimatemenu/menu.js"></script><script src="catalog/view/javascript/common.js"></script><link href="https://yedek.newces.com.tr/image/catalog/logo_newces.png" rel="icon"><!-- Quick view --><script src="catalog/view/javascript/plaza/cloudzoom/cloud-zoom.1.0.2.min.js"></script><script src="catalog/view/javascript/plaza/cloudzoom/zoom.js"></script><script src="catalog/view/javascript/plaza/quickview/quickview.js"></script><link href="catalog/view/theme/newces/stylesheet/plaza/quickview/quickview.css" rel="stylesheet" type="text/css"><!-- General --><!-- Global site tag (gtag.js) - Google Analytics --><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-192418306-1"></script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-192418306-1');
+</script><!-- Global site tag (gtag.js) - Google Ads: 400698873 --><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-400698873"></script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-400698873');
+</script><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N78XG89');</script><!-- End Google Tag Manager --><!-- Facebook Pixel Code --><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '321242293075947');
+fbq('track', 'PageView');
+</script><noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=321242293075947&ev=PageView&noscript=1"
+/></noscript><!-- End Facebook Pixel Code --><!-- Sticky Menu -->
+	<script>
+$(document).ready(function () {	
+var height_box_scroll = $('.scroll-fix').outerHeight(true);
+$(window).scroll(function () {
+if ($(this).scrollTop() > 800) {
+$('.scroll-fix').addClass("scroll-fixed");
+$('body').css('padding-top',height_box_scroll);
+} else {
+$('.scroll-fix').removeClass("scroll-fixed");
+$('body').css('padding-top',0);
+}
+});
+});
+</script><!-- Scroll Top --><script>
+$("#back-top").hide();
+$(function () {
+$(window).scroll(function () {
+if ($(this).scrollTop() > $('body').height()/3) {
+$('#back-top').fadeIn();
+} else {
+$('#back-top').fadeOut();
+}
+});
+$('#back-top').click(function () {
+$('body,html').animate({scrollTop: 0}, 800);
+return false;
+});
+});
+</script><!-- Advance --><!-- Bootstrap Js --><script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script><!-- Copyright (c) Facebook, Inc. and its affiliates. --><!-- All rights reserved. --><!-- This source code is licensed under the license found in the --><!-- LICENSE file in the root directory of this source tree. --><script type="text/javascript">
+// we are using this flag to determine if the pixel
+// is successfully added to the header
+window.isFacebookPixelInHeaderAdded = 1;
+window.isFacebookPixelAdded=1;
+</script><script type="text/javascript">
+function facebook_loadScript(url, callback) {
+var script = document.createElement("script");
+script.type = "text/javascript";
+if(script.readyState) {  // only required for IE <9
+script.onreadystatechange = function() {
+if (script.readyState === "loaded" || script.readyState === "complete") {
+script.onreadystatechange = null;
+if (callback) {
+callback();
+}
+}
+};
+} else {  //Others
+if (callback) {
+script.onload = callback;
+}
+}
+script.src = url;
+document.getElementsByTagName("head")[0].appendChild(script);
+}
+</script><script type="text/javascript">
+(function() {
+var enableCookieBar = '0';
+if (enableCookieBar == '1') {
+facebook_loadScript("catalog/view/javascript/facebook_business/cookieconsent.min.js");
+// loading the css file
+var css = document.createElement("link");
+css.setAttribute("rel", "stylesheet");
+css.setAttribute("type", "text/css");
+css.setAttribute(
+"href",
+"catalog/view/theme/css/facebook_business/cookieconsent.min.css");
+document.getElementsByTagName("head")[0].appendChild(css);
+window.addEventListener("load", function(){
+function setConsent() {
+fbq(
+'consent',
+this.hasConsented() ? 'grant' : 'revoke'
+);
+}
+window.cookieconsent.initialise({
+palette: {
+popup: {
+background: '#237afc'
+},
+button: {
+background: '#fff',
+text: '#237afc'
+}
+},
+cookie: {
+name: fbq.consentCookieName
+},
+type: 'opt-out',
+showLink: false,
+content: {
+allow: 'Agree',
+deny: 'Opt Out',
+header: 'Our Site Uses Cookies',
+message: 'By clicking Agree, you agree to our <a class="cc-link" href="https://www.facebook.com/legal/terms/update" target="_blank">terms of service</a>, <a class="cc-link" href="https://www.facebook.com/policies/" target="_blank">privacy policy</a> and <a class="cc-link" href="https://www.facebook.com/policies/cookies/" target="_blank">cookies policy</a>.'
+},
+layout: 'basic-header',
+location: true,
+revokable: true,
+onInitialise: setConsent,
+onStatusChange: setConsent,
+onRevokeChoice: setConsent
+}, function (popup) {
+// If this isn't open, we know that we can use cookies.
+if (!popup.getStatus() && !popup.options.enabled) {
+popup.setStatus(cookieconsent.status.dismiss);
+}
+});
+});
+}
+})();
+</script><script type="text/javascript">
+(function() {
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+var enableCookieBar = '0';
+if (enableCookieBar == '1') {
+fbq.consentCookieName = 'fb_cookieconsent_status';
+(function() {
+function getCookie(t){var i=("; "+document.cookie).split("; "+t+"=");if(2==i.length)return i.pop().split(";").shift()}
+var consentValue = getCookie(fbq.consentCookieName);
+fbq('consent', consentValue === 'dismiss' ? 'grant' : 'revoke');
+})();
+}
+// system auto generated facebook_pixel.js, DO NOT MODIFY
+pixel_script_filename = 'catalog/view/javascript/facebook_business/facebook_pixel_3_1_2.js';
+// system auto generated facebook_pixel.js, DO NOT MODIFY
+facebook_loadScript(
+pixel_script_filename,
+function() {
+var params = {
+"agent": "exopencart-3.0.3.2-4.2.0"
+};
+_facebookAdsExtension.facebookPixel.init(
+'321242293075947',
+{},
+params);
+});
+})();
+</script><script type="text/javascript" src="catalog/view/javascript/facebook_business/facebook_pixel_3_1_2.js"></script><script type="text/javascript">
+// we are using this flag to determine if the customer chat
+// is successfully added to the header
+window.isFacebookCustomerChatInHeaderAdded = 1;
+window.isFacebookCustomerChatAdded=1;
+</script></head><body class="common-home"><div class="wrapper"><div id="back-top"><i class="ion-chevron-up"></i></div><div id="header-absoulute"><header class="scroll-fix layout-fluid"><div class="container-fluid"><div class="box-inner"><div class="box-inner-inner"><style>
+#pt-menu-4880 .pt-menu-bar {
+background: #000000;
+color: #FFFFFF;
+padding: 0px 0px 0px 0px;
+}
+#pt-menu-4880.pt-menu-bar {
+background: #000000;
+color: #FFFFFF;
+}
+#pt-menu-4880 .ul-top-items .li-top-item .a-top-link {
+background: #000000;
+padding: 5px 0px 5px 0px;
+color: #FFFFFF;
+font-size: 1.3rem;
+text-transform: uppercase;
+font-weight: 500;
+}
+#pt-menu-4880 .ul-top-items .li-top-item:hover .a-top-link,#pt-menu-4880 .ul-top-items .li-top-item:hover .a-top-link i, #pt-menu-4880 .ul-top-items .li-top-item.active .a-top-link{
+color: #FFFFFF;
+font-weight: 500;
+background: #000000;
+}
+#pt-menu-4880 .mega-menu-container {
+
+background: #000000;
+padding: 0px 0px 0px 0px;
+}
+#pt-menu-4880 .mega-menu-container .a-mega-second-link {
+color: #FFFFFF;
+font-size: 1.4rem;
+text-transform: none;
+font-weight: 300;
+}
+#pt-menu-4880 .mega-menu-container .a-mega-second-link:hover {
+color: #FFFFFF;
+font-weight: 300;
+}
+#pt-menu-4880 .mega-menu-container .a-mega-third-link {
+color: #FFFFFF;
+font-size: 1.4rem;
+text-transform: none;
+font-weight: 300;
+}
+#pt-menu-4880 .mega-menu-container .a-mega-third-link:hover {
+color: #FFFFFF;
+font-weight: 300;
+}
+#pt-menu-4880 .ul-second-items .li-second-items {
+background: #000000;
+color: #FFFFFF;
+}
+#pt-menu-4880 .ul-second-items .li-second-items:hover, #pt-menu-4880 .ul-second-items .li-second-items.active {
+background: #FFFFFF;
+color: #FFFFFF;
+}
+#pt-menu-4880 .ul-second-items .li-second-items .a-second-link {
+color: #FFFFFF;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 500;
+}
+#pt-menu-4880 .ul-second-items .li-second-items .a-second-link:hover, #pt-menu-4880 .ul-second-items .li-second-items.active .a-second-link {
+color: #FFFFFF;
+font-weight: 500;
+}
+#pt-menu-4880 .ul-third-items .li-third-items {
+background: #000000;
+}
+#pt-menu-4880 .ul-third-items .li-third-items:hover, #pt-menu-4880 .ul-third-items .li-third-items.active {
+background: #000000;
+}
+#pt-menu-4880 .ul-third-items .li-third-items .a-third-link {
+color: #FFFFFF;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 400;
+}
+#pt-menu-4880 .ul-third-items .li-third-items .a-third-link:hover, #pt-menu-4880 .ul-third-items .li-third-items.active .a-third-link {
+color: #FFFFFF;
+font-weight: 400;
+}
+</style><div class="pt-menu mobile-menu hidden-lg  " id="pt-menu-4880"><input type="hidden" id="menu-effect-4880" class="menu-effect" value="none"><div class="pt-menu-bar"><i class="ion-android-menu" aria-hidden="true"></i><i class="ion-android-close" aria-hidden="true"></i></div><ul class="ul-top-items"><li class="menu-mobile-title"><h3>Mobile Menu</h3></li><li class="li-top-item "><a class="a-top-link a-item" href="Kadin-Giyim-Moda"><span>Frau</span></a><span class="top-click-show a-click-show"><i class="ion-ios-arrow-down" aria-hidden="true"></i><i class="ion-ios-arrow-up" aria-hidden="true"></i></span><div class="sub-menu-container"><ul class="ul-second-items"><li class="li-second-items"><a href="kadin-giyim-elbise" class="a-second-link a-item"><span class="a-second-title">Kleid</span></a></li><li class="li-second-items"><a href="kadin-bluz-modelleri" class="a-second-link a-item"><span class="a-second-title">Bluse</span></a></li><li class="li-second-items"><a href="kadin-spor-giyim-bustiyer" class="a-second-link a-item"><span class="a-second-title">Bustier</span></a></li><li class="li-second-items"><a href="https://newces.com.tr/kadin-gomlek-tasarimlari" class="a-second-link a-item"><span class="a-second-title">shirt</span></a></li><li class="li-second-items"><a href="https://newces.com.tr/kadin-etek-tasarimlari" class="a-second-link a-item"><span class="a-second-title">Rock</span></a></li><li class="li-second-items"><a href="kadin-moda-pantolon" class="a-second-link a-item"><span class="a-second-title">Pantolon</span></a></li><li class="li-second-items"><a href="https://newces.com.tr/kadin-giyim-ceket-tasarimlari" class="a-second-link a-item"><span class="a-second-title">Jacke</span></a></li><li class="li-second-items"><a href="https://newces.com.tr/kadin-giyim-hirka-kaban" class="a-second-link a-item"><span class="a-second-title">Mantel</span></a></li><li class="li-second-items"><a href="kadin-t-shirt-tshirt-tisort" class="a-second-link a-item"><span class="a-second-title">T-Shirt</span></a></li><li class="li-second-items"><a href="hazir-giyim-kadin-sweat-shirt" class="a-second-link a-item"><span class="a-second-title">Sweatshirt</span></a></li><li class="li-second-items"><a href="kadin-giyim-esofman" class="a-second-link a-item"><span class="a-second-title">Trainingsanzug</span></a></li><li class="li-second-items"><a href="kadin-giyim-sort-modelleri" class="a-second-link a-item"><span class="a-second-title">Şort</span></a></li><li class="li-second-items"><a href="kadin-salvar" class="a-second-link a-item"><span class="a-second-title">Shalwar</span></a></li><li class="li-second-items"><a href="kadin-tayt-modelleri" class="a-second-link a-item"><span class="a-second-title">Tayt</span></a></li></ul></div></li><li class="li-top-item "><a class="a-top-link a-item" href="erkek-hazir-giyim"><span>Männerkleidung</span></a><span class="top-click-show a-click-show"><i class="ion-ios-arrow-down" aria-hidden="true"></i><i class="ion-ios-arrow-up" aria-hidden="true"></i></span><div class="sub-menu-container"><ul class="ul-second-items"><li class="li-second-items"><a href="erkek-esofman-alti" class="a-second-link a-item"><span class="a-second-title">Trainingsanzug</span></a></li><li class="li-second-items"><a href="erkek-salvar-modelleri" class="a-second-link a-item"><span class="a-second-title">Shalwar</span></a></li><li class="li-second-items"><a href="erkek-sort-modelleri" class="a-second-link a-item"><span class="a-second-title">Kurze Hose</span></a></li><li class="li-second-items"><a href="hazir-giyim-erkek-sweatshirt" class="a-second-link a-item"><span class="a-second-title">Sweatshirt</span></a></li><li class="li-second-items"><a href="tshirt-hazir-giyim-moda" class="a-second-link a-item"><span class="a-second-title">T-Shirt</span></a></li></ul></div></li><li class="li-top-item "><a class="a-top-link a-item" href="hazır-giyim-akseuar"><span>Zubehörteil</span></a><span class="top-click-show a-click-show"><i class="ion-ios-arrow-down" aria-hidden="true"></i><i class="ion-ios-arrow-up" aria-hidden="true"></i></span><div class="sub-menu-container"><ul class="ul-second-items"><li class="li-second-items"><a href="hakiki-deri-erkek-cuzdan-modelleri" class="a-second-link a-item"><span class="a-second-title">Erkek Cüzdan</span></a></li><li class="li-second-items"><a href="hakiki-deri-kadin-cuzdan-modelleri" class="a-second-link a-item"><span class="a-second-title">Kadın Cüzdan</span></a></li><li class="li-second-items"><a href="deri-kartlik-para-portfoy" class="a-second-link a-item"><span class="a-second-title">Kartlık &amp; Kartvizitlik</span></a></li><li class="li-second-items"><a href="yeni-sezon-kadin-ve-erkek-giyim-modelleri" class="a-second-link a-item"><span class="a-second-title">Neuankömmlinge</span></a></li></ul></div></li><li class="li-top-item "><a class="a-top-link a-item" href="yeni-sezon-kadin-ve-erkek-giyim-modelleri"><span>Neuankömmlinge</span></a></li><li class="li-top-item "><a class="a-top-link a-item" href="indirimli-kadin-giyim-moda"><span>Auslauf</span></a></li></ul></div><div id="logo"><a href="https://yedek.newces.com.tr/"><img src="https://yedek.newces.com.tr/image/catalog/logo_newces.png" title="" alt="" class="img-responsive"></a>					</div><div class="col-hoz"><style>
+#pt-menu-6015 .pt-menu-bar {
+background: #FFFFFF;
+color: #FFFFFF;
+padding: 0px 0px 0px 0px;
+}
+#pt-menu-6015.pt-menu-bar {
+background: #FFFFFF;
+color: #FFFFFF;
+}
+#pt-menu-6015 .ul-top-items .li-top-item .a-top-link {
+background: #FFFFFF;
+padding: 1.5rem 0 1.5rem 0;
+color: #222222;
+font-size: 1.3rem;
+text-transform: uppercase;
+font-weight: 500;
+}
+#pt-menu-6015 .ul-top-items .li-top-item:hover .a-top-link,#pt-menu-6015 .ul-top-items .li-top-item:hover .a-top-link i, #pt-menu-6015 .ul-top-items .li-top-item.active .a-top-link{
+color: #000000;
+font-weight: 500;
+background: #FFFFFF;
+}
+#pt-menu-6015 .mega-menu-container {
+
+background: #FFFFFF;
+padding: 1.5rem 4.5rem 1.5rem 4.5rem;
+}
+#pt-menu-6015 .mega-menu-container .a-mega-second-link {
+color: #222222;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 500;
+}
+#pt-menu-6015 .mega-menu-container .a-mega-second-link:hover {
+color: #000000;
+font-weight: 500;
+}
+#pt-menu-6015 .mega-menu-container .a-mega-third-link {
+color: #666666;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 400;
+}
+#pt-menu-6015 .mega-menu-container .a-mega-third-link:hover {
+color: #000000;
+font-weight: 400;
+}
+#pt-menu-6015 .ul-second-items .li-second-items {
+background: #FFFFFF;
+color: #222222;
+}
+#pt-menu-6015 .ul-second-items .li-second-items:hover, #pt-menu-6015 .ul-second-items .li-second-items.active {
+background: #FFFFFF;
+color: #000000;
+}
+#pt-menu-6015 .ul-second-items .li-second-items .a-second-link {
+color: #222222;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 500;
+}
+#pt-menu-6015 .ul-second-items .li-second-items .a-second-link:hover, #pt-menu-6015 .ul-second-items .li-second-items.active .a-second-link {
+color: #000000;
+font-weight: 500;
+}
+#pt-menu-6015 .ul-third-items .li-third-items {
+background: #FFFFFF;
+}
+#pt-menu-6015 .ul-third-items .li-third-items:hover, #pt-menu-6015 .ul-third-items .li-third-items.active {
+background: #FFFFFF;
+}
+#pt-menu-6015 .ul-third-items .li-third-items .a-third-link {
+color: #666666;
+font-size: 1.4rem;
+text-transform: capitalize;
+font-weight: 400;
+}
+#pt-menu-6015 .ul-third-items .li-third-items .a-third-link:hover, #pt-menu-6015 .ul-third-items .li-third-items.active .a-third-link {
+color: #000000;
+font-weight: 400;
+}
+</style><div class="pt-menu horizontal-menu pt-menu-bar visible-lg  " id="pt-menu-6015"><input type="hidden" id="menu-effect-6015" class="menu-effect" value="none"><ul class="ul-top-items"><li class="li-top-item left " style="float: left"><a class="a-top-link" href="Kadin-Giyim-Moda "><span>Frau</span><i class="ion-ios-arrow-down" aria-hidden="true"></i></a><!-- Mega Menu --><div class="mega-menu-container sub-menu-container left " style=""><div class="row"><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-kleidung-kleid">Kleid</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-blusen-modelle">Bluse</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/frauen-sportbekleidung-bustier">Bustier</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/Damen-Shirt-Designs">Shirt</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/Damen-Rock-Designs">Rock</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-mode-hosen">Hose</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/Damen-Kleidung-Jacken-Designs">Jacke</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-kleidung-cardigan-mantel">Strickjacke/Mantel</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/frauen-t-shirt-t-shirt">T-Shirt</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/konfektionierte-damen-sweatshirts">sweatshirt</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damenbekleidung-trainingsanzüge">Trainingsanzug</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-kleidung-sortieren-modelsmodel">Kurze Hose</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/frau-salvar">Shalwar</a></h4></div><div class="col-md-6 sub-item2-content sub-item2-category-content" data-cols="6"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/damen-leggings-modelle">Strumpfhose</a></h4></div>
+
+
+
+													</div></div><!-- Flyout Menu --></li><li class="li-top-item left " style="float: left"><a class="a-top-link" href="erkek-hazır-giyim"><span>Männlich</span><i class="ion-ios-arrow-down" aria-hidden="true"></i></a><!-- Mega Menu --><div class="mega-menu-container sub-menu-container left " style=""><div class="row"><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/tshirt-ready-to-wear-mode">T-Shirt</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/ready-to-wear-herren-sweatshirts">Sweatshirt</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/junge-hosen-hosen">Trainingsanzug</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/herren-salvar-modelle">Shalwar</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/herren-sortiment-modelle">Kurze Hose</a></h4></div>
+
+
+
+													</div></div><!-- Flyout Menu --></li><li class="li-top-item left " style="float: left"><a class="a-top-link" href="hazır-giyim-akseuar"><span>Zubehörteil</span><i class="ion-ios-arrow-down" aria-hidden="true"></i></a><!-- Mega Menu --><div class="mega-menu-container sub-menu-container left " style=""><div class="row"><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/echtleder-damen-geldborsen-modelle">Geldbörsen für Damen</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/Echtleder-Herren-Geldbörsen-Modelle">Herren Geldbörse</a></h4></div><div class="col-md-12 sub-item2-content sub-item2-category-content" data-cols="12" style="clear: left;"><h4><a class="a-mega-second-link" href="https://yedek.newces.com.tr/leder-kartenhalter-geld-portfolio">Kartenhalter &amp; Visitenkartenhalter</a></h4></div>
+
+
+
+													</div></div><!-- Flyout Menu --></li><li class="li-top-item left " style="float: left"><a class="a-top-link" href="yeni-sezon-kadin-ve-erkek-giyim-modelleri"><span>Neu in</span></a></li><li class="li-top-item left " style="float: left"><a class="a-top-link" href="indirimli-kadin-giyim-moda"><span>Auslauf</span></a></li><li class="li-top-item left " style="float: left"><a class="a-top-link" href="günlük-kadin-kiyafetleri"><span>Täglich</span></a></li></ul></div></div><div class="col-cart"><div class="inner"><div class="box-setting btn-group"><button class="dropdown-toggle" data-toggle="dropdown"></button><ul class="dropdown-menu"><li class="currency"><form action="https://yedek.newces.com.tr/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency" class="header-dropdown"><div class="btn-group"><button class="btn btn-link dropdown-toggle" data-toggle="dropdown">                   <span>₺</span>                    <span class="hidden-xs hidden-sm">Currency</span>&nbsp;<i class="icon-right ion-ios-arrow-down"></i></button><ul class="dropdown-menu"><li><button class="currency-select btn btn-link btn-block" type="button" name="EUR">€ Euro</button></li><li><button class="currency-select btn btn-link btn-block" type="button" name="TRY">₺ Türk Lirası</button></li><li><button class="currency-select btn btn-link btn-block" type="button" name="USD">$ US Dollar</button></li></ul></div><input type="hidden" name="code" value=""><input type="hidden" name="redirect" value="https://yedek.newces.com.tr/"></form></li><li class="language"><form action="https://yedek.newces.com.tr/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="form-language" class="header-dropdown"><div class="btn-group"><button class="btn btn-link dropdown-toggle" data-toggle="dropdown"><img src="catalog/language/de-de/de-de.png" alt="Deutsch" title="Deutsch"><span class="hidden-xs hidden-sm">Language</span>&nbsp;<i class="icon-right ion-ios-arrow-down"></i></button><ul class="dropdown-menu"><li><button class="btn btn-link btn-block language-select" type="button" name="de-de"><img src="catalog/language/de-de/de-de.png" alt="Deutsch" title="Deutsch"> Deutsch</button></li><li><button class="btn btn-link btn-block language-select" type="button" name="en-gb"><img src="catalog/language/en-gb/en-gb.png" alt="English" title="English"> English</button></li><li><button class="btn btn-link btn-block language-select" type="button" name="tr-tr"><img src="catalog/language/tr-tr/tr-tr.png" alt="Türkçe" title="Türkçe"> Türkçe</button></li></ul></div><input type="hidden" name="code" value=""><input type="hidden" name="redirect" value="https://yedek.newces.com.tr/"></form></li><li id="top-links"><ul class="list-inline"><li class="dropdown"><a href="https://yedek.newces.com.tr/index.php?route=account/account" title="My Account"><i class="fa fa-user"></i><span>My Account</span><i class="icon-right ion-chevron-down"></i></a><ul class="dropdown-menu-right pt-account"><li><a id="pt-register-link" href="https://yedek.newces.com.tr/index.php?route=account/register">Register</a></li><li><a id="pt-login-link" href="https://yedek.newces.com.tr/index.php?route=account/login">Login</a></li></ul></li></ul></li><li><p class="text-header"><label>Free Delivery:</label> Take advantage of our time to save event</p></li><li><a href="https://yedek.newces.com.tr/index.php?route=checkout/cart" title="Shopping Cart"><i class="fa fa-shopping-cart"></i> <span>Shopping Cart</span></a></li><li><a href="https://yedek.newces.com.tr/index.php?route=checkout/checkout" title="Checkout"><i class="fa fa-share"></i> <span>Checkout</span></a></li><li><a href="https://yedek.newces.com.tr/index.php?route=information/contact"><span>Call Support: +90850 307 73 77</span></a></li></ul></div><a href="https://yedek.newces.com.tr/index.php?route=account/wishlist" id="wishlist-total"><span><span class="text-wishlist">Wish List</span> <span class="txt-count">0</span></span></a><div id="cart" class="btn-group btn-block"><button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="btn btn-inverse btn-block btn-lg dropdown-toggle"><span id="cart-total"><span class="txt-count">0</span> <span class="text-cart">0.00₺</span></span></button><ul class="dropdown-menu pull-right"><li><span class="cart-dropdown-menu-close"><i class="ion-android-close"></i></span><p class="text-center">Your shopping cart is empty!</p></li></ul></div></div></div></div><div class="col-search"><div id="search" class="input-group"><input type="text" name="search" value="" placeholder="Search" class="form-control input-lg"><span class="input-group-btn"><button type="button" class="btn btn-default btn-lg"><i class="fa fa-search"></i></button></span></div></div></div></div></header></div><div id="content"><div class="main-row layout-full"><div class="container"><div class="row"><div class="main-col col-sm-12 col-md-12"><div class="row sub-row"><div class="sub-col col-sm-12 col-md-12"></div></div><div class="row sub-row"><div class="sub-col col-sm-12 col-md-12"><div class="grid-newces"><div><img src="image/catalog/banner/1.jpg" class="img-fluid" white="100%" height:="" auto;=""></div><div class="px-5 text-center"><h2 style="font-family: 'Autography';">Classy Summer'21</h2><p>ENTDECKEN SIE DIE KOLLEKTION</p><a class="btn btn-outline-dark btn-block" href="abendkleider-gold-kreation" target="_blank">REZENSION</a></div></div><div class="grid-newces-2"><div class="px-5 text-center"><h2 style="font-family: 'Vidaloka', serif;">Eco Capsul'21</h2><p>ENTDECKEN SIE DIE KOLLEKTION</p><a class="btn btn-outline-dark btn-block" href="okologische-produkte-bio-kleidung" target="_blank">REZENSION</a></div><div><img src="image/catalog/banner/2.jpg" class="img-fluid grid-news-img-2" white="100%" height:="" auto;=""></div></div><div class="grid-newces-3"><div><img src="image/catalog/banner/3.jpg" class="img-fluid" white="100%" height:="" auto;=""></div><div class="px-5 text-center"><h2 style="font-family: 'Autography';">Leather &amp; Bags</h2><p>ENTDECKEN SIE DIE KOLLEKTION</p><a class="btn btn-outline-dark btn-block" href="konfektionszubehor" target="_blank">REZENSION</a></div></div></div></div></div></div></div></div></div><footer id="myDIV" class="container"><div class="footer-links">  
+<div class="container"><div class="inner btn-group-vertical">	
+<div class="row"><div class="col col-md-2 col-sm-6 col-xs-12"><div class="btn-group"><h5 id="btnGroupVerticalDrop2" data-toggle="dropdown" class="dropdown-toggle">Informationen<i class="visible-xs ion-chevron-down"></i></h5><div class="dropdown-menu footer-content footer-information" aria-labelledby="btnGroupVerticalDrop2"><ul class="list-unstyled"><li><a href="https://yedek.newces.com.tr/Neuheiten-über uns">Über Uns</a></li><li><a href="https://yedek.newces.com.tr/kostenloser-versand-kostenloser-umtausch-und-retoure">Lieferung und Rücksendung</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li><li><a href="https://yedek.newces.com.tr/Datenschutz-und-Cookies-Richtlinie">Datenschutz- und Cookie-Richtlinie</a></li><li><a href="https://yedek.newces.com.tr/News-Informations-Formular">Informationsformular</a></li><li><a href="https://yedek.newces.com.tr/mitgliedschaftsvereinbarung">Mitgliedschaftsvereinbarung</a></li></ul></div></div></div><div class="col col-md-2 col-sm-6 col-xs-12"><div class="btn-group"><h5 id="btnGroupVerticalDrop4" data-toggle="dropdown" class="dropdown-toggle">Kundendienst<i class="visible-xs ion-chevron-down"></i></h5><div class="dropdown-menu footer-content" aria-labelledby="btnGroupVerticalDrop4"><ul class="list-unstyled"><li><a href="https://yedek.newces.com.tr/index.php?route=information/contact">Kontaktieren Sie uns</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/return/add">Rückgabe</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/account">Mein Konto</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/order">Bestellhistorie</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/wishlist">Wunschliste</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=information/sitemap">Sitemap</a></li></ul></div></div></div><div class="col col-md-2 col-sm-6 col-xs-12"><div class="btn-group"><h5 id="btnGroupVerticalDrop5" data-toggle="dropdown" class="dropdown-toggle">Extras<i class="visible-xs ion-chevron-down"></i></h5><div class="dropdown-menu footer-content" aria-labelledby="btnGroupVerticalDrop5"><ul class="list-unstyled"><li class="hidden"><a href="https://yedek.newces.com.tr/index.php?route=product/manufacturer">Marken</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/voucher">Geschenkgutscheine</a></li><li class="hidden"><a href="https://yedek.newces.com.tr/index.php?route=affiliate/login">Partner</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=product/special">Spezial</a></li><li><a href="https://yedek.newces.com.tr/index.php?route=account/newsletter">Newsletter</a></li></ul></div></div></div><div class="col col-md-2 col-sm-6 col-xs-12"><div class="btn-group"><h5 id="btnGroupVerticalDrop1" data-toggle="dropdown" class="dropdown-toggle">Unsere Arbeitszeiten<i class="visible-xs ion-chevron-down"></i></h5><div class="dropdown-menu footer-content" aria-labelledby="btnGroupVerticalDrop1"><div class="footer-open-time"><p>Mo - Fr: <span>08:00 - 22:00</span></p><p>Sa: <span>9:00-20:00</span></p></div></div></div></div><div class="col col-md-4 col-sm-6 col-xs-12"><div class="btn-group"><h5 id="btnGroupVerticalDrop3" data-toggle="dropdown" class="dropdown-toggle visible-xs">Our Socials<i class="visible-xs ion-chevron-down"></i></h5><div class="dropdown-menu footer-content" aria-labelledby="btnGroupVerticalDrop3"><div class="footer-social"><a class="logo-footer"><img src="image/catalog/logo_newces.png" alt="newces-logo"></a><p>Folgen Sie uns in den sozialen Medien</p><div class="social"><a href="https://www.facebook.com/newces.tr" class="facebook" target="_blank" title="Facebook">Facebook</a><a href="https://www.instagram.com/newces/" target="_blank" class="instagram" title="Instagram">Instagram</a><a href="https://www.youtube.com/channel/UCEgHZZqmjme65lCrTl6S88g" target="_blank" class="youtube" title="Youtube">Youtube</a></div><div class="footer-app hidden"><a class="apple-store" href="#">Download it from<span>Apple Store</span></a><a class="google-store" href="#">Download it from<span>Google Play</span></a></div></div></div></div></div>	
+</div></div></div></div><div class="footer-copyright"><div class="container"><div class="inner"><p class="text-powered">Powered By <a href="https://kreatifmerkezi.com">Kreatifmerkezi</a>. Newces © 2024</p><p class="text-center"></p><div class="payment"><img src="image/catalog/bank.png" alt="payment"></div><p></p></div></div></div></footer></div><script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1351405765403127");fbq("set","agent","tmgoogletagmanager","1351405765403127");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1351405765403127&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1351405765403127");fbq("set","agent","gtmss","1351405765403127");fbq("track",google_tag_manager["rm"]["43353710"](9),{},{eventID:google_tag_manager["rm"]["43353710"](11)});</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1351405765403127&amp;ev=PageView&amp;noscript=1"></noscript>
+<div class="quickview-container"><div id="quickview-content"><!-- Load product content --></div><div id="quickview-bg-block"><!-- Background --></div><div class="quickview-load-img"><img src="https://yedek.newces.com.tr/image/catalog/ajax-loader.gif" alt=""></div><div class="lightbox-container lbo-quickview"></div><input type="hidden" id="qv-text-close" value="Close"><script type="text/javascript">
+$('#quickview-bg-block').click(function () {
+ptquickview.closeQVFrame();
+})
+if($('#product-product').length) {
+$('.lightbox-container.lbo-quickview').remove();
+}
+</script>
+</div></body>

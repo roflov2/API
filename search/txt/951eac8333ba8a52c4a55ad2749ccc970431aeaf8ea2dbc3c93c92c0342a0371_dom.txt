@@ -1,0 +1,2118 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Freemax Romania | Freemax disposable tank-Freemax gemm 80w</title>
+  <meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+  <meta name="keywords" content="freemax disposable vape">
+  <meta name="description" content="Freemax fireluke 4 coils, Freemax twister 2 80w kit, Freemax 200w kit, Freemax maxus 2 kit sunt făcute cu ingrediente de calitate.">
+  <meta name="author" content="Freemaxromania">
+  <meta name="generator" content="Freemaxromania">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+<link rel="icon" href="includes/templates/freemaxromania/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="includes/templates/freemaxromania/images/favicon.ico" type="image/x-icon">
+
+
+  <base href="https://www.freemaxromania.com/">
+  <link rel="canonical" href="https://www.freemaxromania.com/">
+  <link rel="alternate" hreflang="ro-RO" href="https://www.freemaxromania.com/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href="includes/templates/freemaxromania/css/style_plugins.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/freemaxromania/css/style_zo.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/freemaxromania/css/style_zp.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/freemaxromania/css/stylesheet.css">
+
+
+
+</head><body id="indexHomeBody">
+
+<!-- Page Loader -->
+<!--  -->
+        <!-- End Page Loader -->
+
+<div id="SMxKxav" class="wCgR">
+
+
+
+<div class="top-bar">
+    <div class="container-none">
+        <div class="scrollBar">
+            <div class="notices d-flex justify-content-center align-items-center">
+                <span>Transport gratuit</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Header-->
+<header id="header" class="header TfoSjm">
+    <div class="container-none p-0">
+        <div class="header-into d-flex">
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-start d-flex">
+                <!--Mobile Toggle-->
+                <button type="button" class="btn--link site-header__menu js-mobile-nav-toggle mobile-nav--open d-lg-none d-flex align-items-center ps-0">
+                    <i class="icon an an-times-l"></i><i class="icon an an-bars-l"></i>
+                </button>
+
+                <!--Search-->
+                <div class="site-search iconset ps-0 s-none"><i class="icon an an-search-l"></i> <span class="icon-label font-family-style">Cauta</span></div>
+
+            </div>
+
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-center d-flex">
+                <!--Logo / Menu Toggle-->
+                <div class="logo">
+                    <a href="https://www.freemaxromania.com/"><img src="includes/templates/freemaxromania/images/logo.png" alt="Freemaxromania" title="Freemaxromania" width="176" height="32" class="logo-img"><span class="logo-txt d-none">Freemaxromania</span></a>                </div>
+
+            </div>
+
+
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 align-self-center justify-content-end d-flex">
+
+
+
+                <!--Search-->
+                <div class="site-search iconset si-none"><i class="icon an an-search-l"></i> <span class="tooltip-label">Cauta</span></div>
+
+                <!--UserLink-->
+                <div class="user-link iconset s-none">
+                    <i class="icon an an-user-2"></i>
+                    <span class="tooltip-label">Contul meu</span>
+                    <div id="userLinks">
+                        <ul class="user-links">
+                                                                <li><a href="https://www.freemaxromania.com/index.php?main_page=login">Iesire din cont</a></li>
+                                                        </ul>
+                    </div>
+                </div>
+
+                <!--Wishlist-->
+                <div class="wishlist-link iconset s-none">
+                    <a href="https://www.freemaxromania.com/index.php?main_page=wishlist">
+                        <i class="icon an an-heart-l"></i>
+                        <span class="tooltip-label">Lista de dorințe</span>
+                                            </a>
+                </div>
+
+                <!--Minicart Drawer-->
+                <div class="header-cart iconset pe-0">
+                    <a href="#" class="site-header__cart btn-minicart" data-bs-toggle="modal" data-bs-target="#uXNLPDhGA">
+                        <i class="icon an an-cart-l"></i>
+                        <span class="tooltip-label">Cos de cumparaturi</span>
+                        <span class="site-cart-count counter ai-none">0</span>
+                    </a>
+                </div>
+
+
+                <!--Setting Dropdown-->
+                <div class="setting-link iconset ai-none"><i class="icon an an-right-bar-s"></i><span class="tooltip-label">Setări</span></div>
+                <div id="yavOMw">
+                    <div class="currency-picker">
+                        <span class="ttl">Selectați Moneda</span>
+                        <ul id="currencies" class="cnrLangList">
+                            &nbsp;&nbsp;<li><a href="https://www.freemaxromania.com/index.html?currency=USD">USD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=EUR">EUR</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=GBP">GBP</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=CAD">CAD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=AUD">AUD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=NZD">NZD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=ZAR">ZAR</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=DKK">DKK</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=NOK">NOK</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=SEK">SEK</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=CHF">CHF</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=BRL">BRL</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=ARS">ARS</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=COP">COP</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=UYU">UYU</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=PEN">PEN</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=CLP">CLP</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=MXN">MXN</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=PLN">PLN</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=CZK">CZK</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=RSD">RSD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=TRY">TRY</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=HUF">HUF</a></li><li class="selected"><a class="active" href="https://www.freemaxromania.com/index.html?currency=RON">RON</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=BGN">BGN</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=ILS">ILS</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=AED">AED</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=KWD">KWD</a></li><li><a href="https://www.freemaxromania.com/index.html?currency=JPY">JPY</a></li>                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="navbar-link d-flex s-none">
+            <!--Main Navigation Desktop-->
+            <nav class="grid__item s-none" id="OfYoPHPtst">
+                <ul id="siteNav" class="site-nav medium left hidearrow"><li>
+<a class="site-nav" href="https://www.freemaxromania.com/bobine-c-18/">bobine</a></li><li class="lvl1 parent HQSkufYx">
+<a class="site-nav" href="https://www.freemaxromania.com/p%C4%83st%C4%83i-c-19/">păstăi<i class="an an-angle-down-l"></i></a><div class="HQSkufYx style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/autopod50-c-19_23/">autopod50</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/fireluke-c-19_20/">fireluke</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/galex-c-19_26/">galex</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/gemm-c-19_24/">gemm</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/m-pro-c-19_21/">m pro</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/marvos-c-19_29/">marvos</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/maxpod-c-19_22/">maxpod</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/maxus-c-19_27/">maxus</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/md-c-19_28/">md</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/onnix-c-19_30/">onnix</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/starlux-c-19_25/">starlux</a></div></div></div></li><li class="lvl1 parent HQSkufYx">
+<a class="site-nav" href="https://www.freemaxromania.com/tancuri-c-12/">tancuri<i class="an an-angle-down-l"></i></a><div class="HQSkufYx style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/fireluke-c-12_14/">fireluke</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/gemm-c-12_17/">gemm</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/m-pro-c-12_13/">m pro</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/marvos-c-12_16/">marvos</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/maxus-c-12_15/">maxus</a></div></div></div></li><li class="lvl1 parent HQSkufYx">
+<a class="site-nav" href="https://www.freemaxromania.com/truse-c-1/">truse<i class="an an-angle-down-l"></i></a><div class="HQSkufYx style4"> <div class="row"><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/autopod-c-1_9/">autopod</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/frio-pod-c-1_5/">frio pod</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/galex-c-1_11/">galex</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/gemm-c-1_3/">gemm</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/marvos-c-1_6/">marvos</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/maxpod-c-1_8/">maxpod</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/maxus-c-1_2/">maxus</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/onnix-c-1_7/">onnix</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/">răsucitor</a></div><div class="lvl-1 col-md-3 col-lg-3">
+<a class="site-nav lvl-1 menu-title" href="https://www.freemaxromania.com/starlux-c-1_10/">starlux</a></div></div></div></li></ul>            </nav>
+        </div>
+    </div>
+    <!--Search Popup-->
+    <div id="sXsPWvf" class="search-drawer">
+        <div class="container">
+            <span class="closeSearch an an-times-l"></span>
+            <form name="quick_find_header" action="https://www.freemaxromania.com/index.php?main_page=advanced_search_result" method="get" id="header-search" class="form minisearch"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1">                <label class="label"><span>Cauta</span></label>
+                <div class="control">
+                    <div class="searchField">
+                        <div class="input-box">
+                            <button type="submit" title="Cauta" class="action search"><i class="icon an an-search-l"></i></button>
+                            <input type="text" name="keyword" value="" placeholder="Introduceti cuvintele aici" class="input-text">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+<!--End Header-->
+
+<!--Mobile Menu-->
+<div class="EqGtEms" role="navigation">
+    <div class="JGQPssDjG"><i class="icon an an-times-l pull-right"></i></div>
+    <ul id="mEhcdjrX" class="mobile-nav"><li>
+<a href="https://www.freemaxromania.com/bobine-c-18/">bobine</a></li><li class="lvl1 parent HQSkufYx">
+<a href="https://www.freemaxromania.com/p%C4%83st%C4%83i-c-19/">păstăi<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.freemaxromania.com/autopod50-c-19_23/">autopod50</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/fireluke-c-19_20/">fireluke</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/galex-c-19_26/">galex</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/gemm-c-19_24/">gemm</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/m-pro-c-19_21/">m pro</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/marvos-c-19_29/">marvos</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/maxpod-c-19_22/">maxpod</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/maxus-c-19_27/">maxus</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/md-c-19_28/">md</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/onnix-c-19_30/">onnix</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/starlux-c-19_25/">starlux</a></li></ul></li><li class="lvl1 parent HQSkufYx">
+<a href="https://www.freemaxromania.com/tancuri-c-12/">tancuri<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.freemaxromania.com/fireluke-c-12_14/">fireluke</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/gemm-c-12_17/">gemm</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/m-pro-c-12_13/">m pro</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/marvos-c-12_16/">marvos</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/maxus-c-12_15/">maxus</a></li></ul></li><li class="lvl1 parent HQSkufYx">
+<a href="https://www.freemaxromania.com/truse-c-1/">truse<i class="an an-plus-l"></i></a><ul><li>
+<a class="site-nav" href="https://www.freemaxromania.com/autopod-c-1_9/">autopod</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/frio-pod-c-1_5/">frio pod</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/galex-c-1_11/">galex</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/gemm-c-1_3/">gemm</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/marvos-c-1_6/">marvos</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/maxpod-c-1_8/">maxpod</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/maxus-c-1_2/">maxus</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/onnix-c-1_7/">onnix</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/">răsucitor</a></li><li>
+<a class="site-nav" href="https://www.freemaxromania.com/starlux-c-1_10/">starlux</a></li></ul></li><li class="acLink"></li><li class="lvl1 bottom-link"><a href="https://www.freemaxromania.com/index.php?main_page=login">Iesire din cont</a></li><li class="lvl1 bottom-link"><a href="https://www.freemaxromania.com/index.php?main_page=create_account">Inregistreaza-te</a></li><li class="lvl1 bottom-link"><a href="https://www.freemaxromania.com/index.php?main_page=wishlist">Lista de dorințe</a></li></ul></div>
+<!--End Mobile Menu-->
+<!--Body Container-->
+<div id="page-content">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+
+
+    
+
+<section class="slideshow slide-style1">
+    <div class="piNALBHeL container-none p-0 slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3200px;"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" role="tabpanel" id="slick-slide00" style="width: 1600px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.freemaxromania.com/onnix-c-1_7/" tabindex="0">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner3d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner3m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/freemaxromania/images/freemax4/banner3d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide01" style="width: 1600px; position: relative; left: -1600px; top: 0px; z-index: 998; opacity: 0;"><div><div class="slide-content" style="width: 100%; display: inline-block;">
+            <a href="https://www.freemaxromania.com/marvos-c-1_6/" tabindex="-1">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner8d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner8m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/freemaxromania/images/freemax4/banner8d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2" tabindex="-1">2</button></li></ul></div>
+</section>
+
+<section class="product-modular product-style1 mt-spacing">
+    <div class="container-none">
+        <div class="modular-title">
+            <h2 class="main-title font-family-style">Produsele noastre</h2>
+        </div>
+        
+            
+            
+            
+            
+                                            
+<!-- bof: specials -->
+<section class="AcMpjtw">
+
+
+<div class="productSlider DfZiS slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 8272px; transform: translate3d(-1504px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg" alt="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" title="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=73" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=73" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg" alt="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" title="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=74" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=74" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1">Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg" alt="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" title="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=80" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=80" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1">Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg" alt="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" title="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=79" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=79" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1">Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-romania-freemax-maxpod-trusa-de-cerc-galben-de-r%C4%83%C8%99in%C4%83-40p6272-p-72.html" tabindex="0"><img src="images/truse/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_trusa_de_cerc_galben_de_r_in_40P6272.jpg" alt="Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272" title="Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_trusa_de_cerc_galben_de_r_in_40P6272.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=72" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=72" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-romania-freemax-maxpod-trusa-de-cerc-galben-de-r%C4%83%C8%99in%C4%83-40p6272-p-72.html" tabindex="0">Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-pod-vape-freemax-twister-kit-de-30-w-aur-40p6277-p-77.html" tabindex="0"><img src="images/truse/rasucitor/Freemax_Pod_Vape_FreeMAX_TWISTER_kit_de_30_W_aur_40P6277.jpg" alt="Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277" title="Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/rasucitor/Freemax_Pod_Vape_FreeMAX_TWISTER_kit_de_30_W_aur_40P6277.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=77" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=77" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-pod-vape-freemax-twister-kit-de-30-w-aur-40p6277-p-77.html" tabindex="0">Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-kit-freemax-maxpod-trusa-de-cerc-fibr%C4%83-de-carbon-neagr%C4%83-40p6275-p-75.html" tabindex="0"><img src="images/truse/maxpod/Freemax_Vape_Kit_FreeMAX_MAXPOD_trusa_de_cerc_fibr_de_carbon_neagr_40P6275.jpg" alt="Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275" title="Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/maxpod/Freemax_Vape_Kit_FreeMAX_MAXPOD_trusa_de_cerc_fibr_de_carbon_neagr_40P6275.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=75" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=75" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-kit-freemax-maxpod-trusa-de-cerc-fibr%C4%83-de-carbon-neagr%C4%83-40p6275-p-75.html" tabindex="0">Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-reviews-freemax-twister-kit-de-30-w-curcubeu-40p6276-p-76.html" tabindex="0"><img src="images/truse/rasucitor/Freemax_Vape_Reviews_FreeMAX_TWISTER_kit_de_30_W_curcubeu_40P6276.jpg" alt="Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276" title="Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/rasucitor/Freemax_Vape_Reviews_FreeMAX_TWISTER_kit_de_30_W_curcubeu_40P6276.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=76" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=76" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-reviews-freemax-twister-kit-de-30-w-curcubeu-40p6276-p-76.html" tabindex="0">Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-flavormax-best-freemax-twister-kit-de-30-w-negru-40p6278-p-78.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Flavormax_Best_FreeMAX_TWISTER_kit_de_30_W_negru_40P6278.jpg" alt="Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278" title="Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/rasucitor/Freemax_Flavormax_Best_FreeMAX_TWISTER_kit_de_30_W_negru_40P6278.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=78" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=78" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-flavormax-best-freemax-twister-kit-de-30-w-negru-40p6278-p-78.html" tabindex="-1">Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg" alt="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" title="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" width="200" height="200" class="primary blur-up lazyloaded" data-src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=73" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=73" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg" alt="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" title="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=74" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=74" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1">Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg" alt="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" title="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=80" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=80" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1">Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg" alt="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" title="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=79" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=79" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1">Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-romania-freemax-maxpod-trusa-de-cerc-galben-de-r%C4%83%C8%99in%C4%83-40p6272-p-72.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_trusa_de_cerc_galben_de_r_in_40P6272.jpg" alt="Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272" title="Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_trusa_de_cerc_galben_de_r_in_40P6272.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=72" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=72" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-romania-freemax-maxpod-trusa-de-cerc-galben-de-r%C4%83%C8%99in%C4%83-40p6272-p-72.html" tabindex="-1">Freemax Vape Romania - FreeMAX MAXPOD trusa de cerc galben de rășină 40P6272</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="10" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-pod-vape-freemax-twister-kit-de-30-w-aur-40p6277-p-77.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Pod_Vape_FreeMAX_TWISTER_kit_de_30_W_aur_40P6277.jpg" alt="Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277" title="Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Pod_Vape_FreeMAX_TWISTER_kit_de_30_W_aur_40P6277.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=77" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=77" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-pod-vape-freemax-twister-kit-de-30-w-aur-40p6277-p-77.html" tabindex="-1">Freemax Pod Vape - FreeMAX TWISTER kit de 30 W aur 40P6277</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="11" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-kit-freemax-maxpod-trusa-de-cerc-fibr%C4%83-de-carbon-neagr%C4%83-40p6275-p-75.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Kit_FreeMAX_MAXPOD_trusa_de_cerc_fibr_de_carbon_neagr_40P6275.jpg" alt="Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275" title="Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Kit_FreeMAX_MAXPOD_trusa_de_cerc_fibr_de_carbon_neagr_40P6275.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=75" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=75" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-kit-freemax-maxpod-trusa-de-cerc-fibr%C4%83-de-carbon-neagr%C4%83-40p6275-p-75.html" tabindex="-1">Freemax Vape Kit - FreeMAX MAXPOD trusa de cerc fibră de carbon neagră 40P6275</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-reviews-freemax-twister-kit-de-30-w-curcubeu-40p6276-p-76.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Vape_Reviews_FreeMAX_TWISTER_kit_de_30_W_curcubeu_40P6276.jpg" alt="Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276" title="Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Vape_Reviews_FreeMAX_TWISTER_kit_de_30_W_curcubeu_40P6276.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=76" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=76" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-reviews-freemax-twister-kit-de-30-w-curcubeu-40p6276-p-76.html" tabindex="-1">Freemax Vape Reviews - FreeMAX TWISTER kit de 30 W curcubeu 40P6276</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-flavormax-best-freemax-twister-kit-de-30-w-negru-40p6278-p-78.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Flavormax_Best_FreeMAX_TWISTER_kit_de_30_W_negru_40P6278.jpg" alt="Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278" title="Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Flavormax_Best_FreeMAX_TWISTER_kit_de_30_W_negru_40P6278.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=78" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=78" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-flavormax-best-freemax-twister-kit-de-30-w-negru-40p6278-p-78.html" tabindex="-1">Freemax Flavormax Best - FreeMAX TWISTER kit de 30 W negru 40P6278</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg" alt="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" title="Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Bucharest_FreeMAX_MAXPOD_trusa_de_cerc_r_in_neagr_40P6273.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=73" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=73" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-bucharest-freemax-maxpod-trusa-de-cerc-r%C4%83%C8%99in%C4%83-neagr%C4%83-40p6273-p-73.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX MAXPOD trusa de cerc rășină neagră 40P6273</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1"><img src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg" alt="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" title="Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/maxpod/Freemax_Vape_Price_FreeMAX_MAXPOD_trusa_de_cerc_fibra_de_carbon_rosu_40P6274.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=74" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=74" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-1_8/freemax-vape-price-freemax-maxpod-trusa-de-cerc-fibra-de-carbon-rosu-40p6274-p-74.html" tabindex="-1">Freemax Vape Price - FreeMAX MAXPOD trusa de cerc fibra de carbon rosu 40P6274</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg" alt="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" title="Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Disposable_Vape_FreeMAX_TWISTER_kit_de_30_W_verde_40P6280.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=80" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=80" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-disposable-vape-freemax-twister-kit-de-30-w-verde-40p6280-p-80.html" tabindex="-1">Freemax Disposable Vape - FreeMAX TWISTER kit de 30 W verde 40P6280</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1"><img src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg" alt="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" title="Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279" width="200" height="200" class="primary blur-up lazyload" data-src="images/truse/rasucitor/Freemax_Vape_FreeMAX_TWISTER_kit_de_30_W_argint_40P6279.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=79" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=79" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/r%C4%83sucitor-c-1_4/freemax-vape-freemax-twister-kit-de-30-w-argint-40p6279-p-79.html" tabindex="-1">Freemax Vape - FreeMAX TWISTER kit de 30 W argint 40P6279</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: specials -->
+            
+            
+            
+                </div>
+</section>
+
+
+<section class="lattice-grid subject-style1 mt-spacing">
+    <div class="container-none">
+        <div class="subject-items">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <a href="https://www.freemaxromania.com/maxpod-c-1_8/">
+                    <div class="stack-item">
+                        <div class="item-images">
+                            <img src="includes/templates/freemaxromania/images/freemax4/banner2m.jpg">
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 item-unit">
+                <a href="https://www.freemaxromania.com/marvos-c-1_6/">
+                    <div class="stack-item">
+                        <div class="item-images">
+                            <img src="includes/templates/freemaxromania/images/freemax4/banner7m.jpg">
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="product-modular product-style2 mt-spacing">
+    <div class="container-none">
+        <div class="modular-title">
+            <h2 class="main-title font-family-style">Cele mai vandute</h2>
+        </div>
+        
+                                            
+<!-- bof: whats_new -->
+<section class="AcMpjtw">
+
+
+<div class="productSlider DfZiS slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 10528px; transform: translate3d(-1504px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-4" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1"><img src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg" alt="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" title="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=283" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=283" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1"><img src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg" alt="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" title="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=289" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=289" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1">Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1"><img src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png" alt="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" title="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" width="200" height="129" class="primary blur-up lazyload" data-src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=281" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=281" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1">Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg" alt="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" title="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=287" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=287" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1">Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-reviews-freemax-gemm-p%C4%83staie-albastru-40p62334-p-286.html" tabindex="0"><img src="images/pastai/gemm/Freemax_Vape_Reviews_FreeMAX_GEMM_p_staie_albastru_40P62334.jpg" alt="Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334" title="Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Reviews_FreeMAX_GEMM_p_staie_albastru_40P62334.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=286" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=286" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-reviews-freemax-gemm-p%C4%83staie-albastru-40p62334-p-286.html" tabindex="0">Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxus-c-19_27/freemax-romania-freemax-maxus-metal-dtl-pod-negru-40p62341-p-291.html" tabindex="0"><img src="images/pastai/maxus/Freemax_Romania_FreeMAX_MAXUS_metal_dtl_pod_negru_40P62341.jpg" alt="Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341" title="Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/maxus/Freemax_Romania_FreeMAX_MAXUS_metal_dtl_pod_negru_40P62341.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=291" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=291" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxus-c-19_27/freemax-romania-freemax-maxus-metal-dtl-pod-negru-40p62341-p-291.html" tabindex="0">Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-price-freemax-gemm-p%C4%83staie-clar-40p62332-p-284.html" tabindex="0"><img src="images/pastai/gemm/Freemax_Vape_Price_FreeMAX_GEMM_p_staie_clar_40P62332.jpg" alt="Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332" title="Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Price_FreeMAX_GEMM_p_staie_clar_40P62332.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=284" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=284" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-price-freemax-gemm-p%C4%83staie-clar-40p62332-p-284.html" tabindex="0">Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-vape-romania-freemax-maxpod-pod-cerc-negru-40p62330-p-282.html" tabindex="0"><img src="images/pastai/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_pod_cerc_negru_40P62330.png" alt="Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330" title="Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330" width="200" height="150" class="primary blur-up lazyload" data-src="images/pastai/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_pod_cerc_negru_40P62330.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=282" tabindex="0"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=282" tabindex="0"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-vape-romania-freemax-maxpod-pod-cerc-negru-40p62330-p-282.html" tabindex="0">Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/galex-c-19_26/freemax-disposable-vape-freemax-galex-p%C4%83staie-negru-40p62340-p-290.html" tabindex="-1"><img src="images/pastai/galex/Freemax_Disposable_Vape_FreeMAX_GALEX_p_staie_negru_40P62340.jpg" alt="Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340" title="Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/galex/Freemax_Disposable_Vape_FreeMAX_GALEX_p_staie_negru_40P62340.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=290" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=290" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/galex-c-19_26/freemax-disposable-vape-freemax-galex-p%C4%83staie-negru-40p62340-p-290.html" tabindex="-1">Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-disposable-vape-freemax-m-pro-sticla-de-schimb-tipul-1-40p62328-p-280.html" tabindex="-1"><img src="images/pastai/m-pro/Freemax_Disposable_Vape_FreeMAX_M_PRO_sticla_de_schimb_Tipul_1_40P62328.png" alt="Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328" title="Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328" width="200" height="129" class="primary blur-up lazyload" data-src="images/pastai/m-pro/Freemax_Disposable_Vape_FreeMAX_M_PRO_sticla_de_schimb_Tipul_1_40P62328.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=280" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=280" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-disposable-vape-freemax-m-pro-sticla-de-schimb-tipul-1-40p62328-p-280.html" tabindex="-1">Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-kit-freemax-gemm-p%C4%83staie-negru-40p62333-p-285.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Vape_Kit_FreeMAX_GEMM_p_staie_negru_40P62333.jpg" alt="Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333" title="Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Kit_FreeMAX_GEMM_p_staie_negru_40P62333.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=285" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=285" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-kit-freemax-gemm-p%C4%83staie-negru-40p62333-p-285.html" tabindex="-1">Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-flavormax-best-freemax-maxpod-p%C4%83staie-negru-40p62336-p-288.html" tabindex="-1"><img src="images/pastai/maxpod/Freemax_Flavormax_Best_FreeMAX_MAXPOD_p_staie_negru_40P62336.jpg" alt="Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336" title="Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/maxpod/Freemax_Flavormax_Best_FreeMAX_MAXPOD_p_staie_negru_40P62336.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=288" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=288" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-flavormax-best-freemax-maxpod-p%C4%83staie-negru-40p62336-p-288.html" tabindex="-1">Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1"><img src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg" alt="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" title="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=283" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=283" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1"><img src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg" alt="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" title="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=289" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=289" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1">Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1"><img src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png" alt="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" title="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" width="200" height="129" class="primary blur-up lazyload" data-src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=281" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=281" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1">Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg" alt="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" title="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=287" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=287" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1">Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="12" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-reviews-freemax-gemm-p%C4%83staie-albastru-40p62334-p-286.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Vape_Reviews_FreeMAX_GEMM_p_staie_albastru_40P62334.jpg" alt="Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334" title="Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Reviews_FreeMAX_GEMM_p_staie_albastru_40P62334.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=286" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=286" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-reviews-freemax-gemm-p%C4%83staie-albastru-40p62334-p-286.html" tabindex="-1">Freemax Vape Reviews - FreeMAX GEMM păstaie albastru 40P62334</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="13" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxus-c-19_27/freemax-romania-freemax-maxus-metal-dtl-pod-negru-40p62341-p-291.html" tabindex="-1"><img src="images/pastai/maxus/Freemax_Romania_FreeMAX_MAXUS_metal_dtl_pod_negru_40P62341.jpg" alt="Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341" title="Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/maxus/Freemax_Romania_FreeMAX_MAXUS_metal_dtl_pod_negru_40P62341.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=291" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=291" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxus-c-19_27/freemax-romania-freemax-maxus-metal-dtl-pod-negru-40p62341-p-291.html" tabindex="-1">Freemax Romania - FreeMAX MAXUS metal dtl pod negru 40P62341</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="14" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-price-freemax-gemm-p%C4%83staie-clar-40p62332-p-284.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Vape_Price_FreeMAX_GEMM_p_staie_clar_40P62332.jpg" alt="Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332" title="Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Price_FreeMAX_GEMM_p_staie_clar_40P62332.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=284" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=284" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-price-freemax-gemm-p%C4%83staie-clar-40p62332-p-284.html" tabindex="-1">Freemax Vape Price - FreeMAX GEMM păstaie clar 40P62332</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="15" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-vape-romania-freemax-maxpod-pod-cerc-negru-40p62330-p-282.html" tabindex="-1"><img src="images/pastai/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_pod_cerc_negru_40P62330.png" alt="Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330" title="Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330" width="200" height="150" class="primary blur-up lazyload" data-src="images/pastai/maxpod/Freemax_Vape_Romania_FreeMAX_MAXPOD_pod_cerc_negru_40P62330.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=282" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=282" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-vape-romania-freemax-maxpod-pod-cerc-negru-40p62330-p-282.html" tabindex="-1">Freemax Vape Romania - FreeMAX MAXPOD pod cerc negru 40P62330</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="16" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/galex-c-19_26/freemax-disposable-vape-freemax-galex-p%C4%83staie-negru-40p62340-p-290.html" tabindex="-1"><img src="images/pastai/galex/Freemax_Disposable_Vape_FreeMAX_GALEX_p_staie_negru_40P62340.jpg" alt="Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340" title="Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/galex/Freemax_Disposable_Vape_FreeMAX_GALEX_p_staie_negru_40P62340.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=290" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=290" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/galex-c-19_26/freemax-disposable-vape-freemax-galex-p%C4%83staie-negru-40p62340-p-290.html" tabindex="-1">Freemax Disposable Vape - FreeMAX GALEX păstaie negru 40P62340</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="17" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-disposable-vape-freemax-m-pro-sticla-de-schimb-tipul-1-40p62328-p-280.html" tabindex="-1"><img src="images/pastai/m-pro/Freemax_Disposable_Vape_FreeMAX_M_PRO_sticla_de_schimb_Tipul_1_40P62328.png" alt="Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328" title="Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328" width="200" height="129" class="primary blur-up lazyload" data-src="images/pastai/m-pro/Freemax_Disposable_Vape_FreeMAX_M_PRO_sticla_de_schimb_Tipul_1_40P62328.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=280" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=280" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-disposable-vape-freemax-m-pro-sticla-de-schimb-tipul-1-40p62328-p-280.html" tabindex="-1">Freemax Disposable Vape - FreeMAX M PRO sticla de schimb Tipul 1 40P62328</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="18" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-kit-freemax-gemm-p%C4%83staie-negru-40p62333-p-285.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Vape_Kit_FreeMAX_GEMM_p_staie_negru_40P62333.jpg" alt="Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333" title="Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Vape_Kit_FreeMAX_GEMM_p_staie_negru_40P62333.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=285" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=285" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-vape-kit-freemax-gemm-p%C4%83staie-negru-40p62333-p-285.html" tabindex="-1">Freemax Vape Kit - FreeMAX GEMM păstaie negru 40P62333</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="19" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-flavormax-best-freemax-maxpod-p%C4%83staie-negru-40p62336-p-288.html" tabindex="-1"><img src="images/pastai/maxpod/Freemax_Flavormax_Best_FreeMAX_MAXPOD_p_staie_negru_40P62336.jpg" alt="Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336" title="Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/maxpod/Freemax_Flavormax_Best_FreeMAX_MAXPOD_p_staie_negru_40P62336.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=288" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=288" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/maxpod-c-19_22/freemax-flavormax-best-freemax-maxpod-p%C4%83staie-negru-40p62336-p-288.html" tabindex="-1">Freemax Flavormax Best - FreeMAX MAXPOD păstaie negru 40P62336</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="20" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1"><img src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg" alt="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" title="Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/autopod50/Freemax_Vape_Bucharest_FreeMAX_AUTOPOD50_p_staie_negru_40P62331.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=283" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=283" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/autopod50-c-19_23/freemax-vape-bucharest-freemax-autopod50-p%C4%83staie-negru-40p62331-p-283.html" tabindex="-1">Freemax Vape Bucharest - FreeMAX AUTOPOD50 păstaie negru 40P62331</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="21" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1"><img src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg" alt="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" title="Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/starlux/Freemax_Vape_FreeMAX_STARLUX_p_staie_negru_40P62338.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=289" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=289" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/starlux-c-19_25/freemax-vape-freemax-starlux-p%C4%83staie-negru-40p62338-p-289.html" tabindex="-1">Freemax Vape - FreeMAX STARLUX păstaie negru 40P62338</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="22" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1"><img src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png" alt="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" title="Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329" width="200" height="129" class="primary blur-up lazyload" data-src="images/pastai/m-pro/Freemax_Romania_FreeMAX_M_PRO_sticla_de_schimb_transparent_40P62329.png"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=281" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=281" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/m-pro-c-19_21/freemax-romania-freemax-m-pro-sticla-de-schimb-transparent-40p62329-p-281.html" tabindex="-1">Freemax Romania - FreeMAX M PRO sticla de schimb transparent 40P62329</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div><div class="slick-slide slick-cloned" data-slick-index="23" id="" aria-hidden="true" tabindex="-1" style="width: 346px;"><div><div class="col-6 col-sm-6 col-md-4 col-lg-3 item" style="width: 100%; display: inline-block;"><div class="list-item"><div class="UONuLS">
+
+    <a class="dAHUwgyHhw" href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1"><img src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg" alt="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" title="Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335" width="200" height="200" class="primary blur-up lazyload" data-src="images/pastai/gemm/Freemax_Pod_Vape_FreeMAX_GEMM_p_staie_ro_u_40P62335.jpg"></a>
+
+    <div class="button-set style0 d-none d-md-block">
+
+        <ul>
+
+            <li><a class="btn-icon btn cartIcon pro-addtocart-popup" href="https://www.freemaxromania.com/index.html?action=buy_now&amp;products_id=287" tabindex="-1"><i class="icon an an-cart-l"></i> <span class="tooltip-label top">Adaugă în coş</span></a></li>
+
+            <li><a class="btn-icon wishlist add-to-wishlist" href="https://www.freemaxromania.com/index.php?main_page=wishlist&amp;action=wishlist_add_product&amp;products_id=287" tabindex="-1"><i class="icon an an-heart-l"></i> <span class="tooltip-label top">Adaugă la lista de dorințe</span></a></li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<div class="ALuoaiPtzms text-left">
+
+    <div class="ZYSfT">
+
+        <a href="https://www.freemaxromania.com/gemm-c-19_24/freemax-pod-vape-freemax-gemm-p%C4%83staie-ro%C8%99u-40p62335-p-287.html" tabindex="-1">Freemax Pod Vape - FreeMAX GEMM păstaie roșu 40P62335</a>
+
+    </div>
+
+    <div class="product-price">
+
+        Pretul nu este disponibil
+
+    </div>
+
+
+</div></div></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+
+</section>
+<!-- eof: whats_new -->
+            
+            
+            
+            
+            
+            
+            
+                </div>
+</section>
+
+<section class="slideshow slide-style2 mt-spacing">
+    <div class="container-none p-0">
+        <div class="slide-content">
+            <a href="https://www.freemaxromania.com/maxpod-c-1_8/">
+                <div class="banner-image">
+                    <picture>
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner4d.jpg" media="(min-width: 768px)">
+                        <source srcset="includes/templates/freemaxromania/images/freemax4/banner4m.jpg" media="(max-width: 767px)">
+                        <img src="includes/templates/freemaxromania/images/freemax4/banner4d.jpg">
+                    </picture>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>                
+            </div>
+            <!--End Body Container-->
+
+
+
+
+
+<footer class="footer footer-8 mt-5">
+    <div class="VBnP clearfix bg-transparent">
+        <div class="container-none">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">Să rămânem în legătură</h4>
+                    <p class="p-contact">Ne vedem pe interweb-uri.</p>
+                    <ul class="list-inline social-icons mt-3 pt-1">
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Facebook" aria-label="Facebook">
+                                <i class="an an-facebook"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Instagram" aria-label="Instagram">
+                                <i class="an an-pinterest-p"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Twitter" aria-label="Twitter">
+                                <i class="an an-instagram"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="TikTok" aria-label="TikTok">
+                                <i class="an an-tiktok"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" data-ts-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Whatsapp" aria-label="Whatsapp">
+                                <i class="an an-whatsapp"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 footer-links">
+                    <h4 class="h4 text-transform-title">Informatii</h4>
+                    <ul class="p-0">
+                          <li><a rel="nofollow" href="https://www.freemaxromania.com/contact_us.html">Contactați-ne</a></li>
+  <li><a rel="nofollow" href="https://www.freemaxromania.com/politica-de-confiden%C8%9Bialitate-ezp-2.html">Politica de confidențialitate</a></li>
+  <li><a rel="nofollow" href="https://www.freemaxromania.com/termeni-de-utilizare-ezp-3.html">Termeni de utilizare</a></li>
+  <li><a rel="nofollow" href="https://www.freemaxromania.com/cheltuieli-de-expedi%C8%9Bie-ezp-4.html">Cheltuieli de expediție</a></li>
+  <li><a rel="nofollow" href="https://www.freemaxromania.com/politica-de-garan%C8%9Bie-%C8%99i-retur-ezp-5.html">Politica de garanție și retur</a></li>
+  <li><a rel="nofollow" href="https://www.freemaxromania.com/politica-de-v%C3%A2rst%C4%83-ezp-6.html">Politica de vârstă</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 footer-links">
+                    <h4 class="text-transform-title">Buletin informativ</h4>
+                    <p class="p-news">Obțineți actualizări instantanee despre noile noastre produse și promoții speciale!</p>
+                    <div class="email-input d-flex">
+                        <input class="input-box" type="text" placeholder="Email Address">
+                        <button class="input-but ai-none" type="button"><span>Abonati-va</span></button>
+                        <button class="input-but" type="button"><i class="an input_icon"></i></button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="footerBox" class="uVYMst clearfix bg-transparent">
+        <div class="container-none">
+            <div class="d-flex-center flex-column justify-content-md-between flex-md-row-reverse">
+                <img src="images/payment.png" alt="Paypal Visa Payments">
+                <div class="copy-white copytext text-uppercase">Copyright © 2024 <a href="/" target="_blank">Freemaxromania</a>.</div>
+				<p><b> AVERTISMENT:</b> Produsele vândute pe<span> &nbsp; Freemaxromania</span><span>.com poate conține nicotină, o substanță chimică foarte dependentă. Produsele oferite pe site nu sunt destinate utilizării de către minori cu vârsta sub 18 ani, femei însărcinate sau care alăptează, persoane cu probleme cardiovasculare, persoane cu tulburări convulsive sau oricine ar trebui să evite utilizarea produselor din tutun sau nicotină din motive medicale. Nu lăsați întotdeauna țigările electronice la îndemâna copiilor.</span></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+            <!--Scoll Top-->
+            <span id="DHFUUAYJvE" class="rounded-2"><i class="icon an an-arw-up"></i></span> 
+            <!--End Scoll Top-->
+
+            <!--MiniCart Drawer-->
+<div class="minicart-right-drawer modal right fade" id="uXNLPDhGA">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div id="cart-drawer" class="block block-cart">
+                            <div class="minicart-header">
+                                <a href="javascript:void(0);" class="close-cart" data-bs-dismiss="modal" aria-label="Close"><i class="an an-times-r" aria-hidden="true" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Close" aria-label="Close"></i></a>
+                                <h4 class="fs-6 text-black">Coșul tău (0 Articole)</h4>
+                            </div>
+                            <div class="minicart-content">
+                                <ul class="m-0 clearfix">
+                                                                        
+                                </ul>
+                            </div>
+                            <div class="minicart-bottom text-black">
+                                <div class="subtotal">
+                                    <span>Subtotal:</span>
+                                    <span class="product-price">0.00lei</span>
+                                </div>
+                                <a href="https://www.freemaxromania.com/index.php?main_page=checkout_shipping" class="w-100 p-2 my-2 btn rounded proceed-to-checkout">Checkout</a>
+                                <a href="https://www.freemaxromania.com/shopping_cart.html" class="w-100 btn btn-outline-primary rounded cart-btn">Vizualizare coș</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End MiniCart Drawer-->            <div class="modalOverly"></div>
+
+      
+
+</div>
+
+
+  <script type="text/javascript" src="includes/templates/freemaxromania/jscript/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="includes/templates/template_default/jscript/jquery.min.js"%3E%3C/script%3E'));</script>
+
+<script type="text/javascript" src="includes/templates/freemaxromania/jscript/jscript_cookies.js"></script>
+<script type="text/javascript" src="includes/templates/freemaxromania/jscript/jscript_extend.js"></script>
+<script type="text/javascript" src="includes/templates/freemaxromania/jscript/jscript_plugins.js"></script>
+<script type="text/javascript" src="includes/templates/freemaxromania/jscript/jscript_zmain.js"></script>
+
+
+
+</body>

@@ -1,0 +1,999 @@
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Я диско шар</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/css/motiva_sans.css?v=-DH0xTYpnVe2&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/css/buttons.css?v=PUJIfhtcQn7W&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/css/shared_global.css?v=_D2Bg4UEaFxK&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/globalv2.css?v=PAcV2zMBzzSV&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/globalv2.css?v=PAcV2zMBzzSV&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/skin_1/profilev2.css?v=M_qL4gO2sKII&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/friendsv2.css?v=TaW3PADBQCM9&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/css/shared_responsive.css?v=sHIIcMzCffX6&amp;l=german" rel="stylesheet" type="text/css">
+<link href="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/skin_1/header.css?v=NFoCa4OkAxRb&amp;l=german" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Array.prototype.filter;
+	__PrototypePreserve[2] = Array.prototype.flatMap;
+	__PrototypePreserve[3] = Array.prototype.find;
+	__PrototypePreserve[4] = Array.prototype.some;
+	__PrototypePreserve[5] = Function.prototype.bind;
+	__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw"></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Array.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+	Array.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+	Array.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+	Array.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+	Function.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">VALVE_PUBLIC_PATH = "https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/";</script><script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&amp;l=german&amp;load=effects,controls,slider,dragdrop"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/global.js?v=gCDeUhD4wqvU&amp;l=german"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/javascript/shared_global.js?v=BlPceFykGock&amp;l=german"></script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script><script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/json2.js?v=pmScf4470EZP&amp;l=german\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} );
+		});
+		</script><script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/profile.js?v=kOq-z-TNVGIG&amp;l=german"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/friends.js?v=Dgai82NIlL5e&amp;l=german"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/webui/clientcom.js?v=hUJASaalMwGt&amp;l=german"></script>
+<script type="text/javascript" src="https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/shared/javascript/shared_responsive_adapter.js?v=-K4e3mGPVh81&amp;l=german"></script>
+
+						<meta name="twitter:card" content="summary_large_image">
+			
+	<meta name="twitter:site" content="@steam">
+
+						<meta property="og:title" content="Я диско шар">
+					<meta property="twitter:title" content="Я диско шар">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+			
+	
+			<link rel="image_src" href="https://community.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://community.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+		<meta name="twitter:image" content="https://community.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://community.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">
+				
+	
+	
+	
+	
+	</head><body class="v6 game_bg responsive_page ">
+
+
+<div class="responsive_page_frame with_header">
+						<div role="navigation" class="responsive_page_menu_ctn mainmenu" aria-label="Mobiles Menü">
+				<div class="responsive_page_menu" id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://sp.aircsgo.com/login/home/?goto=profiles%2F76561198996550687%2Ffriends">
+									Anmelden								</a>
+																				<a class="menuitem supernav" href="https://sp.aircsgo.com/steamstore/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					Shop				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/">
+							Startseite													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/explore/">
+							Entdeckungsliste													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/my/wishlist/">
+							Wunschliste													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/points/shop/">
+							Punkteshop													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/news/">
+							Neuigkeiten													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/stats/">
+							Statistiken													</a>
+									</div>
+															<a class="menuitem supernav supernav_active" href="https://sp.aircsgo.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					Community				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://sp.aircsgo.com/">
+							Startseite													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/discussions/">
+							Diskussionen													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/workshop/">
+							Workshop													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/market/">
+							Markt													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/?subsection=broadcasts">
+							Übertragungen													</a>
+									</div>
+															<a class="menuitem supernav" href="https://sp.aircsgo.com/steamstore/about/">
+					Info				</a>
+															<a class="menuitem supernav" href="https://sp.aircsgo.com/steamhelp/de/">
+					Support				</a>
+						
+							<div class="minor_menu_items">
+																								<div class="menuitem change_language_action">
+									Sprache ändern								</div>
+																																	<a class="menuitem" href="https://sp.aircsgo.com/steamstore/mobile" target="_blank" rel="noreferrer">Steam-Mobile-App herunterladen</a>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										Desktopversion anzeigen									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png"></div>
+								© Valve Corporation. Alle Rechte vorbehalten. Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern.								<span class="mainmenu_valve_links">
+									<a href="https://sp.aircsgo.com/steamstore/privacy_agreement/" target="_blank">Datenschutzrichtlinien</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Rechtliches</a>
+									&nbsp;| &nbsp;<a href="https://sp.aircsgo.com/steamstore/subscriber_agreement/" target="_blank">Steam-Nutzungsvertrag</a>
+									&nbsp;| &nbsp;<a href="https://sp.aircsgo.com/steamstore/steam_refunds/" target="_blank">Rückerstattungen</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu" id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://sp.aircsgo.com/steamstore/">
+															<img src="https://community.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div role="banner" id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://sp.aircsgo.com/steamstore/" aria-label="Zur Steam-Startseite verlinken">
+						<img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44" alt="Zur Steam-Startseite verlinken">
+					</a>
+							</span>
+		</div>
+
+			<div role="navigation" class="supernav_container" aria-label="Globales Menü">
+													<a class="menuitem supernav" href="https://sp.aircsgo.com/steamstore/" data-tooltip-type="selector" data-tooltip-content=".submenu_Store">
+					SHOP				</a>
+				<div class="submenu_Store" style="display: none;" data-submenuid="Store">
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/">
+							Startseite													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/explore/">
+							Entdeckungsliste													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/my/wishlist/">
+							Wunschliste													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/points/shop/">
+							Punkteshop													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/news/">
+							Neuigkeiten													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/steamstore/stats/">
+							Statistiken													</a>
+									</div>
+															<a class="menuitem supernav supernav_active" href="https://sp.aircsgo.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_Community">
+					COMMUNITY				</a>
+				<div class="submenu_Community" style="display: none;" data-submenuid="Community">
+																	<a class="submenuitem" href="https://sp.aircsgo.com/">
+							Startseite													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/discussions/">
+							Diskussionen													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/workshop/">
+							Workshop													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/market/">
+							Markt													</a>
+																	<a class="submenuitem" href="https://sp.aircsgo.com/?subsection=broadcasts">
+							Übertragungen													</a>
+									</div>
+															<a class="menuitem supernav" href="https://sp.aircsgo.com/steamstore/about/">
+					Info				</a>
+															<a class="menuitem supernav" href="https://sp.aircsgo.com/steamhelp/de/">
+					SUPPORT				</a>
+							</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-6, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div role="navigation" id="global_action_menu" aria-label="Account-Menü">
+									<a class="header_installsteam_btn header_installsteam_btn_green" href="https://sp.aircsgo.com/steamstore/about/">
+						<div class="header_installsteam_btn_content">
+							Steam installieren						</div>
+					</a>
+				
+				
+									<a class="global_action_link" href="https://sp.aircsgo.com/login/home/?goto=profiles%2F76561198996550687%2Ffriends">Anmelden</a>
+											&nbsp;|&nbsp;
+						<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">Sprache</span>
+						<div class="popup_block_new" id="language_dropdown" style="display: none;">
+							<div class="popup_body popup_menu">
+																																					<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Vereinfachtes Chinesisch)</a>
+																													<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditionelles Chinesisch)</a>
+																													<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanisch)</a>
+																													<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Koreanisch)</a>
+																													<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																													<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarisch)</a>
+																													<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Tschechisch)</a>
+																													<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Dänisch)</a>
+																																							<a class="popup_menu_item tight" href="?l=english" onclick="ChangeLanguage( 'english' ); return false;">English (Englisch)</a>
+																													<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español – España (Spanisch – Spanien)</a>
+																													<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español – Latinoamérica (Lateinamerikanisches Spanisch)</a>
+																													<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Griechisch)</a>
+																													<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (Französisch)</a>
+																													<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italienisch)</a>
+																													<a class="popup_menu_item tight" href="?l=indonesian" onclick="ChangeLanguage( 'indonesian' ); return false;">Bahasa Indonesia (Indonesisch)</a>
+																													<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Ungarisch)</a>
+																													<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Niederländisch)</a>
+																													<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegisch)</a>
+																													<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polnisch)</a>
+																													<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português – Portugal (Portugiesisch&nbsp;– Portugal)</a>
+																													<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português – Brasil (Portugiesisch – Brasilien)</a>
+																													<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Rumänisch)</a>
+																													<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russisch)</a>
+																													<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnisch)</a>
+																													<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Schwedisch)</a>
+																													<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Türkisch)</a>
+																													<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamesisch)</a>
+																													<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainisch)</a>
+																									<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">Ein Übersetzungsproblem melden</a>
+							</div>
+						</div>
+												</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "25990aeff1dd481fedc7964c";
+	g_steamID = false;
+	g_strLanguage = "german";
+	g_SNR = '2_100300_friends_';
+	g_bAllowAppImpressions = true;
+		g_ContentDescriptorPreferences = [1,3,4];
+
+	
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers(( 'https%3A%2F%2Fsp.aircsgo.com' ));
+		InitEmoticonHovers();
+		ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/css/skin_1/economy.css?v=W1lpCYkssBMO&l=german", "https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/economy_common.js?v=tsXdRVB0yEaR&l=german", "https://sp.aircsgo.com/community-akamai-steamstatic-com/js/public/javascript/economy.js?v=uxQDzpTWrNfr&l=german" );});</script>
+	<div id="webui_config" style="display: none;" data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;german&quot;,&quot;COUNTRY&quot;:&quot;HK&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.akamai.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamstore\/&quot;,&quot;STORE_CHECKOUT_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamcheckout\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.akamai.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamtv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamhelp\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamapi\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/sp.aircsgo.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1719877482,&quot;PAGE_TIMESTAMP&quot;:1719918824,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.akamai.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/sp.aircsgo.com/steamlogin\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.akamai.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;BASE_URL_SHARED_CDN&quot;:&quot;https:\/\/shared.akamai.steamstatic.com\/&quot;,&quot;CLAN_CDN_ASSET_URL&quot;:&quot;https:\/\/clan.akamai.steamstatic.com\/&quot;,&quot;SNR&quot;:&quot;2_100300_friends_&quot;}" data-userinfo="[]">
+	</div>
+
+		<div role="main" class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}">
+
+			<script type="text/javascript">
+	var g_cFriendsLimit = 0;
+	var g_rgProfileData = {"url":"https:\/\/sp.aircsgo.com\/profiles\/76561198996550687\/","steamid":"76561198996550687","personaname":"\u042f \u0434\u0438\u0441\u043a\u043e \u0448\u0430\u0440"};
+	var g_rgCounts = {"cFriends":35,"cGroups":4,"success":1};
+	var g_bManage = false;
+	var g_bSearch = false;
+
+	var g_PageController = null;
+	$J( function() {
+		g_PageController = new CAjaxSubPageController( document.getElementById( 'subpage_container' ), "https:\/\/sp.aircsgo.com\/profiles\/76561198996550687\/", 'navid', 'friends' );
+		UpdateCounts();
+
+		$J( '.friends_nav' ).click( OnNavMenuClick );
+
+					});
+</script>
+
+
+
+<div id="pagecontent" class="pagecontent no_header friends">
+	<div data-panel="{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" class="friends_header_bg">
+		<div class="friends_header_container">
+			<div class="friends_header_ctn">
+				<div class="friends_header_avatar">
+											<div class="profile_avatar_frame">
+							<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1192640/fa31067f49d13e655743b6e30fdae347245e7aea.png">
+						</div>
+										<a href="https://sp.aircsgo.com/profiles/76561198996550687"><img src="https://avatars.akamai.steamstatic.com/092153121656d11b0292cb1b1e4d45ce6c2685bb_full.jpg"></a>
+				</div>
+                <div class="friends_header_name_ctn">
+	                <div class="friends_header_name" style="display:inline-flex"><a href="https://sp.aircsgo.com/profiles/76561198996550687">Я диско шар</a></div>
+                </div>
+
+
+			</div>
+		</div>
+	</div>
+
+	<div class="friends_container">
+		<div class="friends_nav">
+							<h4>Freunde</h4>
+				<a data-navid="friends" class="icon_item icon_all_friends active" href="https://sp.aircsgo.com/profiles/76561198996550687/friends">
+					<span class="title">Alle Freunde</span>
+					<span id="menu_friends_ct" class="count">35</span>
+					<svg xmlns="http://www.w3.org/2000/svg" class="down_arrow_context_menu" data-name="Layer 1" viewBox="0 0 128 128" x="0px" y="0px"><polygon points="50 59.49 13.21 22.89 4.74 31.39 50 76.41 95.26 31.39 86.79 22.89 50 59.49"></polygon></svg>
+				</a>
+				
+							
+							<h4>Gruppen</h4>
+				<a data-navid="groups/" class="icon_item icon_all_groups" href="https://sp.aircsgo.com/profiles/76561198996550687/groups/">
+					<span class="title">Alle Gruppen</span>
+					<span id="menu_groups_ct" class="count">4</span>
+					<svg xmlns="http://www.w3.org/2000/svg" class="down_arrow_context_menu" data-name="Layer 1" viewBox="0 0 128 128" x="0px" y="0px"><polygon points="50 59.49 13.21 22.89 4.74 31.39 50 76.41 95.26 31.39 86.79 22.89 50 59.49"></polygon></svg>
+				</a>
+									</div>
+
+		<div class="friends_content" id="subpage_container">
+			<div id="friends_list" class="friends_list_ctn pagecontent no_header" onload="InitFriends()">
+    <div class="profile_friends title_bar">
+
+        <div class="profile_friends title">Alle Freunde</div>
+
+        <input data-panel="{&quot;autoFocus&quot;:true,&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}" type="text" name="search_text_box" id="search_text_box" class="friends_search_text_box gamepad_input" value="" onkeyup="ShowMatching( 'search_results', 'friend_block_v2', 'data-search', $J('#search_text_box').val(), UpdateFriendsList );" autocomplete="off" placeholder="Freunde nach Name oder Spiel suchen">
+    </div>
+
+    <div class="profile_friends search_results" id="search_results">
+        <div id="search_results_empty" class="search_results_none" style="display:none">Entschuldigung, es gibt keine Spieler, die angezeigt werden könnten.</div>
+
+		                <div id="state_in-game" data-group="in-game" class="state_block">Im Spiel</div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona in-game  " id="fr_151673333" data-steamid="76561198111939061" data-miniprofile="151673333" data-search="Взаимные лайки <3 ; dota 2 ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_151673333" href="https://sp.aircsgo.com/id/fanleta"></a>
+			
+			<div class="player_avatar friend_block_link_overlay in-game">
+				<img src="https://avatars.akamai.steamstatic.com/a327b706340c75cd5a0221d9240ebab8777a11cd_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Взаимные лайки &lt;3<br>
+				<span class="friend_small_text">
+					<span class="friend_game_link">Dota 2</span>				</span>
+
+							</div>
+        </div>                <div id="state_online" data-group="online" class="state_block">Online</div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_421550930" data-steamid="76561198381816658" data-miniprofile="421550930" data-search="ft_kenpachi zaraki ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_421550930" href="https://sp.aircsgo.com/profiles/76561198381816658"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/37474c2ce7ec844c0e519317368d9d4bc1b6e954_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">FT_Kenpachi Zaraki<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_1135188638" data-steamid="76561199095454366" data-miniprofile="1135188638" data-search="ϻʜe★Þokhϋy, я he_ГР ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1135188638" href="https://sp.aircsgo.com/profiles/76561199095454366"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/5f20aa953a0a4645c75e0a63e5ae402ae1563089_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">ϻʜe★ÞOkhϋy, я HE_ГР<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_1189445972" data-steamid="76561199149711700" data-miniprofile="1189445972" data-search="БоеЦ_БаkИ ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1189445972" href="https://sp.aircsgo.com/profiles/76561199149711700"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/1c5921fd17611e627f6aaf8ef3746d0ad6194ada_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">БоеЦ_БаkИ<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_1226518566" data-steamid="76561199186784294" data-miniprofile="1226518566" data-search="Придурок ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1226518566" href="https://sp.aircsgo.com/profiles/76561199186784294"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/88e2b524edc03203f837aee8b9b526b02d26c760_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Придурок<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_1516651618" data-steamid="76561199476917346" data-miniprofile="1516651618" data-search="Сын СФа ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1516651618" href="https://sp.aircsgo.com/id/Zxc_soldier"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/d44ddea2f270ae7ad924f269e1758204c2fce78f_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Сын СФа<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_420724229" data-steamid="76561198380989957" data-miniprofile="420724229" data-search="маша ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_420724229" href="https://sp.aircsgo.com/profiles/76561198380989957"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/be3fca2ed3936272135b834fd04cb7314f68b962_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">маша<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona online  " id="fr_894138725" data-steamid="76561198854404453" data-miniprofile="894138725" data-search="сижу на пампе ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_894138725" href="https://sp.aircsgo.com/profiles/76561198854404453"></a>
+			
+			<div class="player_avatar friend_block_link_overlay online">
+				<img src="https://avatars.akamai.steamstatic.com/8bd25e1a90e0e89c9eb88e180417670c25bfa9cf_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">сижу на пампе<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div>                <div id="state_offline" data-group="offline" class="state_block">Offline</div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_997650618" data-steamid="76561198957916346" data-miniprofile="997650618" data-search="aristocrat csgorun.run ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_997650618" href="https://sp.aircsgo.com/profiles/76561198957916346"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/0d8c63b1d7154608d73db992b1a10db0042b9c56_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">ARISTOCRAT CSGORUN.RUN<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1113428264" data-steamid="76561199073693992" data-miniprofile="1113428264" data-search="bablomet_official ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1113428264" href="https://sp.aircsgo.com/profiles/76561199073693992"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/76a2d71ca61c127f47a86d758156a94db512cd0e_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Bablomet_official<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1091601152" data-steamid="76561199051866880" data-miniprofile="1091601152" data-search="brood abuse pos 3 only ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1091601152" href="https://sp.aircsgo.com/id/quizewhatthefvck"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/2cdb5ab18f70f3365bc75c43fd81371ec5bb2927_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">brood abuse pos 3 only<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1617454695" data-steamid="76561199577720423" data-miniprofile="1617454695" data-search="danyaneyk ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1617454695" href="https://sp.aircsgo.com/profiles/76561199577720423"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/dd6cb3e7ec2846089b11b6215b41303e5ea1b0e4_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">DanyaNeyk<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1193579699" data-steamid="76561199153845427" data-miniprofile="1193579699" data-search="discipline. ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1193579699" href="https://sp.aircsgo.com/profiles/76561199153845427"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/84242e02a4026e3d1eb1561c902e912f3d7ae4f5_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">discipline.<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1231449380" data-steamid="76561199191715108" data-miniprofile="1231449380" data-search="feinitch ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1231449380" href="https://sp.aircsgo.com/profiles/76561199191715108"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/d22331aa06bbce25eacba020879b3607c4e316f1_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Feinitch<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1154564772" data-steamid="76561199114830500" data-miniprofile="1154564772" data-search="gaysense.cc最 ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1154564772" href="https://sp.aircsgo.com/profiles/76561199114830500"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/ecdaf3729fd24e16f7fa2ee77ced17011cd1eaf0_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">gaysense.cc最<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1210460167" data-steamid="76561199170725895" data-miniprofile="1210460167" data-search="globus ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1210460167" href="https://sp.aircsgo.com/id/mrskuromi"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/91d064d5f33fbaefc835df275cd00658fd00ef8c_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Globus<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1428247777" data-steamid="76561199388513505" data-miniprofile="1428247777" data-search="hentai ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1428247777" href="https://sp.aircsgo.com/profiles/76561199388513505"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/2d3728a9ed56308ad42d5e986490f79eae031d02_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">HENTAI<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1116284138" data-steamid="76561199076549866" data-miniprofile="1116284138" data-search="mode:daniil ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1116284138" href="https://sp.aircsgo.com/profiles/76561199076549866"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/3bb96c51d023d0c1a33c2f77ccd81fb02fb4776b_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">mode:Daniil<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_413302296" data-steamid="76561198373568024" data-miniprofile="413302296" data-search="pma 死 ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_413302296" href="https://sp.aircsgo.com/profiles/76561198373568024"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/a6e1f8eab205a75d0d6ebf405d35491ef2ce165d_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">PMA 死<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1418879470" data-steamid="76561199379145198" data-miniprofile="1418879470" data-search="rose banshee ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1418879470" href="https://sp.aircsgo.com/profiles/76561199379145198"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/2f5deacae932f986e19a09a8491240a2f285d027_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">rose banshee<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1168317993" data-steamid="76561199128583721" data-miniprofile="1168317993" data-search="skywhycursed? fail ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1168317993" href="https://sp.aircsgo.com/profiles/76561199128583721"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/fa1047a5a7a45a14ee436598db2607c11edb4f14_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">SkywhyCursed? FAIL<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_385888544" data-steamid="76561198346154272" data-miniprofile="385888544" data-search="valera jordan- ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_385888544" href="https://sp.aircsgo.com/profiles/76561198346154272"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/4f87962e2d19a426642eeae1d805f72e6909cb32_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">valera jordan-<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_915292460" data-steamid="76561198875558188" data-miniprofile="915292460" data-search="xyq csgorun ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_915292460" href="https://sp.aircsgo.com/id/KlassKlassKlass"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/284dc0656f0a9f84f9ef028695b0e4d4ac4277e2_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">xyq csgorun<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_941878320" data-steamid="76561198902144048" data-miniprofile="941878320" data-search="zen ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_941878320" href="https://sp.aircsgo.com/id/jenekmotoland"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/600a54e62405d2696730eabca74233adfd9aea7e_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">zen<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_838396636" data-steamid="76561198798662364" data-miniprofile="838396636" data-search="\(-_-)/ ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_838396636" href="https://sp.aircsgo.com/profiles/76561198798662364"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/7636e45cca2206d9cdb1817aec337c2046f2b8bc_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">\(-_-)/<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_235807730" data-steamid="76561198196073458" data-miniprofile="235807730" data-search="Азаширо ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_235807730" href="https://sp.aircsgo.com/profiles/76561198196073458"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/75076a27804bb27d894650906372b3e3e84e93a4_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Азаширо<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_859489783" data-steamid="76561198819755511" data-miniprofile="859489783" data-search="ДегустаторАНуСов ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_859489783" href="https://sp.aircsgo.com/id/slovka10"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/993110968177df3ccfc89b8429ea1698b6003fe2_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">ДегустаторАНуСов<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1259619364" data-steamid="76561199219885092" data-miniprofile="1259619364" data-search="Жечка Дырова ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1259619364" href="https://sp.aircsgo.com/profiles/76561199219885092"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/c2fa13859c7a2f9fda6fd2b90814674aa11c5a59_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Жечка Дырова<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1583855066" data-steamid="76561199544120794" data-miniprofile="1583855066" data-search="Тапочек absosute ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1583855066" href="https://sp.aircsgo.com/profiles/76561199544120794"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/16ac00d5f997a006a63878d5b033806e2a461273_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Тапочек Absosute<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1698528684" data-steamid="76561199658794412" data-miniprofile="1698528684" data-search="Я некрофил ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1698528684" href="https://sp.aircsgo.com/profiles/76561199658794412"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/72c2d7ff62b9f4c7a1eb44392f88c74c106d0cc1_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">Я некрофил<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1744206652" data-steamid="76561199704472380" data-miniprofile="1744206652" data-search="отлижу за пиво ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1744206652" href="https://sp.aircsgo.com/profiles/76561199704472380"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/d4f9b0ebad007869e78baa38391cc2924531a107_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">отлижу за пиво<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1088878735" data-steamid="76561199049144463" data-miniprofile="1088878735" data-search="♡ ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1088878735" href="https://sp.aircsgo.com/profiles/76561199049144463"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/e5cb65a2a55d72872d5999804d33882eea06a863_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">♡<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1466513962" data-steamid="76561199426779690" data-miniprofile="1466513962" data-search="一碗飯一隻貓老婆 ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1466513962" href="https://sp.aircsgo.com/profiles/76561199426779690"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/d58b8871a56e29327be4c9d4982bea19296e8335_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">一碗飯一隻貓老婆<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1177436276" data-steamid="76561199137702004" data-miniprofile="1177436276" data-search="卩ㄖ丂尺卂ㄥ ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1177436276" href="https://sp.aircsgo.com/profiles/76561199137702004"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/c2f37253d719d59af06249973f0763ca6a85fa0f_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">卩ㄖ丂尺卂ㄥ<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div><div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="selectable friend_block_v2 persona offline  " id="fr_1170153103" data-steamid="76561199130418831" data-miniprofile="1170153103" data-search="꒒ꀤꀸ ;  ; ">
+
+			<div class="indicator select_friend">
+				<input class="select_friend_checkbox" type="checkbox">
+			</div>
+
+							<a class="selectable_overlay" data-container="#fr_1170153103" href="https://sp.aircsgo.com/profiles/76561199130418831"></a>
+			
+			<div class="player_avatar friend_block_link_overlay offline">
+				<img src="https://avatars.akamai.steamstatic.com/623c827d3e155964706f08611307e1c0713eb7bc_medium.jpg">
+			</div>
+
+			<div class="friend_block_content">꒒ꀤꀸ<br>
+				<span class="friend_small_text">
+									</span>
+
+							</div>
+        </div>    </div>
+</div>
+		</div>
+
+	</div>
+</div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+			<div id="footer_spacer" class=""></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+					<div class="footer_content">
+				<span id="footerLogo"><img src="https://community.akamai.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve-Logo"></span>
+				<span id="footerText">
+					© Valve Corporation. Alle Rechte vorbehalten. Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern. Einige Geodaten dieser Seite werden von <a href="https://sp.aircsgo.com/linkfilter/?u=http%3A%2F%2Fwww.geonames.org" target="_blank" rel=" noopener">geonames.org</a> zur Verfügung gestellt.					<br>
+											<span class="valve_links">
+							<a href="http://sp.aircsgo.com/steamstore/privacy_agreement/" target="_blank">Datenschutzrichtlinien</a>
+							&nbsp; | &nbsp;<a href="https://sp.aircsgo.com/steamstore/legal/" target="_blank">Rechtliches</a>
+							&nbsp;| &nbsp;<a href="http://sp.aircsgo.com/steamstore/subscriber_agreement/" target="_blank">Steam-Nutzungsvertrag</a>
+                            &nbsp;| &nbsp;<a href="http://sp.aircsgo.com/steamstore/account/cookiepreferences/" target="_blank">Cookies</a>
+						</span>
+									</span>
+			</div>
+							<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>Mobilversion anzeigen</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+
+<div class="miniprofile_hover" style="display: none;"><div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div><div class="miniprofile_hover_inner shadow_content"></div></div></body>

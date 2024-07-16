@@ -1,0 +1,1024 @@
+<head>
+<title>On cloud  Slovenija - On Running Trgovina &amp; Outlet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="On cloud ,Slovenija,On Running Trgovina &amp; Outlet">
+<meta name="description" content="On cloud  Online Shop Slovenija. Velika Izbira Barv, Vzorcev In Stilov. Hitra Dostava In Nižje Cene ✓ Start Selling In Slovenia.">
+<meta content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=no, width=device-width" name="viewport">
+<style>
+    :root{
+        --main-color: #000000;
+        --background-main-color: #000000;
+        --partial-color: #565656;
+        --top-navigation-bg-color: #FFFFFF;
+        --top-navigation-color: #000000;
+        --advertise-avigation-color: #FFFFFF;
+        --advertise-avigation-bg-color: #000000;
+        --bottom-font-color: #FFFFFF;
+        --pc-top-menu-high: 66px;
+        --1024-top-menu-high: 66px;
+        --768-top-menu-high: 66px;
+        --phone-top-menu-high: 60px;
+        --bottom-menu-width: 100%;
+        --bottom-statement-align: left;
+        --pc-logo-high: 66px;
+        --1024-logo-high: 66px;
+        --768-logo-high: 66px;
+        --phone-logo-high: 60px;
+        --add-cart-color:  #000000;
+        --menu-independent-high: 50px;
+        --menu-independent-color: #FF0000;
+        --menu-independent-bg-color: #000000    }
+</style>
+<base href="https://www.onrunningslovenija.si/">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/style.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet1.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_all.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_categories_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_header_menu.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_jquery.mmenu.all.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_lightbox.css">
+<link rel="stylesheet" type="text/css" href="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/css/stylesheet_slick.css">
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_1.11.1.min.js"></script>
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_2.2.0.min.js"></script>
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_jquery.js"></script>
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_jquery_kinSlideshow.js"></script>
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_lightbox.js"></script>
+<script type="text/javascript" src="//www.onrunningslovenija.si/includes/templates/onrunning-slovenija/jscript/jscript_slick.js"></script>
+<link rel="stylesheet" href="https://www.onrunningslovenija.si/includes/templates/onrunning-slovenija/js/theme/default/layer.css?v=3.5.0" id="layuicss-layer"></head><body id="searchBody" class="mescroll-bar"><div class="mescroll-downwarp"><div class="downwarp-content"><p class="downwarp-progress"></p><p class="downwarp-tip"></p></div></div><nav id="menu" class="mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0"><div class="mm-list-search"><form name="quick_find_header" action="/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" placeholder="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="HprTIdKGWN" type="submit" title="Submit search"><i class="material-icons">search</i></button></form><hr size="1"></div><li><a class="mm-subopen" href="#mm-1"></a><a href="/collections/all-c-0.html?&amp;gender=1">Moški</a></li><li><a class="mm-subopen" href="#mm-5"></a><a href="/collections/all-c-0.html?&amp;gender=2">Ženske</a></li><li><a class="mm-subopen" href="#mm-9"></a><a href="/collections/all-c-0.html?&amp;gender=3">Otroški</a></li><li><a href="/favourite.html" rel="nofollow">Favourites</a></li><li><a href="/contact_us.html" rel="nofollow">Kontakt</a></li><li><a href="/shippinginfo.html" rel="nofollow">Dostava</a></li><li><a href="https://www.onrunningslovenija.si/shopping_cart.html">Shopping Cart&nbsp;(0)</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Moški</a></li><li><a class="mm-subopen" href="#mm-2"></a><a href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=1">Čevlji</a></li><li><a class="mm-subopen" href="#mm-3"></a><a href="https://www.onrunningslovenija.si/collections/oblačila-c-10.html?&amp;gender=1">Oblačila</a></li><li><a class="mm-subopen" href="#mm-4"></a><a href="https://www.onrunningslovenija.si/collections/dodatki-c-21.html?&amp;gender=1">Dodatki</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=1">Tekaški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-trail-tekaški-Čevlji-c-1_3.html?&amp;gender=1">Trail Tekaški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodniški-Čevlji-c-1_4.html?&amp;gender=1">Pohodniški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodni-Čevlji-c-1_5.html?&amp;gender=1">Pohodni Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-superge-c-1_6.html?&amp;gender=1">Superge</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-teniški-copati-c-1_7.html?&amp;gender=1">Teniški Copati</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-trening-Čevlji-c-1_8.html?&amp;gender=1">Trening Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-cestni-tekaški-copati-c-1_9.html?&amp;gender=1">Cestni Tekaški Copati</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Oblačila</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-s-kapuco-c-10_11.html?&amp;gender=1">Puloverji s Kapuco</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-c-10_12.html?&amp;gender=1">Puloverji</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-jakne-c-10_13.html?&amp;gender=1">Jakne</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-telovnik-c-10_14.html?&amp;gender=1">Telovnik</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-c-10_15.html?&amp;gender=1">Majice</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-brez-rokavov-c-10_16.html?&amp;gender=1">Majice Brez Rokavov</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-srajce-c-10_17.html?&amp;gender=1">Srajce</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-kratke-hlače-c-10_18.html?&amp;gender=1">Kratke Hlače</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-hlače-c-10_19.html?&amp;gender=1">Hlače</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-hlačne-nogavice-c-10_20.html?&amp;gender=1">Hlačne Nogavice</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Dodatki</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-kape-c-21_22.html?&amp;gender=1">Kape</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-beanie-kape-c-21_23.html?&amp;gender=1">Beanie Kape</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-nogavice-c-21_24.html?&amp;gender=1">Nogavice</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Ženske</a></li><li><a class="mm-subopen" href="#mm-6"></a><a href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=2">Čevlji</a></li><li><a class="mm-subopen" href="#mm-7"></a><a href="https://www.onrunningslovenija.si/collections/oblačila-c-10.html?&amp;gender=2">Oblačila</a></li><li><a class="mm-subopen" href="#mm-8"></a><a href="https://www.onrunningslovenija.si/collections/dodatki-c-21.html?&amp;gender=2">Dodatki</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=2">Tekaški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-trail-tekaški-Čevlji-c-1_3.html?&amp;gender=2">Trail Tekaški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodniški-Čevlji-c-1_4.html?&amp;gender=2">Pohodniški Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodni-Čevlji-c-1_5.html?&amp;gender=2">Pohodni Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-superge-c-1_6.html?&amp;gender=2">Superge</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-teniški-copati-c-1_7.html?&amp;gender=2">Teniški Copati</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-trening-Čevlji-c-1_8.html?&amp;gender=2">Trening Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-cestni-tekaški-copati-c-1_9.html?&amp;gender=2">Cestni Tekaški Copati</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Oblačila</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-s-kapuco-c-10_11.html?&amp;gender=2">Puloverji s Kapuco</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-c-10_12.html?&amp;gender=2">Puloverji</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-jakne-c-10_13.html?&amp;gender=2">Jakne</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-telovnik-c-10_14.html?&amp;gender=2">Telovnik</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-c-10_15.html?&amp;gender=2">Majice</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-brez-rokavov-c-10_16.html?&amp;gender=2">Majice Brez Rokavov</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-srajce-c-10_17.html?&amp;gender=2">Srajce</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-kratke-hlače-c-10_18.html?&amp;gender=2">Kratke Hlače</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-hlače-c-10_19.html?&amp;gender=2">Hlače</a></li><li><a href="https://www.onrunningslovenija.si/collections/oblačila-hlačne-nogavice-c-10_20.html?&amp;gender=2">Hlačne Nogavice</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Dodatki</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-kape-c-21_22.html?&amp;gender=2">Kape</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-beanie-kape-c-21_23.html?&amp;gender=2">Beanie Kape</a></li><li><a href="https://www.onrunningslovenija.si/collections/dodatki-nogavice-c-21_24.html?&amp;gender=2">Nogavice</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Otroški</a></li><li><a class="mm-subopen" href="#mm-10"></a><a href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=3">Čevlji</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Čevlji</a></li><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=3">Tekaški Čevlji</a></li></ul></nav>
+
+<div class="mm-page mm-slideout"><div id="tKFwOXbIMK">
+    <section class="lazy slider slick-initialized slick-slider" data-sizes="50vw"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_left</i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 4400px; transform: translate3d(-800px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Garancija Najnižje Cene <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> Takoj Dobite 5% Popust Na Prvi Nakup. <i class="material-icons">money_off</i></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Brezplačna Dostava Za Nakupe Nad €90 <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Dnevna Garancija Vračila Denarja <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Hitra Dostava <i class="material-icons">flight</i></div></div></div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Garancija Najnižje Cene <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">money_off</i> Takoj Dobite 5% Popust Na Prvi Nakup. <i class="material-icons">money_off</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Brezplačna Dostava Za Nakupe Nad €90 <i class="material-icons">local_shipping</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">monetization_on</i> 30 Dnevna Garancija Vračila Denarja <i class="material-icons">monetization_on</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">flight</i> Hitra Dostava <i class="material-icons">flight</i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="material-icons">local_shipping</i> Garancija Najnižje Cene <i class="material-icons">local_shipping</i></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="material-icons">keyboard_arrow_right</i></button></section>
+    <hr size="1">
+</div><div id="UBz3NHAgrR">
+
+    
+
+
+    
+
+
+    
+    <div id="jub4LrAOsR"><a href="https://www.onrunningslovenija.si/"><img src="images/hoverimg/202306261405281433.png"></a></div><div id="SF3fWJuiqI">
+        <div class="zFGJxuq7FQ"><div id="menu-head"><ul class="level1"><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=1">Moški</a><ul class="level2"><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=1">Čevlji</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=1">Tekaški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-trail-tekaški-Čevlji-c-1_3.html?&amp;gender=1">Trail Tekaški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodniški-Čevlji-c-1_4.html?&amp;gender=1">Pohodniški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodni-Čevlji-c-1_5.html?&amp;gender=1">Pohodni Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-superge-c-1_6.html?&amp;gender=1">Superge</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-teniški-copati-c-1_7.html?&amp;gender=1">Teniški Copati</a></li><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/Čevlji-trening-Čevlji-c-1_8.html?&amp;gender=1">Trening Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-cestni-tekaški-copati-c-1_9.html?&amp;gender=1">Cestni Tekaški Copati</a></li></ul></li><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/oblačila-c-10.html?&amp;gender=1">Oblačila</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-s-kapuco-c-10_11.html?&amp;gender=1">Puloverji s Kapuco</a><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-c-10_12.html?&amp;gender=1">Puloverji</a><a href="https://www.onrunningslovenija.si/collections/oblačila-jakne-c-10_13.html?&amp;gender=1">Jakne</a><a href="https://www.onrunningslovenija.si/collections/oblačila-telovnik-c-10_14.html?&amp;gender=1">Telovnik</a><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-c-10_15.html?&amp;gender=1">Majice</a><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-brez-rokavov-c-10_16.html?&amp;gender=1">Majice Brez Rokavov</a></li><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/oblačila-srajce-c-10_17.html?&amp;gender=1">Srajce</a><a href="https://www.onrunningslovenija.si/collections/oblačila-kratke-hlače-c-10_18.html?&amp;gender=1">Kratke Hlače</a><a href="https://www.onrunningslovenija.si/collections/oblačila-hlače-c-10_19.html?&amp;gender=1">Hlače</a><a href="https://www.onrunningslovenija.si/collections/oblačila-hlačne-nogavice-c-10_20.html?&amp;gender=1">Hlačne Nogavice</a></li></ul></li><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/dodatki-c-21.html?&amp;gender=1">Dodatki</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/dodatki-kape-c-21_22.html?&amp;gender=1">Kape</a><a href="https://www.onrunningslovenija.si/collections/dodatki-beanie-kape-c-21_23.html?&amp;gender=1">Beanie Kape</a><a href="https://www.onrunningslovenija.si/collections/dodatki-nogavice-c-21_24.html?&amp;gender=1">Nogavice</a></li></ul></li><ul class="categories_img"><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?gender=1"><img src="images/hoverimg/20230706326188128.jpg"></a><span style="text-align: center; display: block;">Tekaški Čevlji</span></li></ul></ul></li><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=2">Ženske</a><ul class="level2"><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=2">Čevlji</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=2">Tekaški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-trail-tekaški-Čevlji-c-1_3.html?&amp;gender=2">Trail Tekaški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodniški-Čevlji-c-1_4.html?&amp;gender=2">Pohodniški Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-pohodni-Čevlji-c-1_5.html?&amp;gender=2">Pohodni Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-superge-c-1_6.html?&amp;gender=2">Superge</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-teniški-copati-c-1_7.html?&amp;gender=2">Teniški Copati</a></li><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/Čevlji-trening-Čevlji-c-1_8.html?&amp;gender=2">Trening Čevlji</a><a href="https://www.onrunningslovenija.si/collections/Čevlji-cestni-tekaški-copati-c-1_9.html?&amp;gender=2">Cestni Tekaški Copati</a></li></ul></li><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/oblačila-c-10.html?&amp;gender=2">Oblačila</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-s-kapuco-c-10_11.html?&amp;gender=2">Puloverji s Kapuco</a><a href="https://www.onrunningslovenija.si/collections/oblačila-puloverji-c-10_12.html?&amp;gender=2">Puloverji</a><a href="https://www.onrunningslovenija.si/collections/oblačila-jakne-c-10_13.html?&amp;gender=2">Jakne</a><a href="https://www.onrunningslovenija.si/collections/oblačila-telovnik-c-10_14.html?&amp;gender=2">Telovnik</a><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-c-10_15.html?&amp;gender=2">Majice</a><a href="https://www.onrunningslovenija.si/collections/oblačila-majice-brez-rokavov-c-10_16.html?&amp;gender=2">Majice Brez Rokavov</a></li><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/oblačila-srajce-c-10_17.html?&amp;gender=2">Srajce</a><a href="https://www.onrunningslovenija.si/collections/oblačila-kratke-hlače-c-10_18.html?&amp;gender=2">Kratke Hlače</a><a href="https://www.onrunningslovenija.si/collections/oblačila-hlače-c-10_19.html?&amp;gender=2">Hlače</a><a href="https://www.onrunningslovenija.si/collections/oblačila-hlačne-nogavice-c-10_20.html?&amp;gender=2">Hlačne Nogavice</a></li></ul></li><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/dodatki-c-21.html?&amp;gender=2">Dodatki</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/dodatki-kape-c-21_22.html?&amp;gender=2">Kape</a><a href="https://www.onrunningslovenija.si/collections/dodatki-beanie-kape-c-21_23.html?&amp;gender=2">Beanie Kape</a><a href="https://www.onrunningslovenija.si/collections/dodatki-nogavice-c-21_24.html?&amp;gender=2">Nogavice</a></li></ul></li><ul class="categories_img"><li><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?gender=2"><img src="images/hoverimg/20230706326189053.jpg"></a><span style="text-align: center; display: block;">Tekaški Čevlji</span></li></ul></ul></li><li class="submenu"><a href="/collections/all-c-0.html?&amp;gender=3">Otroški</a><ul class="level2"><li><a class="submenu" href="https://www.onrunningslovenija.si/collections/Čevlji-c-1.html?&amp;gender=3">Čevlji</a><ul><li class="XAnTke8TXn"><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;gender=3">Tekaški Čevlji</a></li></ul></li></ul></li><li></li></ul>
+</div><div class="header"><a href="#menu"><i class="material-icons">menu</i></a></div><script type="text/javascript" src="js/jquery-1.7.2.min.js"></script><script type="text/javascript" src="js/jquery-1.7.2.min.js"></script><script type="text/javascript" src="js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+</script></div><div id="carts"></div></div>
+
+    <div id="sQ2ffUDrOP">
+                <div class="GQfCTlhFeF">
+            <div id="fnxkwCojMN">
+                                                <a href="javascript:void(0);" title="Prijava" rel="nofollow" class="login_box bsPIsFRTij"><i class="material-icons">person</i></a>
+                                        <a rel="nofollow" title="Registracija" id="registerLogout" href="javascript:void(0);"><i class="material-icons">person_add_alt_1</i></a>
+                    <a id="favourites" title="Favourites"><i class="material-icons login_box">favorite</i></a>
+                                <div id="eOW5jdczGb">
+                    <div class="MfN2kTkqQm">
+                                                <img src="includes/templates/onrunning-slovenija/images/flag/SVN.png" title="Slovenia" alt="EUR">
+                    </div>
+                    <div class="QWu4aftyVB">
+                        <!-- ========== CURRENCIES ========= -->
+                                                                                                <!-- ====================================== -->
+                    </div>
+                </div>
+            </div>
+            <div class="search">                <form name="quick_find_header" action="https://www.onrunningslovenija.si/search.html" method="get"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" placeholder="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';"><button class="HprTIdKGWN" type="submit" title="Submit search"><i class="material-icons">search</i></button></form>            </div>
+        </div><!-- /container -->
+
+
+
+        </div>
+        <!-- logininf -->
+    </div><div id="login_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Prijava</div>
+        <form name="login" action="/index.php?main_page=login&amp;action=process" method="post" id="loginForm"><input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<div class="p-3"></div>
+        	<div class="loginInput">
+        	    <input class="form-control" type="email" name="email_address" size="41" maxlength="96" id="login-email-address" autofocus="" placeholder="E-mail Naslov:" required="">
+        	</div>
+        
+        	<div class="loginInput">
+        	    <input class="form-control" type="password" name="password" size="41" maxlength="255" id="login-password" autocomplete="off" placeholder="Geslo:" required="">
+        	</div>
+        	
+        	<input type="hidden" name="securityToken" value="0b094430ddc2b5d749a9dae33d84a117">
+        	<!--
+        	<div id="loginDefault-btn-toolbar" class="btn-toolbar justify-content-between" role="toolbar">
+        	    <a href="http://192.168.1.99/53484-qiuyi004.com-en/index.php?main_page=password_forgotten">Forgot your password?</a>
+        	    <button type="submit" class="btn button_login button_login">Log In</button>
+        	</div>
+        	-->
+    
+    	</form>
+        <!--
+        <div class="loginInput"><input type="text" name="email_address" size="41" maxlength="288" id="login-email-address" placeholder="Email Address:"></div>
+        <div class="loginInput"><input type="password" name="password" size="41" maxlength="120" id="login-password" placeholder="Password:"></div>
+        -->
+        <div class="buttonRow" id="forgotpswd"><span style="cursor: pointer;">Pozabil sem geslo</span></div>
+        <div class="loginLayerBtn MjXqBkRpmW" id="ajaxLoginBtn"><span style="cursor: pointer;" id="ajaxLogin">Prijava</span></div>
+
+		<div class="loginLayerBtn MjXqBkRpmW" id="createAccountLayerBtn"><span style="cursor: pointer;">Registracija</span></div>
+    </div>
+</div><div id="forgotpswd_layer" style="display:none;">
+    <div id="loginForm" class="loginForm">
+        <div class="loginTitle">Pozabil Sem Geslo</div>
+        <div class="layerMainFont">Če ste pozabili geslo, vnesite uporabniško ime, ki ste ga izbrali ob registraciji. Navodila za ponastavitev gesla vam bomo poslali po elektronski pošti.</div>
+        <div class="loginInput" style="margin-top:1em;"><input type="text" name="forgot_email_address" size="41" maxlength="288" id="forgot_email_address" placeholder="E-mail Naslov:"></div>
+        <div class="loginLayerBtn MjXqBkRpmW" id="forgotLayerBtn">Potrdi</div>
+    </div>
+</div><div id="register_layer" style="display:none;">
+    <div id="registerForm" class="registerForm">
+		<form name="ajaxCreateAccountForm">
+		<input type="hidden" name="action" value="process">
+		<input type="hidden" name="email_pref_html" value="email_format">
+        <div class="loginTitle">Registracija</div>
+        <div class="loginInput fl"><input type="text" name="firstname" size="41" maxlength="288" id="firstname" placeholder="Ime:"></div>
+        <div class="loginInput fl"><input type="text" name="lastname" size="41" maxlength="288" id="lastname" placeholder="Priimek:"></div>
+        <div class="loginInput fl"><input type="text" name="street_address" size="41" maxlength="288" id="street-address" placeholder="Naslov:"></div>
+        <div class="loginInput fl"><input type="text" name="city" size="41" maxlength="288" id="city" placeholder="Mesto:"></div>
+        <div class="loginInput fl">
+            <select name="zone_country_id" class="layerFormSelect" id="select_country" onchange="update_city(this.value);" style="display: block;"><option value="240">Aaland Islands</option><option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antarctica</option><option value="9">Antigua and Barbuda</option><option value="10">Argentina</option><option value="11">Armenia</option><option value="12">Aruba</option><option value="13">Australia</option><option value="14">Österreich</option><option value="15">Azerbaijan</option><option value="16">Bahamas</option><option value="17">Bahrain</option><option value="18">Bangladesh</option><option value="19">Barbados</option><option value="20">Belarus</option><option value="21">België</option><option value="22">Belize</option><option value="23">Benin</option><option value="24">Bermuda</option><option value="25">Bhutan</option><option value="26">Bolivia</option><option value="27">Bosnia and Herzegovina</option><option value="28">Botswana</option><option value="29">Bouvet Island</option><option value="30">Brazil</option><option value="31">British Indian Ocean Territory</option><option value="32">Brunei Darussalam</option><option value="33">Bulgaria</option><option value="34">Burkina Faso</option><option value="35">Burundi</option><option value="36">Cambodia</option><option value="37">Cameroon</option><option value="38">Canada</option><option value="39">Cape Verde</option><option value="40">Cayman Islands</option><option value="41">Central African Republic</option><option value="42">Chad</option><option value="43">Chile</option><option value="44">China</option><option value="45">Christmas Island</option><option value="46">Cocos (Keeling) Islands</option><option value="47">Colombia</option><option value="48">Comoros</option><option value="49">Congo</option><option value="50">Cook Islands</option><option value="51">Costa Rica</option><option value="52">Cote D'Ivoire</option><option value="53">Hrvatska</option><option value="54">Cuba</option><option value="55">Cyprus</option><option value="56">Česká Republika</option><option value="57">Danmark</option><option value="58">Djibouti</option><option value="59">Dominica</option><option value="60">Dominican Republic</option><option value="61">Timor-Leste</option><option value="62">Ecuador</option><option value="63">Egypt</option><option value="64">El Salvador</option><option value="65">Equatorial Guinea</option><option value="66">Eritrea</option><option value="67">Estonia</option><option value="68">Ethiopia</option><option value="69">Falkland Islands (Malvinas)</option><option value="70">Faroe Islands</option><option value="71">Fiji</option><option value="72">Suomi</option><option value="73">France</option><option value="75">French Guiana</option><option value="76">French Polynesia</option><option value="77">French Southern Territories</option><option value="78">Gabon</option><option value="79">Gambia</option><option value="80">Georgia</option><option value="81">Deutschland</option><option value="82">Ghana</option><option value="83">Gibraltar</option><option value="84">Ελλάδα</option><option value="85">Greenland</option><option value="86">Grenada</option><option value="87">Guadeloupe</option><option value="88">Guam</option><option value="89">Guatemala</option><option value="90">Guinea</option><option value="91">Guinea-bissau</option><option value="92">Guyana</option><option value="93">Haiti</option><option value="94">Heard and Mc Donald Islands</option><option value="95">Honduras</option><option value="96">Hong Kong</option><option value="97">Magyarország</option><option value="98">Iceland</option><option value="99">India</option><option value="100">Indonesia</option><option value="101">Iran (Islamic Republic of)</option><option value="102">Iraq</option><option value="103">Ireland</option><option value="104">Israel</option><option value="105">Italia</option><option value="106">Jamaica</option><option value="107">日本</option><option value="108">Jordan</option><option value="109">Kazakhstan</option><option value="110">Kenya</option><option value="111">Kiribati</option><option value="112">North Korea</option><option value="113">South Korea</option><option value="114">Kuwait</option><option value="115">Kyrgyzstan</option><option value="116">Laos</option><option value="117">Latvia</option><option value="118">Lebanon</option><option value="119">Lesotho</option><option value="120">Liberia</option><option value="121">Libyan Arab Jamahiriya</option><option value="122">Liechtenstein</option><option value="123">Lithuania</option><option value="124">Luxembourg</option><option value="125">Macao</option><option value="126">North Macedonia</option><option value="127">Madagascar</option><option value="128">Malawi</option><option value="129">Malaysia</option><option value="130">Maldives</option><option value="131">Mali</option><option value="132">Malta</option><option value="133">Marshall Islands</option><option value="134">Martinique</option><option value="135">Mauritania</option><option value="136">Mauritius</option><option value="137">Mayotte</option><option value="138">México</option><option value="139">Federated States of Micronesia</option><option value="140">Moldova</option><option value="141">Monaco</option><option value="142">Mongolia</option><option value="143">Montserrat</option><option value="144">Morocco</option><option value="145">Mozambique</option><option value="146">Myanmar</option><option value="147">Namibia</option><option value="148">Nauru</option><option value="149">Nepal</option><option value="150">Nederland</option><option value="151">Netherlands Antilles</option><option value="152">New Caledonia</option><option value="153">New Zealand</option><option value="154">Nicaragua</option><option value="155">Niger</option><option value="156">Nigeria</option><option value="157">Niue</option><option value="158">Norfolk Island</option><option value="159">Northern Mariana Islands</option><option value="160">Norge</option><option value="161">Oman</option><option value="162">Pakistan</option><option value="163">Palau</option><option value="164">Panamá</option><option value="165">Papua New Guinea</option><option value="166">Paraguay</option><option value="167">Perú</option><option value="168">Philippines</option><option value="169">Pitcairn</option><option value="170">Polska</option><option value="171">Portugal</option><option value="172">Puerto Rico</option><option value="173">Qatar</option><option value="174">Reunion</option><option value="175">România</option><option value="176">Russian Federation</option><option value="177">Rwanda</option><option value="178">Saint Kitts and Nevis</option><option value="179">Saint Lucia</option><option value="180">Saint Vincent and the Grenadines</option><option value="181">Samoa</option><option value="182">San Marino</option><option value="183">Sao Tome and Principe</option><option value="184">Saudi Arabia</option><option value="185">Senegal</option><option value="186">Seychelles</option><option value="187">Sierra Leone</option><option value="188">Singapore</option><option value="189">Slovensko</option><option value="190" selected="">Slovenia</option><option value="191">Solomon Islands</option><option value="192">Somalia</option><option value="193">South Africa</option><option value="194">South Georgia and the South Sandwich Islands</option><option value="195">España</option><option value="196">Sri Lanka</option><option value="197">St. Helena</option><option value="198">St. Pierre and Miquelon</option><option value="199">Sudan</option><option value="200">Suriname</option><option value="201">Svalbard and Jan Mayen Islands</option><option value="202">Swaziland</option><option value="203">Sverige</option><option value="204">Schweiz</option><option value="205">Syrian Arab Republic</option><option value="206">Taiwan</option><option value="207">Tajikistan</option><option value="208">Tanzania, United Republic of</option><option value="209">Thailand</option><option value="210">Togo</option><option value="211">Tokelau</option><option value="212">Tonga</option><option value="213">Trinidad and Tobago</option><option value="214">Tunisia</option><option value="215">Türkiye</option><option value="216">Turkmenistan</option><option value="217">Turks and Caicos Islands</option><option value="218">Tuvalu</option><option value="219">Uganda</option><option value="220">Ukraine</option><option value="221">United Arab Emirates</option><option value="222">United Kingdom</option><option value="223">United States</option><option value="224">United States Minor Outlying Islands</option><option value="225">Uruguay</option><option value="226">Uzbekistan</option><option value="227">Vanuatu</option><option value="228">Vatican City State (Holy See)</option><option value="229">Venezuela</option><option value="230">Viet Nam</option><option value="231">Virgin Islands (British)</option><option value="232">Virgin Islands (U.S.)</option><option value="233">Wallis and Futuna Islands</option><option value="234">Western Sahara</option><option value="235">Yemen</option><option value="236">Serbia</option><option value="238">Zambia</option><option value="239">Zimbabwe</option></select>
+        </div>
+        <div class="loginInput fl">
+            <select name="zone_id" class="layerFormSelect" id="select_city" style="display: none;"></select>
+        </div>
+        <div class="loginInput fl"><input type="text" name="postcode" size="41" maxlength="288" id="postcode" placeholder="Poštna Številka:"></div>
+        <div class="loginInput fl"><input type="text" name="telephone" size="41" maxlength="288" id="telephone" placeholder="Telefon:"></div>
+        <div class="loginInput fl"><input type="text" name="email_address" size="41" maxlength="288" id="register-email-address" placeholder="E-mail Naslov:"></div>
+        <div class="loginInput fl"><input type="password" name="password" size="41" maxlength="120" id="register-password" placeholder="Geslo:"></div>
+        <div class="loginInput fl"><input type="password" name="confirmation" size="41" maxlength="120" id="register_password_confirm" placeholder="Ponovi Geslo:"></div>
+        <div class="loginLayerBtn MjXqBkRpmW x70iJJWwQr" id="registerLayerBtn">Potrdi</div>
+	  </form>
+    </div>
+</div><div class="initLayerShade" style="display:none;"></div><div id="HVefG0J1hI"><div id="X4Pg3kuUwK">  <a href="https://www.onrunningslovenija.si/">Domov</a>
+
+</div></div><div id="WkHOjs4SUd">
+		<h1 id="productListHeading"></h1>
+			<script>
+	$(function(){
+	var windowWidth = $(window).width();
+		if(windowWidth < 1024){
+    var HeadNav = $("#WkHOjs4SUd");
+    var toTopHeight = HeadNav.offset().top;
+    $(window).scroll(function() {
+        if( $(document).scrollTop() > toTopHeight ){
+            if ('undefined' == typeof(document.body.style.maxHeight)) {
+                var scrollTop = $(document).scrollTop();
+                HeadNav.css({'position':'absolute','top':scrollTop+'px'});
+            }else{
+                HeadNav.addClass("gdflex");
+            }
+        }else{
+            if ('undefined' == typeof(document.body.style.maxHeight)) {
+                HeadNav.css({'position':'absolute','top':toTopHeight+'px'});
+            }else{
+                HeadNav.removeClass("gdflex");
+            }
+        }
+		});
+		}
+});
+</script>
+					<div class="burger">
+					<a href="javascript:void(0)" id="navToggle">
+					<i class="material-icons">storage</i>
+			        </a>
+					</div>
+					<div class="N3Al9Tursk">
+                        <div class="i3HR8WPFbh" onclick="showsort(this)"><span>Razvrsti:Featured</span><i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+                        <div class="wTvBQnpF4P">
+                            <span>Featured</span><span><a href="/search.html?&amp;coll=cloud&amp;sorting=priceDESC">Najvišja Cena</a></span>
+                            <span><a href="/search.html?&amp;coll=cloud&amp;sorting=priceASC">Najnižja Cena</a></span>                        </div>
+					</div>
+		        <div class="clear"></div>
+</div><div id="teFi4cHX9J">
+<!--banner_1-->
+<div class="VlX29JyI8k">
+<div id="MUA6q4BJtK">
+
+<div id="IifEiBnjQw" class="O7yXhOnV4U">
+            <script type="text/javascript">
+        $(function() {
+            $("#slider-range").slider({
+                range: true,
+                min: 47,
+                max: 69,
+                step: 1,
+                values: [47,69],
+                slide: function(event, ui) {
+                    $(".first_price").val(ui.values[0]);
+                    $(".last_price").val(ui.values[1]);
+                }
+            });
+        });
+</script>
+<script type="text/javascript">
+    function showaa(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+
+      if(obj_parent.className=="e3fhIcfONo")
+      {
+        obj_parent.className="e5jUEEQxdx";
+      }
+      else
+      {
+        obj_parent.className="e3fhIcfONo";
+      }
+
+    }
+</script>
+<script type="text/javascript">
+    function showbb(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+
+      if(obj_parent.className=="cDqNuKgF5Q")
+      {
+        obj_parent.className="JoBlBm0irh";
+      }
+      else
+      {
+        obj_parent.className="cDqNuKgF5Q";
+      }
+
+    }
+</script><script type="text/javascript" src="includes/templates/onrunning-slovenija/jscript/jquery-price-slider.js"></script><div class="m_nav"><div class="top clearfix"><i class="material-icons closed">cancel</i></div><div id="KsUTaUwOoK"><div id="bXNT2mhShH"><span>Razvrsti:</span><span><i class="material-icons closed">adjust</i>Featured</span><span><i class="material-icons closed">panorama_fish_eye</i><a href="/search.html?&amp;coll=cloud&amp;sorting=priceDESC">Najvišja Cena</a></span><span><i class="material-icons closed">panorama_fish_eye</i><a href="/search.html?&amp;coll=cloud&amp;sorting=priceASC">Najnižja Cena</a></span></div><div id="J1w6iMOeiz">
+		<div class="HX3lUGOJNB">Filtrov</div>
+		<div class="pUF3guWv2l"><a href="search.html"><i class="material-icons closed">remove</i>cloud</a><div class="RD3FWor3iq"><a href="search.html"><span>Ponastavi Vse</span></a></div></div></div><div id="ewt9AJrz5L"><div><a href="https://www.onrunningslovenija.si/collections/Čevlji-tekaški-Čevlji-c-1_2.html?&amp;coll=cloud">Tekaški Čevlji</a></div><div><a href="https://www.onrunningslovenija.si/collections/Čevlji-superge-c-1_6.html?&amp;coll=cloud">Superge</a></div></div><div class="e3fhIcfONo">
+	<div class="UKIKGFgQFk" onclick="showaa(this)">Spol<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="cDqNuKgF5Q"><a href="search.html?&amp;gender=1&amp;coll=cloud"><i class="material-icons">check_box_outline_blank</i>Moški</a><a href="search.html?&amp;gender=2&amp;coll=cloud"><i class="material-icons">check_box_outline_blank</i>Ženske</a><a href="search.html?&amp;gender=3&amp;coll=cloud"><i class="material-icons">check_box_outline_blank</i>Otroški</a></div></div><div class="e5jUEEQxdx">
+	<div class="UKIKGFgQFk" onclick="showaa(this)">Zbirka<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="cDqNuKgF5Q"><div class="wI7dwudycv"><a href="search.html?&amp;coll=cloud|Cloud"><i class="material-icons">check_box_outline_blank</i>Cloud</a></div></div></div><div class="e3fhIcfONo">
+	<div class="UKIKGFgQFk" onclick="showaa(this)">Barva<i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+	<div class="EHq7QyoOzz"><div class="cOdkXMBklq"><a style="background:#ff7970" title="Koralne" href="search.html?&amp;color=Koralne&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#000" title="Črne" href="search.html?&amp;color=Črne&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#ff0000" title="Rdeče" href="search.html?&amp;color=Rdeče&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#fff" title="Bele" href="search.html?&amp;color=Bele&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#ec4382" title="Roza" href="search.html?&amp;color=Roza&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#cc00ff" title="Vijolične" href="search.html?&amp;color=Vijolične&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#ff7800" title="Oranžne" href="search.html?&amp;color=Oranžne&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#2aff00" title="Zelene" href="search.html?&amp;color=Zelene&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#acacac" title="Sive" href="search.html?&amp;color=Sive&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#1635f1" title="Modre" href="search.html?&amp;color=Modre&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#bf7900" title="Rjave" href="search.html?&amp;color=Rjave&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#6b0328" title="Bordo" href="search.html?&amp;color=Bordo&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#fffc00" title="Rumene" href="search.html?&amp;color=Rumene&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:url(images/gold.jpg)" title="Zlate" href="search.html?&amp;color=Zlate&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:url(images/silver.jpg)" title="Srebrne" href="search.html?&amp;color=Srebrne&amp;coll=cloud"></a></div><div class="cOdkXMBklq"><a style="background:#000080" title="Temno Modre" href="search.html?&amp;color=Temno Modre&amp;coll=cloud"></a></div><div class="clear"></div></div></div><div class="e3fhIcfONo">
+<div class="UKIKGFgQFk" onclick="showaa(this)">Cena<span>(€)</span><i class="material-icons icons1">expand_less</i><i class="material-icons icons2">expand_more</i></div>
+<div class="EHq7QyoOzz"><form method="get" action="search.html" name="price_header">
+
+  <div class="nstSlider" data-range_min="47" data-range_max="69" data-cur_min="47" data-cur_max="69" style="width: 200px;">
+      <div class="bar" style="width: 190px; background: rgb(238, 238, 238); left: 10px;"></div>
+      <div class="leftGrip" tabindex="0" style="left: 0px;"></div>
+      <div class="rightGrip" tabindex="0" style="left: 180px;"></div>
+  </div>
+  <div class="leftLabel"></div>
+  <div class="rightLabel"></div>
+
+  <div id="newFirstPrice" value="47" style="display:none;"></div>
+  <div id="newLastPrice" value="69" style="display:none;"></div>
+	<div id="amount"><input type="hidden" value="cloud" name="coll"><div id="cq0wb4IloQ">
+        <input type="text" name="pfrom" id="first_price" class="first_price" value="47"><span>-</span>
+        <input type="text" name="pto" class="last_price" id="last_price" value="69"></div>
+        <input class="CjNVESAS6X" type="submit" value="GO">
+	</div></form></div><div class="clearBoth"></div></div></div></div>
+<script src="js/jquery.nstSlider.min.js"></script>
+<script>
+    $('.nstSlider').nstSlider({
+        left_grip_selector: '.leftGrip',
+        right_grip_selector: '.rightGrip',
+        value_bar_selector: '.bar',
+        highlight: {
+            grip_class: 'gripHighlighted',
+            panel_selector: '.highlightPanel'
+        },
+        value_changed_callback: function(cause, leftValue, rightValue) {
+            $('#first_price').val(leftValue);
+            $('#last_price').val(rightValue);
+        },
+    });
+
+    $(document).scroll(function () {
+       var winWid = $(window).width();
+       if(winWid<1024){
+          $('.m_nav').removeClass('leftMenuFixed');
+       }else{
+          var bodyScrollTop = $(document).scrollTop();; //滚动高度
+          if(bodyScrollTop>310){
+           if(!$('.m_nav').hasClass('leftMenuFixed')){
+               $('.m_nav').addClass('leftMenuFixed');
+           }
+          }else{
+               $('.m_nav').removeClass('leftMenuFixed');
+          }
+       }
+
+    })
+
+</script>
+</div>
+<div class="olyws87n7l">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+<!-- content -->
+
+<div id="thiscPath" style="display:none;"></div>
+
+
+<div id="mescroll" class="mescroll">
+
+	<div id="productListing" class="productListing" style="min-height: 883px;">
+		<div>
+		<div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-vijolične-pqo813540-p-1067.html"><img src="images/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Vijol-PQO813540.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-vijolične-pqo813540-p-1067.html" class="titleLink">On Cloud Monochrome Ženske Superge Vijolične | PQO813540</a></p><div class="dNrMj0G6NM"><div class="color_q">4 Barva</div><div class="productprice"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-vijolične-pqo813540-p-1067.html" proid="1067" proname="On Cloud Monochrome Ženske Superge Vijolične | PQO813540" procolor="Vijolične" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-vijolične-pqo813540-p-1067.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Vijol-PQO813540.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Vijol-PQO813540_SMALL.jpg" title="Vijolične">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-temno-modre-dtm780123-p-1079.html" proid="1079" proname="On Cloud Monochrome Ženske Superge Temno Modre | DTM780123" procolor="Temno Modre" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-temno-modre-dtm780123-p-1079.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Temno-DTM780123.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Temno-DTM780123_SMALL.jpg" title="Temno Modre">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-roza-adw431720-p-1068.html" proid="1068" proname="On Cloud Monochrome Ženske Superge Roza | ADW431720" procolor="Roza" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-roza-adw431720-p-1068.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Roza_-ADW431720.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Roza_-ADW431720_SMALL.jpg" title="Roza">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-rumene-hnt128475-p-1080.html" proid="1080" proname="On Cloud Monochrome Ženske Superge Rumene | HNT128475" procolor="Rumene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-Ženske-superge-rumene-hnt128475-p-1080.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Rumen-HNT128475.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Ženske_Superge_Rumen-HNT128475_SMALL.jpg" title="Rumene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-Črne-zmp089517-p-419.html"><img src="images/onrunning-slovenija/On_Cloud_50_50_Moški_Superge_Črne_ZM-ZMP089517.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-Črne-zmp089517-p-419.html" class="titleLink">On Cloud 50 | 50 Moški Superge Črne | ZMP089517</a></p><div class="dNrMj0G6NM"><div class="color_q">2 Barva</div><div class="productprice"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-Črne-zmp089517-p-419.html" proid="419" proname="On Cloud 50 | 50 Moški Superge Črne | ZMP089517" procolor="Črne" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-Črne-zmp089517-p-419.html" proimage="images/onrunning-slovenija/On_Cloud_50_50_Moški_Superge_Črne_ZM-ZMP089517.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_50_50_Moški_Superge_Črne_ZM-ZMP089517_SMALL.jpg" title="Črne">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-zelene-upk967812-p-420.html" proid="420" proname="On Cloud 50 | 50 Moški Superge Zelene | UPK967812" procolor="Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-50-50-moški-superge-zelene-upk967812-p-420.html" proimage="images/onrunning-slovenija/On_Cloud_50_50_Moški_Superge_Zelene_-UPK967812.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_50_50_Moški_Superge_Zelene_-UPK967812_SMALL.jpg" title="Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-temno-modre-qwn975128-p-299.html"><img src="images/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Temno_-QWN975128.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-temno-modre-qwn975128-p-299.html" class="titleLink">On Cloud Monochrome Moški Superge Temno Modre | QWN975128</a></p><div class="dNrMj0G6NM"><div class="color_q">4 Barva</div><div class="productprice"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-temno-modre-qwn975128-p-299.html" proid="299" proname="On Cloud Monochrome Moški Superge Temno Modre | QWN975128" procolor="Temno Modre" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-temno-modre-qwn975128-p-299.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Temno_-QWN975128.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Temno_-QWN975128_SMALL.jpg" title="Temno Modre">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-zelene-ghf937650-p-320.html" proid="320" proname="On Cloud Monochrome Moški Superge Zelene | GHF937650" procolor="Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-zelene-ghf937650-p-320.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Zelene-GHF937650.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Zelene-GHF937650_SMALL.jpg" title="Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-bordo-tzr126849-p-308.html" proid="308" proname="On Cloud Monochrome Moški Superge Bordo | TZR126849" procolor="Bordo" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-bordo-tzr126849-p-308.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Bordo_-TZR126849.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Bordo_-TZR126849_SMALL.jpg" title="Bordo">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-zlate-sob259481-p-326.html" proid="326" proname="On Cloud Monochrome Moški Superge Zlate | SOB259481" procolor="Zlate" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-monochrome-moški-superge-zlate-sob259481-p-326.html" proimage="images/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Zlate_-SOB259481.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Monochrome_Moški_Superge_Zlate_-SOB259481_SMALL.jpg" title="Zlate">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-temno-modre-bele-whq368475-p-1580.html"><img src="images/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Tem-WHQ368475.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-temno-modre-bele-whq368475-p-1580.html" class="titleLink">On Cloud Play Otroški Tekaški Čevlji Temno Modre Bele | WHQ368475</a></p><div class="dNrMj0G6NM"><div class="color_q">4 Barva</div><div class="productprice"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-temno-modre-bele-whq368475-p-1580.html" proid="1580" proname="On Cloud Play Otroški Tekaški Čevlji Temno Modre Bele | WHQ368475" procolor="Temno Modre Bele" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-temno-modre-bele-whq368475-p-1580.html" proimage="images/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Tem-WHQ368475.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Tem-WHQ368475_SMALL.jpg" title="Temno Modre Bele">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-bele-zsj072396-p-1583.html" proid="1583" proname="On Cloud Play Otroški Tekaški Čevlji Bele | ZSJ072396" procolor="Bele" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-bele-zsj072396-p-1583.html" proimage="images/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Bel-ZSJ072396.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Bel-ZSJ072396_SMALL.jpg" title="Bele">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-modre-rumene-poa612345-p-1581.html" proid="1581" proname="On Cloud Play Otroški Tekaški Čevlji Modre Rumene | POA612345" procolor="Modre Rumene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-modre-rumene-poa612345-p-1581.html" proimage="images/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Mod-POA612345.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Mod-POA612345_SMALL.jpg" title="Modre Rumene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-gorčica-bele-xiq874160-p-1582.html" proid="1582" proname="On Cloud Play Otroški Tekaški Čevlji Gorčica Bele | XIQ874160" procolor="Gorčica Bele" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-play-otroški-tekaški-Čevlji-gorčica-bele-xiq874160-p-1582.html" proimage="images/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Gor-XIQ874160.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Play_Otroški_Tekaški_Čevlji_Gor-XIQ874160_SMALL.jpg" title="Gorčica Bele">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€90.79 </span><span class="productSpecialPrice">€47.22</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-Črne-khr893260-p-1272.html"><img src="images/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Črne_KHR8932-KHR893260.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-Črne-khr893260-p-1272.html" class="titleLink">On Cloud 1 Ženske Superge Črne | KHR893260</a></p><div class="dNrMj0G6NM"><div class="color_q">4 Barva</div><div class="productprice"><span class="normalprice">€77.17 </span><span class="productSpecialPrice">€52.48</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-Črne-khr893260-p-1272.html" proid="1272" proname="On Cloud 1 Ženske Superge Črne | KHR893260" procolor="Črne" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-Črne-khr893260-p-1272.html" proimage="images/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Črne_KHR8932-KHR893260.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Črne_KHR8932-KHR893260_SMALL.jpg" title="Črne">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€77.17 </span><span class="productSpecialPrice">€52.48</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-koralne-sive-mqo893407-p-1273.html" proid="1273" proname="On Cloud 1 Ženske Superge Koralne Sive | MQO893407" procolor="Koralne Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-koralne-sive-mqo893407-p-1273.html" proimage="images/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Koralne_Sive_-MQO893407.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Koralne_Sive_-MQO893407_SMALL.jpg" title="Koralne Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€77.17 </span><span class="productSpecialPrice">€52.48</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-oranžne-hfy302194-p-1044.html" proid="1044" proname="On Cloud 1 Ženske Superge Oranžne | HFY302194" procolor="Oranžne" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-oranžne-hfy302194-p-1044.html" proimage="images/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Oranžne_HFY3-HFY302194.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Oranžne_HFY3-HFY302194_SMALL.jpg" title="Oranžne">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€77.17 </span><span class="productSpecialPrice">€52.48</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-svetlo-zelene-swn768120-p-1045.html" proid="1045" proname="On Cloud 1 Ženske Superge Svetlo Zelene | SWN768120" procolor="Svetlo Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-1-Ženske-superge-svetlo-zelene-swn768120-p-1045.html" proimage="images/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Svetlo_Zelene_-SWN768120.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_1_Ženske_Superge_Svetlo_Zelene_-SWN768120_SMALL.jpg" title="Svetlo Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€77.17 </span><span class="productSpecialPrice">€52.48</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-bež-zelene-dus359407-p-1585.html"><img src="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Bež_-DUS359407.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-bež-zelene-dus359407-p-1585.html" class="titleLink">On Cloud Sky Otroški Tekaški Čevlji Bež Zelene | DUS359407</a></p><div class="dNrMj0G6NM"><div class="color_q">5 Barva</div><div class="productprice"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-bež-zelene-dus359407-p-1585.html" proid="1585" proname="On Cloud Sky Otroški Tekaški Čevlji Bež Zelene | DUS359407" procolor="Bež Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-bež-zelene-dus359407-p-1585.html" proimage="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Bež_-DUS359407.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Bež_-DUS359407_SMALL.jpg" title="Bež Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-indigo-wig350687-p-1584.html" proid="1584" proname="On Cloud Sky Otroški Tekaški Čevlji Indigo | WIG350687" procolor="Indigo" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-indigo-wig350687-p-1584.html" proimage="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Indi-WIG350687.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Indi-WIG350687_SMALL.jpg" title="Indigo">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-Črne-mny187546-p-1588.html" proid="1588" proname="On Cloud Sky Otroški Tekaški Čevlji Črne | MNY187546" procolor="Črne" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-Črne-mny187546-p-1588.html" proimage="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Črne-MNY187546.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Črne-MNY187546_SMALL.jpg" title="Črne">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-sive-wby198254-p-1586.html" proid="1586" proname="On Cloud Sky Otroški Tekaški Čevlji Sive | WBY198254" procolor="Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-sive-wby198254-p-1586.html" proimage="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Sive-WBY198254.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Sive-WBY198254_SMALL.jpg" title="Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-oranžne-rdeče-uyp347951-p-1587.html" proid="1587" proname="On Cloud Sky Otroški Tekaški Čevlji Oranžne Rdeče | UYP347951" procolor="Oranžne Rdeče" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-sky-otroški-tekaški-Čevlji-oranžne-rdeče-uyp347951-p-1587.html" proimage="images/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Oran-UYP347951.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Sky_Otroški_Tekaški_Čevlji_Oran-UYP347951_SMALL.jpg" title="Oranžne Rdeče">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€99.87 </span><span class="productSpecialPrice">€47.40</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-marelice-tpb678941-p-1278.html"><img src="images/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Marelice_-TPB678941.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-marelice-tpb678941-p-1278.html" class="titleLink">On Cloud Beam Ženske Superge Marelice | TPB678941</a></p><div class="dNrMj0G6NM"><div class="color_q">3 Barva</div><div class="productprice"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-marelice-tpb678941-p-1278.html" proid="1278" proname="On Cloud Beam Ženske Superge Marelice | TPB678941" procolor="Marelice" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-marelice-tpb678941-p-1278.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Marelice_-TPB678941.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Marelice_-TPB678941_SMALL.jpg" title="Marelice">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-rjave-aje270381-p-1279.html" proid="1279" proname="On Cloud Beam Ženske Superge Rjave | AJE270381" procolor="Rjave" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-rjave-aje270381-p-1279.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Rjave_AJE-AJE270381.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Rjave_AJE-AJE270381_SMALL.jpg" title="Rjave">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-zelene-vijolične-sme018976-p-1280.html" proid="1280" proname="On Cloud Beam Ženske Superge Zelene Vijolične | SME018976" procolor="Zelene Vijolične" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-Ženske-superge-zelene-vijolične-sme018976-p-1280.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Zelene_Vijo-SME018976.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Ženske_Superge_Zelene_Vijo-SME018976_SMALL.jpg" title="Zelene Vijolične">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rjave-qup397524-p-1127.html"><img src="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Rjave_QUP3-QUP397524.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rjave-qup397524-p-1127.html" class="titleLink">On Cloud Dip Ženske Superge Rjave | QUP397524</a></p><div class="dNrMj0G6NM"><div class="color_q">5 Barva</div><div class="productprice"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rjave-qup397524-p-1127.html" proid="1127" proname="On Cloud Dip Ženske Superge Rjave | QUP397524" procolor="Rjave" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rjave-qup397524-p-1127.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Rjave_QUP3-QUP397524.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Rjave_QUP3-QUP397524_SMALL.jpg" title="Rjave">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-zelene-sive-tmr974831-p-1133.html" proid="1133" proname="On Cloud Dip Ženske Superge Zelene Sive | TMR974831" procolor="Zelene Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-zelene-sive-tmr974831-p-1133.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Zelene_Sive_-TMR974831.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Zelene_Sive_-TMR974831_SMALL.jpg" title="Zelene Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rumene-yub248015-p-1077.html" proid="1077" proname="On Cloud Dip Ženske Superge Rumene | YUB248015" procolor="Rumene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-rumene-yub248015-p-1077.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Rumene_YUB-YUB248015.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Rumene_YUB-YUB248015_SMALL.jpg" title="Rumene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-vijolične-txn658934-p-1122.html" proid="1122" proname="On Cloud Dip Ženske Superge Vijolične | TXN658934" procolor="Vijolične" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-vijolične-txn658934-p-1122.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Vijolične_-TXN658934.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Vijolične_-TXN658934_SMALL.jpg" title="Vijolične">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-marelice-uik850712-p-1076.html" proid="1076" proname="On Cloud Dip Ženske Superge Marelice | UIK850712" procolor="Marelice" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-Ženske-superge-marelice-uik850712-p-1076.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Marelice_U-UIK850712.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Dip_Ženske_Superge_Marelice_U-UIK850712_SMALL.jpg" title="Marelice">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-modre-zelene-icf837164-p-296.html"><img src="images/onrunning-slovenija/On_Cloud_70_30_Moški_Superge_Modre_Zel-ICF837164.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-modre-zelene-icf837164-p-296.html" class="titleLink">On Cloud 70 | 30 Moški Superge Modre Zelene | ICF837164</a></p><div class="dNrMj0G6NM"><div class="color_q">2 Barva</div><div class="productprice"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-modre-zelene-icf837164-p-296.html" proid="296" proname="On Cloud 70 | 30 Moški Superge Modre Zelene | ICF837164" procolor="Modre Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-modre-zelene-icf837164-p-296.html" proimage="images/onrunning-slovenija/On_Cloud_70_30_Moški_Superge_Modre_Zel-ICF837164.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_70_30_Moški_Superge_Modre_Zel-ICF837164_SMALL.jpg" title="Modre Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-zelene-yel095716-p-297.html" proid="297" proname="On Cloud 70 | 30 Moški Superge Zelene | YEL095716" procolor="Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-70-30-moški-superge-zelene-yel095716-p-297.html" proimage="images/onrunning-slovenija/On_Cloud_70_30_Moški_Superge_Zelene_-YEL095716.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_70_30_Moški_Superge_Zelene_-YEL095716_SMALL.jpg" title="Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-sive-rjave-uhe268753-p-1128.html"><img src="images/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Sive_Rjave-UHE268753.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-sive-rjave-uhe268753-p-1128.html" class="titleLink">On Cloud Nexus Ženske Superge Sive Rjave | UHE268753</a></p><div class="dNrMj0G6NM"><div class="color_q">3 Barva</div><div class="productprice"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-sive-rjave-uhe268753-p-1128.html" proid="1128" proname="On Cloud Nexus Ženske Superge Sive Rjave | UHE268753" procolor="Sive Rjave" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-sive-rjave-uhe268753-p-1128.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Sive_Rjave-UHE268753.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Sive_Rjave-UHE268753_SMALL.jpg" title="Sive Rjave">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-vijolične-rcp560194-p-1116.html" proid="1116" proname="On Cloud Nexus Ženske Superge Vijolične | RCP560194" procolor="Vijolične" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-vijolične-rcp560194-p-1116.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Vijolične_-RCP560194.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Vijolične_-RCP560194_SMALL.jpg" title="Vijolične">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-modre-sive-qdl927543-p-1100.html" proid="1100" proname="On Cloud Nexus Ženske Superge Modre Sive | QDL927543" procolor="Modre Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-Ženske-superge-modre-sive-qdl927543-p-1100.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Modre_Sive-QDL927543.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Ženske_Superge_Modre_Sive-QDL927543_SMALL.jpg" title="Modre Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-temno-zelene-rtx705248-p-327.html"><img src="images/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Temno_Zelen-RTX705248.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-temno-zelene-rtx705248-p-327.html" class="titleLink">On Cloud Nexus Moški Superge Temno Zelene | RTX705248</a></p><div class="dNrMj0G6NM"><div class="color_q">3 Barva</div><div class="productprice"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-temno-zelene-rtx705248-p-327.html" proid="327" proname="On Cloud Nexus Moški Superge Temno Zelene | RTX705248" procolor="Temno Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-temno-zelene-rtx705248-p-327.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Temno_Zelen-RTX705248.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Temno_Zelen-RTX705248_SMALL.jpg" title="Temno Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-zelene-Črne-hic382674-p-321.html" proid="321" proname="On Cloud Nexus Moški Superge Zelene Črne | HIC382674" procolor="Zelene Črne" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-zelene-Črne-hic382674-p-321.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Zelene_Črne-HIC382674.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Zelene_Črne-HIC382674_SMALL.jpg" title="Zelene Črne">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-sive-svetlo-zelene-yjz382190-p-341.html" proid="341" proname="On Cloud Nexus Moški Superge Sive Svetlo Zelene | YJZ382190" procolor="Sive Svetlo Zelene" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-nexus-moški-superge-sive-svetlo-zelene-yjz382190-p-341.html" proimage="images/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Sive_Svetlo-YJZ382190.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Nexus_Moški_Superge_Sive_Svetlo-YJZ382190_SMALL.jpg" title="Sive Svetlo Zelene">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€108.95 </span><span class="productSpecialPrice">€59.38</span></span>
+						</div></div></div></div></div><div class="productNewList">
+				<div class="productsCol firstColumn">
+					<div class="colBorder">
+						<div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html"><img src="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280.jpg"></a></div><p class="productname"><a href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html" class="titleLink">On Cloud Beam Moški Superge Čokolade | XVG375280</a></p><div class="dNrMj0G6NM"><div class="color_q">3 Barva</div><div class="productprice"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></div></div></div><div class="productColorLists"><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html" proid="506" proname="On Cloud Beam Moški Superge Čokolade | XVG375280" procolor="Čokolade" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280_SMALL.jpg" title="Čokolade">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-olivno-zelene-sive-dwv241679-p-504.html" proid="504" proname="On Cloud Beam Moški Superge Olivno Zelene Sive | DWV241679" procolor="Olivno Zelene Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-olivno-zelene-sive-dwv241679-p-504.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Olivno_Zelen-DWV241679.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Olivno_Zelen-DWV241679_SMALL.jpg" title="Olivno Zelene Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div><div class="productColorList">
+						<a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-rjave-sive-diz436875-p-505.html" proid="505" proname="On Cloud Beam Moški Superge Rjave Sive | DIZ436875" procolor="Rjave Sive" prodiscount="-32%" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-rjave-sive-diz436875-p-505.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Rjave_Sive_-DIZ436875.jpg">
+						<img src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Rjave_Sive_-DIZ436875_SMALL.jpg" title="Rjave Sive">
+						</a>
+						<span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span>
+						</div></div></div></div></div>	</div>
+        	    <div id="productLists"><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Črne-bha817346-p-357.html"><img src="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Črne_BHA8-BHA817346.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud Terry Moški Superge Črne | BHA817346" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Črne-bha817346-p-357.html">On Cloud Terry Moški Superge Črne | BHA817346</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></div><div class="color_q">7 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Črne-bha817346-p-357.html" proid="357" proname="On Cloud Terry Moški Superge Črne | BHA817346" procolor="Črne" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Črne-bha817346-p-357.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Črne_BHA8-BHA817346.jpg"><img title="Črne" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Črne_BHA8-BHA817346_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-bele-daq952801-p-344.html" proid="344" proname="On Cloud Terry Moški Superge Bele | DAQ952801" procolor="Bele" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-bele-daq952801-p-344.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Bele_DAQ9-DAQ952801.jpg"><img title="Bele" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Bele_DAQ9-DAQ952801_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-olivno-zelene-hsr604823-p-322.html" proid="322" proname="On Cloud Terry Moški Superge Olivno Zelene | HSR604823" procolor="Olivno Zelene" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-olivno-zelene-hsr604823-p-322.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Olivno_Zele-HSR604823.jpg"><img title="Olivno Zelene" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Olivno_Zele-HSR604823_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-srebrne-czl871506-p-372.html" proid="372" proname="On Cloud Terry Moški Superge Srebrne | CZL871506" procolor="Srebrne" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-srebrne-czl871506-p-372.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Srebrne_C-CZL871506.jpg"><img title="Srebrne" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Srebrne_C-CZL871506_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Čokolade-joh624078-p-364.html" proid="364" proname="On Cloud Terry Moški Superge Čokolade | JOH624078" procolor="Čokolade" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-Čokolade-joh624078-p-364.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Čokolade_-JOH624078.jpg"><img title="Čokolade" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Čokolade_-JOH624078_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-rumene-paz947861-p-309.html" proid="309" proname="On Cloud Terry Moški Superge Rumene | PAZ947861" procolor="Rumene" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-rumene-paz947861-p-309.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Rumene_PA-PAZ947861.jpg"><img title="Rumene" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Rumene_PA-PAZ947861_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-bordo-bkn621548-p-347.html" proid="347" proname="On Cloud Terry Moški Superge Bordo | BKN621548" procolor="Bordo" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-moški-superge-bordo-bkn621548-p-347.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Bordo_BKN-BKN621548.jpg"><img title="Bordo" src="images/small/onrunning-slovenija/On_Cloud_Terry_Moški_Superge_Bordo_BKN-BKN621548_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div></div></div></div></div></div><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html"><img src="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud Beam Moški Superge Čokolade | XVG375280" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html">On Cloud Beam Moški Superge Čokolade | XVG375280</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></div><div class="color_q">3 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html" proid="506" proname="On Cloud Beam Moški Superge Čokolade | XVG375280" procolor="Čokolade" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-Čokolade-xvg375280-p-506.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280.jpg"><img title="Čokolade" src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Čokolade_X-XVG375280_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-olivno-zelene-sive-dwv241679-p-504.html" proid="504" proname="On Cloud Beam Moški Superge Olivno Zelene Sive | DWV241679" procolor="Olivno Zelene Sive" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-olivno-zelene-sive-dwv241679-p-504.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Olivno_Zelen-DWV241679.jpg"><img title="Olivno Zelene Sive" src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Olivno_Zelen-DWV241679_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-rjave-sive-diz436875-p-505.html" proid="505" proname="On Cloud Beam Moški Superge Rjave Sive | DIZ436875" procolor="Rjave Sive" prourl="https://www.onrunningslovenija.si/products/on-cloud-beam-moški-superge-rjave-sive-diz436875-p-505.html" proimage="images/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Rjave_Sive_-DIZ436875.jpg"><img title="Rjave Sive" src="images/small/onrunning-slovenija/On_Cloud_Beam_Moški_Superge_Rjave_Sive_-DIZ436875_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span></div></div></div></div></div></div><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-vijolične-fto129034-p-1274.html"><img src="images/onrunning-slovenija/On_Cloud_50_50_Ženske_Superge_Vijoličn-FTO129034.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud 50 | 50 Ženske Superge Vijolične | FTO129034" href="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-vijolične-fto129034-p-1274.html">On Cloud 50 | 50 Ženske Superge Vijolične | FTO129034</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></div><div class="color_q">2 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-vijolične-fto129034-p-1274.html" proid="1274" proname="On Cloud 50 | 50 Ženske Superge Vijolične | FTO129034" procolor="Vijolične" prourl="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-vijolične-fto129034-p-1274.html" proimage="images/onrunning-slovenija/On_Cloud_50_50_Ženske_Superge_Vijoličn-FTO129034.jpg"><img title="Vijolične" src="images/small/onrunning-slovenija/On_Cloud_50_50_Ženske_Superge_Vijoličn-FTO129034_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-rjave-bele-tpn038467-p-1275.html" proid="1275" proname="On Cloud 50 | 50 Ženske Superge Rjave Bele | TPN038467" procolor="Rjave Bele" prourl="https://www.onrunningslovenija.si/products/on-cloud-50-50-Ženske-superge-rjave-bele-tpn038467-p-1275.html" proimage="images/onrunning-slovenija/On_Cloud_50_50_Ženske_Superge_Rjave_Be-TPN038467.jpg"><img title="Rjave Bele" src="images/small/onrunning-slovenija/On_Cloud_50_50_Ženske_Superge_Rjave_Be-TPN038467_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€72.62 </span><span class="productSpecialPrice">€49.38</span></span></div></div></div></div></div></div><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Črne-bele-tmq590163-p-1126.html"><img src="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Črne_Bele_-TMQ590163.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud Terry Ženske Superge Črne Bele | TMQ590163" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Črne-bele-tmq590163-p-1126.html">On Cloud Terry Ženske Superge Črne Bele | TMQ590163</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></div><div class="color_q">7 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Črne-bele-tmq590163-p-1126.html" proid="1126" proname="On Cloud Terry Ženske Superge Črne Bele | TMQ590163" procolor="Črne Bele" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Črne-bele-tmq590163-p-1126.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Črne_Bele_-TMQ590163.jpg"><img title="Črne Bele" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Črne_Bele_-TMQ590163_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-olivno-zelene-icl470358-p-1120.html" proid="1120" proname="On Cloud Terry Ženske Superge Olivno Zelene | ICL470358" procolor="Olivno Zelene" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-olivno-zelene-icl470358-p-1120.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Olivno_Zel-ICL470358.jpg"><img title="Olivno Zelene" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Olivno_Zel-ICL470358_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-bele-lfz147356-p-1131.html" proid="1131" proname="On Cloud Terry Ženske Superge Bele | LFZ147356" procolor="Bele" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-bele-lfz147356-p-1131.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Bele_LFZ-LFZ147356.jpg"><img title="Bele" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Bele_LFZ-LFZ147356_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-rumene-ukz014857-p-1088.html" proid="1088" proname="On Cloud Terry Ženske Superge Rumene | UKZ014857" procolor="Rumene" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-rumene-ukz014857-p-1088.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Rumene_U-UKZ014857.jpg"><img title="Rumene" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Rumene_U-UKZ014857_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-srebrne-jdn264098-p-1142.html" proid="1142" proname="On Cloud Terry Ženske Superge Srebrne | JDN264098" procolor="Srebrne" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-srebrne-jdn264098-p-1142.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Srebrne_-JDN264098.jpg"><img title="Srebrne" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Srebrne_-JDN264098_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Čokolade-mrj670548-p-1129.html" proid="1129" proname="On Cloud Terry Ženske Superge Čokolade | MRJ670548" procolor="Čokolade" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-Čokolade-mrj670548-p-1129.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Čokolade_-MRJ670548.jpg"><img title="Čokolade" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Čokolade_-MRJ670548_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-marelice-aur956420-p-1108.html" proid="1108" proname="On Cloud Terry Ženske Superge Marelice | AUR956420" procolor="Marelice" prourl="https://www.onrunningslovenija.si/products/on-cloud-terry-Ženske-superge-marelice-aur956420-p-1108.html" proimage="images/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Marelice_-AUR956420.jpg"><img title="Marelice" src="images/small/onrunning-slovenija/On_Cloud_Terry_Ženske_Superge_Marelice_-AUR956420_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€136.19 </span><span class="productSpecialPrice">€68.10</span></span></div></div></div></div></div></div><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-zelene-olivno-zelene-ugb496510-p-270.html"><img src="images/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Zelene_Olivno-UGB496510.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud Dip Moški Superge Zelene Olivno Zelene | UGB496510" href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-zelene-olivno-zelene-ugb496510-p-270.html">On Cloud Dip Moški Superge Zelene Olivno Zelene | UGB496510</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></div><div class="color_q">4 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-zelene-olivno-zelene-ugb496510-p-270.html" proid="270" proname="On Cloud Dip Moški Superge Zelene Olivno Zelene | UGB496510" procolor="Zelene Olivno Zelene" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-zelene-olivno-zelene-ugb496510-p-270.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Zelene_Olivno-UGB496510.jpg"><img title="Zelene Olivno Zelene" src="images/small/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Zelene_Olivno-UGB496510_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-sive-unh509142-p-336.html" proid="336" proname="On Cloud Dip Moški Superge Sive | UNH509142" procolor="Sive" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-sive-unh509142-p-336.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Sive_UNH509-UNH509142.jpg"><img title="Sive" src="images/small/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Sive_UNH509-UNH509142_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-rjave-ylm194206-p-325.html" proid="325" proname="On Cloud Dip Moški Superge Rjave | YLM194206" procolor="Rjave" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-rjave-ylm194206-p-325.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Rjave_YLM19-YLM194206.jpg"><img title="Rjave" src="images/small/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Rjave_YLM19-YLM194206_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-Čokolade-Črne-cep036914-p-335.html" proid="335" proname="On Cloud Dip Moški Superge Čokolade Črne | CEP036914" procolor="Čokolade Črne" prourl="https://www.onrunningslovenija.si/products/on-cloud-dip-moški-superge-Čokolade-Črne-cep036914-p-335.html" proimage="images/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Čokolade_Črne-CEP036914.jpg"><img title="Čokolade Črne" src="images/small/onrunning-slovenija/On_Cloud_Dip_Moški_Superge_Čokolade_Črne-CEP036914_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div></div></div></div></div></div><div class="productNewList"><div class="productsCol firstColumn"><div class="colBorder"><div id="gallery" class="ad-gallery"><div class="productShowImage"><a href="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-olivno-zelene-temno-modre-cnd309516-p-1065.html"><img src="images/onrunning-slovenija/On_Cloud_70_30_Ženske_Superge_Olivno_Z-CND309516.jpg"></a></div><p class="productname"><a class="titleLink" title="On Cloud 70 | 30 Ženske Superge Olivno Zelene Temno Modre | CND309516" href="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-olivno-zelene-temno-modre-cnd309516-p-1065.html">On Cloud 70 | 30 Ženske Superge Olivno Zelene Temno Modre | CND309516</a></p><div class="dNrMj0G6NM"><div class="productprice"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></div><div class="color_q">2 Barva</div><div class="clear"></div></div><div class="productColorLists"><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-olivno-zelene-temno-modre-cnd309516-p-1065.html" proid="1065" proname="On Cloud 70 | 30 Ženske Superge Olivno Zelene Temno Modre | CND309516" procolor="Olivno Zelene Temno Modre" prourl="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-olivno-zelene-temno-modre-cnd309516-p-1065.html" proimage="images/onrunning-slovenija/On_Cloud_70_30_Ženske_Superge_Olivno_Z-CND309516.jpg"><img title="Olivno Zelene Temno Modre" src="images/small/onrunning-slovenija/On_Cloud_70_30_Ženske_Superge_Olivno_Z-CND309516_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div><div class="productColorList"><a class="colorLink" href="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-vijolične-gci867409-p-1050.html" proid="1050" proname="On Cloud 70 | 30 Ženske Superge Vijolične | GCI867409" procolor="Vijolične" prourl="https://www.onrunningslovenija.si/products/on-cloud-70-30-Ženske-superge-vijolične-gci867409-p-1050.html" proimage="images/onrunning-slovenija/On_Cloud_70_30_Ženske_Superge_Vijoličn-GCI867409.jpg"><img title="Vijolične" src="images/small/onrunning-slovenija/On_Cloud_70_30_Ženske_Superge_Vijoličn-GCI867409_SMALL.jpg"></a><span class="hideTjPrice" style="display:none;"><span class="normalprice">€118.03 </span><span class="productSpecialPrice">€59.56</span></span></div></div></div></div></div></div></div>
+	<div class="selfLoading" style="display: none;"><div class="css-wtrpap"></div></div>
+	
+</div>
+<script src="includes/templates/onrunning-slovenija/templates/js/mescroll.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="includes/templates/onrunning-slovenija/js/layer.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    // var maxHeight = 0;
+    sessionStorage.setItem('maxHeight',0);
+	$(".layui-layer-loading").hide();
+
+    $(function(){
+        var winHeigh = $(window).height() - $("#LNSwghAMyB").height();
+		var leftMenuHeigh = $("#IifEiBnjQw").height();
+		if(winHeigh > leftMenuHeigh){
+			$("#productListing").css("min-height",winHeigh);
+		}else{
+			$("#productListing").css("min-height",leftMenuHeigh);
+		}
+
+
+		$(window).scroll(function(){
+			var winH = $(window).height()+$("#LNSwghAMyB").height()+3;
+			var winTop = $(window).scrollTop();
+			var bodyH = $("body").height();
+			var theSub = $("body").height()-$(window).scrollTop();
+			if(theSub<=winH){
+				$(".m_nav").css("padding-bottom",winH-theSub)
+			}else{
+				$(".m_nav").css("padding-bottom",0)
+			}
+		})
+
+        //创建MeScroll对象
+        var mescroll = new MeScroll("body", {
+            //down: {
+                //auto: false, //是否在初始化完毕之后自动执行下拉回调callback; 默认true
+                //callback: downCallback //下拉刷新的回调
+            //},
+            up: {
+                auto: true, //是否在初始化时以上拉加载的方式自动加载第一页数据; 默认false
+                page: {
+                  num: 0, //当前页 默认0,回调之前会加1; 即callback(page)会从1开始
+                  size: 12, //每页数据条数
+                  time: null //加载第一页数据服务器返回的时间; 防止用户翻页时,后台新增了数据从而导致下一页数据重复;
+                },
+                isBounce: false, //此处禁止ios回弹,解析(务必认真阅读,特别是最后一点): http://www.mescroll.com/qa.html#q10
+                callback: upCallback, //上拉回调,此处可简写; 相当于 callback: function (page) { upCallback(page); }
+                inited: function(mescroll, upwarp) {
+                  //console.log("up --> inited");
+                  //初始化完毕的回调,可缓存dom 比如
+                  $('.mescroll-upwarp').remove()
+                  $('.mescroll-totop').hide()
+                  mescroll.upProgressDom = upwarp.getElementsByClassName("upwarp-progress")[0];
+                }
+            }
+        });
+
+        /*上拉加载的回调 page = {num:1, size:10}; num:当前页 从1开始, size:每页数据条数 */
+        function upCallback(page){
+            //联网加载数据
+            //sessionStorage.setItem('page_index',page.num)
+            //console.log('page_index=='+page.num)
+            var searchUrl = location.search;
+			$(".selfLoading").show();
+            $(".layui-layer-shade").hide();
+            $('.layui-layer-loading').addClass('isLoadMore');
+            var href = window.location.href; /* 获取完整URL */
+            var host = window.location.host; /* 获取完整host */
+            var htmlIndex = href.indexOf('.html');
+            var pathNum2 = href.substring(htmlIndex-2,htmlIndex-1)
+            var pathNum1 = href.substring(htmlIndex-1,htmlIndex)
+            //console.log('pathNum1='+pathNum1)
+            //console.log('pathNum2='+pathNum2)
+            var cPath = $('#thiscPath').text();
+            var pageNum = page.num+1;
+            var requestUrl = "/api/product_list"+searchUrl+"&page="+pageNum+'&cPath='+cPath
+             //console.log('host='+host)
+             //console.log('requestUrl='+requestUrl)
+
+            $.ajax({
+                type: "GET",
+                url: requestUrl,
+                // async: false,
+                dataType: "json", //预期服务器返回数据的类型
+                success: function(data){
+					$(".selfLoading").hide();
+                    if(data.list){
+                    var productListResonse = data
+                    mescroll.endByPage(productListResonse.list.length,productListResonse.count-12);
+                    for(var i=0; i<productListResonse.list.length;i++){
+                       var productInfoList = productListResonse.list[i];
+                       var productListHtml = '';
+                       for(var j=0; j<productInfoList.length;j++){
+                            var proId = productInfoList[j].products_id;
+                            var proName= productInfoList[j].products_name;
+                            var proImage = productInfoList[j].products_image;
+                            var proImage_img = proImage.replace(/images\//,"");
+                            var proImage_a = '.'+proImage_img.replace(/.+\./,"");
+                            var proImage_hz = '_SMALL'+proImage_a;
+                            var proImage_base = proImage.replace(proImage_a,"");
+                            var small_images = 'images/small/'+proImage_base+proImage_hz;
+                            var proColor = productInfoList[j].products_color;
+                            var proSpecialsPrice = productInfoList[j].specials_new_products_price;
+                            var proFinalPrice = productInfoList[j].final_price;
+                            var proUrl = productInfoList[j].product_url;
+                            var proTjProductsPrice = productInfoList[j].tj_products_price;
+                            productListHtml +=
+                                '<div class="productColorList">'+
+                                    '<a class="colorLink" href="'+proUrl+'" proId="'+proId+'" proId="'+proId+'" proName="'+proName+'" proColor="'+proColor+'" proUrl="'+proUrl+'" proImage="images/'+proImage+'">'+
+                                        '<img title="'+proColor+'" src="'+small_images+'">'+
+                                    '</a>'+
+									'<span class="hideTjPrice" style="display:none;">'+proTjProductsPrice+'</span>'+
+                                '</div>'
+                       }
+
+                       var products_id = productInfoList[0].products_id
+                       var products_image = productInfoList[0].products_image
+                       var products_name = productInfoList[0].products_name
+                       var tj_products_price = productInfoList[0].tj_products_price
+                       var product_url = productInfoList[0].product_url
+                       var colorLenght = productInfoList.length
+                       var listHtml =
+                        '<div class="productNewList">'+
+                         '<div class="productsCol firstColumn">'+
+                          '<div class="colBorder">'+
+                           '<div id="gallery" class="ad-gallery">'+
+                            '<div class="productShowImage"><a href="'+product_url+'"><img src="images/'+products_image+'"></a></div>'+
+                            '<p class="productname"><a class="titleLink" title="'+products_name+'" href="'+product_url+'">'+products_name+'</a></p>'+
+                             '<div class="dNrMj0G6NM">'+
+                              '<div class="productprice">'+tj_products_price+'</div>'+
+                              '<div class="color_q">'+colorLenght+' Barva</div>'+
+                              '<div class="clear"></div>'+
+                             '</div>'+
+                             '<div class="productColorLists">'+productListHtml+'</div>'+
+                           '</div>'+
+                          '</div>'+
+                         '</div>'+
+                        '</div>';
+                        //debugger
+                         //$('#productLists').push(listHtml)
+                         var listDom=document.getElementById("productLists");
+                         //先保存div中原来的html
+                         //再跟你想追加的代码加到一起插入div中
+                         listDom.innerHTML = listDom.innerHTML + listHtml;
+                         //initProductListHeight();
+                         $('.productColorList').hover(function(){
+                            $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                             $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                            $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+							var aaa=$(this).find('.hideTjPrice').html()
+                            $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+                         });
+                         var winWid = $(window).width();
+                         if(winWid<=1024){
+                            $('.productColorList').find('a').attr('href','javascript:void(0);')
+                            $('.productColorList').click(function(){
+                                $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                                $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                                $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+                                $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+                             });
+                         }
+					   }
+					}
+                 
+                },
+                error: function(jqXHR){
+                }
+            })
+
+        }
+
+        /*设置列表数据*/
+        function setListData(curPageData, isAppend) {
+            var listDom=document.getElementById("productLists");
+            //先保存div中原来的html
+            var html = listDom.innerHTML;
+            //再跟你想追加的代码加到一起插入div中
+            listDom.innerHTML = html + document.getElementById("hideProduct").innerHTML;
+        }
+
+        function initProductListHeight(){
+            var flagMax = sessionStorage.getItem('maxHeight')
+            $('.productNewList').each(function(i, btn){
+                var thisHeight = $(this).height();
+                if(parseInt(thisHeight) > parseInt(flagMax)){
+                    flagMax = thisHeight
+                }
+            });
+            sessionStorage.setItem('maxHeight',flagMax)
+            $('.productNewList').css("height",flagMax);
+        }
+
+        $('.productColorList').hover(function(){
+            $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+            $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('.colorLink').attr('proimage'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+            $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+            var aaa=$(this).find('.hideTjPrice').html()
+            $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+        });
+        var winWid = $(window).width();
+        if(winWid<=1024){
+            $('.productColorList').find('a').attr('href','javascript:void(0);')
+            $('.productColorList').click(function(){
+                $(this).parents('.productNewList').find('.productShowImage').find('a').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                $(this).parents('.productNewList').find('.productShowImage').find('img').attr('src',$(this).find('img').attr('src'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('title',$(this).find('.colorLink').attr('proName'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').attr('href',$(this).find('.colorLink').attr('proUrl'));
+                $(this).parents('.productNewList').find('.productname').find('.titleLink').text($(this).find('.colorLink').attr('proName'));
+                $(this).parents('.productNewList').find('.productprice').html($(this).find('.hideTjPrice').html());
+            });
+        }
+
+    })
+
+</script>
+
+
+</div>
+
+<!-- content -->
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div><div id="box_foot_id" style="display: none">LNSwghAMyB</div><div id="LNSwghAMyB">
+<div id="ixkrGWM6Xu">
+  <div id="QOHE2AI3JC">
+		<div id="xgbRRltdcs">
+		 <div id="r1z9dNW78k">
+		   <h3>Stay Connected</h3>
+		   <div id="FhOzqz7zOa">
+         <form action="" method="post">
+         <input type="text" placeholder="Mail">
+         <button type="submit" name="mail_submit" class="material-icons">chevron_right</button>
+         </form>
+               </div>
+		 <p>Sign up for our newsletter and save 5%!</p>
+	<div id="frE77TutME"><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.onrunningslovenija.si/search.html?&amp;coll=cloud">
+    <svg class="AjL1Ve5Tte" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M928 0h-832c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h416v-448h-128v-128h128v-64c0-105.8 86.2-192 192-192h128v128h-128c-35.2 0-64 28.8-64 64v64h192l-32 128h-160v448h288c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96z"></path>
+        </g></svg>
+</a>
+<a href="https://twitter.com/intent/tweet/?url=http://www.onrunningslovenija.si/search.html?&amp;coll=cloud">
+    <svg class="AjL1Ve5Tte" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)">
+            <path d="M1024 226.4c-37.6 16.8-78.2 28-120.6 33 43.4-26 76.6-67.2 92.4-116.2-40.6 24-85.6 41.6-133.4 51-38.4-40.8-93-66.2-153.4-66.2-116 0-210 94-210 210 0 16.4 1.8 32.4 5.4 47.8-174.6-8.8-329.4-92.4-433-219.6-18 31-28.4 67.2-28.4 105.6 0 72.8 37 137.2 93.4 174.8-34.4-1-66.8-10.6-95.2-26.2 0 0.8 0 1.8 0 2.6 0 101.8 72.4 186.8 168.6 206-17.6 4.8-36.2 7.4-55.4 7.4-13.6 0-26.6-1.4-39.6-3.8 26.8 83.4 104.4 144.2 196.2 146-72 56.4-162.4 90-261 90-17 0-33.6-1-50.2-3 93.2 59.8 203.6 94.4 322.2 94.4 386.4 0 597.8-320.2 597.8-597.8 0-9.2-0.2-18.2-0.6-27.2 41-29.4 76.6-66.4 104.8-108.6z"></path>
+        </g></svg>
+</a>
+<a href="https://www.pinterest.com/pin/create/button/?url=http://www.onrunningslovenija.si/search.html?&amp;coll=cloud">
+    <svg class="AjL1Ve5Tte" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 68.4c-245 0-443.6 198.6-443.6 443.6 0 188 117 348.4 282 413-3.8-35-7.4-89 1.6-127.2 8-34.6 52-220.4 52-220.4s-13.2-26.6-13.2-65.8c0-61.6 35.8-107.8 80.2-107.8 37.8 0 56.2 28.4 56.2 62.4 0 38-24.2 95-36.8 147.6-10.6 44.2 22 80.2 65.6 80.2 78.8 0 139.4-83.2 139.4-203.2 0-106.2-76.4-180.4-185.2-180.4-126.2 0-200.2 94.6-200.2 192.6 0 38.2 14.6 79 33 101.2 3.6 4.4 4.2 8.2 3 12.8-3.4 14-10.8 44.2-12.4 50.4-2 8.2-6.4 9.8-14.8 6-55.4-25.8-90-106.8-90-171.8 0-140 101.6-268.4 293-268.4 153.8 0 273.4 109.6 273.4 256.2 0 152.8-96.4 276-230.2 276-45 0-87.2-23.4-101.6-51 0 0-22.2 84.6-27.6 105.4-10 38.6-37 86.8-55.2 116.2 41.6 12.8 85.6 19.8 131.4 19.8 245 0 443.6-198.6 443.6-443.6 0-245.2-198.6-443.8-443.6-443.8z"></path></g></svg>
+</a>
+<a href="http://www.tumblr.com/share/link?url=http://www.onrunningslovenija.si/search.html?&amp;coll=cloud">
+    <svg class="AjL1Ve5Tte" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M576.032 448l-0.002 234.184c0 59.418-0.77 93.656 5.53 110.5 6.25 16.754 21.918 34.146 38.99 44.202 22.684 13.588 48.542 20.376 77.708 20.376 51.854 0 82.478-6.848 133.742-40.54v153.944c-43.7 20.552-81.866 32.594-117.324 40.922-35.5 8.242-73.86 12.406-115.064 12.406-46.828 0-74.456-5.886-110.41-17.656-35.958-11.868-66.66-28.806-92.020-50.54-25.45-21.922-43.022-45.208-52.848-69.832-9.826-24.636-14.716-60.414-14.716-107.244v-359.1h-137.426v-145.006c40.208-13.042 85.164-31.788 113.78-56.152 28.754-24.45 51.766-53.706 69.106-87.944 17.392-34.146 29.348-77.712 35.872-130.516h165.084l-0.002 255.996h255.968v192h-255.968z"></path>
+        </g></svg>
+</a>
+<a style="margin-right:0px;" href="https://plus.google.com/share?url=http://www.onrunningslovenija.si/search.html?&amp;coll=cloud">
+    <svg class="AjL1Ve5Tte" viewBox="0 0 30 30">
+        <g transform="scale(0.02888 0.02888)"><path d="M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512 512-229.2 512-512-229.2-512-512-512zM384 768c-141.6 0-256-114.4-256-256s114.4-256 256-256c69.2 0 127 25.2 171.6 67l-69.6 66.8c-19-18.2-52.2-39.4-102-39.4-87.4 0-158.8 72.4-158.8 161.6s71.4 161.6 158.8 161.6c101.4 0 139.4-72.8 145.2-110.4h-145.2v-87.8h241.8c2.2 12.8 4 25.6 4 42.4 0 146.4-98 250.2-245.8 250.2zM832 512v64h-64v-64h-64v-64h64v-64h64v64h64v64h-64z"></path></g></svg>
+</a>
+<div class="clear"></div></div>
+		 <div class="footer-logo"><a href="https://www.onrunningslovenija.si/"><img title="BRANDS_THISWAN_BOX" src="includes/templates/onrunning-slovenija/images/logo-footer.png"></a>         </div>
+		 </div> 
+		  <div id="VyVlVIt0fy">
+		    <h3>Get Help</h3>
+                        <ul>
+<!--<li><a href="https://www.onrunningslovenija.si/">Domov</a></li>-->
+<li><a href="https://www.onrunningslovenija.si/about_us.html" rel="nofollow" style="border:none;">O Nas</a><hr size="1"></li>
+<li><a href="https://www.onrunningslovenija.si/shippinginfo.html" rel="nofollow" style="border:none;">Dostava</a><hr size="1"></li>
+<li><a href="https://www.onrunningslovenija.si/privacy.html" rel="nofollow">Varstvo Podatkov</a><hr size="1"></li>
+<li><a href="https://www.onrunningslovenija.si/contact_us.html" rel="nofollow">Kontakt</a><hr size="1"></li>
+<li><a href="https://www.onrunningslovenija.si/return.html" rel="nofollow">Vračilo Sredstev</a><hr size="1"></li>
+<li><a href="https://www.onrunningslovenija.si/payment_method.html" rel="nofollow">Načini Plačila</a><hr size="1"></li>
+    <li><a href="https://www.onrunningslovenija.si/outlet.html">Outlet</a><hr size="1"></li>
+    </ul>            		  </div>
+		
+		<ul class="yBcutIDd6o">
+		  <h3>Collection</h3>
+			<li><a href="/search.html?keyword=On Cloud 5">On Cloud 5</a></li><li><a href="/search.html?keyword=On Cloudnova">On Cloudnova</a></li><li><a href="/search.html?keyword=On Cloudflow">On Cloudflow</a></li><li><a href="/search.html?keyword=On Cloud X">On Cloud X</a></li><li><a href="/search.html?keyword=On Cloudswift">On Cloudswift</a></li><li><a href="/search.html?keyword=On Cloudstratus">On Cloudstratus</a></li><li><a href="/search.html?keyword=On Cloudflyer">On Cloudflyer</a></li><li><a href="/search.html?keyword=On Cloudmonster">On Cloudmonster</a></li><li><a href="/search.html?keyword=On Cloudsurfer">On Cloudsurfer</a></li><li><a href="/search.html?keyword=On Cloudrunner">On Cloudrunner</a></li><li><a href="/search.html?keyword=On Cloudgo">On Cloudgo</a></li><li><a href="/search.html?keyword=On Cloudboom">On Cloudboom</a></li><li><a href="/search.html?keyword=On Cloudflash">On Cloudflash</a></li><li><a href="/search.html?keyword=On Cloudace">On Cloudace</a></li><li><a href="/search.html?keyword=On Cloudventure">On Cloudventure</a></li><li><a href="/search.html?keyword=On Cloud 5 Push">On Cloud 5 Push</a></li><li><a href="/search.html?keyword=On Cloudultra">On Cloudultra</a></li><li><a href="/search.html?keyword=On Cloudvista">On Cloudvista</a></li><li><a href="/search.html?keyword=On Cloudtrax">On Cloudtrax</a></li><li><a href="/search.html?keyword=On Cloudwander Waterproof">On Cloudwander Waterproof</a></li><li><a href="/search.html?keyword=On Cloud 2">On Cloud 2</a></li><li><a href="/search.html?keyword=On Cloud">On Cloud</a></li><li><a href="/search.html?keyword=On Cloud Hi">On Cloud Hi</a></li><li><a href="/search.html?keyword=On Cloudeasy">On Cloudeasy</a></li><li><a href="/search.html?keyword=On THE ROGER Advantage">On THE ROGER Advantage</a></li><li><a href="/search.html?keyword=On THE ROGER Centre Court">On THE ROGER Centre Court</a></li><li><a href="/search.html?keyword=On Cloudaway">On Cloudaway</a></li>		</ul>
+		<div class="clearBoth"></div>
+		</div>
+  </div>
+       <div class="C9iTbdC7zG">
+       <div class="container">
+	      <div class="r7bfXbELRa">  
+			<img src="includes/templates/onrunning-slovenija/images/flag/SVN.png"><span>Slovenia</span><span class="flag-down">|</span>
+		  </div>
+		  <div class="eRGnqCmogr">
+		    <a href="https://www.onrunningslovenija.si/">
+			Copyright © 2024 </a><a href="https://www.onrunningslovenija.si/">onrunningslovenija</a> Powered by <a href="https://www.onrunningslovenija.si/">onrunningslovenija.si</a>
+			
+		  </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+		<a class="top-link" style="display: none;"><svg _ngcontent-cmh-c32="" width="26" height="26" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path _ngcontent-cmh-c32="" d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"></path></svg></a>
+
+        <script>
+            $(".top-link").click(function(){
+                $('body,html').animate({scrollTop:0},100);
+                return false;
+            });
+
+            $(document).ready(function(){
+                $(window).scroll(function () {
+                    if($(window).scrollTop()=="0") {
+                        $('.top-link').fadeOut(300)
+                    }else {
+                        $('.top-link').fadeIn(300)
+                    }
+                });
+                $('.top-link').click(function(){$("html,body").animate({scrollTop:0},300);return false});
+            });
+        </script>
+</div>
+</div></div>
+
+
+
+
+
+
+<!--BOF Login-->
+
+<!--EOF Login-->
+
+
+
+
+
+
+<script type="text/javascript" src="includes/templates/onrunning-slovenija/js/layer.js"></script>
+<script type="text/javascript" src="includes/templates/onrunning-slovenija/js/re_login.js"></script>
+
+<script>
+    var before = 0;
+    function throttle(func, wait, mustRun) {
+        var timeout,
+            startTime = new Date();
+
+        return function() {
+            var context = this,
+                args = arguments,
+                curTime = new Date();
+
+            clearTimeout(timeout);
+            // 如果达到了规定的触发时间间隔，触发 handler
+            if(curTime - startTime >= mustRun){
+                func.apply(context,args);
+                startTime = curTime;
+                // 没达到触发间隔，重新设定定时器
+            }else{
+                timeout = setTimeout(func, wait);
+            }
+        };
+    };
+    // 实际想绑定在 scroll 事件上的 handler
+
+    function realFunc(){
+		var thigh = document.getElementById("tKFwOXbIMK").clientHeight;
+        var after = $(window).scrollTop();
+        if (before<after && $("#UBz3NHAgrR").hasClass("toMenuFixed")) {
+            $("#UBz3NHAgrR").removeClass("toMenuFixed");
+        }
+        else if (before>after) {
+            if(after>thigh && !$("#UBz3NHAgrR").hasClass("toMenuFixed")){
+                $("#UBz3NHAgrR").addClass("toMenuFixed");
+            }else if(after<thigh && $("#UBz3NHAgrR").hasClass("toMenuFixed")){
+                $("#UBz3NHAgrR").removeClass("toMenuFixed");
+            }
+        };
+        before = after;
+    }
+    // 采用了节流函数
+    window.addEventListener('scroll',throttle(realFunc,300,1000));
+
+    function turnoff(obj){
+        document.getElementById(obj).style.display="none";
+        $("body").css({"height":"auto","overflow":"auto"});
+        $(".initLayerShade").hide();
+        $("#UBz3NHAgrR").removeClass("toMenuFixed");
+    }
+</script>	<!-- bof  breadcrumb -->
+			
+			
+<script type="text/javascript">
+    function showsort(obj)
+    {
+        //var obj_parent=obj.parentNode;
+        var obj_parent=obj.parentElement
+
+        if(obj_parent.className=="N3Al9Tursk")
+        {
+            obj_parent.className="LH9AabFi5K";
+        }
+        else
+        {
+            obj_parent.className="N3Al9Tursk";
+        }
+
+    }
+</script>
+<!-- eof breadcrumb -->
+
+
+
+
+
+
+
+
+        <script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/slick_new.js" type="text/javascript" charset="utf-8"></script>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+
+
+	<script src="js/jquery.jxa.js"></script>
+	<script src="js/jquery.jxb.js"></script>
+	<script>
+		$(function(){
+			$('#navToggle').on('click',function(){
+				$('.m_nav').addClass('open');
+				$('body').css({"height":"100%","overflow":"hidden"})
+			})
+			$('.m_nav .top .closed').on('click',function(){
+				$('.m_nav').removeClass('open');
+				$('body').css({"height":"auto","overflow":"auto"})
+			})
+
+		})
+	</script>
+	<script type="text/javascript">
+	  $.noConflict();
+	</script>
+
+
+<div id="mm-blocker" class="mm-slideout"></div></body>

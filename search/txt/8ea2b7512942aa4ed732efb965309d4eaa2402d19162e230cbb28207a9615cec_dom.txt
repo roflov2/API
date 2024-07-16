@@ -1,0 +1,850 @@
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta name="description" content="Blackdeathscape-Gaming to the max">
+	<meta name="keywords" content="Blackdeathscape-Gaming to the max">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<script language="JavaScript" type="text/javascript" src="https://cdn.smfboards.com/Themes2/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "https://cdn.smfboards.com/Themes2/default";
+		var smf_images_url = "https://cdn.smfboards.com/Themes2/default/images";
+		var smf_scripturl = "https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "ISO-8859-1";
+	// ]]></script>
+	<title>Blackdeathscape-Gaming to the max</title>
+		<link rel="stylesheet" type="text/css" href="https://darknessz.smfforfree3.com/styles/darknessz/bdscape-compress.css?fi11">
+	<link rel="stylesheet" type="text/css" href="https://cdn.smfboards.com/Themes2/default/print.css?fi11" media="print">
+	<link rel="help" href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=help" target="_blank">
+	<link rel="search" href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=search">
+	<link rel="contents" href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;">
+	<link rel="alternate" type="application/rss+xml" title="Blackdeathscape - RSS" href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;type=rss;action=.xml"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+	function EzToogle(myEzItem,ezBlockID,myImage,isBlock)
+	{
+		var ezCollapseState = 0;
+
+		if (document.getElementById && document.getElementById(myEzItem)!= null) {
+			if (document.getElementById(myEzItem).style.display == "none")
+			{
+				document.getElementById(myEzItem).style.display = "";
+				ezCollapseState = 0;
+			}
+			else
+			{
+				document.getElementById(myEzItem).style.display = "none";
+				ezCollapseState = 1;
+				document.getElementById(myEzItem).style.height = "0px";
+				document.getElementById(myEzItem).style.overflowY = "hidden";
+			}
+		} else if (document.layers && document.layers[myEzItem]!= null) {
+			if (document.layers[myEzItem].display == "none")
+			{
+				document.layers[myEzItem].display = "";
+				ezCollapseState = 0;
+			}
+			else
+			{
+				document.layers[myEzItem].display = "none";
+				ezCollapseState = 1;
+				document.layers[myEzItem].height = "0px";
+				document.layers[myEzItem].overflowY = "hidden";
+			}
+		} else if (document.all) {
+			if (document.all[myEzItem].style.display == "none")
+			{
+				document.all[myEzItem].style.display = "";
+				ezCollapseState = 0;
+			}
+			else
+			{
+				document.all[myEzItem].style.display = "none";
+				ezCollapseState = 1;
+				document.all[myEzItem].style.height = "0px";
+				document.all[myEzItem].style.overflowY = "hidden";
+			}
+		}
+
+		EzPortalSaveBlockState(ezBlockID,ezCollapseState,isBlock);
+		if (myImage.src == "https://cdn.smfboards.com/Themes2/default/images/collapse.gif")
+			myImage.src = "https://cdn.smfboards.com/Themes2/default/images/expand.gif";
+		else
+			myImage.src = "https://cdn.smfboards.com/Themes2/default/images/collapse.gif";
+
+	}
+	function EzPortalSaveBlockState(ezBlock,ezState,isBlock)
+	{
+		var tempImage = new Image();
+		if (isBlock == 1)
+			tempImage.src = smf_scripturl + (smf_scripturl.indexOf("?") == -1 ? "?" : "&") + "action=ezportal;sa=blockstate;blockid=" + ezBlock + ";state=" + ezState + ";sesc=" + "b1ce4b7cfb7858e5d73cec119781fda6" +  ";" + (new Date().getTime());
+		else
+			tempImage.src = smf_scripturl + (smf_scripturl.indexOf("?") == -1 ? "?" : "&") + "action=ezportal;sa=columnstate;columnid=" + ezBlock + ";state=" + ezState + ";sesc=" + "b1ce4b7cfb7858e5d73cec119781fda6" +  ";" + (new Date().getTime());
+
+	}
+	// ]]></script>
+	<meta name="monetization" content="$ilp.uphold.com/W7K9REeqZahm">
+</head><body id="navhome" class="bodyBackground">
+<!-- Tapatalk Detect body start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page
+{
+top:auto;
+}
+</style>
+<script type="text/javascript">if (typeof(tapatalkDetect) == "function") tapatalkDetect();</script>
+<!-- Tapatalk Detect banner body end -->
+
+<!--Begin Headers-->
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.runescape.com/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.runescape.com/favicon.ico">
+<link rel="apple-touch-icon" href="http://www.runescape.com/img/mobile.png">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+en, English
+">
+<meta name="keywords" content="MMORPG, free RPG games online, online multiplayer, role-playing, massively multiplayer games, mmo, RuneScape, Jagex, java">
+<meta name="description" content="Play RuneScape for free, and join a global community of millions as you complete quests and win enormous treasures in a 3D world full of magic and monsters.">
+<meta name="title" content="RuneScape - MMORPG - The No.1 Free Online Multiplayer Game">
+<title>RuneScape - MMORPG - The No.1 Free Online Multiplayer Game</title>
+<style type="text/css">/*\*/@import url(http://www.runescape.com/css/global-34.css);/**/</style>
+<script type="text/javascript" src="http://www.jagex.com/js/jquery/jquery_1_4_2.js"></script>
+<script type="text/javascript">
+$(function(){
+
+
+$("#play, #playExisting, #playBannerNoad").each(function(){ this.href += "?j=1"; })
+})
+</script>
+
+
+<meta name="google-site-verification" content="pUwl5KYHKSZ6tbbgsR2wYNv1kbVmsYral3iFmijHTWM">
+<style type="text/css">/*\*/@import url(http://www.runescape.com/css/home-32.css);/**/</style>
+<script type="text/javascript">
+ function h(o){o.getElementsByTagName('span')[0].className='shimHover';}
+ function u(o){o.getElementsByTagName('span')[0].className='shim';}
+ document.domain='runescape.com';
+ 
+$(function(){
+
+  
+  
+  $("#banner .bannerLink").each(function(){this.href += "?j=1";});
+ })
+
+</script>
+<link rel="alternate" type="application/rss+xml" title="RuneScape - Latest news" href="http://services.runescape.com/m=news/latest_news.rss">
+
+
+<a name="top"></a>
+
+<div id="menubox">
+<ul id="menus">
+<li class="top"><a href="http://www.runescape.com/title.ws" id="home" class="tl"><span class="ts">Home</span></a></li>
+<li class="top"><a id="play" class="tl" href="http://www.runescape.com/game.ws" onclick="try{pageTracker._trackPageview('/play_game/menu/top')}catch(x){}; try{_pageTracker._trackPageview('/play_game/menu/top')}catch(x){}"><span class="ts">Play Now</span><!--[if gt IE 6]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="https://secure.runescape.com/m=create/index.ws" class="fly"><span>New Users</span></a></li>
+<li><a href="http://www.runescape.com/game.ws" id="playExisting" onclick="try{pageTracker._trackPageview('/play_game/menu/existing')}catch(x){}; try{_pageTracker._trackPageview('/play_game/menu/existing')}catch(x){}" class="fly"><span>Existing Users</span></a></li>
+<li><a href="http://www.runescape.com/options.ws" class="fly"><span>Java Options</span></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top"><a id="account" class="tl" href="http://www.runescape.com/account_management.ws"><span class="ts">Account</span><!--[if gt IE 6]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="http://www.runescape.com/members/members.ws" class="fly"><span>Upgrade Your Account</span></a></li>
+<li><a href="https://secure.runescape.com/m=create/index.html" class="fly"><span>Create New Account</span></a></li>
+<li><a href="http://www.runescape.com/account_management.ws" class="fly"><span>Account Management</span></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top"><a id="guide" class="tl" href="http://www.runescape.com/kbase/guid/manual"><span class="ts">Game Guide</span><!--[if gt IE 6]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<!--[if lte IE 6]><iframe src=""></iframe><![endif]-->
+<ul>
+<li><a href="http://www.runescape.com/kbase/guid/manual" class="fly"><span>Manual</span></a></li>
+<li><a href="http://services.runescape.com/m=questhelp/index.ws" class="fly"><span>QuestHelp</span></a></li>
+<li><a href="http://services.runescape.com/m=itemdb_rs/frontpage.ws" class="fly"><span>Grand Exchange</span></a></li>
+<li><a href="http://www.runescape.com/kbase/guid/rules_of_conduct" class="fly"><span>Rules</span></a></li>
+<li><a href="http://www.runescape.com/kbase/guid/lore" class="fly"><span>Lores</span></a></li>
+<li><a href="http://www.runescape.com/splash.ws" class="fly"><span>What is RuneScape?</span></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top"><a id="community" class="tl" href="
+http://services.runescape.com/m=forum/forums.ws"><span class="ts">Community</span><!--[if gt IE 6]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<!--[if lte IE 6]><iframe src=""></iframe><![endif]-->
+<ul>
+<li><a href="
+http://services.runescape.com/m=forum/forums.ws" class="fly"><span>Forums</span></a></li>
+<li><a href="http://services.runescape.com/m=hiscore/hiscores.ws" class="fly"><span>Hiscores</span></a></li>
+<li><a href="http://www.runescape.com/kbase/guid/Player_Submissions" class="fly"><span>Player Submissions</span></a></li>
+<li><a href="http://services.runescape.com/m=adventurers-log/display_player_profile.ws" class="fly"><span>Adventurer's Log</span></a></li>
+
+<li><a href="http://services.runescape.com/m=poll/index.ws" class="fly"><span>Polls</span></a></li>
+<li><a href="http://www.runescape.com/kbase/guid/Downloads_and_Wallpapers" class="fly"><span>Downloads &amp; Wallpapers</span></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top"><a id="help" class="tl" href="http://www.runescape.com/kbase/guid/Customer_Support"><span class="ts">Help</span><!--[if gt IE 6]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<!--[if lte IE 6]><iframe src=""></iframe><![endif]-->
+<ul>
+<li><a href="http://www.runescape.com/kbase/guid/Customer_Support" class="fly"><span>Customer Support</span></a></li>
+<li><a href="http://www.runescape.com/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws" class="fly"><span>Password Recovery</span></a></li>
+<li><a href="http://www.runescape.com/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly"><span>Locked Account Recovery</span></a></li>
+<li><a href="http://www.runescape.com/redirect.ws?mod=offence-appeal&amp;dest=index.ws" class="fly"><span>Appeal Bans &amp; Mutes</span></a></li>
+<li><a href="http://services.runescape.com/m=bugtracker_v4/" class="fly"><span>Submit a Bug Report</span></a></li>
+<li><a href="http://www.runescape.com/parents.ws" class="fly"><span>Parents' Guide</span></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top"><a href="https://secure.runescape.com/m=weblogin/loginform.ws?mod=www&amp;ssl=0&amp;dest=title.ws" id="login" class="tl"><span class="ts">Log In</span></a></li>
+</ul>
+<br class="clear">
+</div>
+
+<div id="banner">
+<h1>
+<a class="bannerLink" href="http://www.runescape.com/game.ws" onclick="try{pageTracker._trackPageview('//play_game/homepage/dungeoneering')}catch(x){}; try{_pageTracker._trackPageview('//play_game/homepage/dungeoneering')}catch(x){}">
+<img id="bannerLogo" src="http://www.runescape.com/img/main/home/bannerLogo.jpg?1" alt="RuneScape - Dungeons of Daemonheim">
+</a>
+<a id="bannerPlay" class="bannerLink" href="http://www.runescape.com/game.ws" onclick="try{pageTracker._trackPageview('//play_game/homepage/dungeoneering')}catch(x){}; try{_pageTracker._trackPageview('//play_game/homepage/dungeoneering')}catch(x){}">
+<img src="http://www.runescape.com/img/main/home/bannerPlay.jpg?1" alt="Play Now">
+</a>
+</h1>
+</div>
+<div id="scroll">
+<div id="head"><div id="headBg"></div></div>
+<div id="content">
+<div id="left">
+<div id="info" class="section"><div class="sectionBody">
+<div id="lang">
+<a href="http://www.runescape.com/title.ws"><img alt="English" title="English" src="http://www.runescape.com/img/main/layout/en.gif"></a>
+<a href="http://www.runescape.com/l=1/title.ws"><img alt="Deutsch" title="Deutsch" src="http://www.runescape.com/img/main/layout/de.gif"></a>
+<a href="http://www.runescape.com/l=2/title.ws"><img alt="Français" title="Français" src="http://www.runescape.com/img/main/layout/fr.gif"></a>
+<a href="http://www.runescape.com/l=3/title.ws"><img alt="Português (BR)" title="Português (BR)" src="http://www.runescape.com/img/main/layout/br.gif"></a>
+</div>
+<div id="players"><b>123,297 people currently playing online worldwide!</b></div>
+</div></div>
+<div id="recentnews">
+<div class="sectionHeader">
+<div class="left">
+<div class="right">
+<h1 class="plaque">
+<img src="http://www.runescape.com/img/main/titles/recentnews.png" alt="Recent News">
+</h1>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="sectionBody first">
+<div class="sectionHeight">
+<div class="recentNews">
+<div class="newsTitle">
+<h3>Dungeoneering – The Occult Floors</h3>
+<span>19-Aug-2010</span>
+</div>
+<a class="newsImage" href="http://services.runescape.com/m=news/dungeoneering--the-occult-floors">
+<img src="http://services.runescape.com/m=news/img/Large/dungeoneering_occult.jpg" alt="Read more">
+</a>
+<p>You’ve made your way through the bone-chilling frozen floors, the eerie abandoned levels and the guard-filled furnished areas, but do you really think you’re prepared to face the horrors that lie in wait on the occult floors? New bosses, challenge rooms and rewards await the brave heroes that do. <a href="http://services.runescape.com/m=news/dungeoneering--the-occult-floors">Read more...</a></p>
+</div>
+</div>
+</div>
+<div class="sectionBody">
+<div class="recentNews">
+<div class="newsTitle">
+<h3>RuneFest Gallery Competition Results</h3>
+<span>23-Aug-2010</span>
+</div>
+<a href="http://services.runescape.com/m=news/runefest-gallery-competition-results">
+<img src="http://www.runescape.com/img/news/icons/gallery.jpg" alt="Read more">
+</a>
+<p>Back in July we invited you all to send us your best artistic efforts featuring a golden gnome, Bob the Cat and a Flagstaff of Festivities – all in honour of RuneFest! We can now announce the winners, plus show you some of our favourite entries in two brand new Players' Galleries! <a href="http://services.runescape.com/m=news/runefest-gallery-competition-results">Read more...</a></p>
+</div>
+</div>
+<div class="sectionBody">
+<div class="recentNews">
+<div class="newsTitle">
+<h3>Cryptic Clue Fest II</h3>
+<span>20-Aug-2010</span>
+</div>
+<a href="http://services.runescape.com/m=news/cryptic-clue-fest-ii">
+<img src="http://www.runescape.com/img/news/icons/bookopen.jpg" alt="Read more">
+</a>
+<p>The Cryptic Clue Fest is back! This time you’ll find yourself on a journey to piece together a rather fascinating and fictitious mystery... Who knows what rewards await those who can solve the various brainteasers? <a href="http://services.runescape.com/m=news/cryptic-clue-fest-ii">Read more...</a></p>
+</div>
+</div>
+<div class="sectionBody">
+<div class="recentNews">
+<div class="newsTitle">
+<h3>Golden Joystick Awards - Shortlisted for UK Developer</h3>
+<span>17-Aug-2010</span>
+</div>
+<a href="http://services.runescape.com/m=news/golden-joystick-awards---shortlisted-for-uk-developer">
+<img src="http://www.runescape.com/img/news/icons/speech.jpg" alt="Read more">
+</a>
+<p>We've been shortlisted for this year's UK Developer of the Year Golden Joystick Award - an award that we won last year, thanks to all of your support. If you'd like to show your support again this year, or perhaps didn’t get a chance to vote last year, now is your chance - voting is officially open. <a href="http://services.runescape.com/m=news/golden-joystick-awards---shortlisted-for-uk-developer">Read more...</a></p>
+</div>
+</div>
+<div class="sectionBody">
+<div class="recentNews">
+<div class="newsTitle">
+<h3>RuneFest Competitions - Closing Day</h3>
+<span>16-Aug-2010</span>
+</div>
+<a href="http://services.runescape.com/m=news/runefest-competitions---closing-day">
+<img src="http://www.runescape.com/img/news/icons/time.jpg" alt="Read more">
+</a>
+<p>The time has come! Our two RuneFest competitions - the Golden Gnome Video Awards and the RuneFest Gallery competition - are ending tonight. Hurry and get your entries in. <a href="http://services.runescape.com/m=news/runefest-competitions---closing-day">Read more...</a></p>
+</div>
+</div>
+<div id="feed">
+<a href="http://services.runescape.com/m=news/latest_news.rss">
+<!--[if gte IE 7]><!---><img title="Subscribe to RSS" alt="" src="http://www.jagex.com/img/crossservice/RSS/logo.png"><!--<![endif]-->
+<!--[if IE 6]><img title="Subscribe to RSS" alt="" src="http://www.jagex.com/img/crossservice/RSS/logo_ie6.png"/><![endif]--> <span>Subscribe to RSS</span></a> <a href="http://www.runescape.com/kbase/view.ws?guid=feeds" title="What is RSS?">(<span>?</span>)</a>
+</div>
+<div class="moreArchive"><a href="http://services.runescape.com/m=news/list.ws">Browse our news archive</a></div>
+</div>
+</div>
+<div id="devblog">
+<div class="sectionHeader">
+<div class="left">
+<div class="right">
+<h1 class="plaque">
+<img src="http://www.runescape.com/img/main/titles/devblog.png" alt="Developers' Blogs">
+</h1>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="sectionBody">
+<table class="MoreNewsDevblog">
+<tbody><tr>
+<td>
+<a href="http://services.runescape.com/m=devblog/view_post.ws?post_id=100">Damage Control</a>
+</td>
+<td class="AuthorMore">
+by&nbsp;<a href="http://services.runescape.com/m=devblog/index.ws?author_id=28">Mod&nbsp;Chris&nbsp;L</a>
+</td>
+<td class="Date">
+12-Aug-2010
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://services.runescape.com/m=devblog/view_post.ws?post_id=99">Clan Submissions Page</a>
+</td>
+<td class="AuthorMore">
+by&nbsp;<a href="http://services.runescape.com/m=devblog/index.ws?author_id=70">Mod&nbsp;Timbo</a>
+</td>
+<td class="Date">
+04-Aug-2010
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://services.runescape.com/m=devblog/view_post.ws?post_id=98">Back in Session</a>
+</td>
+<td class="AuthorMore">
+by&nbsp;<a href="http://services.runescape.com/m=devblog/index.ws?author_id=29">Mod&nbsp;Osborne</a>
+</td>
+<td class="Date">
+09-Jul-2010
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://services.runescape.com/m=devblog/view_post.ws?post_id=95">Who are the Signature Heroes?</a>
+</td>
+<td class="AuthorMore">
+by&nbsp;<a href="http://services.runescape.com/m=devblog/index.ws?author_id=2">Mod&nbsp;John&nbsp;A</a>
+</td>
+<td class="Date">
+29-Jun-2010
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://services.runescape.com/m=devblog/view_post.ws?post_id=96">Clan Submissions Page</a>
+</td>
+<td class="AuthorMore">
+by&nbsp;<a href="http://services.runescape.com/m=devblog/index.ws?author_id=70">Mod&nbsp;Timbo</a>
+</td>
+<td class="Date">
+03-Jun-2010
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="moreArchive"><a href="http://services.runescape.com/m=devblog/index.ws">Browse all Developers' Blogs</a></div>
+</div>
+</div>
+</div>
+<div id="right">
+<div id="advert">
+<iframe src="http://services.runescape.com/m=advert/banner.ws?size=300" allowtransparency="true" width="310" height="278" scrolling="no" frameborder="0"></iframe>
+<span>^ Advert ^</span>
+</div>
+<div id="features">
+<div class="narrowHeader"><img src="http://www.runescape.com/img/main/titles/websitefeatures.png" alt="Website Features"></div>
+<div class="section">
+<div class="feature">
+<img src="http://www.runescape.com/img/main/home/feature_kbsearch_icon.jpg" alt="">
+<div class="featureTitle">Search RuneScape.com</div>
+<div class="featureDesc" style="padding: 2px 2px 0">
+<form action="http://www.runescape.com/kbase/search.ws">
+<input type="hidden" name="keywords_chk" value="1">
+<input type="hidden" name="body_chk" value="1">
+<input type="hidden" name="title_chk" value="1">
+<input type="hidden" name="description_chk" value="1">
+<div class="searchbar">
+<input id="kbsearch_in" name="search_query" maxlength="300" type="text">
+<input id="kbsearch_button" type="submit" value="Go">
+</div>
+</form>
+</div>
+</div>
+<div class="feature">
+<a href="members/members.ws"><img src="http://www.runescape.com/img/main/home/feature_upgrade_icon.jpg" alt="Upgrade Your Account"></a>
+<div class="featureTitle">Upgrade Your Account</div>
+<div class="featureDesc">Find out about members’ benefits and <a href="members/members.ws">Upgrade here...</a></div>
+</div>
+<div class="feature">
+
+<a href="http://www.jagexstore.com/" target="_blank" onclick="javascript: try { pageTracker._trackPageview('/outgoing/www.jagexstore.com/'); } catch(err){}">
+<img src="http://www.runescape.com/img/main/home/feature_shop_icon.jpg" alt="Jagex Online Shop">
+</a>
+<div class="featureTitle">Jagex Online Shop<span style="color: #ff8a00"> - Special Offers!</span></div>
+<div class="featureDesc">Visit our online store.<br>
+
+<a href="http://www.jagexstore.com/" target="_blank" onclick="javascript: try { pageTracker._trackPageview('/outgoing/www.jagexshop.com/'); } catch(err){}">
+Click here...
+</a></div>
+</div>
+<div class="feature">
+<a href="http://www.runescape.com/kbase/guid/Downloads_and_Wallpapers"><img src="http://www.runescape.com/img/main/home/feature_downloads_icon.jpg" alt="Downloads and Wallpapers"></a>
+<div class="featureTitle">Downloads and Wallpapers</div>
+<div class="featureDesc">
+Download fantastic RuneScape wallpapers.
+<a href="http://www.runescape.com/kbase/guid/Downloads_and_Wallpapers">Click here...</a>
+</div>
+</div>
+<div class="feature">
+<a href="http://services.runescape.com/m=poll/latestpoll.ws"><img src="http://www.runescape.com/img/main/home/feature_poll_icon.jpg" alt="Latest Poll"></a>
+<div class="featureTitle">Latest Poll - 23-Aug-2010</div>
+<div class="featureDesc">
+How Do You See Me? -
+
+(Free/Member)
+<a href="http://services.runescape.com/m=poll/latestpoll.ws">Vote&nbsp;Here...</a>
+</div>
+</div>
+</div>
+</div>
+<div id="aog" class="section">
+<div class="feature">
+<a href="http://www.funorb.com/info.ws?game=armiesofgielinor" target="_blank" onclick="try{pageTracker._trackPageview('/outgoing/www.funorb.com/l=0/info.ws?game=armiesofgielinor')}catch(x){}; try{_pageTracker._trackPageview('/outgoing/www.funorb.com/l=0/info.ws?game=armiesofgielinor')}catch(x){}"><img src="http://www.runescape.com/img/main/home/aog_icon2.jpg" alt="Armies of Gielinor"></a>
+<div class="featureTitle">Armies of Gielinor<span style="color: #ff8a00"> - Updated!</span></div>
+<div class="featureDesc">
+RS based strategy game now with F2P single-player.
+<a href="http://www.funorb.com/info.ws?game=armiesofgielinor" target="_blank" onclick="try{pageTracker._trackPageview('/outgoing/www.funorb.com/l=0/info.ws?game=armiesofgielinor/updated/')}catch(x){}; try{_pageTracker._trackPageview('/outgoing/www.funorb.com/l=0/info.ws?game=armiesofgielinor/updated/')}catch(x){}">Click here...</a>
+</div>
+</div>
+</div>
+<div id="articles">
+<div class="narrowHeader"><img src="http://www.runescape.com/img/main/titles/runescapearticles.png" alt="RuneScape Articles"></div>
+<div class="section">
+<div class="articlesBody">
+<div class="articlesTitle"><img alt="Article of the Week" src="http://www.runescape.com/img/main/home/aow_title.png"></div>
+<div class="aowBody"><div class="aowHeight">
+<div class="aowImage"><a href="http://www.runescape.com/kbase/guid/dungeoneering_rewards" onclick="try{pageTracker._trackPageview('title.ws/aow/kbase/guid/dungeoneering_rewards')}catch(x){}; try{_pageTracker._trackPageview('title.ws/aow/kbase/guid/dungeoneering_rewards')}catch(x){}"><img src="http://www.runescape.com/img/main/kbase/aow_icons/skills.jpg" alt=""></a></div>
+<p class="aowTitle">Dungeoneering - Rewards</p>
+<p>Five new rewards await free players and members with a fistful of Dungeoneering tokens. <a href="http://www.runescape.com/kbase/guid/dungeoneering_rewards" onclick="try{pageTracker._trackPageview('title.ws/raa/kbase/guid/dungeoneering_rewards')}catch(x){}; try{_pageTracker._trackPageview('title.ws/raa/kbase/guid/dungeoneering_rewards')}catch(x){}">More...</a></p>
+</div></div>
+<div class="articlesMore"><a href="http://www.runescape.com/kbase/guid/manual">Browse Article Archive</a></div>
+</div>
+<div class="articlesFooter"></div>
+</div>
+</div>
+</div>
+<br class="clear">
+</div>
+<div id="footer">
+<div class="contain">
+<div class="footerdesc">
+This website and its contents are copyright © 1999 - 2010 Jagex Ltd<br>
+Use of this website is subject to our <a href="http://www.runescape.com/terms/terms.ws">Terms &amp; Conditions</a> and <a href="http://www.runescape.com/privacy/privacy.ws">Privacy Policy</a>.
+</div>
+<a class="jagexlink" href="http://www.jagex.com" target="_blank">
+<img src="http://www.runescape.com/img/main/layout/jagex.png?12" alt="Jagex">
+</a>
+<br class="clear">
+</div>
+<br class="clear">
+</div>
+</div>
+
+
+<script type="text/javascript">
+  var gaJsHost = "http://www.";
+  if("https:" == document.location.protocol){
+   gaJsHost = "https://ssl.";
+  }
+  document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+   try {
+   var _pageTracker=_gat._getTracker("UA-2058817-15");
+   _pageTracker._setDomainName(".runescape.com");
+   
+   
+   _pageTracker._trackPageview();
+   }catch(x){}
+  </script>
+
+<script type="text/javascript">
+   try {
+   var pageTracker=_gat._getTracker("UA-2058817-2");
+   pageTracker._setDomainName(".runescape.com");
+   
+   
+   pageTracker._trackPageview();
+   }catch(x){}
+  </script>
+
+
+
+
+
+
+	<div class="tborder">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td class="catbg" height="32">
+					<span style="font-family: Verdana, sans-serif; font-size: 140%; ">Blackdeathscape</span>
+				</td>
+
+			</tr>
+		</tbody></table>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td class="titlebg2" height="32" align="right">
+					<span class="smalltext">July 02, 2024, 08:18:24 am</span>
+
+				</td>
+			</tr>
+			<tr id="upshrinkHeader">
+				<td valign="top" colspan="2">
+					<table width="100%" class="bordercolor" cellpadding="8" cellspacing="1" border="0" style="margin-top: 1px;">
+						<tbody><tr>
+							<td colspan="2" width="100%" valign="top" class="windowbg2"><span class="middletext">Welcome, <b>Guest</b>. Please <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=login">login</a> or <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=join">register</a>.<br>Did you miss your <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=activate">activation email?</a>				</span>
+								<script language="JavaScript" type="text/javascript" src="https://cdn.smfboards.com/Themes2/default/sha1.js"></script>
+
+								<form action="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=login2" method="post" accept-charset="ISO-8859-1" class="middletext" style="margin: 3px 1ex 1px 0;" onsubmit="hashLoginPassword(this, 'b1ce4b7cfb7858e5d73cec119781fda6');">
+									<input type="text" name="user" size="10"> <input type="password" name="passwrd" size="10">
+									<select name="cookielength">
+										<option value="60">1 Hour</option>
+										<option value="1440">1 Day</option>
+										<option value="-1" selected="selected">Forever</option>
+									</select>
+									<input type="submit" value="Login"><br>
+									<span class="middletext">Login with username, password and session length</span>
+									<input type="hidden" name="hash_passwrd" value="">
+								</form>
+							</td>
+						<td class="windowbg2">
+						</td>
+
+
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<table id="upshrinkHeader2" width="100%" cellpadding="4" cellspacing="0" border="0">
+			<tbody><tr>
+				<td width="90%" class="titlebg2">
+					<span class="smalltext"><b>News</b>: The Servers Up let's see how it rolls along</span>
+				</td>
+				<td class="titlebg2" align="right" nowrap="nowrap" valign="top">
+					<form action="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=search2" method="post" accept-charset="ISO-8859-1" style="margin: 0;">
+						<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=search;advanced"><img src="http://images.smfboards.com/Themes2/default/images/filter.gif" align="middle" style="margin: 0 1ex;" alt=""></a>
+						<input type="text" name="search" value="" style="width: 190px;">&nbsp;
+						<input type="submit" name="submit" value="Search" style="width: 11ex;">
+						<input type="hidden" name="advanced" value="0">
+					</form>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+			<table cellpadding="0" cellspacing="0" border="0" style="margin-left: 10px;">
+				<tbody><tr>
+					<td class="maintab_first">&nbsp;</td><td class="maintab_active_first">&nbsp;</td>
+				<td valign="top" class="maintab_active_back">
+					<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;">Home</a>
+				</td><td class="maintab_active_last">&nbsp;</td>
+			<td valign="top" class="maintab_back">
+				<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=forum">Forum</a>
+			</td>
+				<td valign="top" class="maintab_back">
+					<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=help">Help</a>
+				</td>
+                                <td valign="top" class="maintab_back">
+                                        <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=arcade">Arcade</a>
+                                </td>
+				<td valign="top" class="maintab_back">
+					<a href="http://darknessz.smfforfree3.com/index.php?action=ezportal;sa=page;p=2 ">Rules</a>
+				</td>
+				<td valign="top" class="maintab_back">
+					<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=staff">Staff List</a>
+				</td>
+				<td valign="top" class="maintab_back">
+					<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=login">Login</a>
+				</td>
+				<td valign="top" class="maintab_back">
+					<a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=join">Register</a>
+				</td>
+				<td class="maintab_last">&nbsp;</td>
+			</tr>
+		</tbody></table><div style="width:100%; height:230px;" align="center"><ins class="epn-placement" data-config-id="fffcfe4490cf507227cca1fc"><iframe src="https://epnt.ebay.com/placement?st=ACTIVE&amp;cpid=5336780572&amp;l=900x220&amp;ft=Open%20Sans%2C%20sans-serif%3B&amp;tc=%2302A2AC&amp;clp=true&amp;mi=10&amp;k=cars%20computer%20apple%20phone%20videogame%2C%20designer%20jewerly&amp;ctids=0&amp;mkpid=EBAY-US&amp;ur=false&amp;cts=true&amp;sf=true&amp;pid=1719926305629-0-1410322&amp;ad_v=2" scrolling="no" allowtransparency="true" allowfullscreen="true" style="height: 220px; width: 100%; max-width: 900px; border: 0px;"></iframe></ins></div><!-- google_ad_section_start -->
+	<div id="bodyarea" style="padding: 1ex 0px 2ex 0px;"><img src="https://cdn.smfboards.com/Themes2/default/images/collapse.gif" onclick="javacscript:EzToogle('column3',3,this,0)" alt="+-"><!--start column Center--><table style="margin: 0 auto;" width="100%">
+		<tbody><tr><td width="70%" valign="top" id="column2">
+      <table class="bordercolor" width="100%"><tbody><tr>
+							<td class="catbg"><img src="https://darknessz.smfforfree3.com/ezportal/icons/new.png" alt=""> </td>
+						</tr>
+					<tr class="windowbg2"><td id="block8">
+			<div>
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,15.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><img src="https://cdn.smfboards.com/Themes2/default/images/post/xx.gif" align="middle" alt="xx" border="0"></a> <a href="https://darknessz.smfforfree3.com/index.php/topic,15.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><b>Absense</b></a>
+				<div class="smaller">November 27, 2009, 10:51:16 am by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1" style="color: #FF0000;">Joey</a></div>
+
+				<div class="post" style="padding: 2ex 0;">Sorry everyone,I will be absent for a while.I...</div>
+
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,15.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu">0 comments</a> | <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=post;topic=15.0;num_replies=0">Write Comment</a>
+			</div>
+			<hr style="margin: 2ex 0;" width="100%">
+			<div>
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,8.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><img src="https://cdn.smfboards.com/Themes2/default/images/post/xx.gif" align="middle" alt="xx" border="0"></a> <a href="https://darknessz.smfforfree3.com/index.php/topic,8.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><b>BDS and Death 0wnage FAQ's</b></a>
+				<div class="smaller">November 08, 2009, 05:32:04 pm by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1" style="color: #FF0000;">Joey</a></div>
+
+				<div class="post" style="padding: 2ex 0;">Q1.What are the benefits of registering?<br><br...< div="">
+
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,8.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu">1 comment</a>
+			</br...<></div>
+			<hr style="margin: 2ex 0;" width="100%">
+			<div>
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,3.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><img src="https://cdn.smfboards.com/Themes2/default/images/post/xx.gif" align="middle" alt="xx" border="0"></a> <a href="https://darknessz.smfforfree3.com/index.php/topic,3.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu"><b>Server's up</b></a>
+				<div class="smaller">November 07, 2009, 08:11:04 pm by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1" style="color: #FF0000;">Joey</a></div>
+
+				<div class="post" style="padding: 2ex 0;">Our server'#039#039s up our forum'#039#039s ready let'#039#039s buck up...</div>
+
+				<a href="https://darknessz.smfforfree3.com/index.php/topic,3.0.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu">3 comments</a> | <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=post;topic=3.3;num_replies=3">Write Comment</a>
+			</div></div></td>
+			</tr></tbody></table>
+		</td><!--start column Right--><td width="15%" valign="top" id="column3">
+      <table class="bordercolor" width="100%"><tbody><tr>
+							<td class="catbg"><img src="https://darknessz.smfforfree3.com/ezportal/icons/star.png" alt=""> Blackdeathscape Arcade ezBlock</td>
+						</tr>
+					<tr class="windowbg2"><td id="block3"><div align="center">
+
+						<div><a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=arcade;sa=play;game=56"><img src="/Games/mahjong.gif" alt=""></a></div>
+						<div><a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=arcade;sa=play;game=56">Mahjong</a></div>
+					</div></td>
+			</tr><tr>
+							<td class="catbg"><img src="https://darknessz.smfforfree3.com/ezportal/icons/film.png" alt=""> Recent Blackdeathscape Posts</td>
+						</tr>
+					<tr class="windowbg2"><td id="block5">
+		<table border="0">
+				<tbody><tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,19.msg38/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Blackdeathscape Official Server Release Updates! List 2010 </b></a>
+						by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1">Joey</a>
+						
+						<br>March 21, 2010, 02:24:59 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,17.msg36/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Death Range</b></a>
+						by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1">Joey</a>
+						
+						<br>December 27, 2009, 04:02:47 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,16.msg35/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Probation?</b></a>
+						by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1">Joey</a>
+						
+						<br>December 27, 2009, 03:55:22 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,7.msg33/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: Member Status</b></a>
+						by death range
+						
+						<br>November 13, 2009, 01:39:20 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,7.msg32/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: Member Status</b></a>
+						by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1">Joey</a>
+						
+						<br>November 12, 2009, 11:20:16 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,7.msg31/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: Member Status</b></a>
+						by death range
+						
+						<br>November 12, 2009, 09:58:56 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,7.msg30/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: Member Status</b></a>
+						by death range
+						
+						<br>November 12, 2009, 09:34:38 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,7.msg29/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: Member Status</b></a>
+						by <a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=profile;u=1">Joey</a>
+						
+						<br>November 12, 2009, 08:32:35 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,12.msg28/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>Re: admin or mod</b></a>
+						by death range
+						
+						<br>November 12, 2009, 02:07:47 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+				<tr>
+					<td valign="top">
+						<span class="smalltext">
+						<a href="https://darknessz.smfforfree3.com/index.php/topic,14.msg27/topicseen.html?PHPSESSID=p711gj7o9bm63a620br5uj2cfu#new"><b>if you want my attention read this</b></a>
+						by death range
+						
+						<br>November 12, 2009, 02:05:24 am
+						</span>
+						<hr>
+					</td>
+
+				</tr>
+		</tbody></table></td>
+			</tr></tbody></table>
+		</td><!-- end not right --><!--start column Right-->
+		</tr>
+		</tbody></table><!--start column Bottom--><br><table style="margin: 0 auto;" width="100%">
+				<tbody><tr><td width="30%" valign="top" align="center" id="column5">
+      <table class="bordercolor" width="100%"><tbody><tr>
+							<td class="catbg"><img src="https://darknessz.smfforfree3.com/ezportal/icons/world.png" alt=""> Blackdeathscape Info</td>
+						</tr>
+					<tr class="windowbg2"><td id="block12">Blackdeathscape is a server community. We find people too host servers. The owner is Joey. He is a programmer who has Coded parts of this site in html.
+We are hoping we may be able to get a webclient.
+Source downloads are not avalible due to occational source updates. Joey programs the source of Blackdeathscape. If you would like to join our community consider the option below. Thank you for your time.
+
+          BDS© 2009 Blackdeathscape
+ 
+&lt;%@ page import="java.text.*" %&gt; 
+&lt;%@page import="java.util.*" %&gt;
+
+
+
+<form action="index.php?action=join" method="post">
+                              Would you like to register?
+<br><br>
+<input type="submit" value="Yes"></form><form action="index.php?" method="post"> 
+<input type="submit" value=" No">
+
+</form><br>
+
+</td>
+			</tr></tbody></table>
+		</td></tr>
+			 </tbody></table><!-- end bottom -->
+			 <!--end column Bottom--><div align="center"><span class="smalltext">Powered by <a href="http://www.ezportal.com" target="blank">EzPortal</a></span></div>
+	</div><!--Begin Footers--><!--End Footers-->
+	<!-- google_ad_section_end -->
+	<div id="footerarea" style="text-align: center; padding-bottom: 1ex;">
+		<table cellspacing="0" cellpadding="3" border="0" align="center" width="100%">
+			<tbody><tr>
+				<td valign="middle" align="center" style="white-space: nowrap;">
+<span class="smalltext"> <a href="javascript:bookmarksite('Blackdeathscape', 'http://darknessz.smfforfree3.com')">Bookmark this site!</a> | <a href="http://darknessz.smfforfree3.com/upgrades.php" target="blank">Upgrade This Forum</a></span><br>
+<a href="http://www.smfforfree3.com/free-forum.php" target="blank">SMF For Free - Create your own Forum</a><br><br>
+
+
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF</a> |
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF © 2016, Simple Machines</a>
+		</span><br><a href="https://darknessz.smfforfree3.com/index.php?PHPSESSID=p711gj7o9bm63a620br5uj2cfu&amp;action=gpdr;sa=privacypolicy">Privacy Policy</a>
+				</td>
+			</tr>
+		</tbody></table>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			window.addEventListener("load", smf_codeFix, false);
+
+			function smf_codeFix()
+			{
+				var codeFix = document.getElementsByTagName ? document.getElementsByTagName("div") : document.all.tags("div");
+
+				for (var i = 0; i < codeFix.length; i++)
+				{
+					if ((codeFix[i].className == "code" || codeFix[i].className == "post" || codeFix[i].className == "signature") && codeFix[i].offsetHeight < 20)
+						codeFix[i].style.height = (codeFix[i].offsetHeight + 20) + "px";
+				}
+			}
+		// ]]></script></div>
+
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+<script>window._epn = {campaign: 5336780572};</script>
+<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script></body>

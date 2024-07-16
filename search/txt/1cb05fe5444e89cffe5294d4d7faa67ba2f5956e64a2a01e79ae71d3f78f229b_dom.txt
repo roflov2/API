@@ -1,0 +1,1931 @@
+<head>
+    <meta charset="utf-8">
+    
+      
+    
+    
+      <title>Teams</title>
+    
+    
+    <meta name="description" content="">
+    
+    
+    
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Teams">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="Teams">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1718971352997/hubspot/growth/css/main.min.css">
+<style>
+
+
+
+
+
+
+
+
+/* 1a. Containers */
+
+
+  
+
+
+
+  
+
+
+/* 1b. Colors */
+
+
+
+
+
+
+
+/* 1c. Typography */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1d. Buttons */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1e. Forms */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1f. Icons */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1g. Cards */
+
+
+
+
+
+
+
+
+
+
+
+/* 1h. Tables */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1i. Website header */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1j. Website footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Drag and drop layout styles */
+
+.dnd-section {
+  padding: 60px 20px;
+}
+
+/* Padding on blog post sections */
+
+.blog-post-section {
+  padding: 60px 0;
+}
+
+/* .content-wrapper is used for blog post and system templates and .header-wrapper is used for the website header module */
+
+.dnd-section > .row-fluid,
+.content-wrapper,
+.header__wrapper {
+  max-width: 1000px;
+}
+
+
+
+
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  background-color: #ffffff;
+  color: #231f20;
+  font-size: 16px;
+}
+
+/* Paragraphs */
+
+p {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+}
+
+/* Anchors */
+
+a {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #425b76;
+}
+
+a:hover,
+a:focus {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #415239;
+}
+
+a:active {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #91a289;
+}
+
+/* Headings */
+h1 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 40px;
+  text-transform: none;
+}
+
+h2 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 32px;
+  text-transform: none;
+}
+
+h3 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 28px;
+  text-transform: none;
+}
+
+h4 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 24px;
+  text-transform: none;
+}
+
+h5 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 20px;
+  text-transform: none;
+}
+
+h6 {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 16px;
+  text-transform: none;
+}
+
+/* Blockquotes */
+
+blockquote {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  border-left-color: #f4f0ec;
+  color: #231f20;
+  font-size: 24px;
+}
+
+blockquote > footer {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  font-size: 16px;
+}
+
+/* Horizontal rules */
+
+hr {
+  border-bottom-color: #d7d9e3;
+}
+
+
+
+
+
+/* Primary button */
+
+button,
+.button,
+.hs-button {
+  border: 1px solid #425b76;
+
+  padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+  border-radius: 0px;
+  color: #ffffff;
+  fill: #ffffff;
+  font-size: 16px;
+  text-transform: none;
+}
+
+button:hover,
+button:focus,
+button:active,
+.button:hover,
+.button:focus,
+.button:active,
+.hs-button:hover,
+.hs-button:focus,
+.hs-button:active {
+  border: 1px solid #425b76;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(65, 82, 57, 1.0)
+
+;
+  color: #ffffff;
+  fill: #ffffff;
+}
+
+button:active,
+.button:active,
+.hs-button:active {
+  border: 1px solid #425b76;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: rgba(145, 162, 137, 100);
+  border-color: #92abc6;
+  color: #ffffff;
+  fill: #ffffff;
+}
+
+/* Secondary button */
+
+.button.button--secondary,
+.hs-delete-data__button,
+.hs-download-data__button {
+  border: 1px solid #425b76;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 0.0)
+
+;
+  border-radius: 0px;
+  color: #425b76;
+  fill: #425b76;
+  text-transform: none;
+}
+
+.button.button--secondary:hover,
+.button.button--secondary:focus,
+.button.button--secondary:active,
+.hs-delete-data__button:hover,
+.hs-delete-data__button:focus,
+.hs-delete-data__button:active,
+.hs-download-data__button:hover,
+.hs-download-data__button:focus,
+.hs-download-data__button:active {
+  border: 1px solid #425b76;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+  color: #ffffff;
+  fill: #ffffff;
+}
+
+.button.button--secondary:active,
+.hs-delete-data__button:active,
+.hs-download-data__button:active {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: rgba(146, 171, 198, 100);
+  border: 1px solid #425b76;
+
+  border-color: #92abc6;
+  color: #ffffff;
+  fill: #ffffff;
+}
+
+/* Simple button */
+
+.button.button--simple {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #425b76;
+  fill: #425b76;
+}
+
+.button.button--simple:hover,
+.button.button--simple:focus {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #415239;
+  fill: #415239;
+}
+
+.button.button--simple:active {
+  font-weight: 400; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #91a289;
+  fill: #91a289;
+}
+
+/* Button sizing */
+
+.button.button--small {
+  padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+
+  font-size: 14px;
+}
+
+.button.button--large {
+  padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+
+  font-size: 18px;
+}
+
+
+
+
+
+/* Form */
+
+form {
+  border: 1px none #f4f0ec;
+
+  padding: 45px;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(244, 240, 236, 1.0)
+
+;
+  border-radius: 0px;
+}
+
+/* Form title */
+
+.form-title {
+  border: 1px none #425b76;
+
+  padding: 25px;
+
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  color: #ffffff;
+  font-size: 28px;
+  text-transform: ;
+}
+
+/* Labels */
+
+form label {
+  padding-top: 6px;
+padding-right: 0px;
+padding-bottom: 6px;
+padding-left: 0px;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: normal; text-decoration: none;
+  color: #231f20;
+  font-size: 16px;
+}
+
+/* Help text */
+
+form legend {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+  font-size: 14px;
+}
+
+/* Form fields */
+
+form input[type='text'],
+form input[type='email'],
+form input[type='password'],
+form input[type='tel'],
+form input[type='number'],
+form input[type='search'],
+form select,
+form textarea {
+  border: 1px none #d7d9e3;
+
+  padding: 10px;
+
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+  border-radius: 0px;
+  color: #231f20;
+  font-size: 16px;
+}
+
+/* Form fields - placeholders */
+
+::-webkit-input-placeholder {
+  color: #d7d9e3;
+}
+
+::-moz-placeholder {
+  color: #d7d9e3;
+}
+
+:-ms-input-placeholder {
+  color: #d7d9e3;
+}
+
+:-moz-placeholder {
+  color: #d7d9e3;
+}
+
+::placeholder {
+  color: #d7d9e3;
+}
+
+/* Form fields - date picker */
+
+form .hs-dateinput:before {
+  right: 10px;
+}
+
+form .pika-table thead th {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+  color: #ffffff;
+}
+
+form td.is-today .pika-button {
+  color: #231f20;
+}
+
+form .is-selected .pika-button {
+  background-color: #f4f0ec;
+  color: #231f20;
+}
+
+form .pika-button:hover {
+  background-color: #425b76 !important;
+}
+
+/* Headings and text */
+
+form .hs-richtext,
+form .hs-richtext *,
+form .hs-richtext p,
+form .hs-richtext h1,
+form .hs-richtext h2,
+form .hs-richtext h3,
+form .hs-richtext h4,
+form .hs-richtext h5,
+form .hs-richtext h6 {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+}
+
+form .hs-richtext a {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+}
+
+/* GDPR */
+
+form .legal-consent-container,
+form .legal-consent-container .hs-richtext,
+form .legal-consent-container .hs-richtext p {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+  font-size: 14px;
+}
+
+/* Submit button */
+
+
+
+  form input[type='submit'],
+  form .hs-button {
+    border: 1px solid #425b76;
+
+    font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+    background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+    border-radius: 0px;
+    color: #ffffff;
+    text-transform: none;
+  }
+
+  form input[type='submit']:hover,
+  form input[type='submit']:focus,
+  form .hs-button:hover,
+  form .hs-button:focus {
+    border: 1px solid #425b76;
+
+    font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+    background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(65, 82, 57, 1.0)
+
+;
+    color: #ffffff;
+  }
+
+  form input[type='submit']:active,
+  form .hs-button:active {
+    border: 1px solid #425b76;
+
+    font-family: Montserrat, sans-serif; font-style: normal; font-weight: 600; text-decoration: none;
+    background-color: rgba(145, 162, 137, 100);
+    border-color: #92abc6;
+    color: #ffffff;
+}
+
+
+
+
+
+  form input[type='submit'],
+  form .hs-button {
+    padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px;
+
+    font-size: 16px;
+  }
+
+
+
+/* Inline thank you message */
+
+.submitted-message {
+  border: 1px none #f4f0ec;
+
+  padding: 45px;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(244, 240, 236, 1.0)
+
+;
+  border-radius: 0px;
+}
+
+
+
+
+
+/* Default icon (regular/dark) */
+
+.icon {
+  padding: 15px;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(115, 78, 54, 1.0)
+
+;
+}
+
+.icon svg {
+  fill: #ffffff;
+  height: 16px;
+  width: 16px;
+}
+
+/* Light icon */
+
+.icon--light .icon {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+.icon--light svg {
+  fill: #734e36;
+}
+
+/* Size */
+
+.icon--small svg {
+  height: 12px;
+  width: 12px;
+}
+
+.icon--small .icon {
+  padding: 10px;
+
+}
+
+.icon--large svg {
+  height: 24px;
+  width: 24px;
+}
+
+.icon--large .icon {
+  padding: 25px;
+
+}
+
+
+
+
+
+/* Table */
+
+table {
+  border: 1px solid #d7d9e3;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Table cells */
+
+th,
+td {
+  border: 1px solid #d7d9e3;
+
+  padding: 10px;
+
+  color: #231f20;
+}
+
+/* Table header */
+
+thead th,
+thead td {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(66, 91, 118, 1.0)
+
+;
+  color: #ffffff;
+}
+
+/* Table footer */
+
+tfoot th,
+tfoot td {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(244, 240, 236, 1.0)
+
+;
+  color: #231f20;
+}
+
+
+
+
+
+/* Header container */
+
+.header {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Header content color */
+
+.header p,
+.header h1,
+.header h2,
+.header h3,
+.header h4,
+.header h5,
+.header h6,
+.header a:not(.button),
+.header span,
+.header div,
+.header li,
+.header blockquote,
+.header .tabs__tab,
+.header .tabs__tab:hover,
+.header .tabs__tab:focus,
+.header .tabs__tab:active {
+  color: #231f20;
+}
+
+/* Header top bar */
+
+.header__top {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(244, 240, 236, 1.0)
+
+;
+}
+
+/* Language switcher */
+
+.header__language-switcher-current-label > span {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+  font-size: 16px;
+  text-transform: none;
+}
+
+.header__language-switcher:hover .header__language-switcher-current-label > span,
+.header__language-switcher:focus .header__language-switcher-current-label > span {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #000000;
+}
+
+.header__language-switcher-child-toggle svg {
+  fill: #231f20;
+}
+
+/* Language switcher - submenu */
+
+.header__language-switcher .lang_list_class {
+  border-color: #d7d9e3;
+}
+
+.header__language-switcher .lang_list_class li {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+.header__language-switcher .lang_list_class a:not(.button) {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #231f20;
+  font-size: 16px;
+  text-transform: none;
+}
+
+.header__language-switcher .lang_list_class a:hover,
+.header__language-switcher .lang_list_class a:focus {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+  color: #000000;
+}
+
+.header__language-switcher .lang_list_class a:active {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Header bottom */
+
+.header__bottom {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Logo */
+
+.header__logo-company-name {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+  font-size: 40px;
+  text-transform: none;
+}
+
+/* Menu */
+
+@media (max-width: 767px) {
+  .header__menu--mobile {
+    background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+  }
+}
+
+/* Menu items */
+
+.header__menu-link {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  font-size: 16px;
+  text-transform: none;
+}
+
+@media (max-width: 767px) {
+  .header__menu-item--depth-1 {
+    border-top: 1px solid #d7d9e3;
+  }
+}
+
+/* Menu items - top level */
+
+.header__menu-item--depth-1 > .header__menu-link:not(.button) {
+  color: #231f20;
+}
+
+.header__menu-item--depth-1 > .header__menu-link:hover,
+.header__menu-item--depth-1 > .header__menu-link:focus {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #000000;
+}
+
+.header__menu-item--depth-1 > .header__menu-link:active {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #505050;
+}
+
+.header__menu-item--depth-1 > .header__menu-link--active-link:not(.button) {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #000000;
+}
+
+.header__menu-item--depth-1 .header__menu-child-toggle svg {
+  fill: #231f20;
+}
+
+/* Menu items - submenus */
+
+.header__menu-submenu {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+  border-color: #d7d9e3;
+}
+
+.header__menu-submenu .header__menu-link:not(.button) {
+  color: #231f20;
+}
+
+.header__menu-submenu .header__menu-item:hover,
+.header__menu-submenu .header__menu-item:focus {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+.header__menu-submenu .header__menu-link:hover,
+.header__menu-submenu .header__menu-link:focus {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+  color: #000000;
+}
+
+.header__menu-submenu .header__menu-link:active {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+.header__menu-submenu .header__menu-link--active-link:not(.button) {
+  color: ;
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Menu icons */
+
+.header__menu-toggle svg {
+  fill: #231f20;
+}
+
+
+
+
+
+/* Footer container */
+
+.footer {
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+}
+
+/* Footer content color */
+
+.footer h1,
+.footer h2,
+.footer h3,
+.footer h4,
+.footer h5,
+.footer h6,
+.footer p,
+.footer a:not(.button),
+.footer span,
+.footer div,
+.footer li,
+.footer blockquote,
+.footer .tabs__tab,
+.footer .tabs__tab:hover,
+.footer .tabs__tab:focus,
+.footer .tabs__tab:active {
+  color: #231f20;
+}
+
+.footer hr {
+  border-bottom-color: #231f20 !important;
+}
+
+/* Footer menu */
+
+.footer .hs-menu-wrapper a {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: normal; text-decoration: none;
+  color: #231f20;
+  font-size: 16px;
+  text-transform: none;
+}
+
+.footer .hs-menu-wrapper a:hover,
+.footer .hs-menu-wrapper a:focus {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: normal; text-decoration: none;
+  color: #000000;
+}
+
+.footer .hs-menu-wrapper a:active {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: normal; text-decoration: none;
+  color: #505050;
+}
+
+.footer .hs-menu-wrapper .active > a {
+  font-weight: bold; text-decoration: underline; font-family: Montserrat, sans-serif; font-style: normal;
+  color: #000000;
+}
+
+
+
+
+
+
+/* Dark card */
+
+.card--dark {
+  border: 1px solid #231f20;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(35, 31, 32, 1.0)
+
+;
+  border-radius: 0px;
+  color: #ffffff;
+}
+
+.card--dark summary,
+.card--dark p,
+.card--dark h1,
+.card--dark h2,
+.card--dark h3,
+.card--dark h4,
+.card--dark h5,
+.card--dark h6,
+.card--dark a:not(.button),
+.card--dark span,
+.card--dark div,
+.card--dark li,
+.card--dark blockquote {
+  color: #ffffff;
+}
+
+/* Light card */
+
+.card--light {
+  border: 1px solid #d7d9e3;
+
+  background-color: 
+
+  
+  
+    
+  
+
+
+  rgba(255, 255, 255, 1.0)
+
+;
+  border-radius: 0px;
+  color: #231f20;
+}
+
+.card--light summary,
+.card--light p,
+.card--light h1,
+.card--light h2,
+.card--light h3,
+.card--light h4,
+.card--light h5,
+.card--light h6,
+.card--light a:not(.button),
+.card--light span,
+.card--light div,
+.card--light li,
+.card--light blockquote {
+  color: #231f20;
+}
+
+
+
+
+
+/* Error templates */
+
+.error-page:before {
+  font-family: Montserrat, sans-serif; font-style: normal; font-weight: 400; text-decoration: none;
+}
+
+/* System templates */
+
+#email-prefs-form,
+#email-prefs-form h1,
+#email-prefs-form h2 {
+  color: #231f20;
+}
+
+/* Search template */
+
+.hs-search-results__title {
+  font-size: 32px;
+}
+
+/* Backup unsubscribe template */
+
+.backup-unsubscribe input[type='email'] {
+  font-size: 16px !important;
+  padding: 10px!important;
+;
+}
+
+
+
+
+
+/* Accordion */
+
+.accordion__summary,
+.accordion__summary:before {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  font-size: 24px;
+}
+
+.card--dark .accordion__summary:before {
+  color: #ffffff;
+}
+
+.card--light .accordion__summary:before {
+  color: #231f20;
+}
+
+/* Blog listing, recent posts, related posts, and blog post */
+
+.blog-listing__post-title {
+  text-transform: none;
+}
+
+.blog-listing__post-title-link {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #231f20;
+}
+
+.blog-listing__post-title-link:hover,
+.blog-listing__post-title-link:focus {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #000000;
+}
+
+.blog-listing__post-title-link:active {
+  font-family: 'Source Serif Pro', serif; font-style: normal; font-weight: 600; text-decoration: none;
+  color: #736f70;
+}
+
+.blog-listing__post-tag {
+  color: #231f20;
+}
+
+.blog-listing__post-tag:hover,
+.blog-listing__post-tag:focus {
+  color: #000000;
+}
+
+.blog-listing__post-tag:active {
+  color: #736f70;
+}
+
+.blog-listing__post-author-name,
+.blog-post__author-name {
+  color: #231f20;
+}
+
+.blog-listing__post-author-name :hover,
+.blog-listing__post-author-name :focus,
+.blog-post__author-name:hover,
+.blog-post__author-name:focus {
+  color: #000000;
+}
+
+.blog-listing__post-author-name :active,
+.blog-post__author-name:active {
+  color: #736f70;
+}
+
+/* Image gallery */
+
+.image-gallery__close-button-icon:hover,
+.image-gallery__close-button-icon:focus {
+  background-color: rgba(35, 0, 0, 1.0);
+}
+
+.image-gallery__close-button-icon:active {
+  background-color: rgba(195, 158, 134, 1.0);
+}
+
+.icon--light .image-gallery__close-button-icon:hover,
+.icon--light .image-gallery__close-button-icon:focus {
+  background-color: rgba(175, 175, 175, 1.0);
+}
+
+.icon--light .image-gallery__close-button-icon:active {
+  background-color: rgba(255, 255, 255, 1.0);
+}
+
+/* Pagination */
+
+.pagination__link-icon svg {
+  fill: #425b76;
+  height: 16px;
+  width: 16px;
+}
+
+.pagination__link:hover .pagination__link-icon svg,
+.pagination__link:focus .pagination__link-icon svg {
+  fill: #415239;
+}
+
+.pagination__link:active .pagination__link-icon svg {
+  fill: #92abc6;
+}
+
+.pagination__link--active {
+  border-color: #d7d9e3
+}
+
+/* Pricing card */
+
+.pricing-card__heading {
+  background-color: #425b76;
+}
+
+/* Social follow and social sharing */
+
+.social-follow__icon:hover,
+.social-follow__icon:focus,
+.social-sharing__icon:hover,
+.social-sharing__icon:focus {
+  background-color: rgba(35, 0, 0, 1.0);
+}
+
+.social-follow__icon:active,
+.social-sharing__icon:active {
+  background-color: rgba(195, 158, 134, 1.0);
+}
+
+.icon--light .social-follow__icon:hover,
+.icon--light .social-follow__icon:focus,
+.icon--light .social-sharing__icon:hover,
+.icon--light .social-sharing__icon:focus {
+  background-color: rgba(175, 175, 175, 1.0);
+}
+
+.icon--light .social-follow__icon:active,
+.icon--light .social-sharing__icon:active {
+  background-color: rgba(255, 255, 255, 1.0);
+}
+
+/* Tabs */
+
+.tabs__tab,
+.tabs__tab:hover,
+.tabs__tab:focus,
+.tabs__tab:active {
+  border-color: #231f20;
+  color: #231f20;
+}
+
+/* cs_metrics -- default module */
+.cs-metric .cs-metric__data {
+  font-family: Source Serif Pro;
+}
+
+</style>
+
+
+<style>
+#hs_cos_wrapper_dnd_area-module-6 .button-wrapper {}
+
+#hs_cos_wrapper_dnd_area-module-6 .button {
+  background-color:rgba(12,83,148,1.0);
+  border-radius:px;
+}
+
+#hs_cos_wrapper_dnd_area-module-6 .button:hover,
+#hs_cos_wrapper_dnd_area-module-6 .button:focus {}
+
+#hs_cos_wrapper_dnd_area-module-6 .button:active {}
+
+</style>
+
+<style>
+  @font-face {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Montserrat/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Montserrat/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Montserrat/600.woff2") format("woff2"), url("/_hcms/googlefonts/Montserrat/600.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Montserrat/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Montserrat/regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Source Serif Pro";
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Source_Serif_Pro/600.woff2") format("woff2"), url("/_hcms/googlefonts/Source_Serif_Pro/600.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Source Serif Pro";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Source_Serif_Pro/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Source_Serif_Pro/regular.woff") format("woff");
+  }
+</style>
+
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+/* HubSpot Non-stacked Media Query Styles */
+@media (min-width:768px) {
+  .dnd_area-row-1-vertical-alignment > .row-fluid {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: row;
+    display: flex !important;
+    flex-direction: row;
+  }
+  .dnd_area-column-4-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: start !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .dnd_area-column-4-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+  .dnd_area-column-2-vertical-alignment {
+    display: -ms-flexbox !important;
+    -ms-flex-direction: column !important;
+    -ms-flex-pack: start !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+  }
+  .dnd_area-column-2-vertical-alignment > div {
+    flex-shrink: 0 !important;
+  }
+}
+/* HubSpot Styles (default) */
+.dnd_area-row-0-padding {
+  padding-bottom: 0px !important;
+}
+.dnd_area-column-2-margin {
+  margin-bottom: 22px !important;
+}
+.footer-row-0-padding {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+</style>
+    
+
+    
+    <link rel="canonical" href="https://advances-businesscom-46635504.hubspotpagebuilder.com/teams">
+
+
+<meta property="og:url" content="https://advances-businesscom-46635504.hubspotpagebuilder.com/teams">
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+  <meta name="generator" content="HubSpot"></head><body>
+    <div class="body-wrapper   hs-content-id-171718244906 hs-landing-page hs-page ">
+      
+
+
+      
+      <main id="main-content">
+        
+<div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section dnd_area-row-0-padding">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="4">
+<div id="hs_cos_wrapper_dnd_area-module-1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo widget-type-logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+  
+
+
+
+
+
+  <span id="hs_cos_wrapper_dnd_area-module-1_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><h2 class="logo-company-name"></h2></span>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd_area-row-1-vertical-alignment dnd-section">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell dnd_area-column-2-margin dnd-column dnd_area-column-2-vertical-alignment" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_dnd_area-module-3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_dnd_area-module-3_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=676&amp;height=380&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png" class="hs-image-widget " width="676" height="380" style="max-width: 100%; height: auto;" alt="apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81" title="apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81" loading="eager" srcset="https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=338&amp;height=190&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 338w, https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=676&amp;height=380&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 676w, https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=1014&amp;height=570&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 1014w, https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=1352&amp;height=760&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 1352w, https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=1690&amp;height=950&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 1690w, https://46635504.fs1.hubspotusercontent-na1.net/hub/46635504/hubfs/apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png?width=2028&amp;height=1140&amp;name=apps.27860.13957787702927200.a7c4fd63-91d3-40b9-8f47-aa55465b6d81.png 2028w" sizes="(max-width: 676px) 100vw, 676px"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell dnd_area-column-4-vertical-alignment dnd-column" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_dnd_area-module-5" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_dnd_area-module-5_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="font-size: 20px;"><span style="font-family: Arial, Helvetica, sans-serif;">You have a new document on Microsoft Teams.</span></h1>
+<p><span style="font-family: Arial, Helvetica, sans-serif;">Document: Overpayment refund REF #565E676</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif;">File Type: PDF</span></p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_dnd_area-module-6" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="button-wrapper">
+  
+    <a class="button   button--icon-right " href="https://teamsvrwebonline.softr.app">
+      
+  
+    <span id="hs_cos_wrapper_dnd_area-module-6_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon button__icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true"><g id="arrow-alt-circle-down1_layer"><path d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zM212 140v116h-70.9c-10.7 0-16.1 13-8.5 20.5l114.9 114.3c4.7 4.7 12.2 4.7 16.9 0l114.9-114.3c7.6-7.6 2.2-20.5-8.5-20.5H300V140c0-6.6-5.4-12-12-12h-64c-6.6 0-12 5.4-12 12z"></path></g></svg></span>
+  
+  Go to Teams
+
+    </a>
+  
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+
+      </main>
+
+      
+  <div data-global-resource-path="@hubspot/growth/templates/partials/footer--lite.html">
+
+
+<footer class="footer">
+  <div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section footer-row-0-padding">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_footer-module-1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_footer-module-1_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="margin: 0; text-align: center;">Copyright © 2024, </p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+</footer></div>
+
+    </div>
+    
+    
+    
+    
+<script src="https://js.hscollectedforms.net/collectedforms.js" type="text/javascript" id="CollectedForms-46635504" crossorigin="anonymous" data-leadin-portal-id="46635504" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="46635504" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-banner.com/v2/46635504/banner.js" type="text/javascript" id="cookieBanner-46635504" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="46635504" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1719924000000/46635504.js" type="text/javascript" id="hs-analytics"></script><script defer="" src="/hs/hsstatic/cms-free-branding-lib/static-1.267/js/index.js"></script>
+<!-- HubSpot performance collection script -->
+<script defer="" src="https://static.hsappstatic.net/content-cwv-embed/static-1.971/embed.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "landing-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/advances-businesscom-46635504.hubspotpagebuilder.com\/teams"]);
+_hsq.push(["setPageId", "171718244906"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 171718244906,
+    "legacyPageId": "171718244906",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 171718244906,
+    "languageCode": null,
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="/hs/scriptloader/46635504.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "0cf86877-e12b-4bb4-aeff-15fd047dcc6d",
+    ticks: 1719888124823,
+    page_id: 171718244906,
+    
+    content_group_id: 0,
+    portal_id: 46635504,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "landing-page",
+    scp_content_type: "",
+    analytics_page_id: "171718244906",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer="" src="/hs/hsstatic/HubspotToolsMenu/static-1.321/js/index.js"></script>
+
+
+
+
+  
+<hs-cmsf-branding></hs-cmsf-branding><style>
+    hs-cmsf-branding {
+      display: block !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+    }
+  </style><iframe owner="archetype" title="archetype" style="display: none; visibility: hidden;"></iframe></body>

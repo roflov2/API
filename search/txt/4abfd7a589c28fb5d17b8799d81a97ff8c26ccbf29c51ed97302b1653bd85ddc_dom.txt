@@ -1,0 +1,506 @@
+<head>
+<title>Page Not Found  Keen France</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Page Not Found">
+<meta name="description" content="Page Not Found  Keen France">
+
+<base href="https://www.keenfranceavis.com/">
+
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/keenfrance/css/print_stylesheetceU6O.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetQITdY.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetT0duf.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetT4P6L.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetcxIZv.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetilEOX.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetkH3vp.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetqpbLN.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetsh3WK.css">
+<link rel="stylesheet" type="text/css" href="//www.keenfranceavis.com/includes/templates/keenfrance/css/stylesheetyAj7s.css">
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_1.11.1.min.js"></script>
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_2.2.0.min.js"></script>
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_jquery.js"></script>
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_jquery_kinSlideshow.js"></script>
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_lightbox.js"></script>
+<script type="text/javascript" src="//www.keenfranceavis.com/includes/templates/keenfrance/jscript/jscript_slick.js"></script>
+</head><body id="pagenotfoundBody"><nav id="menu" class="mm-menu mm-horizontal mm-offcanvas"><ul class="mm-list mm-panel mm-opened mm-current" id="mm-0"><div class="mm-list-search"><form name="quick_find_header" action="/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="hidden" name="zenid" value="hchkc7a4eabt4q5q9iumts9r07"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';"><button class="S8ZCTfHQb" type="submit" title="Submit search"><i class="fa fa-search"></i></button></form></div><li><a class="mm-subopen" href="#mm-1"></a><a href="https://www.keenfranceavis.com/femme-c-14.html">Femme</a></li><li><a class="mm-subopen" href="#mm-5"></a><a href="https://www.keenfranceavis.com/homme-c-40.html">Homme</a></li><li><a class="mm-subopen" href="#mm-9"></a><a href="https://www.keenfranceavis.com/enfant-c-1.html">Enfant</a></li><li><a href="https://www.keenfranceavis.com/login.html">Log In</a></li><li><a href="/create_account.html">Register</a></li><li><a href="/contact_us.html" rel="nofollow">Contact Us</a></li><li><a href="/shippinginfo.html" rel="nofollow">Shipping &amp; Returns</a></li><li><a href="https://www.keenfranceavis.com/shopping_cart.html">Shopping Cart&nbsp;(0)</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Femme</a></li><li><a class="mm-subopen" href="#mm-2"></a><a href="https://www.keenfranceavis.com/femme-bottes-c-14_15.html">Bottes</a></li><li><a class="mm-subopen" href="#mm-3"></a><a href="https://www.keenfranceavis.com/femme-chaussures-c-14_23.html">Chaussures</a></li><li><a class="mm-subopen" href="#mm-4"></a><a href="https://www.keenfranceavis.com/femme-sandales-c-14_32.html">Sandales</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Bottes</a></li><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-14_15_16.html">Botte de Travail</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-14_15_17.html">Bottes Chelsea</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-14_15_18.html">Bottes Chukka</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-14_15_19.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-14_15_20.html">Bottes de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-14_15_21.html">Bottes Hiver</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottines-c-14_15_22.html">Bottines</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Chaussures</a></li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-14_23_24.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-14_23_25.html">Chaussons</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-14_23_26.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-14_23_27.html">Chaussures À Lacets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-14_23_28.html">Chaussures de Travail</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-14_23_29.html">Chaussures Oxford</a></li><li><a href="https://www.keenfranceavis.com/chaussures-espadrille-c-14_23_30.html">Espadrille </a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-14_23_31.html">Slip-On</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-14_32_33.html">Claquettes</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-14_32_34.html">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-bride-c-14_32_35.html">Sandales À Bride</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-14_32_36.html">Sandales À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-plage-c-14_32_37.html">Sandales de Plage</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-14_32_38.html">Sandales de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/sandales-tong-c-14_32_39.html">Tong</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Homme</a></li><li><a class="mm-subopen" href="#mm-6"></a><a href="https://www.keenfranceavis.com/homme-bottes-c-40_41.html">Bottes</a></li><li><a class="mm-subopen" href="#mm-7"></a><a href="https://www.keenfranceavis.com/homme-chaussures-c-40_47.html">Chaussures</a></li><li><a class="mm-subopen" href="#mm-8"></a><a href="https://www.keenfranceavis.com/homme-sandales-c-40_55.html">Sandales</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Bottes</a></li><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-40_41_42.html">Botte de Travail</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-40_41_43.html">Bottes Chelsea</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-40_41_44.html">Bottes Chukka</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-40_41_45.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-40_41_46.html">Bottes de Randonnée</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Chaussures</a></li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-40_47_48.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-40_47_49.html">Chaussons</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-40_47_50.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-40_47_51.html">Chaussures À Lacets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-40_47_52.html">Chaussures de Travail</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-40_47_53.html">Chaussures Oxford</a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-40_47_54.html">Slip-On</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-40_55_56.html">Claquettes</a></li><li><a href="https://www.keenfranceavis.com/sandales-sabots-c-40_55_57.html">Sabots</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-40_55_58.html">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-40_55_59.html">Sandales À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-40_55_60.html">Sandales de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/sandales-tong-c-40_55_61.html">Tong</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">Enfant</a></li><li><a class="mm-subopen" href="#mm-10"></a><a href="https://www.keenfranceavis.com/enfant-bottes-c-1_2.html">Bottes</a></li><li><a class="mm-subopen" href="#mm-11"></a><a href="https://www.keenfranceavis.com/enfant-chaussures-c-1_8.html">Chaussures</a></li><li><a class="mm-subopen" href="#mm-12"></a><a href="https://www.keenfranceavis.com/enfant-sandales-c-1_12.html">Sandales</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Bottes</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-À-enfiler-c-1_2_3.html">Bottes À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-1_2_4.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-neige-c-1_2_5.html">Bottes de Neige</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-1_2_6.html">Bottes de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-1_2_7.html">Bottes Hiver</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-11"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Chaussures</a></li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-1_8_9.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-1_8_10.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-1_8_11.html">Slip-On</a></li></ul><ul class="mm-list mm-panel mm-hidden" id="mm-12"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-9">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-1_12_13.html">Sandales</a></li></ul></nav>
+
+<link rel="stylesheet" href="facebox/css/font-awesome.min.css">
+<!--bof-header logo and navigation display-->
+
+<div class="mm-page mm-slideout"><div id="Ud6kDRUsP"> 
+<div id="TBdSk7HtT"> 
+  <section class="lazy slider slick-initialized slick-slider" data-sizes="50vw"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;"><i class="fa fa-angle-left"></i></button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2800px; transform: translate3d(-800px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-gift" aria-hidden="true"></i> Lowest Price Guarantee <i class="fa fa-gift" aria-hidden="true"></i></div></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-truck" aria-hidden="true"></i> Free Delivery Over R1704 <i class="fa fa-truck" aria-hidden="true"></i></div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-money" aria-hidden="true"></i> 30 Day Money Back Guarantee <i class="fa fa-money" aria-hidden="true"></i></div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-gift" aria-hidden="true"></i> Lowest Price Guarantee <i class="fa fa-gift" aria-hidden="true"></i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-truck" aria-hidden="true"></i> Free Delivery Over R1704 <i class="fa fa-truck" aria-hidden="true"></i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="4" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-money" aria-hidden="true"></i> 30 Day Money Back Guarantee <i class="fa fa-money" aria-hidden="true"></i></div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" tabindex="-1" style="width: 400px;"><div><div style="width: 100%; display: inline-block;"><i class="fa fa-gift" aria-hidden="true"></i> Lowest Price Guarantee <i class="fa fa-gift" aria-hidden="true"></i></div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;"><i class="fa fa-angle-right"></i></button></section>
+
+
+    <div id="N05paZ8kK">
+        <div class="jOsToA26g">
+            <img src="includes/templates/keenfrance/images/flag/EUR.gif" title="EUR" alt="EUR">
+        </div>
+
+        <div class="mutop-login" "="">
+                            <a href="https://www.keenfranceavis.com/login.html" rel="nofollow" id="login"><i class="fa fa-address-book-o" aria-hidden="true"></i><span>&nbsp;Log In</span></a>
+                
+                <a rel="nofollow" class="DGDQxl6KR" href="/create_account.html"><i class="fa fa-address-book" aria-hidden="true"></i> <span>Register</span></a>
+
+                                    </div>
+
+        <div class="Z75KeLDlf">
+            <!-- ========== CURRENCIES ========= -->
+            <div id="Content" class="currenccontent"><form name="currencies_form" action="https://www.keenfranceavis.com/" method="get"><select name="currency" onchange="this.form.submit();">
+  <option value="USD">USD</option>
+  <option value="EUR" selected="selected">EUR</option>
+  <option value="GBP">GBP</option>
+  <option value="CAD">CAD</option>
+  <option value="AUD">AUD</option>
+  <option value="CNY">CNY</option>
+  <option value="CHF">CHF</option>
+  <option value="SEK">SEK</option>
+  <option value="MXN">MXN</option>
+  <option value="DKK">DKK</option>
+  <option value="PLN">PLN</option>
+  <option value="TRY">TRY</option>
+  <option value="RON">RON</option>
+  <option value="JPY">JPY</option>
+  <option value="NOK">NOK</option>
+  <option value="HUF">HUF</option>
+  <option value="ARS">ARS</option>
+  <option value="NZD">NZD</option>
+  <option value="CZK">CZK</option>
+  <option value="INR">INR</option>
+  <option value="BRL">BRL</option>
+  <option value="ZAR">ZAR</option>
+  <option value="SGD">SGD</option>
+</select>
+<input type="hidden" name="main_page" value="page_not_found"><input type="hidden" name="zenid" value="hchkc7a4eabt4q5q9iumts9r07"></form></div>                                    <!-- ====================================== -->
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    var mt = 0;
+    window.onload = function () {
+        var mydiv = document.getElementById('GuGiagB4k');
+        var mt = mydiv.offsetTop;
+        window.onscroll = function () {
+            var t = document.documentElement.scrollTop || document.body.scrollTop;
+            if (t > mt) {
+                mydiv.style.position = "";
+                document.getElementById('GuGiagB4k').className='munavfixed'
+            }
+            else {
+                mydiv.style.position = "";
+                document.getElementById('GuGiagB4k').className=''
+            }
+        }
+    }
+
+</script>
+
+
+<div id="GuGiagB4k">
+
+<div id="KmkscTtSl">
+
+	<div class="Dauvrlhsq">
+
+
+	<!-- logininf -->
+	<div id="rT5RUAIwo">
+        <a href="https://www.keenfranceavis.com/shopping_cart.html" id="rm7FnR4d6" rel="nofollow"><i class="fa fa-shopping-bag fa-1x"></i><span>&nbsp;(0)</span></a>
+		</div>
+
+<div class="clear"></div>
+
+</div>
+<!-- logininf -->
+
+    </div>
+	
+	<div id="X4UF8R1BA"><a href="https://www.keenfranceavis.com/"><img title="Keen  At keenfranceavis.com" src="includes/templates/keenfrance/images/logo.png"></a></div>
+
+    <div class="mulogo02"><a href="https://www.keenfranceavis.com/"><img title="Keen  At keenfranceavis.com" src="includes/templates/keenfrance/images/logo-01.jpg"></a></div>
+
+    <div class="search">
+        <form name="quick_find_header" action="https://www.keenfranceavis.com/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="hidden" name="zenid" value="hchkc7a4eabt4q5q9iumts9r07"><input type="text" name="keyword" size="6" maxlength="200" class="hsearchinput" autocomplete="off" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';"><button class="S8ZCTfHQb" type="submit" title="Submit search"><i class="fa fa-search"></i></button></form>    </div>
+
+	<div id="hljCzEwL0">
+	<div id="LZrvsBHDe">
+		<div id="menu-head">
+<ul class="level1"><li class="submenu"><a href="https://www.keenfranceavis.com/femme-c-14.html">Femme</a><ul class="level2"><div class="unmfelPkT"><li class="submenu"><a href="https://www.keenfranceavis.com/femme-bottes-c-14_15.html">Bottes</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-14_15_16.html">Botte de Travail</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-14_15_17.html">Bottes Chelsea</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-14_15_18.html">Bottes Chukka</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-14_15_19.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-14_15_20.html">Bottes de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-14_15_21.html">Bottes Hiver</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottines-c-14_15_22.html">Bottines</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/femme-chaussures-c-14_23.html">Chaussures</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-14_23_24.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-14_23_25.html">Chaussons</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-14_23_26.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-14_23_27.html">Chaussures À Lacets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-14_23_28.html">Chaussures de Travail</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-14_23_29.html">Chaussures Oxford</a></li><li><a href="https://www.keenfranceavis.com/chaussures-espadrille-c-14_23_30.html">Espadrille </a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-14_23_31.html">Slip-On</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/femme-sandales-c-14_32.html">Sandales</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-14_32_33.html">Claquettes</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-14_32_34.html">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-bride-c-14_32_35.html">Sandales À Bride</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-14_32_36.html">Sandales À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-plage-c-14_32_37.html">Sandales de Plage</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-14_32_38.html">Sandales de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/sandales-tong-c-14_32_39.html">Tong</a></li></ul></li><img src="images/cate_img_32.jpg"><div class="clear"></div></div></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/homme-c-40.html">Homme</a><ul class="level2"><div class="unmfelPkT"><li class="submenu"><a href="https://www.keenfranceavis.com/homme-bottes-c-40_41.html">Bottes</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-40_41_42.html">Botte de Travail</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-40_41_43.html">Bottes Chelsea</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-40_41_44.html">Bottes Chukka</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-40_41_45.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-40_41_46.html">Bottes de Randonnée</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/homme-chaussures-c-40_47.html">Chaussures</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-40_47_48.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-40_47_49.html">Chaussons</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-40_47_50.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-40_47_51.html">Chaussures À Lacets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-40_47_52.html">Chaussures de Travail</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-40_47_53.html">Chaussures Oxford</a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-40_47_54.html">Slip-On</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/homme-sandales-c-40_55.html">Sandales</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-40_55_56.html">Claquettes</a></li><li><a href="https://www.keenfranceavis.com/sandales-sabots-c-40_55_57.html">Sabots</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-40_55_58.html">Sandales</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-40_55_59.html">Sandales À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-40_55_60.html">Sandales de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/sandales-tong-c-40_55_61.html">Tong</a></li></ul></li><img src="images/cate_img_55.jpg"><div class="clear"></div></div></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/enfant-c-1.html">Enfant</a><ul class="level2"><div class="unmfelPkT"><li class="submenu"><a href="https://www.keenfranceavis.com/enfant-bottes-c-1_2.html">Bottes</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/bottes-bottes-À-enfiler-c-1_2_3.html">Bottes À Enfiler</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-1_2_4.html">Bottes de Baskets</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-neige-c-1_2_5.html">Bottes de Neige</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-1_2_6.html">Bottes de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-1_2_7.html">Bottes Hiver</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/enfant-chaussures-c-1_8.html">Chaussures</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-1_8_9.html">Baskets</a></li><li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-1_8_10.html">Chaussure de Randonnée</a></li><li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-1_8_11.html">Slip-On</a></li></ul></li><li class="submenu"><a href="https://www.keenfranceavis.com/enfant-sandales-c-1_12.html">Sandales</a><ul class="level3"><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-1_12_13.html">Sandales</a></li></ul></li><img src="images/cate_img_12.jpg"><div class="clear"></div></div></ul></li></ul><div class="clear"></div>
+</div>
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('nav#menu').mmenu();
+});
+</script>
+
+<div class="header">
+	<a href="#menu"></a>
+</div>
+<div id="page" class="">
+	
+</div>          		  
+	</div>
+
+	<div class="clear"></div>
+	</div>
+
+<script type="text/javascript"> 
+    function showsearch(obj)
+    {
+      //var obj_parent=obj.parentNode;
+      var obj_parent=obj.parentElement
+     
+      if(obj_parent.className=="search-none")
+      {
+        obj_parent.className="search-block";
+      }
+      else
+      {
+        obj_parent.className="search-none";
+      }
+     
+    }
+</script>
+</div>
+</div><div id="sUHDSw58f"></div><div id="tO6so1WGy"><div id="tLNnfAIX0">  <a href="https://www.keenfranceavis.com/">Home</a>&nbsp;::&nbsp;
+Page Not Found
+</div></div><div id="xRPXLI5T2">
+	<h1 id="productListHeading">Page Not Found</h1>
+		</div><div id="eoeyhCEGV">
+<!--banner_1-->
+<div class="sOQ6jGLuo">
+<div id="nBbzwVeEK">
+<div class="I7EtdS6lh">
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+<!-- content -->
+<div class="centerColumn" id="pageNotFound">
+<h1 id="pageNotFoundHeading">Page Not Found</h1>
+
+<div id="pageNotFoundMainContent" class="content">
+</div>
+
+    <div>
+<li><a href="https://www.keenfranceavis.com/femme-c-14.html">Femme</a>
+</li><li><a href="https://www.keenfranceavis.com/femme-bottes-c-14_15.html">Bottes</a>
+</li><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-14_15_16.html">Botte de Travail</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-14_15_17.html">Bottes Chelsea</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-14_15_18.html">Bottes Chukka</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-14_15_19.html">Bottes de Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-14_15_20.html">Bottes de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-14_15_21.html">Bottes Hiver</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottines-c-14_15_22.html">Bottines</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/femme-chaussures-c-14_23.html">Chaussures</a>
+</li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-14_23_24.html">Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-14_23_25.html">Chaussons</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-14_23_26.html">Chaussure de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-14_23_27.html">Chaussures À Lacets</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-14_23_28.html">Chaussures de Travail</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-14_23_29.html">Chaussures Oxford</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-espadrille-c-14_23_30.html">Espadrille </a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-14_23_31.html">Slip-On</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/femme-sandales-c-14_32.html">Sandales</a>
+</li><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-14_32_33.html">Claquettes</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-c-14_32_34.html">Sandales</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-À-bride-c-14_32_35.html">Sandales À Bride</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-14_32_36.html">Sandales À Enfiler</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-de-plage-c-14_32_37.html">Sandales de Plage</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-14_32_38.html">Sandales de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-tong-c-14_32_39.html">Tong</a></li>
+
+
+
+
+<li><a href="https://www.keenfranceavis.com/homme-c-40.html">Homme</a>
+</li><li><a href="https://www.keenfranceavis.com/homme-bottes-c-40_41.html">Bottes</a>
+</li><li><a href="https://www.keenfranceavis.com/bottes-botte-de-travail-c-40_41_42.html">Botte de Travail</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-chelsea-c-40_41_43.html">Bottes Chelsea</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-chukka-c-40_41_44.html">Bottes Chukka</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-40_41_45.html">Bottes de Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-40_41_46.html">Bottes de Randonnée</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/homme-chaussures-c-40_47.html">Chaussures</a>
+</li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-40_47_48.html">Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussons-c-40_47_49.html">Chaussons</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-40_47_50.html">Chaussure de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-À-lacets-c-40_47_51.html">Chaussures À Lacets</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-de-travail-c-40_47_52.html">Chaussures de Travail</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussures-oxford-c-40_47_53.html">Chaussures Oxford</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-40_47_54.html">Slip-On</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/homme-sandales-c-40_55.html">Sandales</a>
+</li><li><a href="https://www.keenfranceavis.com/sandales-claquettes-c-40_55_56.html">Claquettes</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sabots-c-40_55_57.html">Sabots</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-c-40_55_58.html">Sandales</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-À-enfiler-c-40_55_59.html">Sandales À Enfiler</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-sandales-de-randonnée-c-40_55_60.html">Sandales de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/sandales-tong-c-40_55_61.html">Tong</a></li>
+
+
+
+
+<li><a href="https://www.keenfranceavis.com/enfant-c-1.html">Enfant</a>
+</li><li><a href="https://www.keenfranceavis.com/enfant-bottes-c-1_2.html">Bottes</a>
+</li><li><a href="https://www.keenfranceavis.com/bottes-bottes-À-enfiler-c-1_2_3.html">Bottes À Enfiler</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-baskets-c-1_2_4.html">Bottes de Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-neige-c-1_2_5.html">Bottes de Neige</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-de-randonnée-c-1_2_6.html">Bottes de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/bottes-bottes-hiver-c-1_2_7.html">Bottes Hiver</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/enfant-chaussures-c-1_8.html">Chaussures</a>
+</li><li><a href="https://www.keenfranceavis.com/chaussures-baskets-c-1_8_9.html">Baskets</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-chaussure-de-randonnée-c-1_8_10.html">Chaussure de Randonnée</a></li>
+<li><a href="https://www.keenfranceavis.com/chaussures-slipon-c-1_8_11.html">Slip-On</a></li>
+
+
+<li><a href="https://www.keenfranceavis.com/enfant-sandales-c-1_12.html">Sandales</a>
+</li><li><a href="https://www.keenfranceavis.com/sandales-sandales-c-1_12_13.html">Sandales</a></li>
+
+
+
+
+
+     <ul>
+         <li><a href="https://www.keenfranceavis.com/advanced_search.html">Advanced Search</a></li>
+         <li><a href="https://www.keenfranceavis.com/products_new.html">New Products</a></li>
+         <li><a href="https://www.keenfranceavis.com/specials.html">Specials</a></li>
+         <li><a href="https://www.keenfranceavis.com/reviews.html">Reviews</a></li>
+         <li>Information         <ul>
+           <li><a href="https://www.keenfranceavis.com/shippinginfo.html">Shipping &amp; Returns</a></li>
+           <li><a href="https://www.keenfranceavis.com/privacy.html">Privacy Notice</a></li>
+           <li><a href="https://www.keenfranceavis.com/conditions.html">Conditions of Use</a></li>
+           <li><a href="https://www.keenfranceavis.com/contact_us.html">Contact Us</a></li>
+         </ul></li>
+     </ul>
+</div>
+
+    <div class="buttonRow back"><a href="https://www.keenfranceavis.com/" class="x6B0DxWln">back</a></div>
+</div>
+<!-- content -->
+</div>
+</div>
+  <div class="clear"></div>
+  
+</div>
+</div><div class="alUV6aYcN">
+
+       
+        <div class="newsletter mt10">
+           <p>Rejoignez-nous et bénéficiez d'une réduction de 15%</p>
+            <form id="newsletter-validate-detail" method="post" action="index.php?main_page=create_account">
+
+                <input type="text" onfocus="if (this.value == 'Enter email address') this.value = '';" value="Enter email address" class="lettertxt" title="Sign up for our newsletter" name="email">
+
+                 <a href="https://www.keenfranceavis.com/login.html" rel="nofollow"><div class="shouwd"><i class="fa fa-userasdf"></i></div></a>
+				
+                <div class="clear">
+                </div>
+            </form>
+        </div>
+ <div class="SkRthHQmn">
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.keenfranceavis.com/0.5572210127345845"><i class="fa fa-facebook-square"></i></a>
+<a href="https://twitter.com/intent/tweet/?url=http://www.keenfranceavis.com/0.5572210127345845"><i class="fa fa-twitter"></i></a>
+<a href="https://www.pinterest.com/pin/create/button/?url=http://www.keenfranceavis.com/0.5572210127345845"><i class="fa fa-pinterest"></i></a>
+<a href="http://www.tumblr.com/share/link?url=http://www.keenfranceavis.com/0.5572210127345845"><i class="fa fa-tumblr"></i></a>
+<a style="margin-right:0px;" href="https://plus.google.com/share?url=http://www.keenfranceavis.com/0.5572210127345845"><i class="fa fa-google-plus-square"></i></a></li>
+		
+		
+    </div>
+	</div><div id="MUxkIqh6P">
+<div id="hrDdwlobv">
+<div id="LkO83AvGZ">
+
+    <div id="QXNLPSCDf"><h2>Service Clients</h2>
+                    <ul>
+<!--<li><a href="https://www.keenfranceavis.com/">Home</a></li>-->
+<li><a href="https://www.keenfranceavis.com/shippinginfo.html" rel="nofollow" style="border:none;">Shipping &amp; Returns</a></li>
+<li><a href="https://www.keenfranceavis.com/privacy.html" rel="nofollow">Privacy Notice</a></li>
+<li><a href="https://www.keenfranceavis.com/contact_us.html" rel="nofollow">Contact Us</a></li>
+<li><a href="https://www.keenfranceavis.com/site_map.html">Site Map</a></li>
+<li><a href="https://www.keenfranceavis.com/outlet.html" style="background:none;">
+Outlet</a></li>
+</ul>            </div>
+
+
+			<div class="voUkxHZzn"><h2>Recherches Populaires</h2><li><a href="/advanced_search_result.html?keyword= Keen Astoria">Keen Astoria</a></li><li><a href="/advanced_search_result.html?keyword=Keen Austin">Keen Austin</a></li><li><a href="/advanced_search_result.html?keyword=Keen Chandler">Keen Chandler</a></li><li><a href="/advanced_search_result.html?keyword=Keen Clearwater CNX">Keen Clearwater CNX</a></li><li><a href="/advanced_search_result.html?keyword=Keen Composite Toe">Keen Composite Toe</a></li><li><a href="/advanced_search_result.html?keyword=Keen Coronado">Keen Coronado</a></li><li><a href="/advanced_search_result.html?keyword=Keen Detroit">Keen Detroit</a></li><li><a href="/advanced_search_result.html?keyword=Keen Elena">Keen Elena</a></li><li><a href="/advanced_search_result.html?keyword=Keen Elle">Keen Elle</a></li><li><a href="/advanced_search_result.html?keyword=Keen Elsa">Keen Elsa</a></li><li><a href="/advanced_search_result.html?keyword=Keen EVOFIT One">Keen EVOFIT One</a></li><li><a href="/advanced_search_result.html?keyword=Keen Explore">Keen Explore</a></li><li><a href="/advanced_search_result.html?keyword=Keen H2">Keen H2</a></li><li><a href="/advanced_search_result.html?keyword=Keen Highland">Keen Highland</a></li><li><a href="/advanced_search_result.html?keyword=Keen Hoodoo">Keen Hoodoo</a></li><li><a href="/advanced_search_result.html?keyword=Keen Howser">Keen Howser</a></li><li><a href="/advanced_search_result.html?keyword=Keen Innate">Keen Innate</a></li><li><a href="/advanced_search_result.html?keyword=Keen Jasper">Keen Jasper</a></li><li><a href="/advanced_search_result.html?keyword=Keen Kaci">Keen Kaci</a></li><li><a href="/advanced_search_result.html?keyword=Keen Kootenay">Keen Kootenay</a></li><li><a href="/advanced_search_result.html?keyword=Keen Lana">Keen Lana</a></li><li><a href="/advanced_search_result.html?keyword=Keen Lorelai">Keen Lorelai</a></li><li><a href="/advanced_search_result.html?keyword=Keen Newport">Keen Newport</a></li><li><a href="/advanced_search_result.html?keyword=Keen Newport H2">Keen Newport H2</a></li><li><a href="/advanced_search_result.html?keyword=Keen Presidio">Keen Presidio</a></li><li><a href="/advanced_search_result.html?keyword=Keen Pyrenees">Keen Pyrenees</a></li><li><a href="/advanced_search_result.html?keyword=Keen Revel">Keen Revel</a></li><li><a href="/advanced_search_result.html?keyword=Keen Revel III">Keen Revel III</a></li><li><a href="/advanced_search_result.html?keyword=Keen Seacamp">Keen Seacamp</a></li><li><a href="/advanced_search_result.html?keyword=Keen Seattle">Keen Seattle</a></li><li><a href="/advanced_search_result.html?keyword=Keen Sienna">Keen Sienna</a></li><li><a href="/advanced_search_result.html?keyword=Keen SOLR">Keen SOLR</a></li><li><a href="/advanced_search_result.html?keyword=Keen Steel Toe">Keen Steel Toe</a></li><li><a href="/advanced_search_result.html?keyword=Keen Stingray">Keen Stingray</a></li><li><a href="/advanced_search_result.html?keyword=Keen Targhee">Keen Targhee</a></li><li><a href="/advanced_search_result.html?keyword=Keen Targhee EXP">Keen Targhee EXP</a></li><li><a href="/advanced_search_result.html?keyword=Keen Targhee II">Keen Targhee II</a></li><li><a href="/advanced_search_result.html?keyword=Keen Targhee III">Keen Targhee III</a></li><li><a href="/advanced_search_result.html?keyword=Keen Terradora">Keen Terradora</a></li><li><a href="/advanced_search_result.html?keyword=Keen Terradora II">Keen Terradora II</a></li><li><a href="/advanced_search_result.html?keyword=Keen The 59">Keen The 59</a></li><li><a href="/advanced_search_result.html?keyword=Keen UNEEK">Keen UNEEK</a></li><li><a href="/advanced_search_result.html?keyword=Keen UNEEK Evo">Keen UNEEK Evo</a></li><li><a href="/advanced_search_result.html?keyword=Keen Venice">Keen Venice</a></li><li><a href="/advanced_search_result.html?keyword=Keen Waterproof">Keen Waterproof</a></li><li><a href="/advanced_search_result.html?keyword=Keen Whisper">Keen Whisper</a></li><li><a href="/advanced_search_result.html?keyword=Keen Yogui Arts">Keen Yogui Arts</a></li><li><a href="/advanced_search_result.html?keyword=Keen Zerraport">Keen Zerraport</a></li></div>
+   
+		</div>		
+		</div>		
+		 
+	<div class="clearBoth"></div>
+		<div class="xNu5c2ibl">
+			<a href="https://www.keenfranceavis.com/">
+			Copyright © 2024 </a><a href="https://www.keenfranceavis.com/">keenfranceavis</a> Powered by <a href="https://www.keenfranceavis.com/">keenfranceavis.com</a>
+			
+			<div class="clear"></div>
+		</div>
+		</div></div>
+	<!-- bof  breadcrumb -->
+	
+	
+	    
+		
+	<!-- eof breadcrumb -->
+
+
+
+
+
+
+
+
+  <script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(document).on('ready', function() {
+      $(".center").slick({
+        dots: true,
+        infinite: true,
+        centerMode: true,
+        slidesToShow: 5,
+        slidesToScroll: 3
+      });
+	  $(".regularls").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 4
+      });
+      $(".variable").slick({
+        dots: true,
+        infinite: true,
+        variableWidth: true
+      });
+      $(".lazy").slick({
+        lazyLoad: 'ondemand', // ondemand progressive anticipated
+		autoplay: true,
+		autoplaySpeed:3000,
+        infinite: true
+      });
+	 $(".lazye").slick({
+        lazyLoad: 'ondemand', // ondemand progressive anticipated
+		infinite: true
+      });
+    });
+	var windowWidth = $(window).width();
+    if(windowWidth < 768){
+		$(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 2,
+        slidesToScroll: 2
+      });
+		$(".regularnew").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 4
+		});
+        // do something
+    }
+	var windowWidth = $(window).width();
+    if(windowWidth < 1025 && windowWidth >= 768){
+		 $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
+		$(".regularnew").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 5
+		});
+        // do something
+    }
+    if(windowWidth > 1024){
+		$(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 4
+      });
+       $(".regularnew").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 6,
+        slidesToScroll: 6
+      });
+    }
+</script>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+
+<!--eof- banner #6 display -->
+
+
+
+	<script src="js/jquery.jxa.js"></script>
+	<script src="js/jquery.jxb.js"></script>
+	<script>
+      if ('ontouchstart' in window) {
+		    var click = 'touchstart';
+		} else {
+		    var click = 'click';
+		}
+		$('div.burger').on(click, function () {
+		    if (!$(this).hasClass('open')) {
+		        openMenu();
+		    } else {
+		        closeMenu();
+		    }
+		});
+		$('div.menu ul li a').on(click, function (e) {
+		    e.preventDefault();
+		    closeMenu();
+		});
+		function openMenu() {
+		    $('div.burger').addClass('open');
+		    $('div.y').fadeOut(100);
+		    $('div.screen').addClass('animate');
+		    setTimeout(function () {
+		        $('div.x').addClass('rotate30');
+		        $('div.z').addClass('rotate150');
+		        $('.menu').addClass('animate');
+		        setTimeout(function () {
+		            $('div.x').addClass('rotate45');
+		            $('div.z').addClass('rotate135');
+		        }, 100);
+		    }, 10);
+		}
+		function closeMenu() {
+		    $('div.screen, .menu').removeClass('animate');
+		    $('div.y').fadeIn(150);
+		    $('div.burger').removeClass('open');
+		    $('div.x').removeClass('rotate45').addClass('rotate30');
+		    $('div.z').removeClass('rotate135').addClass('rotate150');
+		    setTimeout(function () {
+		        $('div.x').removeClass('rotate30');
+		        $('div.z').removeClass('rotate150');
+		    }, 50);
+		    setTimeout(function () {
+		        $('div.x, div.z').removeClass('collapse');
+		    }, 70);
+		}
+    </script>
+<script type="text/javascript">
+  $.noConflict();
+</script>
+
+<div id="mm-blocker" class="mm-slideout"></div></body>

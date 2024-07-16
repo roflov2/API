@@ -1,0 +1,260 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="csrf-token" content="B7knlC25w8E92bBe8M7tRAZNOhMuSni1LMNDciO8">
+	<title>Inicio</title>
+	<meta name="description" content="Inicio">
+	
+	
+	
+	<style type="text/css">div.core-dialog-bkg { display: none;	position: fixed; background: rgba(0, 0, 0, 0.8); z-index: 10000000; }div.core-dialog { display: none; position: fixed; width: 100%; padding: 10px 10px; z-index: 10000001; }div.core-dialog-panel { position: relative; border: 1px solid #000000; border-radius: 10px; background: #ffffff; color: #333333; font-size: 14px; line-height: 17px; }div.core-dialog-close { position: absolute; right: 5px; top: 5px; }div.core-dialog-close button { display: block; width: 30px; height: 30px; border: none; background: none; color: #cccccc; font-size: 28px; font-weight: bold; text-align: center; }div.core-dialog-close button:hover { color: #666666; }div.core-dialog-title { padding: 12px 40px 12px 10px; border-radius: 10px 10px 0 0; color: #666666; font-size: 1.1em; font-weight: bold; }div.core-dialog-content { padding: 10px 32px 15px 32px; overflow: auto; }div.core-dialog-buttons { padding: 20px 40px 15px 40px; border-radius: 0 0 10px 10px; background: #ededee; }div.core-dialog-buttons-left { display: inline-block; vertical-align: top; width: 50%; text-align: left; }div.core-dialog-buttons-right { display: inline-block; vertical-align: top; width: 50%; text-align: right; }div.core-dialog-buttons div.full { width: 100%; }div.core-dialog-buttons button { display: inline-block; vertical-align: middle; padding: 12px 25px; border: none; border-radius: 6px; font-size: 14px; font-weight: bold; text-align: center; text-decoration: none; text-transform: uppercase; white-space: nowrap; box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.4); cursor: pointer; }div.core-dialog-buttons button.button-default { background: #666666; color: #ffffff; }div.core-dialog-buttons button.button-default:hover { background: #444444; }div.core-dialog-buttons button.button-secondary { background: #cccccc; color: #666666; }div.core-dialog-buttons button.button-secondary:hover { background: #dddddd; }</style><!--[if lt IE 9]><style type="text/css">div.core-dialog-bkg { background:transparent; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000); zoom: 1; }</style><![endif]--><link rel="stylesheet" href="https://www.santandermapfrehipotecainversa.es/css/fonts.css?660">
+	<link rel="stylesheet" href="https://www.santandermapfrehipotecainversa.es/css/style.css?279">
+	<link rel="stylesheet" href="https://www.santandermapfrehipotecainversa.es/css/vendor/cookieconsent.css?914">
+	<link rel="stylesheet" href="https://www.santandermapfrehipotecainversa.es/css/cookies.css?149">
+
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.santandermapfrehipotecainversa.es/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.santandermapfrehipotecainversa.es/images/favicon-16x16.png">
+	<link rel="shortcut icon" href="https://www.santandermapfrehipotecainversa.es/images/favicon.ico">
+	
+	
+
+	<script src="https://www.santandermapfrehipotecainversa.es/js/vendor/jquery-3.7.0.min.js?646"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/vendor/jquery-validation/jquery.validate.min.js?239"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/vendor/jquery.modal.min.js?594"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/app.aux.js?856"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/admin/vendor/dropify/dropify.min.js?360"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/dialogs.js?440"></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/web.js?551" defer=""></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/vendor/cookieconsent.js?336" defer=""></script>
+	<script src="https://www.santandermapfrehipotecainversa.es/js/cookieconsent-init.js?410" defer=""></script>
+
+	<script>
+		var cookies_cfg = {
+					privacy_url: 'https://www.santandermapfrehipotecainversa.es/politica-de-cookies'
+				}
+		var path = "https://www.santandermapfrehipotecainversa.es/"
+
+	</script>
+
+	
+</head><body>
+
+
+	<div class="container">
+		<div class="row mt-5 mb-5">
+
+			
+		</div>
+	</div>
+
+	<header>
+	<div class="container flex justify-between items-center p-4 lg:py-4 lg:px-0">
+		<a href="https://www.santandermapfrehipotecainversa.es">
+			<img class="w-32 lg:w-48" src="https://www.santandermapfrehipotecainversa.es/images/logo-hipoteca-inversa-color.svg" alt="Logotipo Hipoteca Inversa">
+		</a>
+		<img class="w-20 md:hidden" src="https://www.santandermapfrehipotecainversa.es/images/logo-sanmap-compacto.svg" alt="Logotipo Santander Mapfre">
+		<img class="w-60 hidden md:block lg:w-72" src="https://www.santandermapfrehipotecainversa.es/images/logo-santander-mapfre-color.svg" alt="Logotipo Santander Mapfre">
+	</div>
+</header>	<nav class="container site-navigation">
+	<ul class="flex flex-col leading-tight sm:flex-row">
+		<li class="active flex bg-gray-500 justify-center items-center text-center w-full sm:flex-1 sm:items-stretch">
+			<a class="text-white active font-bold no-underline w-full p-2 sm:flex sm:justify-center sm:items-center" href="https://www.santandermapfrehipotecainversa.es">
+				Hipoteca Inversa
+			</a>
+		</li>
+		<li class="hidden sm:flex bg-gray-100 justify-center items-center text-center w-full sm:flex-1 sm:items-stretch">
+			<a class="text-gray-500 font-normal no-underline w-full p-2 sm:flex sm:justify-center sm:items-center" href="https://www.santandermapfrehipotecainversa.es/nosotros">
+				Sobre nosotros
+			</a>
+		</li>
+		<li class="hidden sm:flex bg-gray-100 justify-center items-center text-center w-full sm:flex-1 sm:items-stretch">
+			<a class="text-gray-500 font-normal no-underline w-full p-2 sm:flex sm:justify-center sm:items-center" href="https://www.santandermapfrehipotecainversa.es/preguntas-frecuentes">
+				Preguntas frecuentes
+			</a>
+		</li>
+		<li class="hidden sm:flex bg-gray-100 justify-center items-center text-center w-full sm:flex-1 sm:items-stretch">
+			<a class="text-gray-500 font-normal no-underline w-full p-2 sm:flex sm:justify-center sm:items-center" href="https://www.santandermapfrehipotecainversa.es/contacto">
+				Contacto
+			</a>
+		</li>
+	</ul>
+</nav>
+	<div class="container">
+
+		<section class="flex flex-col">
+			
+			<div class="relative hero-container">
+				<h1 class="color-brand font-bold p-4 hero-title md:pb-0">Hipoteca<br>Inversa</h1>
+				<div class="p-4 space-y-4 hidden md:block md:w-1/2 lg:w-5-of-12">
+					<p class="leading-tight">La Hipoteca Inversa de Santander MAPFRE<sup>1</sup> es una modalidad de préstamo hipotecario sobre vivienda que permite, <strong>a mayores de 65 años</strong>, obtener un abono mensual con el que poder complementar sus ingresos <strong>sin tener que pagar ninguna cuota</strong>.</p>
+					<p class="leading-tight">Serán sus herederos los que devolverán el capital y los intereses generados, pudiendo vender la casa si lo necesitan.</p>
+				</div>
+				<div class="absolute top-0 right-0 bg-hero" style="background-image: url(https://www.santandermapfrehipotecainversa.es/images/hero-lg.png)"></div>
+			</div>
+
+			<div class="p-4 space-y-4 md:hidden">
+				<p class="leading-tight">La Hipoteca Inversa de Santander MAPFRE<sup>1</sup> es una modalidad de préstamo hipotecario sobre vivienda que permite, <strong>a mayores de 65 años</strong>, obtener un abono mensual con el que poder complementar sus ingresos <strong>sin tener que pagar ninguna cuota</strong>.</p>
+				<p class="leading-tight">Serán sus herederos los que tendrán que devolver el préstamo pudiendo, para ello, vender la casa.</p>
+			</div>
+
+		</section>
+
+		<section class="flex flex-col md:flex-row">
+			<div class="flex justify-center md:w-1/2">
+				<img class="object-cover " src="https://www.santandermapfrehipotecainversa.es/images/foto2.png" alt="Personas mayores realizando contratación">
+			</div>
+			<div class="p-4 space-y-4 md:w-1/2 md:flex md:flex-col md:justify-center">
+				<h2 class="text-xl leading-tight md:text-2xl">¿Cuánto dinero puedo llegar a percibir?</h2>
+				<p class="leading-tight">El dinero a percibir dependerá principalmente de su edad y del valor de su vivienda. Cuanto mayor sean ambas, mayor será el importe que podrá recibir mensualmente. Puede solicitar una simulación personalizada en cualquier <strong>oficina de la red Santander o MAPFRE.</strong></p>
+
+				<h2 class="text-xl leading-tight md:text-2xl">¿Hasta cuándo se reciben los pagos?</h2>
+				<p class="leading-tight">Las cantidades que percibirá todos los meses por La Hipoteca Inversa tienen una duración limitada. Pero si lo prefiere, puede recibir estos pagos durante toda su vida, contratando un seguro de renta vitalicia<sup>2</sup> que empezará a pagar el importe una vez finalicen los pagos de la Hipoteca Inversa.</p>
+			</div>
+		</section>
+
+		<section class="flex flex-col lg:flex-row lg:mt-8">
+
+			<div class="p-4 lg:w-1/2">
+				<h2 class="text-xl leading-tight mb-4 md:text-2xl md:mb-8 md:mt-4 lg:mb-0">¿Quién puede solicitarlo?</h2>
+				<div class="md:flex lg:flex-col lg:h-full lg:justify-evenly">
+					<div class="flex flex-col mb-4 icon-block">
+						<img class="w-12 md:w-16" src="https://www.santandermapfrehipotecainversa.es/images/icono-persona.svg" alt="Icono persona">
+						<ul class="list-disc mt-4 pl-6 md:flex md:flex-col md:justify-center md:space-y-1 lg:space-y-2 lg:w-72">
+							<li class="leading-tight">Mayores de 65 años.</li>
+							<li class="leading-tight">Máximo 2 personas.</li>
+							<li class="leading-tight">Propietarios de la vivienda.</li>
+							<li class="leading-tight">Sin otras personas residiendo en la vivienda además de los propietarios.</li>
+						</ul>
+					</div>
+					<div class="flex flex-col mb-4 icon-block">
+						<img class="w-12 md:w-16" src="https://www.santandermapfrehipotecainversa.es/images/icono-casa.svg" alt="Icono casa">
+						<ul class="list-disc mt-4 pl-6 md:flex md:flex-col md:justify-center md:space-y-1 lg:space-y-2 ">
+							<li class="leading-tight">Sin otras hipotecas ni cargas sobre el inmueble.</li>
+							<li class="leading-tight">Vivienda Habitual.</li>
+							<li class="leading-tight">Valor superior a 200.000 euros.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="md:space-y-10 lg:space-y-0 lg:p-4 lg:flex lg:flex-col lg:w-1/2 md:mt-4">
+				<h2 class="text-xl leading-tight px-4 mb-4 md:text-2xl">¿Qué ventajas tiene la Hipoteca Inversa?</h2>
+				<div class="md:flex">
+					<img class="md:self-center w-full md:w-1/2" src="https://www.santandermapfrehipotecainversa.es/images/foto3.png" alt="Ventajas fiscales">
+					<div class="p-4 lg:w-1/2">
+						<h3 class="text-brand font-bold">Ventajas fiscales<sup>3</sup></h3>
+						<p class="leading-tight">Las disposiciones recibidas mediante la Hipoteca Inversa no tributan en el IRPF, de acuerdo a la normativa fiscal vigente.</p>
+					</div>
+				</div>
+				<div class="md:flex md:flex-row-reverse ">
+					<img class="lg:self-center w-full md:w-1/2" src="https://www.santandermapfrehipotecainversa.es/images/foto4.png" alt="Mantiene su casa">
+					<div class="p-4 lg:w-1/2 md:text-right">
+						<h3 class="text-brand font-bold">Mantiene su casa</h3>
+						<p class="leading-tight">Podrá seguir viviendo en su casa actual, siendo el propietario.</p>
+					</div>
+				</div>
+				<div class="md:flex">
+					<img class="lg:self-center w-full md:w-1/2" src="https://www.santandermapfrehipotecainversa.es/images/foto5.png" alt="Valor para sus herederos">
+					<div class="p-4 lg:w-1/2">
+						<h3 class="text-brand font-bold">Valor para sus herederos</h3>
+						<p class="leading-tight">Sus herederos obtendrían el valor restante del inmueble, si lo hubiera, después del pago de la deuda. Si el importe de la venta no es suficiente la entidad solo podrá dirigirse contra el bien hipotecado y los bienes de la herencia.</p>
+					</div>
+				</div>
+			</div>
+
+		</section>
+
+		<section class="flex flex-col items-center md:mt-10">
+
+			<div class="p-4 md:space-y-6 md:mb-8">
+				<h2 class="text-xl leading-tight mb-4 md:text-2xl text-center">¿Cómo pueden pagar la deuda los herederos?</h2>
+				<p class="leading-tight text-center ">Tras el <strong>fallecimiento de todos los titulares</strong> del préstamo, sus herederos serán contactados para ayudarles a tomar una decisión:</p>
+			</div>
+
+			<div class="space-y-8 md:flex md:space-y-0 md:space-x-4">
+				<div class="max-w-xs md:flex md:flex-col md:justify-between">
+					<div>
+						<h3 class="text-brand text-center font-bold">Vender la casa y pagar el préstamo</h3>
+						<p class="leading-tight text-center py-4 px-8 md:py-2 md:px-4">Si hubiera sobrante tras la venta y cancelación de la deuda será para sus herederos.</p>
+					</div>
+					<p class="leading-tight text-center text-white bg-brand p-4">Opción más habitual al ser sencilla y beneficiosa para los herederos.</p>
+				</div>
+				
+				<div class="max-w-xs md:flex md:flex-col md:justify-between">
+					<div>
+						<h3 class="text-brand text-center font-bold">Quedarse con la vivienda</h3>
+						<p class="leading-tight text-center py-4 px-8 md:py-2 md:px-4">Sus herederos pueden quedarse con la vivienda cancelando la Hipoteca Inversa. Pueden hacerlo mediante <strong>un préstamo hipotecario normal o con fondos propios.</strong></p>
+					</div>
+					<p class="leading-tight text-center text-white bg-brand p-4">En esta opción se mantiene la propiedad de la vivienda pero depende de las características de sus herederos para conseguirlo.</p>
+				</div>
+				<div class="max-w-xs md:flex md:flex-col md:justify-between">
+					<div>
+						<h3 class="text-brand text-center font-bold">Renunciar a la herencia</h3>
+						<p class="leading-tight text-center py-4 px-8 md:py-2 md:px-4">La Entidad tendrá que iniciar el correspondiente procedimiento judicial o extrajudicial para recuperar la deuda.</p>
+					</div>
+					<p class="leading-tight text-center text-white bg-brand p-4">Quizá no sea la opción más atractiva dado que sus herederos pierden el valor remanente de la casa.</p>
+				</div>
+			</div>
+
+			<p class="leading-tight p-4">Sus herederos dispondrán de <strong>9 meses sin intereses</strong>, desde el fallecimiento de todos los titulares, para el pago de la deuda.</p>
+
+		</section>
+
+		<aside class="px-4 my-8 text-sm font-micro space-y-2">
+			<p class="leading-tight"><sup>1</sup> Producto contratado con <strong>Santander MAPFRE Hipoteca Inversa E.F.C., S.A</strong>. N.I.F. A09641549 y comercializado por Banco Santander, S.A. y MAPFRE España, Compañía de Seguros y Reaseguros, S.A. Financiación sujeta a la previa aprobación de la entidad prestamista. Para obtener información sobre el producto y sus condiciones puede consultar en la pagina web <a href="https://www.santandermapfrehipotecainversa.es">www.santandermapfrehipotecainversa.es</a> o en la red de oficinas de Banco Santander y de MAPFRE. <strong>El solicitante tiene derecho a recibir asesoramiento independiente.</strong></p>
+			<p><sup>2</sup> Seguro de MAPFRE VIDA S.A. de Seguros y Reaseguros sobre la Vida Humana, comercializado por: <br>
+				</p><ul class="space-y-2 pl-4">
+					<li class="list-disc list-inside leading-tight">Santander Mediación Operador de Banca-Seguros Vinculado, S.A. (“Santander Mediación”), a través de la red de distribución Banco Santander S.A., en virtud del contrato de agencia que tiene suscrito con la referida compañía aseguradora. Santander Mediación es una sociedad inscrita en el registro de la Dirección General de Seguros y Fondos de Pensiones con el nº OV-0042 y tiene suscrito un seguro de responsabilidad civil y capacidad financiera según la legislación vigente. Consulte el resto de compañías aseguradoras con las que Santander Mediación mantiene un Contrato de Agencia para la distribución de productos de seguro en <a href="http://www.santandermediacionobsv.com">www.santandermediacionobsv.com</a> </li>
+					<li class="list-disc list-inside leading-tight">a través de la red de MAPFRE</li>
+				</ul>
+			<p></p>
+			<p class="leading-tight pl-4">Para más información sobre las características y riesgos del seguro, puedes consultar el documento de datos fundamentales en <a href="http://www.mapfre.es">www.mapfre.es</a></p>
+			<p class="leading-tight pl-4">En caso de financiarse la prima del seguro de Rentas Vitalicias dentro de la Hipoteca se generarán intereses sobre esta.</p>
+			<p class="leading-tight pl-4">El Seguro de rentas vitalicias, está sujeto a tributación que debe atenerse a la normativa propia de cada Comunidad Autónoma.</p>
+			<p><sup>3</sup> El tratamiento fiscal es de carácter general y puede estar sujeto a modificaciones legales.</p>
+
+		</aside>
+
+	</div>
+
+	<footer class="bg-gray-100">
+	<div class="container p-4 md:flex md:space-x-10 md:justify-between">
+		<div class="w-72 m-auto md:m-0 md:py-4">
+			<img src="https://www.santandermapfrehipotecainversa.es/images/logo-santander-mapfre-color.svg" alt="Logotipo Santander Mapfre">
+		</div>
+		<div class="lg:flex lg:space-x-8">
+			<div>
+				<h4 class="uppercase font-bold py-4">Info legal y seguridad</h4>
+				<ul class="text-sm color-gray list-disc pl-4">
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/politica-de-cookies" target="_blank">Política de cookies</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/aviso-legal-HI.pdf" target="_blank">Aviso Legal</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/politica-privacidad.pdf" target="_blank">Información sobre protección de datos</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/Servicio-de-atencion-al-cliente-normativa-aplicable.pdf" target="_blank">Servicio de atención al cliente y normativa aplicable</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/220628_protocolo-asesores-com-b3.pdf" target="_blank">Protocolo de homologación de asesores independientes</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/Estatutos-gobierno-corporativo-y-politicas.pdf" target="_blank">Estatutos, gobierno corporativo y políticas</a></li>
+					<li><a class="color-gray" href="https://www.bde.es/f/webbde/Secciones/Publicaciones/Folletos/Ficheros/GUIA.pdf">Guia de acceso a la Hipoteca Inversa</a></li>
+					<li><a class="color-gray" href="https://www.santandermapfrehipotecainversa.es/files/tarifa-de-comisiones.pdf" target="_blank">Comisiones y tipos de interés</a></li>
+					<li><a class="color-gray" href="https://whistleblowersoftware.com/secure/Hipoteca_Inversa_Canalinterno">Canal Interno de Información</a></li>
+				</ul>
+			</div>
+			<div>
+				<h4 class="uppercase font-bold py-4">Contacto Santander MAPFRE Hipoteca Inversa E.F.C., S.A.</h4>
+				<ul class="text-sm color-gray list-disc pl-4">
+					<li><strong>Teléfono:</strong> 911 044 244</li>
+					<li><strong>Domicilio Social:</strong> C/ Juan Ignacio Luca de Tena 11 (28027) Madrid (España)</li>
+					<li><strong>Correo Electrónico:</strong> <a class="color-gray no-underline" href="mailto:hipotecainversa@sanmapefc.es">hipotecainversa@sanmapefc.es</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+<div id="cc--main" style="position: fixed; z-index: 2147483647;" class="c--anim"><!--[if lt IE 9 ]><div id="cc_div" class="cc_div ie"></div><![endif]--><!--[if (gt IE 8)|!(IE)]><!--><div id="cc_div" class="cc_div"><div id="cm" role="dialog" aria-modal="true" aria-hidden="false" aria-labelledby="c-ttl" aria-describedby="c-txt" class="box bottom center slide" style="visibility: hidden;"><div id="c-inr"><div id="c-inr-i"><div id="c-txt">Utilizamos cookies propias técnicas que le permiten navegar y mejorar su experiencia por nuestro sitio web. Para obtener más información sobre cómo usamos las cookies, consulte nuestra <a href="https://www.santandermapfrehipotecainversa.es/politica-de-cookies" class="cc-link">Política de cookies</a></div></div><div id="c-bns" class="swap"><button type="button" id="c-p-bn" class="c-bn">Entendido</button></div></div></div><div id="cm-ov" style="visibility: hidden; opacity: 0;"></div><div id="s-cnt" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="s-ttl" class="slide" style="visibility: hidden;"><div id="c-vln"><div id="cs"><div id="c-s-in"><div id="s-inr" class="bns-t"><div id="s-hdr"><div id="s-ttl" role="heading">Gestionar preferencias de consentimiento</div><div id="s-c-bnc"><button type="button" id="s-c-bn" class="c-bn" aria-label="Cerrar"></button></div></div><div id="s-bl"><div class="c-bl"><div class="desc"><div class="p"><p>Desde este panel podrá configurar las cookies que el sitio web puede instalar en su navegador, excepto las cookies técnicas o funcionales que son necesarias para la navegación y la utilización de las diferentes opciones o servicios que se ofrecen.</p>
+						<p>Las cookies seleccionadas indican que el usuario autoriza la instalación en su navegador y el tratamiento de datos bajo las condiciones reflejadas en la <a href="https://www.santandermapfrehipotecainversa.es/politica-de-cookies" class="cc-link">Política de cookies.</a></p>				 
+						<p>El usuario puede marcar o desmarcar el selector según se desee aceptar o rechazar la instalación de cookies.</p></div></div></div><div class="c-bl b-ex"><div class="title b-bn"><button type="button" class="b-tl exp" aria-expanded="false" aria-controls="c-ac-1">Técnicas y funcionales</button><label class="b-tg"><input class="c-tgl" type="checkbox" value="funcionales" disabled=""><span class="c-tg c-ro" aria-hidden="true"><span class="on-i"></span><span class="off-i"></span></span><span class="t-lb">Técnicas y funcionales</span></label></div><div class="desc b-acc" id="c-ac-1" aria-hidden="true"><div class="p">Cookies necesarias para la navegación y el funcionamiento básico del sitio web. No pueden desactivarse.</div><table><thead><tr><th scope="col">Nombre</th><th scope="col">Propiedad</th><th scope="col">Plazo</th><th scope="col">Descripción</th></tr></thead><tbody><tr><td data-column="Nombre">formularios_hipoteca_inversa_session</td><td data-column="Propiedad">santandermapfrehipotecainversa.es</td><td data-column="Plazo">Sesión</td><td data-column="Descripción">Cookie necesaria para la utilización de las opciones y servicios del sitio web.</td></tr><tr><td data-column="Nombre">XSRF-TOKEN</td><td data-column="Propiedad">santandermapfrehipotecainversa.es</td><td data-column="Plazo">Sesión</td><td data-column="Descripción">Esta cookie se coloca para ayudar con la seguridad del sitio en la prevención de ataques entre sitios de falsificación de petición.</td></tr><tr><td data-column="Nombre">cookie_consent</td><td data-column="Propiedad">santandermapfrehipotecainversa.es</td><td data-column="Plazo">En 6 meses</td><td data-column="Descripción">Cookie que almacena las preferencias de cookies del usuario.</td></tr></tbody></table></div></div></div><div id="s-bns"><button type="button" id="s-all-bn" class="c-bn">Aceptar todas</button><button type="button" id="s-rall-bn" class="c-bn">Rechazar todas</button><button type="button" id="s-sv-bn" class="c-bn">Guardar preferencias</button></div></div></div></div></div></div><div id="cs-ov" style="visibility: hidden; opacity: 0;"></div></div><!--<![endif]--></div></body>

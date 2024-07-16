@@ -1,0 +1,1 @@
+Telegram WebLog in to Telegram by QR CodeOpen Telegram on your phoneGo toSettings>Devices>Link Desktop DevicePoint your phone at this screen to confirm loginLog in by phone Number

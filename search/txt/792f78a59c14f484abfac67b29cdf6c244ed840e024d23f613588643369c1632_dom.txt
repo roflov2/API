@@ -1,0 +1,168 @@
+<head><script src="/js/events.js"></script><meta charset="UTF-8">
+	<title>Dropobox</title>
+	<link href="/public/campaign/3900/4566/14/main.css" rel="stylesheet" type="text/css">
+</head><body>
+<div class="title_container">
+<div class="title">
+<div class="left"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#000000;"><button>Essayez Oodrive Business</button></span></span></div>
+
+<div class="right"><span style="font-family:Arial,Helvetica,sans-serif;"><a href="">Télécharger l’application</a></span></div>
+
+<div class="clear" style="text-align: center;"><span style="font-family:Arial,Helvetica,sans-serif;"><input alt="" height="106" src="/public/campaign/3900/4566/14/OODRIVE.PNG" style="width: 241px; height: 106px;" type="image" width="241"></span></div>
+</div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="leftpad">
+<div class="lbody">
+<h2 style="margin-left: 80px;"></h2>
+
+<h2 style="margin-left: 80px;"><span style="font-family:Arial,Helvetica,sans-serif;">Bienvenue, JEAN JACQUES AURELIE,</span></h2>
+
+<h2 style="margin-left: 80px;"><span style="font-family:Arial,Helvetica,sans-serif;">Votre téléchargement est prêt !</span></h2>
+
+<div class="downbox" style="margin-left: 80px;"><span style="font-family:Arial,Helvetica,sans-serif;"><a href="/public/campaign/3900/4566/14/Liste_Importante.xlsx">Téléchargement (CSV)</a></span></div>
+</div>
+</div>
+
+<div class="rightpad">
+<div class="rbody">
+<div class="txt">
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<p style="margin-left: 80px;"><br>
+			<span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;<input alt="" height="113" src="/public/campaign/3900/4566/14/Microsoft_Excel_2013-2019_logo.svg.png" style="height: 113px; width: 120px;" type="image" width="120"></span></p>
+
+			<p style="margin-left: 80px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">Type de fichier:</span></p>
+			</td>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;CSV</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">Créé le:</span></p>
+			</td>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;27/06/2024</span></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">Analyse Antivirus:</span></p>
+			</td>
+			<td>
+			<p><span style="font-family:Arial,Helvetica,sans-serif;">&nbsp;Aucun virus détecté&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="tools" style="margin-left: 40px;"></div>
+
+<div class="clear" style="margin-left: 40px;"></div>
+</div>
+</div>
+
+<div class="clear">
+<p style="margin-left: 40px;"></p>
+</div>
+</div>
+</div>
+
+<div class="footer_container">
+<div class="wrap">
+<div class="left" style="width: 70%;">
+<table>
+	<colgroup>
+		<col width="25%">
+		<col width="25%">
+		<col width="25%">
+		<col width="25%">
+	</colgroup>
+	<tbody>
+		<tr class="tit">
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Oodrive</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">About Us</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Support</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Community</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Install</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Oodrive</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Help Center</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Referrals</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Mobile</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">About</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Contact us</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Forum</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Pricing</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Branding</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Copyright</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Twitter</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Business</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">News</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Cookies</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Facebook</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Enterprise</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Jobs</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Privacy &amp; Terms</span></td>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Developers</span></td>
+		</tr>
+		<tr>
+			<td><span style="font-family:Arial,Helvetica,sans-serif;">Tour</span></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="right" style="width: 30%;">
+<table width="100%">
+	<tbody>
+		<tr class="tit">
+			<td class="lang"><span style="font-family:Arial,Helvetica,sans-serif;"><img src="/public/campaign/3900/4566/14/planet.png"> &nbsp;French (France)</span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="clear"></div>
+
+<div class="clear" style="margin-left: 160px;"><img alt="" height="121" src="/public/campaign/3900/4566/14/Bandeau.PNG" style="width: 700px; height: 121px;" width="700"></div>
+
+<div class="clear"><span style="color:#ffffff;">-</span></div>
+
+<div class="clear"><em>Fondé en France en 2000, Oodrive est un acteur européen majeur en matière de solutions de productivité basées sur le cloud. Nos outils sont utilisés par plus d’un million d’utilisateurs dans 45 pays.</em></div>
+
+<div class="clear">
+<p><em>Nous trouvons constamment des moyens de sécuriser les données sensibles, de créer des solutions fiables et d’aider nos 3.500 clients à atteindre leur plein potentiel de performance.</em></p>
+</div>
+
+<div class="clear"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#ffffff;">-</span></span></div>
+</div>
+</div>
+
+<p style="text-align: center;"></p>
+<script src="/js/timeme.min.js"></script><script src="/js/time-tracker.js"></script><script type="text/javascript">trackTime("/scenario/track-time", "index");</script>
+
+</body>

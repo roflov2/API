@@ -1,0 +1,8 @@
+brighting.kozow.comThis site can’t be reachedbrighting.kozow.comrefused to connect.Try:Checking the connectionChecking the proxy and the firewallERR_CONNECTION_REFUSEDnullReloadDetailsCheck your Internet connectionCheck any cables and reboot any routers, modems, or other network
+    devices you may be using.Allow Chrome to access the network in your firewall or antivirus
+          settings.If it is already listed as a program allowed to access the network, try
+      removing it from the list and adding it again.If you use a proxy server…Check your proxy settings or contact your network administrator to
+      make sure the proxy server is working. If you don't believe you should
+      be using a proxy server:
+      Go to
+          the Chrome menu >Settings>Show advanced settings…>Change proxy settings…and make sure your configuration is set to "no proxy" or "direct."brighting.kozow.comrefused to connect.

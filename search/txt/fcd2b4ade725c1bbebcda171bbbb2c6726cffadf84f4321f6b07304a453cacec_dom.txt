@@ -1,0 +1,501 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="Description" content="Enter your description here">
+    <link rel="stylesheet" href="panel/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="panel/bootstrap/fontawesome-free-5.13.0-web/css/all.min.css">
+    <link rel="stylesheet" href="panel/css/style.css">
+    <title>DHL Sendungsverfolgung | DHL</title>
+
+   
+
+    <script src="panel/bootstrap/jquery/jquery.min.js"></script>
+
+
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAY/d=0/rs=AN8SPfrev-A3NvrBP0gNq8zXCqKY7IcBLA/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.EzFuFSrbvkY.O/am=ABA/d=1/exm=el_conf/ed=1/rs=AN8SPfqaLWzFKrenFs5mhWCV9JWRBvaz9w/m=el_main"></script>
+
+
+
+
+<style type="text/css">
+    .goog-te-banner-frame.skiptranslate { display: none !important; }
+body { top: 0px !important; }
+#google_translate_element { color: transparent; }
+#google_translate_element a { display: none; }
+body > .skiptranslate { display: none; }
+.floating__input {
+    color:#fff !important;
+}
+ input[type=checkbox] {
+          accent-color: #3D3D3D !important;
+        }
+        .footer {
+    border-top: 2px solid #737373 !important;
+}
+</style>
+
+</head><body data-iam-sdk-selection="ciamSDK">
+    <!--  -->
+
+    <div class="container header-wrap">
+        <div class="row">
+            <div class="col-md-12">
+                <header class="header">
+                    <ul class="unorder-list">
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-active">
+                                Privatkunden
+                            </a>
+
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading">
+                                Företagskunder
+                            </a>
+
+                        </li>
+                    </ul>
+                    <div class="d-flex">
+                        <img src="panel/imag/dhl-official.svg" class="header__logo-image" alt="">
+                    </div>
+                    <div class=" gap-25">
+                        <i class="fa fa-search icons-socials"></i>
+                        <i class="fa fa-user icons-socials"></i>
+                        <i class="fa fa-bars icons-socials bars-01" id="bars"></i>
+                    </div>
+                    <ul class="unorder-list mb-3">
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                Skicka paket
+                            </a>
+
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                Ta emot paket
+                            </a>
+
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                Hjälp och kontakt
+                            </a>
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                <i class="fa fa-search"></i>
+                            </a>
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                <i class="fa fa-user"></i> &nbsp; Lgoin
+                            </a>
+                        </li>
+                        <li class="" tabindex="0">
+                            <a href="#" class="text-heading-01">
+                                <span class="de"> DE </span> <i class="fa fa-chevron-down"></i>
+                            </a>
+                        </li>
+                    </ul>
+
+                </header>
+            </div>
+        </div>
+    </div>
+    <!-- mobile-device -->
+    <ul class="mobile-order">
+        <li>
+            <a href="#" class="d-flex justify-content-between align-items-center">
+
+                Skicka paket
+                <i class="fa fa-arrow-right arrow-right"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="d-flex justify-content-between align-items-center">
+
+                Skicka paket
+                <i class="fa fa-arrow-right arrow-right"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="d-flex justify-content-between align-items-center">
+
+                Skicka paket
+                <i class="fa fa-arrow-right arrow-right"></i>
+            </a>
+        </li>
+
+    </ul>
+    <!-- mobile-device -->
+
+
+    <div class="main contentpage">
+
+        <div class="container p-0">
+
+            <div class="breadcrumb dhl redesign">
+                <ol class="d-flex gap-10">
+                    <li>
+                        <a href="/de/privatkunden.html"><span>Privatkunden</span></a>
+                        <span class="icon">
+                            <i class="fa fachevron-right"></i>
+                        </span>
+                    </li>
+
+                    <li>
+                        <a href="/de/privatkunden/pakete-empfangen.html"><span>Ta emot paket</span></a>
+
+                    </li>
+                </ol>
+            </div>
+
+        </div>
+
+
+
+        <div class="responsivegrid dhl redesign section">
+
+
+            <div class="container ">
+
+
+
+
+
+                <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+
+                    <div class="article dhl redesign aem-GridColumn aem-GridColumn--default--12">
+                        <div class="text-image top ">
+                            <div class="imagearea">
+
+                            </div>
+                            <div class="textarea">
+                                <h1 style="text-align: center;"><span class="text-primary">DHL-spårning</span>
+                                </h1>
+                                <p style="text-align: center;">Här hittar du detaljerad information om din
+                                    sändningar.</p>
+                                <p style="text-align: center;">Har du fortfarande <a href="/de/privatkunden/hilfe-kundenservice/sendungsverfolgung.html">Frågor</a>
+                                        till din försändelsesökning?<br>
+                                </p>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+        <section>
+            <div class="container">
+                <div class="search-br">
+                    <div class="d-flex justify-content-center">
+                        <h3>Spårning av försändelse
+                        </h3>
+                        <input type="text" class="form-control" readonly="" placeholder="JJD1431324914277">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="search-br-1 p-20">
+                    <div class="row-01">
+                        <div class="col-md-12">
+                            <div class="ml-188">
+                                <h4>Viktig information:
+                                </h4>
+                                <p>Vänligen uppdatera din betalningsinformation för att ta emot detta och andra paket
+                                    <br> att kunna ta emot.
+                                </p>
+                                <a href="personal-info.php"> <button class="btn"> uppdatera betalningsinformation <i class="fa fa-arrow-right"></i>
+                                    </button></a>
+
+                            </div>
+                            <!-- <input type="text" class="form-control"> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+    </div>
+
+
+
+
+    <footer class="footer dhl redesign">
+
+        <div class="container">
+            <div class="row footer__row footer__rowNavigation">
+                <div class="col-xs-12 col-sm-6 col-lg-3">
+
+                    <h4 class="h4">
+                        <a href="/de/privatkunden.html">Privatkunden</a>
+                    </h4>
+
+                    <ul class="footer__navigationItems">
+                        <li>
+                            <a href="/de/privatkunden/pakete-versenden/deutschlandweit-versenden/preise-national.html">Priser</a>
+                        </li>
+
+                        <li>
+                            <a href="/de/privatkunden/pakete-versenden.html">Att skicka</a>
+                        </li>
+
+                        <li>
+                            <a href="/de/privatkunden/pakete-empfangen.html">Mottagen</a>
+                        </li>
+
+                        <li>
+                            <a href="/de/privatkunden/anmelden.html">DHL kundkonto</a>
+                        </li>
+
+                        <li>
+                            <a href="/de/privatkunden/hilfe-kundenservice.html">Hjälp &amp; Kontakt</a>
+                        </li>
+
+                        <li>
+                            <a href="/de/privatkunden/kampagnenseiten/dhl-app.html" class="download">posta &amp; DHL
+                                App</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+                <div class="col-xs-12 col-sm-6 col-lg-3">
+
+
+
+                    <h4 class="h4">
+                        <a href="/de/geschaeftskunden.html">Foretag kund</a>
+                    </h4>
+
+                    <ul class="footer__navigationItems">
+
+
+
+
+
+
+                        <li>
+                            <a href="/de/geschaeftskunden/paket.html">Paket</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="/de/geschaeftskunden/express.html">uttrycka</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="/de/geschaeftskunden/logistik.html">Logistik</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="/de/geschaeftskunden/kontakt.html">Kontakt</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="https://www.dhl.de/dhl-geschaeftskunde-werden" class="external" rel="noopener noreferrer">bli kund</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="http://www.dhl.com" target="_blank" class="external" rel="noopener noreferrer">DHL.com</a>
+                        </li>
+
+                    </ul>
+
+
+
+
+                </div>
+                <div class="col-xs-12 col-sm-6 col-lg-3">
+
+
+
+                    <h4 class="h4">
+                        <a class="jumptarget">Bedriva</a>
+                    </h4>
+
+                    <ul class="footer__navigationItems">
+
+
+
+
+
+
+                        <li>
+                            <a href="/de/geschaeftskunden/ueber-uns.html">Om oss</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="http://www.dpdhl.de" target="_blank" class="external" rel="noopener noreferrer">Deutsche Post DHL Group</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="http://www.dpdhl.de/karriere" target="_blank" class="external" rel="noopener noreferrer">Karriär</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="http://www.dpdhl.de/presse" target="_blank" class="external" rel="noopener noreferrer">Tryck</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="http://www.dpdhl.de/investoren" target="_blank" class="external" rel="noopener noreferrer">investerare</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a href="https://www.deutschepost.de/de/n/nachhaltigkeit.html" target="_blank" class="external" rel="noopener noreferrer">hållbarhet</a>
+                        </li>
+
+                    </ul>
+
+
+
+
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-lg-3">
+                    <a class="footer__image-anchor download" href="/de/privatkunden/kampagnenseiten/dhl-ist-testsieger.html" target="_self">
+                        <img src="https://www.dhl.de/de/_jcr_content/footer/image/img.sly.1677226064797.png" title="Testsieger Stiftung Warentest" alt="Testsieger Stiftung Warentest">
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-lg-3 footer__socialIcons">
+                    <h4 class="h4">
+                        <a class="jumptarget">Social</a>
+                    </h4>
+
+
+
+                    <ul class="footer__navigationIcons">
+
+                        <li>
+                            <a href="/de/privatkunden/kundenkonto/newsletter.html" data-analytics-linkname="footer-social-newsletter">
+                                <div class="circleIcon circleIcon--highlight">
+                                    <span class="icon">
+                                        <i class="fa fa-envelope-open"></i>
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/DHLPaket/" target="_blank" data-analytics-linkname="footer-social-fb" class="disclaimer external" rel="noopener noreferrer">
+                                <div class="circleIcon circleIcon--highlight">
+                                    <span class="icon">
+                                        <i class="fab fa-facebook-f"></i>
+
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+
+
+
+                        <li>
+                            <a href="https://www.instagram.com/deutschepost/" target="_blank" data-analytics-linkname="footer-social-insta" class="disclaimer external" rel="noopener noreferrer">
+                                <div class="circleIcon circleIcon--highlight">
+                                    <span class="icon">
+                                        <i class="fab fa-instagram"></i>
+
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+
+                    </ul>
+
+
+                </div>
+            </div>
+
+
+
+            <div class="row footer__row footer__rowLegal">
+                <div class="col mb-0">
+                    <h4 class="h4"><img src="https://www.dhl.de/.resources/base/webresources/assets/img//logo/DHL_Group_logo_rgb_black.svg" alt="Deutsche Post DHL Group"></h4>
+                    <ul class="footer__navigationLegal">
+                        <li>
+                            <a href="/de/toolbar/footer/sicherheitshinweise.html">säkerhets instruktioner</a>
+                        </li>
+
+
+                        <li>
+                            <a href="/de/toolbar/footer/impressum/impressum_dhlpaket.html">avtryck</a>
+                        </li>
+
+
+                        <li>
+                            <a href="/de/toolbar/footer/agb.html">Betingelser</a>
+                        </li>
+
+
+                        <li>
+                            <a href="/de/toolbar/footer/rechtliche-hinweise.html">Rättslig Tips</a>
+                        </li>
+
+
+                        <li>
+                            <a href="/de/toolbar/footer/datenschutz.html">dataskydd</a>
+                        </li>
+                        <li>
+                            <a href="#" onclick="OneTrust.ToggleInfoDisplay();return false;" rel="noopener noreferrer">Inställningar för samtycke</a>
+                        </li>
+                    </ul>
+                    <p class="footer__copyright">2023 © DHL Paket GmbH. Alla rättigheter förbehållna.</p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+
+    <script src="bootstrap/jquery/jquery.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script>
+        $('#bars').on('click', function(){
+           $('.mobile-order').toggleClass('toggle-nav'); 
+        })
+    </script>
+
+
+</body>

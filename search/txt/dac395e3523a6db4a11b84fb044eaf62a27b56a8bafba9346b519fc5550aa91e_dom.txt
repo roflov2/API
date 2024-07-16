@@ -1,0 +1,37 @@
+<head>
+    <link rel="stylesheet" class="null" href="/files/staticContent/5.195/websitesResources/unavailableWebsiteModule-2c90ec1d1522815b8cdc826cc432a7ab.css">
+    
+
+<script>
+    (function(){
+        if(typeof(window.wwConfig) == "undefined"){
+            window.wwConfig = {};
+        }
+        wwConfig.pageLanguageCode = 'en';
+        wwConfig.passwordMaxLength = 72;
+    }());
+</script>
+
+
+
+    <script type="text/javascript" src="/files/staticContent/5.195/websitesResources/unavailableWebsiteModule-d8ba84f95bed7ee939141fd41b750151.js"></script>
+    <link rel="stylesheet" href="/files/assets/webpack/unavailableWebsite.bundle-6547f0758b0217c5152aff5961bed05b.css">
+    <title>Yahoo Mail</title>
+	<meta name="Description" content="">
+    <link rel="shortcut icon" type="image/x-icon" href="">
+    
+        <style type="text/css">
+    .ww_popup_logo{display:block; background-image: url('https://yourbrand-18274.kxcdn.com/files/staticContent/5.195/websitesResources/images/logo/brand-logo-dark-bc84fb252e6c48b0b3a0525056d7a421.svg');}
+    .ww_popup_content{margin-bottom: 10px;}
+</style>
+    
+    <style type="text/css">
+ 
+</style>
+
+ </head><body> 
+ Service Yahoo Mail is not available. <br> If you want your website to be available on the Internet, open your webmaster's panel and in the general settings page turn on website's availability.
+ <input type="hidden" id="websiteId" value="sg4kfs"> 
+ <input type="hidden" id="ww_language_code" value="en">
+ 
+</body>

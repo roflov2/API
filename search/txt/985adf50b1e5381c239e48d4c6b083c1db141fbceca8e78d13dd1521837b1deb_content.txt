@@ -1,0 +1,1836 @@
+Welcome to TheBest3D.com - affordable digital painting,
+      animation, 3D and video editing tools for visual artistsProducts|Features|Sales|What's
+
+
+
+
+
+
+
+
+
+                          New|Download|Support|Tutorials|Newsletternew!|DOTM|About|DemoZoneDigital Painting Tools
+                                for Creative Artists, Indie Game
+                                Developers  and Visual FX
+                                Animators, with powerful features for 3D
+                                and video.>>> Yes indeed, this site may use cookies. Chocolate
+          chip cookies? Not likely. Happy surfing, and thanks for
+          waffling and howling!Where
+
+                                                          to order PD
+                                                          Howler, PD
+                                                          Artist or
+                                                          Tutorials?Click here to OrderNewsletter
+                      #204 - Memorial Day: Video tools for DronesWe
+                                                          now also offer
+                                                          collections oftutorial
+                                                          videos:Working
+
+                                                          with
+                                                          Stabilized
+                                                          VideoTutorial
+
+
+
+
+
+
+                                                          collection:Cloudy,
+
+
+                                                          with a chance
+                                                          of WafflesTutorial
+
+                                                          collection:Meteor
+
+
+
+                                                          ShowerLandscape
+                                                          Rendering and
+                                                          SkiesThe Best of
+                                                          Digital
+                                                          painting with
+                                                          PD Howler
+                                                          2024:PD Howler 2024 - Build #92PD Howler 2024 -Build
+
+
+
+
+
+
+
+
+
+                #89Material Properties editing
+            is coming - new in build #87New in build #81:Half-tone mode on custom brushes.You can also use it to abuse it - here we used it as an
+            elevation map to render a canyon with pilars:Double-LoadingLearn more in the newsletterCombining 3D and Digital PaintingCanyourImage editing &
+            Paint tool help you to create this in just minutes?NASA Rover on Mars(vehicle 3D model from NASA website download in Blender
+          format, converted to OBJ, loaded and rendered in PD Howler
+          then composited and post edited in PD Howler for added
+          background scene also created in PD Howler)Spooky Space Station - InteriorSpooky October is here - Halloween Specials!65% off the regular price, for PD Howler 2024Order here:thebest3d.com/salesSelect PD Howler 2024 or PD
+              Artist 2024No discount code needed - This discount is automagic!Expires shortly after Halloween Oct 31stNeed an even better deal? Also check the
+              author's direct promos athttps://pdhowler.com/Cart.htmPD Artist 2024 build 77 is here!Order PD Artist 2024 or PD Howler
+              2024Learn about
+              PD Howler 2024|Read the latest
+              newsletterDigital Art LiveHappy Labor Day - Builds 75 / 76
+                are here!Save 50% off the regular price - limited
+            time.Build 70 is out and available
+                now!Build 69 of Howler 2024 -
+              integrating PBR!(Physics Based Rendering)(Birds of a Feather will flock together)BeyondDigitalPainting:Brushes,Special FX,3D, Landscapes,
+                                Video &AnimationPD Howler 2024 - Build 61 is
+                          now available!Order PD Howler 2024:here(through
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            BMTmicro)orhere
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            from the Developer (Dan Ritchie) directlyRecently added/improved: 
+                          (straight from theCaptain's Log)Animated
+                        Gifs - We've got preliminary support for loading
+                        gif animations in HowlerCommitted a
+                        270 word spelling library to the API.  It's
+                        a start. Can you guess where that's going?Added an API
+                        for working with GIF animations and additional
+                        support for wide strings.The OBJ
+                        loader is now 64 bit - try thefree standalone
+                          versionIn the
+                        geometry renderer, you can now open a file in
+                        its default program(such as 3D Builder, 3D
+                        Viewer, 3D Paint,... whatever you've configured
+                        it to be on your PC)  or also with Notepad.
+                        This helps in quickly checking details and
+                        perhaps fixing possible issues in the materials
+                        or obj files.Stored
+                        animations now show the frame number (!)Analytical
+                        upscale now warns if its going to close an
+                        animation.faster
+                        clipmaps and some general optimizationThe mip-map
+                        seam problem is solved. (yay me!)Read more
+                                  about what's new > hereStatus update June 9 - state of the new pipeline
+                        implenting PBR(Physics Based Rendering)PD Howler
+                        2024 (v17) is now available >Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              here.Learn more about Howler 2024.If you have an earlier version,
+              use your discount code for even more savings at 50% off
+              the regular price.Contact us if you need your
+                discount code to upgrade at reduced pricingBeware of the
+                                                          Easter Bunny!(it can hop
+                                                          over water :-)PD
+                                                          Howler now
+                                                          supports 3D
+                                                          OBJ filesWe
+                                                          call it the OBJoyformat ;-)Mech byDzFire,
+                                                          other 3D
+                                                          Models from
+                                                          NASA
+                                                          downloads.
+                                                          Landscape and
+                                                          surrounding by
+                                                          PD HowlerLearn moreNewsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          #191 -
+                                                          Mid-January
+                                                          JoyThe itsy-bitsyBugs list(got
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          a problem with
+                                                          color pickers
+                                                          causing a
+                                                          crash? Unlink
+                                                          them)PD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Howler 2023 is
+                                                          now also on
+                                                          SteamLearn more hereRead details in
+                                                          newsletter
+                                                          #190++++Creative Times
+                                                          are Here! ++++This was
+                                                          painted by Dan
+                                                          Ritchie with
+                                                          PD Howler.The image
+                                                          features
+                                                          Silver
+                                                          Squirrel and
+                                                          Pillow
+                                                          Rabbit. 
+                                                          Silver added
+                                                          Pillow to his
+                                                          family as a
+                                                          service animal
+                                                          to help him
+                                                          with a
+                                                          disability. 
+                                                          The deer are
+                                                          Margaret
+                                                          Mayflower and
+                                                          Milton
+                                                          Meadows. 
+                                                          Margaret is an
+                                                          itinerant
+                                                          judge and
+                                                          member of the
+                                                          Court of
+                                                          Animals. 
+                                                          Milton agreed
+                                                          to assist her
+                                                          after she was
+                                                          injured at the
+                                                          Battle of the
+                                                          Flee Market in
+                                                          "Sky Full of
+                                                          Rabbits." 
+                                                          Together they
+                                                          are on their
+                                                          way to Deer
+                                                          City, a.k.a
+                                                          The Princedom
+                                                          of the Hill,
+                                                          which is also
+                                                          the name of
+                                                          the book.Learn more
+                                                          about Silver
+                                                          Squirrel here
+                                                          >>>https://www.pdhowler.com/Silver.htmNow
+                                                          also available
+                                                          as printed
+                                                          artwork in
+                                                          many forms
+                                                          here:https://www.society6.com/danritchieNew!Learn more about the latest
+                                                          version:PD Howler 2023(powered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          by Dogwaffle
+                                                          16)New volumetric
+                                                          sky filter ^Did you know?Project
+                                                          Dogwaffle
+                                                          started as a
+                                                          paint
+                                                          program...It also comes
+                                                          with great
+                                                          tools for
+                                                          animation,
+                                                          video and 3D
+                                                          landscapes.Best of all -
+                                                          great brushes!Did you know?PD Howler 2022 may (still) be available here! and
+                                                          it's cheaper
+                                                          :-)Want the best? Order hereAlso
+                                                          Available:PD
+                                                          Artist 2022
+                                                          (v15)Order herenot the
+                                                          latest, still
+                                                          one of the
+                                                          best dealseagle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          and indian
+                                                          face byFrank BonacquistiDecember:Merry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Christmasbydrawsattentionaka Kathleen
+                                                          BrowningnewslettersPaint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          your dreams
+                                                          and visions,
+                                                          fly through
+                                                          landscapes
+                                                          imagined.Newsletter #175What's new inPD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Howler 2021:The
+                                                          Martian
+                                                          Landscapes
+                                                          Chronicles:Order here
+                                                          through our
+                                                          online store
+                                                          with BMTmicro
+                                                          :https://www.thebest3d.com/salesIf
+                                                          you have a
+                                                          prior version,contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Philfor your
+                                                          discount code
+                                                          - save 50% no
+                                                          matter which
+                                                          version you
+                                                          had before.
+                                                          Includes
+                                                          sidegrades
+                                                          from PD
+                                                          Particles, PD
+                                                          Artist, Howler
+                                                          from Steam
+                                                          etc...Please note:
+                                                          squirreldome.com
+                                                          is down (the
+                                                          hosting
+                                                          company went
+                                                          out of
+                                                          business)- please
+                                                          bookmark the
+                                                          new home for
+                                                          PD Howler, the
+                                                          developers new
+                                                          site -www.pdhowler.comnew:
+                                                          Stored Images
+                                                          are now stored
+                                                          on disk,no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          longer wasting
+                                                          your precious
+                                                          RAMTutorial:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          How to open an
+                                                          image filenew!If
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          kids can do it
+                                                          - so can
+                                                          you!.....
+                                                          Learn to code!with
+                                                          the Dogwaffle
+                                                          API, create
+                                                          awesome
+                                                          Graphics!What's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          new?Le
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          guide
+                                                          d'utilisateur
+                                                          en français!The
+                                                          User's Guide -
+                                                          now also in
+                                                          French!Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          #169 - June
+                                                          LakeRead
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          earlier
+                                                          NewslettersCreate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Beautiful Book
+                                                          Illustrations:Dan
+                                                          Ritchie writes
+                                                          code for PD
+                                                          Howler, his
+                                                          digital
+                                                          painting
+                                                          software
+                                                          powered by
+                                                          Project
+                                                          Dogwaffle....,then he also
+                                                          writes books.
+                                                          This is volume
+                                                          #5 in the
+                                                          Silver
+                                                          Squirrel
+                                                          series:Learn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          More hereLearn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          even more hereabout usWOOF - the
+                SlideshowMain FeaturesNewsletterPuppyRay - rendering
+                animated landscapes on GPU!FreeDemoTutorialsMore
+                HowlerLandscapesElevationMapsCityScapesOlder Slideshows:Slideshow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              9.5Slideshow 9.0Slideshow 8.2Slideshow 6Slideshow 5Project Dogwaffle:PD HowlerIamthe best
+                    of the best!woof!other projects:3-D PrintingHot!GamedevDigital
+                  PaintingAnimating & VideoRoyalty-free MusicMore 3D ToolsRecent Videos and
+              Tutorials on our YouTube channel:YouTube:pdhowler

