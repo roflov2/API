@@ -1,1 +1,0 @@
-mail.midasxs.kraftonevent.comThis site can’t provide a secure connectionmail.midasxs.kraftonevent.comuses an unsupported protocol.ERR_SSL_VERSION_OR_CIPHER_MISMATCHnullDetailsUnsupported protocolThe client and server don't support a common SSL protocol version or cipher suite.mail.midasxs.kraftonevent.comuses an unsupported protocol.
